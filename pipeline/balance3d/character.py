@@ -13,7 +13,7 @@ import bmesh
 import bpy
 from mathutils import Matrix, Vector
 
-CHARACTER_VERSION = "1.0.0"
+CHARACTER_VERSION = "1.1.0"  # 1.1: slimmer, flatter midriff
 
 PALETTE = {
     "skin": (0.93, 0.70, 0.58),
@@ -175,8 +175,8 @@ def build_character() -> list[tuple[bpy.types.Object, str]]:
     # Torso: high-waisted leggings, bare midriff, crop top.
     add(ellipsoid("pelvis", V((0, 0.005, -0.015)), (0.150, 0.105, 0.115), M["outfit"]), "pelvis")
     add(ellipsoid("waistband", V((0, 0.003, 0.06)), (0.122, 0.086, 0.032), M["outfit_dark"]), "pelvis")
-    add(ellipsoid("abdomen", V((0, 0.004, 0.06)), (0.104, 0.074, 0.115), M["skin"]), "waist")
-    add(ellipsoid("ribs", V((0, 0.004, 0.01)), (0.115, 0.08, 0.06), M["skin"]), "chest")
+    add(ellipsoid("abdomen", V((0, 0.012, 0.06)), (0.094, 0.066, 0.112), M["skin"]), "waist")
+    add(ellipsoid("ribs", V((0, 0.01, 0.01)), (0.108, 0.074, 0.06), M["skin"]), "chest")
     add(ellipsoid("top", V((0, 0.0, 0.075)), (0.150, 0.100, 0.095), M["outfit"]), "chest")
     add(ellipsoid("bust", V((0, -0.035, 0.065)), (0.125, 0.07, 0.06), M["outfit"]), "chest")
     add(capsule("neck", V((0, 0, -0.03)), V((0, 0, 0.09)), 0.045, 0.043, M["skin"]), "neck")

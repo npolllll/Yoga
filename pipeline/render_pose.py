@@ -29,6 +29,7 @@ ap.add_argument("--slug", required=True)
 ap.add_argument("--quality", default="preview", choices=["preview", "final"])
 ap.add_argument("--no-stills", action="store_true")
 ap.add_argument("--frames", default="", help="e.g. 0-60 (0-based) for partial test renders")
+ap.add_argument("--samples", type=int, default=int(os.environ.get("BALANCE_SAMPLES", "12")), help="Cycles samples per video frame (denoised)")
 args = ap.parse_args(argv)
 
 config = json.load(open(os.path.join(HERE, "poses", f"{args.slug}.json")))
@@ -53,6 +54,8 @@ with open(hash_file, "w") as _fh:
 W, H = (640, 480) if args.quality == "preview" else (720, 540)
 t0 = time.time()
 scene, parts, frames, report = build_scene(config, args.quality, W, H)
+if args.quality == "final":
+    scene.cycles.samples = args.samples
 if args.quality == "final":
     bpy.ops.wm.save_as_mainfile(filepath=os.path.join(HERE, "out", args.slug, f"{args.slug}.blend"), compress=True)
 

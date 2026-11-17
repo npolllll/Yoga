@@ -1,0 +1,407 @@
+{
+  "slug": "ardha-pincha-mayurasana",
+  "version": 1,
+  "view": {
+    "azimuth": 88,
+    "elevation": 6
+  },
+  "keys": [
+    {
+      "t": 0.0,
+      "pose": "kneel_forearms",
+      "set": {
+        "pelvis.pitch": 110,
+        "spine.flex": 0,
+        "neck.flex": -10,
+        "hip_L.flex": 110,
+        "hip_R.flex": 110,
+        "knee_L.flex": 95,
+        "knee_R.flex": 95,
+        "ankle_L.flex": 75,
+        "ankle_R.flex": 75,
+        "shoulder_L.flex": 110,
+        "shoulder_R.flex": 110,
+        "elbow_L.flex": 90,
+        "elbow_R.flex": 90,
+        "wrist_L.ext": 0,
+        "wrist_R.ext": 0
+      },
+      "support": [
+        "forearms",
+        "knees"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.pitch",
+          "hip_*.flex",
+          "shoulder_*.flex",
+          "elbow_*.flex",
+          "neck.flex"
+        ],
+        "reg": 0.2,
+        "goals": [
+          {
+            "over": [
+              "shoulder_L",
+              "elbow_L"
+            ],
+            "w": 0.5
+          },
+          {
+            "over": [
+              "shoulder_R",
+              "elbow_R"
+            ],
+            "w": 0.5
+          },
+          {
+            "above": [
+              "toes_L",
+              0.0
+            ]
+          },
+          {
+            "above": [
+              "toes_R",
+              0.0
+            ]
+          },
+          {
+            "above": [
+              "face",
+              0.1
+            ]
+          },
+          {
+            "above": [
+              "crown",
+              0.1
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 1.6,
+      "support": [
+        "forearms",
+        "knees"
+      ]
+    },
+    {
+      "t": 3.4,
+      "pose": "dolphin",
+      "set": {
+        "pelvis.pitch": 120,
+        "neck.flex": 40,
+        "hip_L.flex": 110,
+        "hip_R.flex": 110,
+        "knee_L.flex": 70,
+        "knee_R.flex": 70,
+        "ankle_L.flex": 30,
+        "ankle_R.flex": 30
+      },
+      "support": [
+        "forearms",
+        "toes"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.pitch",
+          "hip_*.flex",
+          "shoulder_*.flex",
+          "neck.flex"
+        ],
+        "reg": 0.1,
+        "goals": [
+          {
+            "above": [
+              "crown",
+              0.12
+            ]
+          },
+          {
+            "above": [
+              "face",
+              0.08
+            ]
+          },
+          {
+            "above": [
+              "chin",
+              0.06
+            ]
+          },
+          {
+            "above": [
+              "heel_L",
+              0.04
+            ]
+          },
+          {
+            "above": [
+              "heel_R",
+              0.04
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 5.6,
+      "pose": "dolphin",
+      "set": {
+        "neck.flex": 45,
+        "spine.flex": -25,
+        "knee_L.flex": 3,
+        "knee_R.flex": 3,
+        "ankle_L.flex": -5,
+        "ankle_R.flex": -5
+      },
+      "support": [
+        "forearms",
+        "toes"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.pitch",
+          "hip_*.flex",
+          "shoulder_*.flex",
+          "neck.flex",
+          "spine.flex"
+        ],
+        "reg": 0.15,
+        "goals": [
+          {
+            "above": [
+              "crown",
+              0.12
+            ]
+          },
+          {
+            "above": [
+              "face",
+              0.08
+            ]
+          },
+          {
+            "above": [
+              "chin",
+              0.06
+            ]
+          },
+          {
+            "above": [
+              "heel_L",
+              0.03
+            ]
+          },
+          {
+            "above": [
+              "heel_R",
+              0.03
+            ]
+          },
+          {
+            "above": [
+              "elbow_L",
+              0.0
+            ]
+          },
+          {
+            "above": [
+              "elbow_R",
+              0.0
+            ]
+          },
+          {
+            "over": [
+              "shoulder_L",
+              "elbow_L"
+            ],
+            "w": 0.3
+          },
+          {
+            "over": [
+              "shoulder_R",
+              "elbow_R"
+            ],
+            "w": 0.3
+          }
+        ]
+      }
+    },
+    {
+      "t": 8.0,
+      "support": [
+        "forearms",
+        "toes"
+      ]
+    },
+    {
+      "t": 9.0,
+      "pose": "kneel_forearms",
+      "set": {
+        "pelvis.pitch": 110,
+        "spine.flex": 10,
+        "neck.flex": 20,
+        "hip_L.flex": 105,
+        "hip_R.flex": 105,
+        "knee_L.flex": 100,
+        "knee_R.flex": 100,
+        "ankle_L.flex": -30,
+        "ankle_R.flex": -30,
+        "shoulder_L.flex": 115,
+        "shoulder_R.flex": 115,
+        "elbow_L.flex": 90,
+        "elbow_R.flex": 90,
+        "wrist_L.ext": 0,
+        "wrist_R.ext": 0
+      },
+      "support": [
+        "forearms",
+        "knees",
+        "toes"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.pitch",
+          "hip_*.flex",
+          "knee_*.flex",
+          "shoulder_*.flex",
+          "neck.flex"
+        ],
+        "reg": 0.2,
+        "goals": [
+          {
+            "above": [
+              "heel_L",
+              0.01
+            ]
+          },
+          {
+            "above": [
+              "heel_R",
+              0.01
+            ]
+          },
+          {
+            "above": [
+              "elbow_L",
+              0.0
+            ]
+          },
+          {
+            "above": [
+              "elbow_R",
+              0.0
+            ]
+          },
+          {
+            "above": [
+              "face",
+              0.08
+            ]
+          },
+          {
+            "above": [
+              "crown",
+              0.06
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 9.9,
+      "pose": "kneel_forearms",
+      "set": {
+        "spine.flex": 50,
+        "neck.flex": 15,
+        "ankle_L.flex": -30,
+        "ankle_R.flex": -30,
+        "knee_L.flex": 160,
+        "knee_R.flex": 160,
+        "hip_L.flex": 145,
+        "hip_R.flex": 145,
+        "shoulder_L.flex": 160,
+        "shoulder_R.flex": 160,
+        "elbow_L.flex": 50,
+        "elbow_R.flex": 50
+      },
+      "support": [
+        "forearms",
+        "knees",
+        "toes"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.pitch",
+          "shoulder_*.flex",
+          "elbow_*.flex",
+          "neck.flex",
+          "spine.flex"
+        ],
+        "reg": 0.3,
+        "goals": [
+          {
+            "above": [
+              "heel_L",
+              0.01
+            ]
+          },
+          {
+            "above": [
+              "heel_R",
+              0.01
+            ]
+          },
+          {
+            "above": [
+              "elbow_L",
+              0.0
+            ]
+          },
+          {
+            "above": [
+              "elbow_R",
+              0.0
+            ]
+          },
+          {
+            "above": [
+              "face",
+              0.02
+            ]
+          },
+          {
+            "above": [
+              "crown",
+              0.04
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 10.0,
+      "support": [
+        "forearms",
+        "knees",
+        "toes"
+      ]
+    }
+  ],
+  "keyframes": [
+    1.0,
+    3.4,
+    5.0,
+    7.0,
+    9.4
+  ],
+  "poster": 7.0,
+  "hold": [
+    6.0,
+    8.0
+  ]
+}

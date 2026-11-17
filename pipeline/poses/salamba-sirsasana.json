@@ -1,0 +1,201 @@
+{
+  "slug": "salamba-sirsasana",
+  "version": 1,
+  "view": {
+    "azimuth": 88,
+    "elevation": 6
+  },
+  "keys": [
+    {
+      "t": 0.0,
+      "pose": "kneel_forearms",
+      "set": {
+        "pelvis.pitch": 115,
+        "spine.flex": 50,
+        "neck.flex": -50,
+        "shoulder_L.flex": 175,
+        "shoulder_R.flex": 175,
+        "shoulder_L.abd": -4,
+        "shoulder_R.abd": -4,
+        "shoulder_L.rot": 40,
+        "shoulder_R.rot": 40,
+        "elbow_L.flex": 85,
+        "elbow_R.flex": 85,
+        "wrist_L.ext": 10,
+        "wrist_R.ext": 10,
+        "hip_L.flex": 100,
+        "hip_R.flex": 100,
+        "knee_L.flex": 105,
+        "knee_R.flex": 105,
+        "ankle_L.flex": -30,
+        "ankle_R.flex": -30
+      },
+      "support": [
+        "forearms",
+        "knees",
+        "toes"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.pitch",
+          "spine.flex",
+          "shoulder_*.flex",
+          "neck.flex",
+          "hip_*.flex",
+          "knee_*.flex",
+          "ankle_*.flex"
+        ],
+        "reg": 0.1,
+        "goals": [
+          {
+            "near": [
+              "crown",
+              "hand_L"
+            ],
+            "d": 0.08
+          },
+          {
+            "near": [
+              "crown",
+              "hand_R"
+            ],
+            "d": 0.08
+          },
+          {
+            "height": [
+              "crown",
+              0.07
+            ],
+            "w": 3
+          },
+          {
+            "above": [
+              "face",
+              0.03
+            ]
+          },
+          {
+            "above": [
+              "elbow_L",
+              0.0
+            ]
+          },
+          {
+            "above": [
+              "elbow_R",
+              0.0
+            ]
+          },
+          {
+            "above": [
+              "heel_L",
+              0.01
+            ]
+          },
+          {
+            "above": [
+              "heel_R",
+              0.01
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 1.6,
+      "support": [
+        "forearms",
+        "knees",
+        "toes"
+      ]
+    },
+    {
+      "t": 6.2,
+      "pose": "handstand",
+      "set": {
+        "pelvis.pitch": 180,
+        "neck.flex": -50,
+        "shoulder_L.flex": 175,
+        "shoulder_R.flex": 175,
+        "shoulder_L.abd": -4,
+        "shoulder_R.abd": -4,
+        "shoulder_L.rot": 40,
+        "shoulder_R.rot": 40,
+        "elbow_L.flex": 85,
+        "elbow_R.flex": 85,
+        "wrist_L.ext": 10,
+        "wrist_R.ext": 10,
+        "ankle_L.flex": 40,
+        "ankle_R.flex": 40
+      },
+      "support": [
+        "forearms"
+      ],
+      "solve": {
+        "vary": [
+          "shoulder_*.flex"
+        ],
+        "reg": 0.05,
+        "goals": [
+          {
+            "near": [
+              "crown",
+              "hand_L"
+            ],
+            "d": 0.08
+          },
+          {
+            "near": [
+              "crown",
+              "hand_R"
+            ],
+            "d": 0.08
+          },
+          {
+            "height": [
+              "crown",
+              0.07
+            ],
+            "w": 3
+          },
+          {
+            "above": [
+              "face",
+              0.03
+            ]
+          },
+          {
+            "above": [
+              "elbow_L",
+              0.0
+            ]
+          },
+          {
+            "above": [
+              "elbow_R",
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 8.0,
+      "support": [
+        "forearms"
+      ]
+    }
+  ],
+  "keyframes": [
+    1.0,
+    3.4,
+    5.0,
+    7.0,
+    9.4
+  ],
+  "poster": 7.0,
+  "hold": [
+    6.2,
+    8.0
+  ]
+}
