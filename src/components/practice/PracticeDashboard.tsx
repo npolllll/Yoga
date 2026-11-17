@@ -54,8 +54,15 @@ export function PracticeDashboard({
 
   const reload = useCallback(async () => setData(await listPractice()), []);
   useEffect(() => {
-    if (member.status === "member") void reload();
-  }, [member.status, reload]);
+    if (member.status !== "member") return;
+    let cancelled = false;
+    void listPractice().then((d) => {
+      if (!cancelled) setData(d);
+    });
+    return () => {
+      cancelled = true;
+    };
+  }, [member.status]);
 
   const byId = useMemo(() => new Map(poses.map((x) => [x.id, x])), [poses]);
   const favLabels = { add: dict.actions.favorite, remove: dict.actions.removeFavorite, added: dict.actions.favorited };

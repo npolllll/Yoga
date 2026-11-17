@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { useMember } from "@/components/member/MemberState";
 import { buttonClass } from "@/components/ui/Button";
@@ -28,12 +28,14 @@ export function AccountPanel({
   const [confirm, setConfirm] = useState("");
   const [busy, setBusy] = useState(false);
 
-  useEffect(() => {
-    if (member.user) {
-      setName(member.user.displayName ?? "");
-      setLang(member.user.locale);
-    }
-  }, [member.user]);
+  // Fill the form once the profile is known (and when it changes on the server) — adjusted during render.
+  const profileSig = member.user ? `${member.user.id}|${member.user.displayName ?? ""}|${member.user.locale}` : "";
+  const [syncedProfile, setSyncedProfile] = useState("");
+  if (member.user && profileSig !== syncedProfile) {
+    setSyncedProfile(profileSig);
+    setName(member.user.displayName ?? "");
+    setLang(member.user.locale);
+  }
 
   if (member.status === "loading") return <div className="skeleton mt-8 h-64" />;
   if (member.status === "guest") {
@@ -114,6 +116,8 @@ export function AccountPanel({
               setBusy(false);
               if (!res.ok) return toast(dict.actions.saveError, "error");
               toast(a.deleted, "success");
+              // Full reload on purpose: the deleted account must not survive in any client cache.
+              // eslint-disable-next-line @next/next/no-location-assign-relative-destination
               window.location.assign(`/${locale}`);
             }}
           >

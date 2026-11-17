@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState, useSyncExternalStore } from "react";
 import { Icon } from "@/components/ui/Icon";
 
 export interface AnimationSource {
@@ -39,16 +39,8 @@ export function AnimationPlayer({
   const videoRef = useRef<HTMLVideoElement>(null);
   const [state, setState] = useState<"idle" | "playing" | "paused" | "ended">("idle");
   const [time, setTime] = useState(0);
-  const [reduced, setReduced] = useState(false);
+  const reduced = useSyncExternalStore(subscribeReducedMotion, prefersReducedMotion, () => false);
   const plays = useRef(0);
-
-  useEffect(() => {
-    const mq = window.matchMedia("(prefers-reduced-motion: reduce)");
-    setReduced(mq.matches);
-    const on = () => setReduced(mq.matches);
-    mq.addEventListener("change", on);
-    return () => mq.removeEventListener("change", on);
-  }, []);
 
   const start = () => {
     plays.current = 0;
@@ -139,4 +131,14 @@ export function AnimationPlayer({
       </figcaption>
     </figure>
   );
+}
+
+const REDUCED_MOTION = "(prefers-reduced-motion: reduce)";
+function subscribeReducedMotion(onChange: () => void) {
+  const mq = window.matchMedia(REDUCED_MOTION);
+  mq.addEventListener("change", onChange);
+  return () => mq.removeEventListener("change", onChange);
+}
+function prefersReducedMotion() {
+  return window.matchMedia(REDUCED_MOTION).matches;
 }

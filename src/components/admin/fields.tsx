@@ -113,7 +113,7 @@ export function FieldEditor({ field, value, onChange }: { field: Field; value: a
   switch (field.t) {
     case "loc":
       return (
-        <div>
+        <div data-field={field.k}>
           <span className={labelCls}>{field.label}</span>
           <div className="mt-1.5">
             <LocInput value={value} onChange={onChange} multiline={field.multiline} />

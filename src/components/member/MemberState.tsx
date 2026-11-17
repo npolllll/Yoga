@@ -1,6 +1,7 @@
 "use client";
 
 import { createContext, useCallback, useContext, useEffect, useMemo, useRef, useState, type ReactNode } from "react";
+import { usePathname } from "next/navigation";
 import type { MemberStatePayload } from "@/app/api/me/state/route";
 import { setFavorite, setPoseStatus, setStepCompletion } from "@/app/actions/member";
 import { useToast } from "@/components/ui/Toast";
@@ -74,9 +75,33 @@ export function MemberStateProvider({ children, dict }: { children: ReactNode; d
     }
   }, []);
 
+  // The provider lives in the locale layout and survives client navigations. Sign-in and sign-out are server
+  // actions that redirect (client navigation), so the provider is not remounted: watch the Supabase auth cookie
+  // and refresh when it changes (on navigation, on tab focus — also catches sign-in/out in another tab).
+  const pathname = usePathname();
+  const authSig = useRef<string | null>(null);
   useEffect(() => {
+    authSig.current = readAuthSignature();
+    // Syncing with an external system (the server); state is set after the fetch resolves.
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     void refresh();
   }, [refresh]);
+  useEffect(() => {
+    const check = () => {
+      const sig = readAuthSignature();
+      if (authSig.current !== null && sig !== authSig.current) {
+        authSig.current = sig;
+        void refresh();
+      }
+    };
+    check();
+    window.addEventListener("focus", check);
+    document.addEventListener("visibilitychange", check);
+    return () => {
+      window.removeEventListener("focus", check);
+      document.removeEventListener("visibilitychange", check);
+    };
+  }, [pathname, refresh]);
 
   const fail = useCallback(
     (previous: MemberStatePayload, error?: string) => {
@@ -143,6 +168,8 @@ export function MemberStateProvider({ children, dict }: { children: ReactNode; d
     intentHandled.current = true;
     url.searchParams.delete("intent");
     window.history.replaceState(window.history.state, "", url.toString());
+    // Completing the user's original action once the session is known (a one-time external event).
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     if (intent.type === "fav" && !state.favorites.includes(intent.poseId)) void toggleFavorite(intent.poseId);
     if (intent.type === "status") void changePoseStatus(intent.poseId, intent.status);
     if (intent.type === "step" && !(state.completions[intent.programId] ?? []).includes(intent.stepKey))
@@ -177,4 +204,13 @@ export function useMember() {
   const ctx = useContext(MemberContext);
   if (!ctx) throw new Error("useMember must be used inside MemberStateProvider");
   return ctx;
+}
+
+/** Supabase SSR auth cookies (possibly chunked: sb-<ref>-auth-token, .0, .1 …); changes on sign-in/out and token refresh. */
+function readAuthSignature(): string {
+  return document.cookie
+    .split("; ")
+    .filter((c) => /^sb-[^=]*-auth-token/.test(c))
+    .sort()
+    .join("|");
 }

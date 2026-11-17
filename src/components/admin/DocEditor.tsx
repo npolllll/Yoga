@@ -71,6 +71,18 @@ export function DocEditor({ doc, ctx }: { doc: EditorDoc; ctx: EditorContext }) 
   const [json, setJson] = useState<string | null>(null);
   const [serverIssues, setServerIssues] = useState<Issue[] | null>(null);
   const [comment, setComment] = useState("");
+  // When the server copy changes (a version restored, another editor saved) and there are no local edits,
+  // take the server copy; with local edits, the next save reports a conflict instead of overwriting.
+  const [serverRevision, setServerRevision] = useState(doc.revision);
+  if (doc.revision !== serverRevision) {
+    setServerRevision(doc.revision);
+    if (!dirty) {
+      setDraft(doc.draft);
+      setMeta({ slug: doc.slug, category_key: doc.category_key, level_key: doc.level_key, skill_keys: doc.skill_keys, sort_weight: doc.sort_weight });
+      setRevision(doc.revision);
+      setServerIssues(null);
+    }
+  }
   const L = ctx.labels;
   const fields = useMemo(
     () =>
@@ -232,7 +244,7 @@ export function DocEditor({ doc, ctx }: { doc: EditorDoc; ctx: EditorContext }) 
                 {L.publish}
               </button>
               {doc.published ? (
-                <button type="button" disabled={pending} onClick={() => act(() => unpublishDocument(doc.id), L.notPublished)} className="h-9 rounded-full border border-line-strong text-sm font-semibold">
+                <button type="button" disabled={pending} onClick={() => act(() => unpublishDocument(doc.id), L.notPublished)} className="h-9 rounded-full border border-line-strong text-sm font-semibold" data-testid="unpublish">
                   {L.unpublish}
                 </button>
               ) : null}
@@ -340,6 +352,7 @@ export function DocEditor({ doc, ctx }: { doc: EditorDoc; ctx: EditorContext }) 
             <button
               type="button"
               className="font-semibold text-brand"
+              data-testid="duplicate-document"
               onClick={() =>
                 start(async () => {
                   const r = await duplicateDocument(doc.id);
@@ -354,6 +367,7 @@ export function DocEditor({ doc, ctx }: { doc: EditorDoc; ctx: EditorContext }) 
               <button
                 type="button"
                 className="font-semibold text-danger"
+                data-testid="delete-document"
                 onClick={() => {
                   if (!window.confirm(L.delete + "?")) return;
                   start(async () => {

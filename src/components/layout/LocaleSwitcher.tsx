@@ -27,6 +27,8 @@ export function LocaleSwitcher({ locale, label, compact = false }: { locale: Loc
             onClick={(e) => {
               if (typeof window !== "undefined" && window.location.hash) {
                 e.preventDefault();
+                // Full document load on purpose (DECISIONS: no hidden copy of the other language's page).
+                // eslint-disable-next-line @next/next/no-location-assign-relative-destination
                 window.location.assign(href + window.location.hash);
               }
             }}

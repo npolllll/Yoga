@@ -77,8 +77,12 @@ export function Library({
   const sort = (["recommended", "name", "level"].includes(params.get("sort") ?? "") ? params.get("sort") : "recommended") as SortKey;
   const urlQuery = params.get("q") ?? "";
   const [query, setQuery] = useState(urlQuery);
-
-  useEffect(() => setQuery(urlQuery), [urlQuery]);
+  // Follow the URL (back/forward, language switch) — adjusted during render instead of in an effect.
+  const [syncedQuery, setSyncedQuery] = useState(urlQuery);
+  if (syncedQuery !== urlQuery) {
+    setSyncedQuery(urlQuery);
+    setQuery(urlQuery);
+  }
   useEffect(() => {
     if (params.get("focus") === "search") searchRef.current?.focus();
   }, [params]);

@@ -43,11 +43,13 @@ export function VideoLesson({
     return () => window.clearTimeout(timer);
   }, [active]);
 
-  // Reset when the language (and therefore the lesson) changes.
-  useEffect(() => {
+  // Reset when the language (and therefore the lesson) changes — adjusted during render.
+  const [shownUrl, setShownUrl] = useState(video.url);
+  if (shownUrl !== video.url) {
+    setShownUrl(video.url);
     setActive(false);
     setFailed(false);
-  }, [video.url]);
+  }
 
   const duration = video.durationSec
     ? `${Math.floor(video.durationSec / 60)}:${String(video.durationSec % 60).padStart(2, "0")}`
