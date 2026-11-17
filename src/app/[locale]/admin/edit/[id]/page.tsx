@@ -1,13 +1,23 @@
+import { Suspense } from "react";
 import { notFound } from "next/navigation";
 import { isLocale, type Locale } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/dictionaries";
-import { AdminGate } from "@/components/admin/AdminGate";
+import { AdminFallback, AdminGate } from "@/components/admin/AdminGate";
 import { DocEditor, type EditorDoc } from "@/components/admin/DocEditor";
 import { adminClient } from "@/lib/admin/data";
 import { MUSCLE_KEYS } from "@/lib/content/schema";
 import { t } from "@/lib/i18n/paths";
 
-export default async function EditDocument({ params }: PageProps<"/[locale]/admin/edit/[id]">) {
+// The document id is request data (no static params): read it inside a Suspense boundary.
+export default function EditDocument({ params }: PageProps<"/[locale]/admin/edit/[id]">) {
+  return (
+    <Suspense fallback={<AdminFallback />}>
+      <EditDocumentContent params={params} />
+    </Suspense>
+  );
+}
+
+async function EditDocumentContent({ params }: { params: PageProps<"/[locale]/admin/edit/[id]">["params"] }) {
   const { locale: raw, id } = await params;
   if (!isLocale(raw) || !/^[0-9a-f-]{36}$/i.test(id)) notFound();
   const locale: Locale = raw;

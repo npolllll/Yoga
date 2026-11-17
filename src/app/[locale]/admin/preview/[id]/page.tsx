@@ -1,7 +1,8 @@
+import { Suspense } from "react";
 import { notFound } from "next/navigation";
 import { isLocale, type Locale } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/dictionaries";
-import { AdminGate } from "@/components/admin/AdminGate";
+import { AdminFallback, AdminGate } from "@/components/admin/AdminGate";
 import { adminClient } from "@/lib/admin/data";
 import { getCatalog, getExercises, getPrograms, getTaxonomy, type MediaItem, type PublishedPose } from "@/lib/data/public";
 import { ExerciseDoc, PageDoc, PoseDoc, ProgramDoc } from "@/lib/content/schema";
@@ -11,7 +12,16 @@ import { t } from "@/lib/i18n/paths";
 import { RichText } from "@/components/ui/RichText";
 
 /** Draft preview with the SAME components as the public pages (staff only, never cached). */
-export default async function Preview({ params }: PageProps<"/[locale]/admin/preview/[id]">) {
+// The document id is request data (no static params): read it inside a Suspense boundary.
+export default function Preview({ params }: PageProps<"/[locale]/admin/preview/[id]">) {
+  return (
+    <Suspense fallback={<AdminFallback />}>
+      <PreviewContent params={params} />
+    </Suspense>
+  );
+}
+
+async function PreviewContent({ params }: { params: PageProps<"/[locale]/admin/preview/[id]">["params"] }) {
   const { locale: raw, id } = await params;
   if (!isLocale(raw) || !/^[0-9a-f-]{36}$/i.test(id)) notFound();
   const locale: Locale = raw;
