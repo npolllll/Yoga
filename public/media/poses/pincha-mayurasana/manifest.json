@@ -1,0 +1,146 @@
+{
+  "slug": "pincha-mayurasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 2,
+    "configHash": "c65ed5a98e5d6fa0",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.12,
+    "minBodyZCm": -2.1,
+    "comMarginCm": 4.5,
+    "uniqueFrames": 187
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/pincha-mayurasana/pincha-mayurasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 94936,
+      "sha256": "1d212376cf844687d89e853e4b3bba3c16987a763bc8dc93f41fa57aab2293ef",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/pincha-mayurasana/pincha-mayurasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 123083,
+      "sha256": "d6924f981914ab0e7be77c187cd174075d53d333a95252b444e815e6ed6392dd",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/pincha-mayurasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 8268,
+      "sha256": "0239bb806329020c6af2c9214bf5b3449b121bf27aeb3c7443976b6d7de048ec",
+      "alt": {
+        "ru": "Стойка на предплечьях: 3D-персонаж в позе",
+        "en": "Forearm Stand: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/pincha-mayurasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1290,
+      "sha256": "0a5e3ea6993e50ca7b1198f87d935904393299485d74c3d3b2b7ceab5364bb23",
+      "alt": {
+        "ru": "Стойка на предплечьях: 3D-персонаж в позе",
+        "en": "Forearm Stand: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/pincha-mayurasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1816,
+      "sha256": "f6e5cfb7ef0118a3a5613aed377ac8d30bd75532ba167b5e2caa5f1260894283",
+      "position": 0,
+      "meta": {
+        "t": 0.8
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/pincha-mayurasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2252,
+      "sha256": "e5175e219d87acd6200d572bbaddfffc419fe5009164668b4769f8e8199fb716",
+      "position": 1,
+      "meta": {
+        "t": 2.2
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/pincha-mayurasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2340,
+      "sha256": "aa40904070c22becc54e9e14334e43e84a47cdd278da0d064a45b2cf823860e3",
+      "position": 2,
+      "meta": {
+        "t": 3.6
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/pincha-mayurasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1964,
+      "sha256": "e28388b8e2a134b4652ec2c5f1604695427df981f0aaf59bf5c9525210f3c1bd",
+      "position": 3,
+      "meta": {
+        "t": 6.5
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/pincha-mayurasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2398,
+      "sha256": "4f149cfc459827dcdf696b0119402a7bc6039844d7a036ae283f188a3e871e2b",
+      "position": 4,
+      "meta": {
+        "t": 8.8
+      }
+    }
+  ]
+}
