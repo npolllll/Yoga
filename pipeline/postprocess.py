@@ -107,7 +107,7 @@ def main():
                       "bytes": os.path.getsize(path), "sha256": sha256(path), "position": i,
                       "meta": {"t": stills[k]["t"]}})
 
-    manifest = {"slug": slug, "quality": args.quality, "generatedFrom": {k: report[k] for k in ("characterVersion", "configVersion", "blender", "engine")},
+    manifest = {"slug": slug, "quality": args.quality, "generatedFrom": {k: report.get(k) for k in ("characterVersion", "configVersion", "configHash", "blender", "engine")},
                 "motion": report["motion"], "items": items}
     json.dump(manifest, open(os.path.join(dst, "manifest.json"), "w"), indent=2, ensure_ascii=False)
     total = sum(i.get("bytes", 0) for i in items)

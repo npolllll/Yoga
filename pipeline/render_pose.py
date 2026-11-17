@@ -34,7 +34,21 @@ args = ap.parse_args(argv)
 config = json.load(open(os.path.join(HERE, "poses", f"{args.slug}.json")))
 out = os.path.join(HERE, "out", args.slug, args.quality)
 frames_dir = os.path.join(out, "frames")
+# Resume only frames rendered from the SAME config + character + pipeline code; otherwise start over.
+import hashlib  # noqa: E402
+
+_h = hashlib.sha256(json.dumps(config, sort_keys=True).encode())
+_h.update(CHARACTER_VERSION.encode())
+for _f in sorted(os.listdir(os.path.join(HERE, "balance3d"))):
+    if _f.endswith(".py"):
+        _h.update(open(os.path.join(HERE, "balance3d", _f), "rb").read())
+config_hash = _h.hexdigest()[:16]
+hash_file = os.path.join(out, ".config-hash")
+if os.path.exists(out) and (not os.path.exists(hash_file) or open(hash_file).read().strip() != config_hash):
+    shutil.rmtree(out)
 os.makedirs(frames_dir, exist_ok=True)
+with open(hash_file, "w") as _fh:
+    _fh.write(config_hash)
 
 W, H = (640, 480) if args.quality == "preview" else (720, 540)
 t0 = time.time()
@@ -88,6 +102,7 @@ meta = {
     "quality": args.quality,
     "characterVersion": CHARACTER_VERSION,
     "configVersion": config.get("version", 1),
+    "configHash": config_hash,
     "fps": FPS,
     "frames": FRAMES,
     "resolution": [W, H],

@@ -19,6 +19,7 @@ export function FavoriteButton({
   const onClick = (e: React.MouseEvent) => {
     e.preventDefault();
     e.stopPropagation();
+    if (member.status === "loading") return; // state not known yet: do not treat as a guest
     if (member.status !== "member") return member.requireAuth({ type: "fav", poseId });
     setPop(true);
     void member.toggleFavorite(poseId);
@@ -80,7 +81,9 @@ export function StatusControl({
               role="radio"
               aria-checked={active}
               data-status={s}
+              disabled={member.status === "loading"}
               onClick={() => {
+                if (member.status === "loading") return;
                 if (member.status !== "member") return member.requireAuth({ type: "status", poseId, status: s });
                 if (!active) void member.changePoseStatus(poseId, s);
               }}

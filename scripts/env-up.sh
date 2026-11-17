@@ -4,7 +4,9 @@ set -euo pipefail
 cd "$(dirname "$0")/.."
 if ! docker info >/dev/null 2>&1; then
   echo "Starting dockerd…"
-  (dockerd >/tmp/dockerd.log 2>&1 &)
+  # A stale PID file from a previous container run blocks startup.
+  rm -f /var/run/docker.pid
+  setsid nohup dockerd >/tmp/dockerd.log 2>&1 < /dev/null &
   for i in $(seq 1 30); do docker info >/dev/null 2>&1 && break; sleep 1; done
 fi
 # The DB health check can time out on a cold start: retry a few times.

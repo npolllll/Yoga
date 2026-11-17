@@ -64,6 +64,7 @@ export function AccountLink({
         aria-label={signedIn ? labels.profile : labels.signIn}
         data-testid="account-link"
         data-signed-in={signedIn ? "true" : "false"}
+        data-member-status={status}
       >
         {signedIn && user ? (
           <span className="inline-flex h-8 w-8 items-center justify-center rounded-full bg-lilac text-sm font-bold uppercase">

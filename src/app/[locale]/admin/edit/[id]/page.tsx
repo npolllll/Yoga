@@ -3,7 +3,6 @@ import { isLocale, type Locale } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/dictionaries";
 import { AdminGate } from "@/components/admin/AdminGate";
 import { DocEditor, type EditorDoc } from "@/components/admin/DocEditor";
-import { exerciseFields, pageFields, poseFields, programFields } from "@/components/admin/specs";
 import { adminClient } from "@/lib/admin/data";
 import { MUSCLE_KEYS } from "@/lib/content/schema";
 import { t } from "@/lib/i18n/paths";
@@ -41,8 +40,6 @@ export default async function EditDocument({ params }: PageProps<"/[locale]/admi
           poseSlugs: poseDocs.filter((o) => o.id !== id).map((o) => ({ value: o.slug, label: label(o) })),
           homeKeys: Object.keys(dict.home).filter((k) => typeof (dict.home as Record<string, unknown>)[k] === "string"),
         };
-        const fields =
-          doc.type === "pose" ? poseFields(opts) : doc.type === "program" ? programFields() : doc.type === "exercise" ? exerciseFields(opts) : pageFields(opts, doc.slug);
         const editorDoc: EditorDoc = {
           id: doc.id,
           type: doc.type,
@@ -68,7 +65,7 @@ export default async function EditDocument({ params }: PageProps<"/[locale]/admi
               ctx={{
                 locale,
                 roles: user.roles,
-                fields,
+                specOptions: opts,
                 categories: (categories.data ?? []).map((c) => ({ value: c.key, label: t(c.name as { ru: string; en: string }, locale) })),
                 levels: (levels.data ?? []).map((c) => ({ value: c.key, label: t(c.label as { ru: string; en: string }, locale) })),
                 skills: (skills.data ?? []).map((c) => ({ value: c.key, label: t(c.name as { ru: string; en: string }, locale) })),

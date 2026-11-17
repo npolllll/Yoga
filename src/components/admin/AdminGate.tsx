@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { connection } from "next/server";
 import { getSessionUser, type SessionUser } from "@/lib/auth/session";
 import { getDictionary } from "@/lib/i18n/dictionaries";
 import type { Locale } from "@/lib/i18n/config";
@@ -16,6 +17,7 @@ export async function AdminGate({
   need?: "staff" | "editor" | "owner";
   children: (user: SessionUser) => React.ReactNode | Promise<React.ReactNode>;
 }) {
+  await connection(); // always rendered per request (never prerendered)
   const user = await getSessionUser();
   const dict = getDictionary(locale);
   const ok =

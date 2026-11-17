@@ -1,6 +1,5 @@
 "use client";
 
-import Link from "next/link";
 import { usePathname, useSearchParams } from "next/navigation";
 import { LOCALES, type Locale, switchLocalePath } from "@/lib/i18n/config";
 
@@ -18,12 +17,12 @@ export function LocaleSwitcher({ locale, label, compact = false }: { locale: Loc
         const href = `${switchLocalePath(pathname, l)}${query ? `?${query}` : ""}`;
         const active = l === locale;
         return (
-          <Link
+          // A full document load: the root layout (html lang, metadata) belongs to the locale.
+          <a
             key={l}
             href={href}
             hrefLang={l}
             lang={l}
-            prefetch={false}
             aria-current={active ? "true" : undefined}
             onClick={(e) => {
               if (typeof window !== "undefined" && window.location.hash) {
@@ -36,7 +35,7 @@ export function LocaleSwitcher({ locale, label, compact = false }: { locale: Loc
             }`}
           >
             {l}
-          </Link>
+          </a>
         );
       })}
     </nav>

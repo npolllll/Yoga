@@ -3,7 +3,8 @@
 import Link from "next/link";
 import { useMemo, useState, useTransition } from "react";
 import { useRouter } from "next/navigation";
-import { FieldEditor, ListControls, LocInput, input, type Field, type Option } from "./fields";
+import { FieldEditor, ListControls, LocInput, input, type Option } from "./fields";
+import { exerciseFields, pageFields, poseFields, programFields, type SpecOptions } from "./specs";
 import { Icon } from "@/components/ui/Icon";
 import { useToast } from "@/components/ui/Toast";
 import { issuesFor } from "@/lib/content/issues";
@@ -39,7 +40,8 @@ export interface EditorDoc {
 export interface EditorContext {
   locale: string;
   roles: string[];
-  fields: Field[];
+  /** Field specs are built on the client (they contain functions, which cannot cross the server boundary). */
+  specOptions: SpecOptions;
   categories: Option[];
   levels: Option[];
   skills: Option[];
@@ -70,6 +72,17 @@ export function DocEditor({ doc, ctx }: { doc: EditorDoc; ctx: EditorContext }) 
   const [serverIssues, setServerIssues] = useState<Issue[] | null>(null);
   const [comment, setComment] = useState("");
   const L = ctx.labels;
+  const fields = useMemo(
+    () =>
+      doc.type === "pose"
+        ? poseFields(ctx.specOptions)
+        : doc.type === "program"
+          ? programFields()
+          : doc.type === "exercise"
+            ? exerciseFields(ctx.specOptions)
+            : pageFields(ctx.specOptions, doc.slug),
+    [doc.type, doc.slug, ctx.specOptions],
+  );
   const canEdit = ctx.roles.includes("editor") || ctx.roles.includes("owner");
   const canReview = ctx.roles.includes("reviewer");
   const issues = useMemo(() => serverIssues ?? issuesFor(doc.type, sanitize(doc.type, draft), meta), [draft, meta, doc.type, serverIssues]);
@@ -162,7 +175,7 @@ export function DocEditor({ doc, ctx }: { doc: EditorDoc; ctx: EditorContext }) 
 
         {json === null ? (
           <fieldset disabled={!canEdit} className="space-y-6 rounded-[var(--radius-md)] border border-line bg-surface p-4">
-            {ctx.fields.map((f) => (
+            {fields.map((f) => (
               <FieldEditor key={f.k} field={f} value={draft[f.k]} onChange={(v) => update({ [f.k]: v })} />
             ))}
             {doc.type === "program" ? (

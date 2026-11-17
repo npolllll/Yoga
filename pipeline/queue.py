@@ -36,7 +36,10 @@ def is_done(slug, quality):
         return False
     cfg = json.load(open(os.path.join(HERE, "poses", f"{slug}.json")))
     m = json.load(open(manifest))
-    return m.get("generatedFrom", {}).get("configVersion") == cfg.get("version", 1) and m.get("quality") == "final"
+    hash_file = os.path.join(HERE, "out", slug, "final", ".config-hash")
+    current = open(hash_file).read().strip() if os.path.exists(hash_file) else None
+    return (m.get("generatedFrom", {}).get("configVersion") == cfg.get("version", 1) and m.get("quality") == "final"
+            and current is not None and m.get("generatedFrom", {}).get("configHash") == current)
 
 
 def main():

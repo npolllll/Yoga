@@ -120,7 +120,9 @@ export function StepCompleteButton({
       type="button"
       aria-pressed={done}
       data-testid="step-complete"
+      disabled={member.status === "loading"}
       onClick={() => {
+        if (member.status === "loading") return;
         if (member.status !== "member") return member.requireAuth({ type: "step", programId, stepKey });
         void member.toggleStep(programId, stepKey);
       }}

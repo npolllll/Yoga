@@ -57,15 +57,20 @@ export function MemberStateProvider({ children, dict }: { children: ReactNode; d
   const [authPrompt, setAuthPrompt] = useState<Intent | null>(null);
   const toast = useToast();
   const intentHandled = useRef(false);
+  // Every refresh/mutation bumps the sequence; a refresh response is applied only if nothing happened
+  // after it was requested (prevents a slow, stale response from overwriting an optimistic update).
+  const seq = useRef(0);
 
   const refresh = useCallback(async () => {
+    const mine = ++seq.current;
     try {
       const res = await fetch("/api/me/state", { cache: "no-store", credentials: "same-origin" });
       const data = (await res.json()) as MemberStatePayload;
+      if (mine !== seq.current) return;
       setState(data);
       setStatus(data.user ? "member" : "guest");
     } catch {
-      setStatus("guest");
+      if (mine === seq.current) setStatus("guest");
     }
   }, []);
 
@@ -86,6 +91,7 @@ export function MemberStateProvider({ children, dict }: { children: ReactNode; d
 
   const toggleFavorite = useCallback(
     async (poseId: string) => {
+      seq.current++;
       const prev = state;
       const on = !prev.favorites.includes(poseId);
       setState({ ...prev, favorites: on ? [...prev.favorites, poseId] : prev.favorites.filter((f) => f !== poseId) });
@@ -98,6 +104,7 @@ export function MemberStateProvider({ children, dict }: { children: ReactNode; d
 
   const changePoseStatus = useCallback(
     async (poseId: string, next: PoseStatus) => {
+      seq.current++;
       const prev = state;
       const progress = { ...prev.progress };
       if (next === "not_started") delete progress[poseId];
@@ -112,6 +119,7 @@ export function MemberStateProvider({ children, dict }: { children: ReactNode; d
 
   const toggleStep = useCallback(
     async (programId: string, stepKey: string) => {
+      seq.current++;
       const prev = state;
       const current = prev.completions[programId] ?? [];
       const done = !current.includes(stepKey);
