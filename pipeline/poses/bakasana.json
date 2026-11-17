@@ -1,0 +1,37 @@
+{
+  "slug": "bakasana",
+  "version": 1,
+  "view": { "azimuth": 62, "elevation": 7 },
+  "keys": [
+    { "t": 0.0, "pose": "squat", "support": ["toes"] },
+    { "t": 1.6, "pose": "squat_hands", "support": ["toes", "hands"], "fit": [{ "param": "pelvis.pitch", "min": 35, "max": 75 }] },
+    { "t": 2.2, "support": ["toes", "hands"] },
+    {
+      "t": 3.8,
+      "pose": "crow",
+      "set": { "ankle_L.flex": 10, "ankle_R.flex": 10, "pelvis.pitch": 58 },
+      "support": ["toes", "hands"],
+      "fit": [{ "param": ["knee_L.flex", "knee_R.flex"], "min": 95, "max": 160 }]
+    },
+    {
+      "t": 4.7,
+      "pose": "crow",
+      "set": { "ankle_R.flex": 10, "pelvis.pitch": 64 },
+      "support": ["toes_R", "hands"],
+      "fit": [{ "param": "knee_R.flex", "min": 95, "max": 160 }]
+    },
+    { "t": 5.6, "pose": "crow", "support": ["hands"], "balance": true, "fit": [{ "param": ["shoulder_L.flex", "shoulder_R.flex"], "min": 40, "max": 70 }] },
+    { "t": 8.0, "support": ["hands"] },
+    {
+      "t": 9.0,
+      "pose": "crow",
+      "set": { "ankle_L.flex": 10, "ankle_R.flex": 10, "pelvis.pitch": 58 },
+      "support": ["toes", "hands"],
+      "fit": [{ "param": ["knee_L.flex", "knee_R.flex"], "min": 95, "max": 160 }]
+    },
+    { "t": 10.0, "pose": "squat_hands", "support": ["toes", "hands"], "fit": [{ "param": "pelvis.pitch", "min": 35, "max": 75 }] }
+  ],
+  "keyframes": [1.6, 3.8, 4.7, 7.0, 9.6],
+  "poster": 7.0,
+  "hold": [6.0, 8.0]
+}

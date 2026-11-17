@@ -1,0 +1,271 @@
+{
+  "slug": "intermediate",
+  "level": "intermediate",
+  "sortWeight": 2,
+  "doc": {
+    "title": {
+      "ru": "Сила и контроль",
+      "en": "Strength and Control"
+    },
+    "summary": {
+      "ru": "Следующий шаг после первых балансов: боковая ворона, Лоласана, стойка на голове с опорой на ладони и стойка на руках у стены уголком.",
+      "en": "The next step after your first balances: Side Crow, Pendant Pose, Tripod Headstand and the L-shape handstand at the wall."
+    },
+    "description": {
+      "ru": "Программа среднего уровня для тех, кто уверенно держит Бакасану и боковую планку. Здесь появляются три новых направления: скручивание в балансе (боковая ворона), сжатие корпуса с подъёмом на прямых руках (Лоласана) и первые инверсии — стойка на голове с опорой на ладони и стойка на руках у стены уголком. Перед каждой целевой позой стоит упражнение, которое готовит нужный навык, а инверсиям предшествует отдельный урок о безопасности. Работайте над одним-двумя направлениями за занятие и возвращайтесь к Бакасане как к проверке базы.",
+      "en": "An intermediate program for people who can hold Crow and Side Plank with confidence. It adds three new directions: twisting in a balance (Side Crow), core compression with a straight-arm lift (Pendant Pose) and first inversions — Tripod Headstand and the L-shape handstand at the wall. Each target pose is preceded by an exercise that prepares the skill it needs, and the inversions come after a dedicated safety lesson. Work on one or two directions per session and come back to Crow as a check of your foundation."
+    },
+    "audience": {
+      "ru": "Тем, кто прошёл программу «Первые балансы» или уже уверенно делает Бакасану, планку и боковую планку и хочет двигаться дальше.",
+      "en": "People who have completed First Balances, or who can already do Crow, plank and Side Plank with confidence and want to keep progressing."
+    },
+    "prerequisites": [
+      {
+        "ru": "Вы держите Бакасану несколько вдохов и поднимаете стопы без прыжка.",
+        "en": "You can hold Crow for a few breaths and lift your feet without a jump."
+      },
+      {
+        "ru": "Вы уверенно держите планку и боковую планку на обе стороны.",
+        "en": "You can hold plank and Side Plank on both sides with confidence."
+      },
+      {
+        "ru": "Вы спокойно стоите в Дельфине 30–60 секунд, не проваливаясь в плечах.",
+        "en": "You can stay in Dolphin for 30–60 seconds without your shoulders sinking."
+      },
+      {
+        "ru": "Шея вас не беспокоит — это важно для шагов со стойкой на голове.",
+        "en": "Your neck feels fine — this matters for the headstand steps."
+      }
+    ],
+    "goals": [
+      {
+        "ru": "Отработать скручивание корпуса в балансе на руках.",
+        "en": "Practise twisting your torso in an arm balance."
+      },
+      {
+        "ru": "Развить силу сжатия корпуса, чтобы поднимать таз и ноги на прямых руках.",
+        "en": "Build core compression strength to lift your hips and legs on straight arms."
+      },
+      {
+        "ru": "Безопасно познакомиться с инверсиями: у стены, с бережным отношением к шее и продуманным выходом.",
+        "en": "Meet inversions safely: at the wall, with care for your neck and a planned way down."
+      },
+      {
+        "ru": "Научиться выбирать фокус занятия и чередовать нагрузку.",
+        "en": "Learn to choose a focus for each session and vary the load."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Перед каждым занятием разминайте запястья; при боли в запястьях, локтях или плечах прекратите упражнение.",
+        "en": "Warm up your wrists before every session; stop if you feel pain in your wrists, elbows or shoulders."
+      },
+      {
+        "ru": "Для стоек нужна ровная поверхность, свободное пространство и стена без полок и мебели рядом.",
+        "en": "For inversions, use a flat surface, clear space and a wall with no shelves or furniture nearby."
+      },
+      {
+        "ru": "В стойке на голове основную нагрузку держат руки и плечи; при боли в шее, головокружении или давлении в голове сразу выйдите из позы.",
+        "en": "In a headstand your arms and shoulders carry most of the load; come down immediately if you feel neck pain, dizziness or pressure in your head."
+      },
+      {
+        "ru": "При повышенном давлении, глаукоме, травмах шеи или плеч, а также при беременности обсудите инверсии со специалистом до начала.",
+        "en": "If you have high blood pressure, glaucoma, a neck or shoulder injury, or are pregnant, discuss inversions with a qualified professional before you start."
+      },
+      {
+        "ru": "Если есть возможность, делайте первые инверсии под присмотром преподавателя.",
+        "en": "If you can, try your first inversions under a teacher’s supervision."
+      }
+    ],
+    "steps": [
+      {
+        "key": "42f46b5e-6a8a-401f-998c-7620ff24f4fc",
+        "kind": "lesson",
+        "title": {
+          "ru": "Как заниматься на среднем уровне",
+          "en": "How to practise at this level"
+        },
+        "body": {
+          "ru": "На этом уровне программа делится на три направления: скручивание (боковая ворона), сжатие корпуса (Лоласана) и инверсии (стойка на голове и стойка у стены). Пытаться проработать всё за одно занятие не нужно — так быстро устают запястья и плечи.\n\nПример структуры занятия:\n\n- разминка запястий и удержание «лодочки»;\n- короткая проверка базы: 2–3 спокойных подхода в Бакасану;\n- одно направление на выбор — упражнение и связанная с ним поза;\n- спокойное завершение и несколько ровных вдохов.\n\nЧередуйте направления в разные дни и оставляйте хотя бы один день отдыха между интенсивными занятиями на руках. Переходите от подготовительного упражнения к позе, только когда упражнение получается чисто и без боли.\n\nКачество важнее количества попыток: остановитесь, когда движения становятся неаккуратными.",
+          "en": "At this level the program has three directions: twisting (Side Crow), core compression (Pendant Pose) and inversions (Tripod Headstand and the wall handstand). There is no need to cover everything in one session — your wrists and shoulders would tire quickly.\n\nA sample session:\n\n- wrist warm-up and a hollow body hold;\n- a short check of your foundation: 2–3 calm attempts at Crow;\n- one direction of your choice — an exercise and the pose it prepares;\n- a calm finish and a few steady breaths.\n\nAlternate directions on different days and keep at least one rest day between intense sessions on your hands. Move from a preparatory exercise to its pose only when the exercise feels clean and pain-free.\n\nQuality matters more than the number of attempts: stop when your movements become sloppy."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "76bcd152-7898-4355-baa1-ffbbcc9ae464",
+        "kind": "exercise",
+        "exerciseSlug": "wrist-warmup",
+        "title": {
+          "ru": "Разминка запястий",
+          "en": "Wrist warm-up"
+        },
+        "body": {
+          "ru": "Как и раньше, начинайте с разминки каждое занятие. Нагрузка на запястья на этом уровне растёт, поэтому не пропускайте её даже в короткий день.",
+          "en": "As before, start every session with the warm-up. The load on your wrists grows at this level, so don’t skip it even on a short day."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "1fd6033b-caea-4eac-ae18-889364ee50e6",
+        "kind": "exercise",
+        "exerciseSlug": "hollow-body-hold",
+        "title": {
+          "ru": "Удержание «лодочки» на спине",
+          "en": "Hollow body hold"
+        },
+        "body": {
+          "ru": "Учит держать тело единым целым — этот навык понадобится в Лоласане и в стойках. Поясница остаётся прижатой к полу; если она отрывается, согните колени.",
+          "en": "Teaches you to keep your body as one unit — a skill you will need in Pendant Pose and inversions. Keep your lower back on the floor; if it lifts, bend your knees."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "8d454929-dbed-4582-8b88-01dbd199d874",
+        "kind": "pose",
+        "poseSlug": "bakasana",
+        "title": {
+          "ru": "Бакасана: проверка базы",
+          "en": "Crow: checking your foundation"
+        },
+        "body": {
+          "ru": "Короткое возвращение к Бакасане в начале занятия. Используйте её как проверку: если сегодня поза неустойчива, выберите для занятия более простые шаги.",
+          "en": "A short return to Crow at the start of a session. Use it as a check: if the pose feels unsteady today, choose easier steps for the session."
+        }
+      },
+      {
+        "key": "34fca618-3cfe-4dc8-a044-4510f250c625",
+        "kind": "exercise",
+        "exerciseSlug": "twisted-chair",
+        "title": {
+          "ru": "Скручивание в позе стула",
+          "en": "Revolved Chair Pose"
+        },
+        "body": {
+          "ru": "Развивает скручивание в верхней части спины и учит заводить руку за бедро — на ту же опору вы будете ложиться в боковой вороне.",
+          "en": "Builds rotation in your upper back and teaches you to hook your arm outside your thigh — the same support you rest on in Side Crow."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "90766853-35df-4335-8cc0-ed4da2d72348",
+        "kind": "pose",
+        "poseSlug": "parsva-bakasana",
+        "title": {
+          "ru": "Боковая ворона",
+          "en": "Side Crow Pose"
+        },
+        "body": {
+          "ru": "Первый баланс со скручиванием. Сначала добейтесь устойчивой опоры бедра на руку с носками на полу, затем пробуйте поднимать стопы; работайте на обе стороны.",
+          "en": "Your first twisting balance. First find steady support of your thigh on your arm with your toes on the floor, then try lifting your feet; work both sides."
+        }
+      },
+      {
+        "key": "33add17d-2057-4a2d-9c65-323b6cc9c70d",
+        "kind": "exercise",
+        "exerciseSlug": "tuck-lift-on-blocks",
+        "title": {
+          "ru": "Подъём в группировке на блоках",
+          "en": "Tuck lift on blocks"
+        },
+        "body": {
+          "ru": "Блоки дают рукам дополнительную высоту, чтобы оторвать таз и стопы от пола. Это главная подготовка к Лоласане: даже короткий подъём уже идёт в счёт.",
+          "en": "Blocks give your hands extra height so you can lift your hips and feet off the floor. This is the main preparation for Pendant Pose: even a brief lift counts."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "8b8aceec-49c6-4f9d-acc0-03b149a644e7",
+        "kind": "pose",
+        "poseSlug": "lolasana",
+        "title": {
+          "ru": "Лоласана",
+          "en": "Pendant Pose"
+        },
+        "body": {
+          "ru": "Целевая поза направления «сжатие корпуса». Используйте блоки столько, сколько нужно; цель — подъём без рывка, а не долгое удержание.",
+          "en": "The target pose for core compression. Keep using blocks for as long as you need; the aim is a lift without a jerk, not a long hold."
+        }
+      },
+      {
+        "key": "16f90e6d-fcba-4f74-8ad9-7d7160cdcadc",
+        "kind": "lesson",
+        "title": {
+          "ru": "Первые инверсии: стена, шея и выход",
+          "en": "First inversions: the wall, your neck and coming down"
+        },
+        "body": {
+          "ru": "Инверсии добавляют новые риски — падение и нагрузку на шею, поэтому до первой попытки подготовьте место и план выхода.\n\nПеред инверсиями:\n\n- выберите ровную стену без мебели, полок и острых углов рядом;\n- положите сложенный коврик или одеяло под голову и предплечья;\n- заранее решите, как будете выходить: сначала опускается одна нога, затем другая;\n- если есть возможность, попросите преподавателя подстраховать вас.\n\nВ стойке на голове основную нагрузку держат руки и плечи, а голова лишь касается пола. Если чувствуете, что вес уходит в шею, вернитесь к подготовительному упражнению. При боли в шее, головокружении или давлении в голове сразу выходите из позы.\n\nОставайтесь вниз головой недолго и выходите спокойно, пока силы ещё есть. После инверсии побудьте несколько вдохов в позе ребёнка и только потом поднимайте голову.",
+          "en": "Inversions add new risks — falling and load on your neck — so prepare your space and a way down before your first attempt.\n\nBefore inversions:\n\n- choose a flat wall with no furniture, shelves or sharp corners nearby;\n- put a folded mat or blanket under your head and forearms;\n- decide in advance how you will come down: one leg first, then the other;\n- if you can, ask a teacher to spot you.\n\nIn a headstand your arms and shoulders carry most of the load, and your head only touches the floor. If you feel the weight moving into your neck, go back to the preparatory exercise. Come down immediately if you feel neck pain, dizziness or pressure in your head.\n\nStay upside down only briefly and come down calmly while you still have strength. After an inversion, rest in Child’s Pose for a few breaths before lifting your head."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "a9837afa-8a03-4fd0-a61c-ab94e5706ac3",
+        "kind": "exercise",
+        "exerciseSlug": "headstand-prep",
+        "title": {
+          "ru": "Подготовка к стойке на голове",
+          "en": "Headstand preparation"
+        },
+        "body": {
+          "ru": "Отрабатывайте опору на предплечья и активные плечи, оставляя стопы на полу. Этот шаг показывает, готовы ли плечи брать вес на себя.",
+          "en": "Practise bearing weight through your forearms with active shoulders while your feet stay on the floor. This step shows whether your shoulders are ready to take the weight."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "864f60d2-e71a-4b30-90fc-30de95f1f810",
+        "kind": "pose",
+        "poseSlug": "tripod-headstand",
+        "title": {
+          "ru": "Стойка на голове с опорой на ладони",
+          "en": "Tripod Headstand"
+        },
+        "body": {
+          "ru": "Начинайте с этапа, где колени лежат на руках у локтей, и поднимайте ноги вверх, только когда этот этап стабилен. Первые попытки делайте у стены или со страховкой.",
+          "en": "Start with the stage where your knees rest on your arms near the elbows, and lift your legs only when that stage is steady. Make your first attempts at the wall or with a spotter."
+        }
+      },
+      {
+        "key": "727b56e2-774d-4de8-bcd8-12ff60ed5b67",
+        "kind": "exercise",
+        "exerciseSlug": "wall-walk",
+        "title": {
+          "ru": "Подъём по стене",
+          "en": "Wall walk"
+        },
+        "body": {
+          "ru": "Укрепляет плечи и приучает к положению вниз головой на прямых руках. Поднимайтесь по стене только на ту высоту, где сохраняете контроль, и спускайтесь так же медленно.",
+          "en": "Builds shoulder strength and gets you used to being upside down on straight arms. Walk up only as high as you can stay in control, and come down just as slowly."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "fdfc1529-7135-45dc-9008-83306ba0fa28",
+        "kind": "pose",
+        "poseSlug": "l-handstand",
+        "title": {
+          "ru": "Стойка на руках у стены уголком",
+          "en": "L-shape handstand at the wall"
+        },
+        "body": {
+          "ru": "Первая стойка на руках, в которой стена надёжно держит ноги. Отмерьте расстояние от стены заранее и выстраивайте таз над плечами.",
+          "en": "Your first handstand shape, with the wall holding your legs. Measure the distance from the wall beforehand and stack your hips over your shoulders."
+        }
+      },
+      {
+        "key": "e92d666e-d92f-451c-8945-72bbef3d7fee",
+        "kind": "lesson",
+        "title": {
+          "ru": "Итоги и что дальше",
+          "en": "Review and next steps"
+        },
+        "body": {
+          "ru": "Оцените каждое направление отдельно: они могут развиваться в разном темпе, и это нормально.\n\nОриентиры того, что средний уровень устоялся:\n\n- боковая ворона держится на обе стороны, стопы поднимаются без рывка;\n- Лоласана получается хотя бы на блоках, без резкого толчка;\n- в стойке на голове с опорой на ладони вы контролируете и подъём, и выход;\n- в стойке у стены уголком плечи остаются активными, и вы спокойно спускаетесь.\n\nПрограмма продвинутого уровня опирается на все три направления. Если одно из них отстаёт, продолжайте работать над ним здесь, а не переходите дальше ради уровня.\n\nНе забывайте об отдыхе: усталость запястий и плеч — частая причина неаккуратных попыток. Записывайте занятия в историю практики, чтобы видеть, как меняется ваша практика со временем.",
+          "en": "Assess each direction separately: they can develop at different speeds, and that is normal.\n\nSigns that the intermediate level is in place:\n\n- Side Crow holds on both sides and your feet lift without a jerk;\n- Pendant Pose works at least on blocks, without a sharp push;\n- in Tripod Headstand you control both the way up and the way down;\n- in the L-shape handstand your shoulders stay active and you come down calmly.\n\nThe advanced program builds on all three directions. If one of them lags behind, keep working on it here rather than moving on for the sake of the level.\n\nDon’t forget to rest: tired wrists and shoulders are a common reason for sloppy attempts. Log your sessions in Practice History to see how your practice changes over time."
+        },
+        "durationMin": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "slug": "beginner",
+  "level": "beginner",
+  "sortWeight": 1,
+  "doc": {
+    "title": {
+      "ru": "Первые балансы",
+      "en": "First Balances"
+    },
+    "summary": {
+      "ru": "Знакомство с опорой на руки: разминка запястий, планки, боковая планка, Дельфин и первые попытки Вороны.",
+      "en": "An introduction to bearing weight on your hands: wrist warm-up, planks, Side Plank, Dolphin and your first Crow attempts."
+    },
+    "description": {
+      "ru": "Программа начального уровня для тех, кто только знакомится с балансами на руках. Шаги идут от подготовки к целевым позам: сначала вы разминаете запястья и укрепляете плечи и корпус в планках, затем отрабатываете чатурангу и боковую планку, знакомитесь с Дельфином как с первой подготовкой к инверсиям и в конце пробуете Ворону на предплечьях и Бакасану. Каждый шаг можно отметить выполненным и вернуться к нему позже. Двигайтесь в своём темпе: повторять шаг столько раз, сколько нужно, — нормальная часть обучения.",
+      "en": "A beginner program for people who are new to arm balances. The steps move from preparation to the target poses: first you warm up your wrists and build shoulder and core strength in planks, then you work on Chaturanga and Side Plank, meet Dolphin as a first preparation for inversions and finally try Baby Crow and Crow. You can mark each step complete and come back to it later. Move at your own pace: repeating a step as many times as you need is a normal part of learning."
+    },
+    "audience": {
+      "ru": "Тем, кто никогда не делал балансы на руках или возвращается к практике после перерыва и хочет начать с основы.",
+      "en": "People who have never done arm balances, or who are returning after a break and want to start from the foundations."
+    },
+    "prerequisites": [
+      {
+        "ru": "Вы можете стоять на четвереньках с опорой на ладони без боли в запястьях.",
+        "en": "You can be on all fours with your weight on your palms without wrist pain."
+      },
+      {
+        "ru": "Вы можете опуститься в присед и встать из него; под пятки можно подложить сложенное полотенце.",
+        "en": "You can lower into a squat and stand back up; a folded towel under your heels is fine."
+      },
+      {
+        "ru": "Специальной подготовки не нужно: достаточно коврика и свободного места вокруг.",
+        "en": "No special background is needed: a mat and some clear space around you are enough."
+      }
+    ],
+    "goals": [
+      {
+        "ru": "Подготовить запястья, плечи и корпус к опоре на руки.",
+        "en": "Prepare your wrists, shoulders and core for bearing weight on your hands."
+      },
+      {
+        "ru": "Научиться удерживать прямую линию тела в планке, чатуранге и боковой планке.",
+        "en": "Learn to keep a straight body line in plank, Chaturanga and Side Plank."
+      },
+      {
+        "ru": "Почувствовать, как вес постепенно переходит на ладони, и попробовать первые балансы — Ворону на предплечьях и Бакасану.",
+        "en": "Feel how your weight gradually moves into your hands and try your first balances — Baby Crow and Crow."
+      },
+      {
+        "ru": "Выработать привычку разминаться, дышать ровно и вовремя останавливаться.",
+        "en": "Build the habit of warming up, breathing steadily and stopping in time."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Перед каждым занятием разминайте запястья; при боли в запястьях, локтях или плечах прекратите упражнение.",
+        "en": "Warm up your wrists before every session; stop if you feel pain in your wrists, elbows or shoulders."
+      },
+      {
+        "ru": "Для балансов освободите место впереди и положите перед ладонями подушку или сложенное одеяло.",
+        "en": "For balances, clear the space in front of you and place a cushion or folded blanket ahead of your hands."
+      },
+      {
+        "ru": "При травмах, беременности, повышенном давлении или других особенностях здоровья обсудите нагрузку со специалистом до начала программы.",
+        "en": "If you have an injury, are pregnant, have high blood pressure or another health condition, discuss the load with a qualified professional before you start."
+      },
+      {
+        "ru": "Не задерживайте дыхание: если оно сбивается, вернитесь к более простому варианту.",
+        "en": "Don’t hold your breath: if your breathing becomes strained, return to an easier version."
+      }
+    ],
+    "steps": [
+      {
+        "key": "2b8b4edf-6862-4e0f-a73f-1b9d133f3d4a",
+        "kind": "lesson",
+        "title": {
+          "ru": "Как устроена программа",
+          "en": "How this program works"
+        },
+        "body": {
+          "ru": "Программа состоит из уроков, упражнений и асан. Уроки объясняют, как заниматься, упражнения готовят тело, а асаны — это сами балансы. Проходите шаги по порядку: каждый следующий опирается на предыдущий.\n\nОдно занятие не обязано охватывать всю программу. Удобная схема занятия:\n\n- начните с разминки запястий;\n- выберите 2–3 шага, над которыми работаете сейчас;\n- закончите спокойным упражнением и несколькими ровными вдохами.\n\nОтмечайте шаг выполненным, когда уверенно и без боли делаете его так, как описано. Статус асаны («В процессе», «Освоено») ведётся отдельно и не зависит от отметки шага. Чтобы прогресс сохранялся, нужен аккаунт; без него программу можно просто читать.\n\nВремя в шагах — примерная оценка, а не норматив. Если на один шаг уходит много занятий, это нормально.",
+          "en": "The program is made of lessons, exercises and poses. Lessons explain how to practise, exercises prepare your body, and poses are the balances themselves. Go through the steps in order: each one builds on the one before.\n\nA single session does not need to cover the whole program. A simple session structure:\n\n- start with the wrist warm-up;\n- pick 2–3 steps you are working on right now;\n- finish with a calm exercise and a few steady breaths.\n\nMark a step complete when you can do it as described, with confidence and without pain. The status of a pose (“In progress”, “Learned”) is tracked separately and does not depend on completing the step. To save your progress you need an account; without one you can still read the program.\n\nTimes shown in the steps are rough estimates, not targets. If one step takes many sessions, that is normal."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "4de030df-dc35-4ed2-8350-d23470234ff8",
+        "kind": "lesson",
+        "title": {
+          "ru": "Разминка, дыхание и опоры",
+          "en": "Warm-up, breathing and props"
+        },
+        "body": {
+          "ru": "Балансы на руках нагружают запястья, плечи и корпус, поэтому начинайте каждое занятие с разминки. Первым делом разомните запястья, затем сделайте одно-два знакомых упражнения из программы, например планку. Так суставы и мышцы постепенно привыкают к нагрузке.\n\nДыхание — главный ориентир. Дышите носом, ровно и без задержек. Если приходится задерживать дыхание или сжимать челюсть, усилие слишком велико: уменьшите амплитуду или вернитесь к предыдущему шагу.\n\nЧто пригодится:\n\n- коврик, который не скользит;\n- два блока для йоги или устойчивые толстые книги;\n- подушка или сложенное одеяло перед ладонями на случай потери равновесия.\n\nОтдыхайте между подходами столько, сколько нужно, чтобы следующий подход был таким же аккуратным. Между днями с нагрузкой на руки оставляйте день отдыха или выбирайте лёгкую практику.",
+          "en": "Arm balances load your wrists, shoulders and core, so start every session with a warm-up. Begin with your wrists, then do one or two exercises from the program that you already know, such as plank. This lets your joints and muscles get used to the load gradually.\n\nYour breath is your main guide. Breathe through your nose, steadily and without pauses. If you need to hold your breath or clench your jaw, the effort is too high: reduce the range of movement or go back to the previous step.\n\nUseful props:\n\n- a non-slip mat;\n- two yoga blocks or sturdy thick books;\n- a cushion or folded blanket in front of your hands in case you lose your balance.\n\nRest between sets for as long as you need so that the next set is just as careful. Leave a rest day or choose a light practice between days with load on your arms."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "5ef4eecf-4a13-4d26-a291-0e7f72ffc3b6",
+        "kind": "exercise",
+        "exerciseSlug": "wrist-warmup",
+        "title": {
+          "ru": "Разминка запястий",
+          "en": "Wrist warm-up"
+        },
+        "body": {
+          "ru": "Начинайте с этого шага каждое занятие программы. Двигайтесь медленно и прислушивайтесь к запястьям: разминка подсказывает, какую нагрузку они готовы принять сегодня.",
+          "en": "Start every session of the program with this step. Move slowly and notice how your wrists feel: the warm-up tells you how much load they are ready for today."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "07bc1f61-e89b-4dc7-8c11-10dd0dffeee1",
+        "kind": "exercise",
+        "exerciseSlug": "plank",
+        "title": {
+          "ru": "Планка",
+          "en": "Plank"
+        },
+        "body": {
+          "ru": "Планка — основа всех балансов на руках. Удерживайте прямую линию от макушки до пяток, отталкивайте пол ладонями и увеличивайте время удержания постепенно.",
+          "en": "Plank is the foundation of every arm balance. Keep a straight line from the crown of your head to your heels, push the floor away and build up your hold time gradually."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "e7f57c32-25be-4e83-999e-dfe11cfb9425",
+        "kind": "exercise",
+        "exerciseSlug": "knee-chaturanga",
+        "title": {
+          "ru": "Опускание в чатурангу с колен",
+          "en": "Knees-down Chaturanga"
+        },
+        "body": {
+          "ru": "Опора на колени позволяет отработать траекторию локтей до полной чатуранги. Опускайтесь медленно и держите локти вдоль корпуса.",
+          "en": "Keeping your knees down lets you practise the elbow path before the full Chaturanga. Lower slowly and keep your elbows along your sides."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "894184bd-8a4a-41f8-9ecc-deb5c0ece141",
+        "kind": "pose",
+        "poseSlug": "chaturanga-dandasana",
+        "title": {
+          "ru": "Чатуранга Дандасана",
+          "en": "Four-Limbed Staff Pose"
+        },
+        "body": {
+          "ru": "Первая целевая поза программы. Важно не опуститься как можно ниже, а сохранить прямую линию тела и плечи на уровне локтей или чуть выше.",
+          "en": "The first target pose of the program. The goal is not to go as low as possible but to keep your body straight and your shoulders level with your elbows or slightly higher."
+        }
+      },
+      {
+        "key": "a06ff6b8-25ec-4c69-9a9c-9532cd3658a1",
+        "kind": "exercise",
+        "exerciseSlug": "side-plank-knee",
+        "title": {
+          "ru": "Боковая планка с опорой на колено",
+          "en": "Side plank on the knee"
+        },
+        "body": {
+          "ru": "Готовит опорное плечо и косые мышцы живота к боковой планке. Выполняйте упражнение на обе стороны и следите, чтобы таз не проседал.",
+          "en": "Prepares your supporting shoulder and obliques for Side Plank. Work both sides and keep your hips from sagging."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "5bcdca63-298a-49a0-ad0f-f314eb6c31f3",
+        "kind": "pose",
+        "poseSlug": "vasisthasana",
+        "title": {
+          "ru": "Васиштхасана",
+          "en": "Side Plank Pose"
+        },
+        "body": {
+          "ru": "Первый баланс на одной руке и ребре стопы. Начните с коротких удержаний, а если таз тянет вниз, вернитесь к варианту с опорой на колено.",
+          "en": "Your first balance on one hand and the edge of one foot. Start with short holds, and if your hips start to drop, go back to the knee-down version."
+        }
+      },
+      {
+        "key": "2ffe7ca1-36f5-42f7-9c08-245d22cc38e1",
+        "kind": "exercise",
+        "exerciseSlug": "forearm-plank",
+        "title": {
+          "ru": "Планка на предплечьях",
+          "en": "Forearm plank"
+        },
+        "body": {
+          "ru": "Укрепляет корпус и плечи и даёт запястьям отдохнуть. Это подготовка к Дельфину и Вороне на предплечьях.",
+          "en": "Strengthens your core and shoulders while giving your wrists a rest. It prepares you for Dolphin and Baby Crow."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "405339a9-6646-4ff0-98f4-c4b003a0349b",
+        "kind": "pose",
+        "poseSlug": "ardha-pincha-mayurasana",
+        "title": {
+          "ru": "Дельфин",
+          "en": "Dolphin Pose"
+        },
+        "body": {
+          "ru": "Знакомит с опорой на предплечья, когда таз выше плеч, — первая подготовка к будущим инверсиям. Колени можно сгибать: длинная спина и активные плечи важнее прямых ног.",
+          "en": "Introduces weight on your forearms with your hips above your shoulders — a first preparation for later inversions. You can bend your knees: a long spine and active shoulders matter more than straight legs."
+        }
+      },
+      {
+        "key": "a769ba26-9b69-4c73-8f3f-227c6aca5104",
+        "kind": "exercise",
+        "exerciseSlug": "crow-weight-shift",
+        "title": {
+          "ru": "Перенос веса на ладони",
+          "en": "Weight shift with toes down"
+        },
+        "body": {
+          "ru": "Здесь вы ищете точку, в которой вес переходит на ладони, а носки остаются на полу. Не торопитесь поднимать стопы: этот шаг сам по себе — важная часть обучения.",
+          "en": "Here you look for the point where your weight moves into your hands while your toes stay on the floor. Don’t rush to lift your feet: this step is an important part of learning in its own right."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "71d89a94-0623-4672-b572-244a8f41e4dc",
+        "kind": "pose",
+        "poseSlug": "baby-crow",
+        "title": {
+          "ru": "Ворона на предплечьях",
+          "en": "Baby Crow Pose"
+        },
+        "body": {
+          "ru": "Более низкая и устойчивая версия Вороны с опорой на предплечья. Она помогает почувствовать положение коленей на руках и подъём стоп с меньшей нагрузкой на запястья.",
+          "en": "A lower, steadier version of Crow on your forearms. It helps you feel where your knees rest on your arms and how your feet lift, with less load on your wrists."
+        }
+      },
+      {
+        "key": "0cd523d1-1fcf-447e-836d-4197413812a2",
+        "kind": "pose",
+        "poseSlug": "bakasana",
+        "title": {
+          "ru": "Бакасана",
+          "en": "Crow Pose"
+        },
+        "body": {
+          "ru": "Целевая поза программы. Сначала поднимайте одну стопу, затем обе; держите подушку перед ладонями и возвращайтесь в присед, как только теряете контроль.",
+          "en": "The target pose of the program. Lift one foot first, then both; keep a cushion in front of your hands and return to the squat as soon as you lose control."
+        }
+      },
+      {
+        "key": "79f6e533-cee5-4e79-84e3-77b0bef9415b",
+        "kind": "lesson",
+        "title": {
+          "ru": "Итоги и что дальше",
+          "en": "Review and next steps"
+        },
+        "body": {
+          "ru": "Пройдите по программе ещё раз и честно оцените каждый шаг. Ориентиры того, что база устоялась:\n\n- планка и боковая планка держатся ровно, без провисания таза;\n- в чатуранге плечи не опускаются ниже локтей;\n- в Бакасане вы поднимаете стопы плавно, без прыжка, и спокойно опускаетесь обратно;\n- запястья и плечи после занятия чувствуют себя как обычно.\n\nЕсли какой-то пункт пока не получается, это не повод останавливаться: вернитесь к нужному шагу и повторите его. Переходите к программе среднего уровня, когда эти ориентиры выполняются стабильно, а не в отдельный удачный день.\n\nПродолжайте разминаться перед каждым занятием и оставляйте дни отдыха. Любимые позы можно сохранить в избранное, а занятия — записывать в историю практики, чтобы видеть, как меняется ваша практика.",
+          "en": "Go through the program once more and assess each step honestly. Signs that your foundation is in place:\n\n- plank and Side Plank stay straight, without sagging hips;\n- in Chaturanga your shoulders do not drop below your elbows;\n- in Crow you lift your feet smoothly, without a jump, and lower back down calmly;\n- your wrists and shoulders feel as usual after a session.\n\nIf something is not there yet, that is no reason to stop: go back to the relevant step and repeat it. Move on to the intermediate program when these signs hold up consistently, not just on one good day.\n\nKeep warming up before every session and keep your rest days. You can save favourite poses and log your sessions in Practice History to see how your practice changes over time."
+        },
+        "durationMin": 5
+      }
+    ]
+  }
+}

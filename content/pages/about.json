@@ -1,0 +1,75 @@
+{
+  "slug": "about",
+  "doc": {
+    "title": {
+      "ru": "О проекте",
+      "en": "About BALANCE"
+    },
+    "intro": {
+      "ru": "BALANCE — двуязычная образовательная платформа о балансах на руках, стойках и переходах. Мы собираем визуальные инструкции, подготовительные упражнения и программы, чтобы сделать сложные асаны понятнее и помочь каждому выстраивать собственный путь практики.",
+      "en": "BALANCE is a bilingual learning platform about arm balances, handstands and transitions. We bring together visual instructions, preparatory exercises and programs to make challenging poses easier to understand and to help everyone build their own path in practice."
+    },
+    "sections": [
+      {
+        "heading": {
+          "ru": "Идея и миссия",
+          "en": "Idea and mission"
+        },
+        "body": {
+          "ru": "Балансы на руках и инверсии часто кажутся недостижимыми, хотя большинство из них складывается из понятных навыков: силы кистей и плеч, контроля корпуса, подвижности и умения постепенно переносить вес. BALANCE раскладывает каждую позу на эти навыки и показывает, с каких подготовительных шагов можно начать.\n\nНаша миссия — сделать информацию о балансах ясной, последовательной и бережной к телу. Каждая поза описана в одной карточке на двух языках — русском и английском, а ваш прогресс не зависит от выбранного языка.",
+          "en": "Arm balances and inversions often seem out of reach, yet most of them are built from understandable skills: hand and shoulder strength, core control, mobility and the ability to shift your weight gradually. BALANCE breaks each pose down into these skills and shows which preparatory steps you can start with.\n\nOur mission is to make information about balances clear, well-ordered and respectful of the body. Each pose is described in a single card in two languages, Russian and English, and your progress does not depend on the language you choose."
+        }
+      },
+      {
+        "heading": {
+          "ru": "Для кого BALANCE",
+          "en": "Who it is for"
+        },
+        "body": {
+          "ru": "Для тех, кто только знакомится с опорой на руки, и для практиков, которые хотят разобраться в более сложных позах и переходах. Библиотека охватывает четыре уровня — от начального до экспертного, а программы помогают двигаться между ними по шагам.\n\nBALANCE может пригодиться и преподавателям как наглядный справочник. При этом сайт не заменяет занятий с преподавателем и личной оценки вашей подготовки.",
+          "en": "For people who are just getting to know weight bearing on their hands, and for practitioners who want to understand more complex poses and transitions. The library covers four levels, from beginner to expert, and the programs help you move between them step by step.\n\nTeachers may also find BALANCE useful as a visual reference. Even so, the site does not replace classes with a teacher or an in-person assessment of your readiness."
+        }
+      },
+      {
+        "heading": {
+          "ru": "Наши принципы",
+          "en": "Our principles"
+        },
+        "body": {
+          "ru": "- Визуальное обучение: анимации и ключевые кадры помогают понять положение тела и траекторию движения.\n- Постепенный прогресс: сначала подготовительные упражнения и более простые варианты, затем целевая поза.\n- Осознанная практика: внимание к дыханию, ощущениям и безопасности важнее уровня сложности. При боли практика прекращается.",
+          "en": "- Visual learning: animations and keyframes help you understand body position and the path of the movement.\n- Gradual progress: preparatory exercises and easier variations come first, then the target pose.\n- Mindful practice: attention to breath, sensation and safety matters more than the level of difficulty. Pain means you stop."
+        }
+      },
+      {
+        "heading": {
+          "ru": "Как создаются иллюстрации и анимации",
+          "en": "How illustrations and animations are made"
+        },
+        "body": {
+          "ru": "Все позы показывает один и тот же стилизованный 3D-персонаж. Анимации создаются в Blender: для каждой асаны — короткий ролик около 10 секунд со входом в позу, удержанием и выходом, а также постер и ключевые кадры для пошаговой инструкции.\n\nЕдиный персонаж позволяет сравнивать позы между собой и не отвлекаться на внешность, одежду или фон. Анимация — учебная схема: она показывает форму позы, но не учитывает особенности вашего тела. Если на вашем устройстве включено уменьшение движения, анимация запускается только по нажатию и не повторяется.",
+          "en": "Every pose is shown by the same stylised 3D character. The animations are made in Blender: for each pose there is a short clip of about 10 seconds with the entry, the hold and the exit, plus a poster and keyframes for the step-by-step instructions.\n\nA single character makes it easy to compare poses and keeps the focus off appearance, clothing or background. An animation is a teaching diagram: it shows the shape of the pose but does not take your individual body into account. If reduced motion is turned on on your device, an animation starts only when you tap it and does not loop."
+        }
+      },
+      {
+        "heading": {
+          "ru": "Как проверяется контент",
+          "en": "How content is reviewed"
+        },
+        "body": {
+          "ru": "Тексты карточек готовит редакция. Затем каждую карточку проверяет преподаватель, и только после его утверждения материал отмечается как проверенный. Пока проверки не было, на странице показывается предупреждение о том, что материал ещё не проверен преподавателем.\n\nМы не придумываем источники и не ссылаемся на неподтверждённые данные. Контакты для сообщений об ошибках и неточностях будут опубликованы на странице «Контакты».",
+          "en": "Card texts are prepared by the editors. Each card is then reviewed by a teacher, and only after the teacher approves it is the material marked as reviewed. Until that review has happened, the page shows a notice that the material has not yet been reviewed by a teacher.\n\nWe do not make up sources or cite unverified data. Contact details for reporting errors and inaccuracies will be published on the Contact page."
+        }
+      },
+      {
+        "heading": {
+          "ru": "Видеоуроки",
+          "en": "Video lessons"
+        },
+        "body": {
+          "ru": "Видеоуроки на страницах поз созданы сторонними авторами и принадлежат им. Ссылку на видео мы добавляем только после проверки: ролик доступен, показывает тот же вариант позы и подходит по языку. Если проверенного урока на вашем языке пока нет, страница прямо об этом сообщает.\n\nПлеер видео загружается только после того, как вы нажмёте на него.",
+          "en": "The video lessons on pose pages are made by third-party authors and belong to them. We add a link to a video only after checking it: the video is available, shows the same variation of the pose and matches the language. If there is no verified lesson in your language yet, the page says so plainly.\n\nThe video player loads only after you click it."
+        }
+      }
+    ]
+  }
+}

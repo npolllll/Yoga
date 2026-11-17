@@ -1,0 +1,106 @@
+{
+  "slug": "terms",
+  "doc": {
+    "title": {
+      "ru": "Условия использования",
+      "en": "Terms of Use"
+    },
+    "updatedOn": "2026-11-17",
+    "intro": {
+      "ru": "Правила использования BALANCE. Пожалуйста, прочитайте их до начала практики.",
+      "en": "The rules for using BALANCE. Please read them before you start practising."
+    },
+    "sections": [
+      {
+        "heading": {
+          "ru": "Черновик для юридической проверки",
+          "en": "Draft for legal review"
+        },
+        "body": {
+          "ru": "Это черновик условий использования. До публичного запуска сайта его должен проверить юрист и дополнить сведениями о владельце проекта и применимом праве.\n\nДокумент не заявляет соответствия какому-либо конкретному закону или нормативному акту.",
+          "en": "This is a draft of the terms of use. Before the site is publicly launched, it must be reviewed by a lawyer and completed with details about the project owner and the applicable law.\n\nThis document does not claim compliance with any specific law or regulation."
+        }
+      },
+      {
+        "heading": {
+          "ru": "Образовательный характер",
+          "en": "Educational nature"
+        },
+        "body": {
+          "ru": "Материалы BALANCE — описания поз, упражнения, программы, анимации и видео — носят образовательный и справочный характер. Они не являются медицинской консультацией, диагнозом или назначением и не заменяют занятий с квалифицированным преподавателем, который может лично оценить вашу подготовку.",
+          "en": "BALANCE materials — pose descriptions, exercises, programs, animations and videos — are for education and reference. They are not medical advice, a diagnosis or a treatment plan, and they do not replace classes with a qualified teacher who can assess your readiness in person."
+        }
+      },
+      {
+        "heading": {
+          "ru": "Практика под вашу ответственность",
+          "en": "Practise at your own risk"
+        },
+        "body": {
+          "ru": "Физическая практика, особенно балансы на руках и инверсии, связана с риском падений и травм. Вы сами решаете, какие упражнения выполнять, и несёте ответственность за свою практику.\n\nРазминайтесь, готовьте безопасное место, используйте страховку и опоры. При боли, головокружении или любом недомогании сразу прекратите упражнение.",
+          "en": "Physical practice, especially arm balances and inversions, carries a risk of falls and injury. You decide which exercises to do and you are responsible for your own practice.\n\nWarm up, prepare a safe space, and use spotting and props. Stop immediately if you feel pain, dizziness or feel unwell in any way."
+        }
+      },
+      {
+        "heading": {
+          "ru": "Здоровье, беременность и травмы",
+          "en": "Health conditions, pregnancy and injuries"
+        },
+        "body": {
+          "ru": "Если у вас есть заболевания или травмы (в том числе недавние), повышенное давление или глаукома, если вы беременны или восстанавливаетесь после операции, перед практикой обсудите нагрузку с врачом или другим квалифицированным специалистом. Материалы сайта не учитывают ваши индивидуальные особенности.",
+          "en": "If you have a health condition or an injury (including a recent one), high blood pressure or glaucoma, are pregnant or are recovering from surgery, discuss the load with a doctor or another qualified professional before you practise. The materials on this site do not take your individual circumstances into account."
+        }
+      },
+      {
+        "heading": {
+          "ru": "Аккаунт и допустимое использование",
+          "en": "Accounts and acceptable use"
+        },
+        "body": {
+          "ru": "Аккаунт нужен, чтобы сохранять избранное и прогресс. Указывайте действующий адрес электронной почты и храните пароль в тайне: вы отвечаете за действия в своём аккаунте. Удалить аккаунт можно в любой момент в разделе «Профиль».\n\nНе используйте сайт для действий, которые нарушают закон или права других людей, не пытайтесь получить доступ к чужим данным и не мешайте работе сервиса. Аккаунт, который используется с нарушением этих условий, может быть заблокирован.\n\nТексты, иллюстрации и анимации BALANCE предназначены для личного обучения; условия их повторного использования определит владелец проекта.",
+          "en": "You need an account to save favorites and progress. Use a valid email address and keep your password secret: you are responsible for activity in your account. You can delete your account at any time in your Profile.\n\nDo not use the site for anything that breaks the law or violates other people’s rights, do not try to access other users’ data, and do not interfere with the service. An account used in breach of these terms may be blocked.\n\nBALANCE texts, illustrations and animations are intended for personal learning; the terms for reusing them will be set by the project owner."
+        }
+      },
+      {
+        "heading": {
+          "ru": "Сторонний контент",
+          "en": "Third-party content"
+        },
+        "body": {
+          "ru": "Видеоуроки на страницах поз созданы сторонними авторами и размещены на сторонних сервисах; права на них принадлежат их авторам. Мы добавляем ссылки только после проверки, но не управляем содержанием и доступностью этих видео. При просмотре действуют правила соответствующего сервиса.",
+          "en": "The video lessons on pose pages are made by third-party authors and hosted on third-party services; the rights belong to their authors. We add links only after checking them, but we do not control the content or availability of these videos. When you watch them, the rules of the respective service apply."
+        }
+      },
+      {
+        "heading": {
+          "ru": "Точность материалов и статус проверки",
+          "en": "Content accuracy and review status"
+        },
+        "body": {
+          "ru": "Мы стараемся, чтобы материалы были точными и понятными, но не можем обещать, что они полны, безошибочны или подходят именно вам. Каждая карточка проверяется преподавателем, прежде чем получить отметку о проверке. Пока проверки не было, на странице показывается предупреждение: используйте такие материалы как ориентир и практикуйте с особой осторожностью.\n\nМатериалы могут обновляться и меняться без предварительного уведомления.",
+          "en": "We aim to keep the materials accurate and clear, but we cannot promise that they are complete, error-free or right for you. Each card is reviewed by a teacher before it is marked as reviewed. Until that review has happened, the page shows a notice: use such materials as guidance and practise with extra care.\n\nMaterials may be updated or changed without prior notice."
+        }
+      },
+      {
+        "heading": {
+          "ru": "Изменения условий",
+          "en": "Changes to these terms"
+        },
+        "body": {
+          "ru": "Мы можем обновлять эти условия. Дата последнего обновления указана в начале страницы, а о существенных изменениях мы сообщим на сайте. Продолжая пользоваться сайтом после обновления, вы принимаете новую редакцию условий.",
+          "en": "We may update these terms. The date of the latest update is shown at the top of the page, and we will announce significant changes on the site. By continuing to use the site after an update, you accept the new version of the terms."
+        }
+      },
+      {
+        "heading": {
+          "ru": "Связь с нами",
+          "en": "Contact"
+        },
+        "body": {
+          "ru": "Вопросы об этих условиях можно задать через страницу «Контакты». Контакты проекта будут опубликованы его владельцем.",
+          "en": "You can ask questions about these terms via the Contact page. The project’s contact details will be published by its owner."
+        }
+      }
+    ]
+  }
+}

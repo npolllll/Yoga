@@ -1,0 +1,266 @@
+{
+  "slug": "advanced",
+  "level": "advanced",
+  "sortWeight": 3,
+  "doc": {
+    "title": {
+      "ru": "Продвинутые балансы и стойки",
+      "en": "Advanced Balances and Handstands"
+    },
+    "summary": {
+      "ru": "Балансы с прямыми ногами, Каундиньясана I, переход из вороны в чатурангу и последовательная работа над стойкой на руках и на предплечьях.",
+      "en": "Straight-leg balances, Koundinya I, the Crow-to-Chaturanga transition and step-by-step work on Handstand and Forearm Stand."
+    },
+    "description": {
+      "ru": "Программа продвинутого уровня объединяет три направления: балансы с прямыми ногами (Светлячок и Эка Пада Каундиньясана I), переходы (из вороны в чатурангу) и свободные инверсии — стойку на руках и стойку на предплечьях. Нагрузка здесь выше, а ошибки обходятся дороже, поэтому каждое направление начинается с подготовительного упражнения, а перед стойками стоит отдельный урок о страховке и безопасном выходе. Работа над этими позами обычно идёт долго и неравномерно; программа помогает выстроить её последовательно.",
+      "en": "An advanced program with three directions: straight-leg balances (Firefly and Eka Pada Koundinyasana I), transitions (Crow to Chaturanga) and freestanding inversions — Handstand and Forearm Stand. The load is higher and mistakes cost more, so each direction starts with a preparatory exercise, and the inversions come after a dedicated lesson on spotting and safe exits. Work on these poses usually takes a long time and progresses unevenly; the program helps you organise it step by step."
+    },
+    "audience": {
+      "ru": "Тем, кто уверенно выполняет позы среднего уровня — боковую ворону, Лоласану, стойку на голове с опорой на ладони и стойку у стены уголком.",
+      "en": "People who confidently do intermediate poses — Side Crow, Pendant Pose, Tripod Headstand and the L-shape handstand at the wall."
+    },
+    "prerequisites": [
+      {
+        "ru": "Вы уверенно выполняете боковую ворону на обе стороны и Лоласану.",
+        "en": "You can do Side Crow on both sides and Pendant Pose with confidence."
+      },
+      {
+        "ru": "Вы держите стойку на руках у стены уголком 30–45 секунд на прямых руках.",
+        "en": "You can hold the L-shape handstand at the wall for 30–45 seconds on straight arms."
+      },
+      {
+        "ru": "Вы держите Дельфина около минуты и стойку на голове у стены, контролируя выход.",
+        "en": "You can hold Dolphin for about a minute and a headstand at the wall with a controlled way down."
+      }
+    ],
+    "goals": [
+      {
+        "ru": "Развить силу сжатия и гибкость задней поверхности ног для балансов с прямыми ногами.",
+        "en": "Build compression strength and hamstring flexibility for straight-leg balances."
+      },
+      {
+        "ru": "Отработать контроль корпуса в переходе между позами.",
+        "en": "Practise core control in a transition between poses."
+      },
+      {
+        "ru": "Выстроить последовательную работу над стойкой на руках и на предплечьях — сначала у стены, затем со страховкой.",
+        "en": "Build step-by-step work on Handstand and Forearm Stand — first at the wall, then with a spotter."
+      },
+      {
+        "ru": "Научиться безопасно выходить из стоек.",
+        "en": "Learn to come down from inversions safely."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Для стоек освободите пространство вокруг, работайте у стены или со страхующим и заранее отработайте выход из позы.",
+        "en": "For inversions, clear the space around you, work at the wall or with a spotter, and practise coming down before you need it."
+      },
+      {
+        "ru": "Перед каждым занятием разминайте запястья и плечи; при боли в запястьях, локтях, плечах или шее прекратите упражнение.",
+        "en": "Warm up your wrists and shoulders before every session; stop if you feel pain in your wrists, elbows, shoulders or neck."
+      },
+      {
+        "ru": "При повышенном давлении, глаукоме, травмах шеи, плеч или запястий, а также при беременности обсудите нагрузку со специалистом.",
+        "en": "If you have high blood pressure, glaucoma, a neck, shoulder or wrist injury, or are pregnant, discuss the load with a qualified professional."
+      },
+      {
+        "ru": "Растягивайте заднюю поверхность ног только в комфортной амплитуде, без рывков и пружинящих движений.",
+        "en": "Stretch the backs of your legs only within a comfortable range, without jerking or bouncing."
+      },
+      {
+        "ru": "Сложные элементы лучше отрабатывать под присмотром преподавателя.",
+        "en": "Complex elements are best practised under a teacher’s supervision."
+      }
+    ],
+    "steps": [
+      {
+        "key": "e01b5330-8435-4fa8-940e-353e17f5a1e9",
+        "kind": "lesson",
+        "title": {
+          "ru": "Как строить практику на продвинутом уровне",
+          "en": "How to structure advanced practice"
+        },
+        "body": {
+          "ru": "На этом уровне нагрузка на запястья, плечи и связки заметно выше, а прогресс часто идёт неравномерно. Поэтому важно не количество попыток, а их качество и восстановление между занятиями.\n\nПрограмма делится на три направления:\n\n- балансы с прямыми ногами — Светлячок и Эка Пада Каундиньясана I;\n- переход из вороны в чатурангу;\n- стойка на руках и стойка на предплечьях.\n\nЗа одно занятие выбирайте одно основное направление и, при желании, одно дополнительное. Начинайте с разминки и подготовительного упражнения, затем сделайте несколько свежих попыток в целевой позе. Когда техника начинает разваливаться, заканчивайте работу над позой: попытки на усталости закрепляют ошибки.\n\nОставляйте между интенсивными днями на руках хотя бы день отдыха и следите за запястьями: дискомфорт, который не проходит к следующему занятию, — сигнал уменьшить нагрузку.",
+          "en": "At this level the load on your wrists, shoulders and connective tissue is noticeably higher, and progress is often uneven. That is why the quality of your attempts and the recovery between sessions matter more than the number of attempts.\n\nThe program has three directions:\n\n- straight-leg balances — Firefly and Eka Pada Koundinyasana I;\n- the transition from Crow to Chaturanga;\n- Handstand and Forearm Stand.\n\nIn each session, choose one main direction and, if you like, one secondary one. Start with the warm-up and a preparatory exercise, then make a few fresh attempts at the target pose. When your technique starts to fall apart, finish working on that pose: tired attempts reinforce mistakes.\n\nKeep at least one rest day between intense days on your hands and watch your wrists: discomfort that is still there by the next session is a signal to reduce the load."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "4160c551-4b27-44a2-b734-f1488f2efa7b",
+        "kind": "exercise",
+        "exerciseSlug": "wrist-warmup",
+        "title": {
+          "ru": "Разминка запястий",
+          "en": "Wrist warm-up"
+        },
+        "body": {
+          "ru": "Разминка обязательна перед каждым занятием. В дни работы над стойками добавьте после неё несколько знакомых упражнений на плечи, например планку, чтобы плечи включились до первой попытки.",
+          "en": "The warm-up is required before every session. On handstand days, follow it with a few familiar shoulder drills such as plank, so your shoulders are switched on before your first attempt."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "7039a9fd-f09a-475e-89bd-8746c626cfa2",
+        "kind": "exercise",
+        "exerciseSlug": "compression-leg-lifts",
+        "title": {
+          "ru": "Подъёмы ног сидя",
+          "en": "Seated compression leg lifts"
+        },
+        "body": {
+          "ru": "Развивают активное сжатие — силу, которая удерживает ноги высоко на руках в Светлячке. Работайте короткими подходами с полным контролем.",
+          "en": "Build active compression — the strength that keeps your legs high on your arms in Firefly. Work in short sets with full control."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "2ba1ca1e-4e03-4f30-b03b-68fe252283d3",
+        "kind": "exercise",
+        "exerciseSlug": "forward-fold",
+        "title": {
+          "ru": "Наклон вперёд стоя",
+          "en": "Standing forward fold"
+        },
+        "body": {
+          "ru": "Мягко растягивает заднюю поверхность ног и учит складываться в тазобедренных суставах. Сгибайте колени столько, сколько нужно, чтобы спина оставалась спокойной.",
+          "en": "Gently stretches the backs of your legs and teaches you to fold at the hips. Bend your knees as much as you need to keep your back relaxed."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "6beb07e4-b7f4-4247-80d3-7f4ae45ac1b6",
+        "kind": "pose",
+        "poseSlug": "tittibhasana",
+        "title": {
+          "ru": "Светлячок",
+          "en": "Firefly Pose"
+        },
+        "body": {
+          "ru": "Сначала отработайте вход: бёдра как можно выше на руках, колени согнуты. Отрывайте стопы от пола, только когда опора устойчива, а ноги выпрямляйте постепенно.",
+          "en": "First practise the entry: thighs as high on your arms as you can, knees bent. Lift your feet only when the support feels steady, and straighten your legs gradually."
+        }
+      },
+      {
+        "key": "15c1ec11-4b05-49ba-803e-183eb542407e",
+        "kind": "pose",
+        "poseSlug": "parsva-bakasana",
+        "title": {
+          "ru": "Боковая ворона: основа для скручивания",
+          "en": "Side Crow: the base for the twist"
+        },
+        "body": {
+          "ru": "Короткое возвращение к боковой вороне как к основе для Каундиньясаны I. Обратите внимание на глубину скручивания и на то, как бедро лежит на руке.",
+          "en": "A short return to Side Crow as the base for Koundinya I. Notice how deep your twist is and how your thigh rests on your arm."
+        }
+      },
+      {
+        "key": "eaec1c97-08f6-4867-b3be-244d42322a29",
+        "kind": "pose",
+        "poseSlug": "eka-pada-koundinyasana-1",
+        "title": {
+          "ru": "Эка Пада Каундиньясана I",
+          "en": "Eka Pada Koundinyasana I"
+        },
+        "body": {
+          "ru": "Из боковой вороны выпрямляйте сначала одну ногу, затем другую. Корпус остаётся почти параллельным полу, локти — согнутыми; работайте на обе стороны.",
+          "en": "From Side Crow, straighten one leg first, then the other. Keep your torso almost parallel to the floor and your elbows bent; work both sides."
+        }
+      },
+      {
+        "key": "61198535-bb71-4757-93cc-8ce6bb20ee82",
+        "kind": "pose",
+        "poseSlug": "crow-to-chaturanga",
+        "title": {
+          "ru": "Из вороны в чатурангу",
+          "en": "Crow to Chaturanga"
+        },
+        "body": {
+          "ru": "Переход учит держать корпус под контролем, пока ноги уходят назад. Положите подушку перед ладонями и приземляйтесь мягко на носки с согнутыми локтями.",
+          "en": "This transition teaches you to keep your core in control while your legs travel back. Place a cushion in front of your hands and land softly on your toes with your elbows bent."
+        }
+      },
+      {
+        "key": "296e1925-38e4-4a65-b73f-e08bca646f2d",
+        "kind": "lesson",
+        "title": {
+          "ru": "Стойки: страховка, стена и выход",
+          "en": "Inversions: spotting, the wall and coming down"
+        },
+        "body": {
+          "ru": "Стойка на руках и стойка на предплечьях — первые позы в программах, где цель — баланс без постоянной опоры. Перед ними обязательно отработайте выход.\n\nДва основных способа выйти из стойки на руках:\n\n- шаг вниз: опустите одну ногу, затем другую;\n- поворот в сторону: переставьте одну ладонь и опуститесь боком, как в колесе.\n\nОтрабатывайте оба способа у стены и на мягком покрытии, пока они не станут привычными. Для стойки на предплечьях тоже заранее освободите место вокруг и решите, как будете опускаться.\n\nДвигайтесь от стены к свободной стойке постепенно: сначала устойчивость у стены, затем короткие отрывы от неё, затем — со страхующим, который умеет страховать. Если есть возможность, работайте с преподавателем: он увидит ошибки выстраивания, которые сложно заметить самостоятельно. Делайте немного свежих попыток и заканчивайте, пока чувствуете контроль.",
+          "en": "Handstand and Forearm Stand are the first poses in the programs where the aim is to balance without constant support. Practise your exits before you work on them.\n\nTwo main ways to come down from a handstand:\n\n- step down: lower one leg, then the other;\n- turn out: move one hand and come down sideways, as in a cartwheel.\n\nPractise both at the wall and on a soft surface until they feel familiar. For Forearm Stand, also clear the space around you and decide in advance how you will come down.\n\nMove from the wall to a freestanding balance gradually: first steadiness at the wall, then brief moments away from it, then with a spotter who knows how to spot. If you can, work with a teacher: they will see alignment issues that are hard to notice on your own. Make a few fresh attempts and stop while you still feel in control."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "1e42afc5-1258-430b-8c0d-3a3fc1a119f6",
+        "kind": "exercise",
+        "exerciseSlug": "handstand-kick-ups",
+        "title": {
+          "ru": "Махи в стойку у стены",
+          "en": "Handstand kick-ups at the wall"
+        },
+        "body": {
+          "ru": "Учат входить в стойку на прямых руках с контролем, а не с размаха. Делайте мах мягким и следите, чтобы плечи оставались над запястьями.",
+          "en": "Teach you to enter a handstand on straight arms with control rather than momentum. Keep the kick soft and your shoulders over your wrists."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "69c750e8-4d74-4ac1-880b-825baa78bd45",
+        "kind": "pose",
+        "poseSlug": "adho-mukha-vrksasana",
+        "title": {
+          "ru": "Стойка на руках",
+          "en": "Handstand"
+        },
+        "body": {
+          "ru": "Целевая поза направления. Начинайте у стены, затем пробуйте ненадолго отрываться от неё и продолжайте отрабатывать выход шагом вниз и поворотом в сторону.",
+          "en": "The target pose for this direction. Start at the wall, then try brief moments away from it, and keep practising the step-down and turn-out exits."
+        }
+      },
+      {
+        "key": "add0c84d-af14-43ba-8e4e-9ab80b1e2dd1",
+        "kind": "exercise",
+        "exerciseSlug": "dolphin-push-ups",
+        "title": {
+          "ru": "Отжимания в дельфине",
+          "en": "Dolphin push-ups"
+        },
+        "body": {
+          "ru": "Укрепляют плечи и корпус для стойки на предплечьях. Сохраняйте предплечья параллельными, а локти — на ширине плеч.",
+          "en": "Strengthen your shoulders and core for Forearm Stand. Keep your forearms parallel and your elbows shoulder-width apart."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "d58b8f39-b0e4-489c-922b-18097240d4e0",
+        "kind": "pose",
+        "poseSlug": "pincha-mayurasana",
+        "title": {
+          "ru": "Стойка на предплечьях",
+          "en": "Forearm Stand"
+        },
+        "body": {
+          "ru": "Работайте у стены, пока уверенно не удерживаете плечи над локтями. Свободный баланс пробуйте только после того, как отработан спокойный выход.",
+          "en": "Work at the wall until you can keep your shoulders over your elbows with confidence. Try the freestanding balance only once you have practised a calm way down."
+        }
+      },
+      {
+        "key": "2dbdc165-4040-4650-a460-0abf4c68a256",
+        "kind": "lesson",
+        "title": {
+          "ru": "Восстановление и итоги",
+          "en": "Recovery and review"
+        },
+        "body": {
+          "ru": "Продвинутые позы требуют много повторений, поэтому восстановление — часть программы, а не перерыв в ней. Оставляйте дни отдыха, чередуйте направления и давайте запястьям передышку, когда они устали.\n\nОриентиры того, что продвинутый уровень устоялся:\n\n- Светлячок и Каундиньясана I получаются с контролем входа и выхода, Каундиньясана — на обе стороны;\n- переход из вороны в чатурангу получается мягким, без падения на пол;\n- в стойке на руках и на предплечьях вы уверенно стоите у стены и выходите из позы безопасным способом.\n\nПрограмма экспертного уровня включает элементы с высоким риском. Переходите к ней, только когда позы этого уровня стабильны, и лучше — вместе с квалифицированным тренером или преподавателем.\n\nОтмечайте освоенные позы и записывайте занятия в историю практики, чтобы видеть, как меняется ваша практика.",
+          "en": "Advanced poses take many repetitions, so recovery is part of the program, not a break from it. Keep your rest days, alternate directions and give your wrists a break when they are tired.\n\nSigns that the advanced level is in place:\n\n- Firefly and Koundinya I come with a controlled entry and exit, Koundinya on both sides;\n- the transition from Crow to Chaturanga is soft, without dropping to the floor;\n- in Handstand and Forearm Stand you are steady at the wall and come down in a safe way.\n\nThe expert program includes high-risk elements. Move on to it only when the poses at this level are consistent, and preferably together with a qualified coach or teacher.\n\nMark the poses you have learned and log your sessions in Practice History to see how your practice changes."
+        },
+        "durationMin": 5
+      }
+    ]
+  }
+}

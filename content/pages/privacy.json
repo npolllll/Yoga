@@ -1,0 +1,116 @@
+{
+  "slug": "privacy",
+  "doc": {
+    "title": {
+      "ru": "Политика конфиденциальности",
+      "en": "Privacy Policy"
+    },
+    "updatedOn": "2026-11-17",
+    "intro": {
+      "ru": "Простым языком о том, какие данные обрабатывает BALANCE, зачем и где они хранятся.",
+      "en": "A plain-language explanation of what data BALANCE processes, why, and where it is stored."
+    },
+    "sections": [
+      {
+        "heading": {
+          "ru": "Черновик для юридической проверки",
+          "en": "Draft for legal review"
+        },
+        "body": {
+          "ru": "Это черновик политики конфиденциальности. До публичного запуска сайта его должен проверить юрист и дополнить сведениями о владельце проекта и применимом праве.\n\nДокумент не заявляет соответствия какому-либо конкретному закону или нормативному акту.",
+          "en": "This is a draft of the privacy policy. Before the site is publicly launched, it must be reviewed by a lawyer and completed with details about the project owner and the applicable law.\n\nThis document does not claim compliance with any specific law or regulation."
+        }
+      },
+      {
+        "heading": {
+          "ru": "Какие данные мы обрабатываем",
+          "en": "What data we process"
+        },
+        "body": {
+          "ru": "Чтобы читать сайт, аккаунт не нужен, и личные данные мы у вас не запрашиваем. Если вы создаёте аккаунт, обрабатываются:\n\n- адрес электронной почты и пароль для входа (пароль хранится службой аутентификации не в открытом виде, а в виде хеша);\n- имя для отображения — по желанию;\n- предпочитаемый язык интерфейса;\n- избранные позы;\n- статусы практики поз («Не начато», «В процессе», «Освоено»);\n- отметки о выполненных шагах программ;\n- записи в истории практики (дата, поза, длительность, заметка);\n- ваши цели.\n\nКроме того, поставщики хостинга и базы данных могут вести технические журналы запросов (например, IP-адрес и время запроса), необходимые для работы и защиты сервиса.",
+          "en": "You do not need an account to read the site, and we do not ask you for personal data. If you create an account, the following is processed:\n\n- your email address and sign-in password (the authentication service stores the password as a hash, not in plain text);\n- a display name, if you choose to add one;\n- your preferred interface language;\n- your favorite poses;\n- your practice statuses for poses (Not started, In progress, Learned);\n- your completed program steps;\n- your practice log entries (date, pose, duration, note);\n- your goals.\n\nIn addition, the hosting and database providers may keep technical request logs (for example, IP address and request time) that are needed to run and protect the service."
+        }
+      },
+      {
+        "heading": {
+          "ru": "Зачем нужны эти данные",
+          "en": "Why we process it"
+        },
+        "body": {
+          "ru": "Данные нужны для работы аккаунта и вашей практики: чтобы вы могли входить на сайт, сохранять избранное и прогресс и видеть их на любом устройстве и на любом языке интерфейса. Адрес электронной почты используется для подтверждения регистрации и восстановления пароля.\n\nМы не продаём данные и не используем их для рекламы.",
+          "en": "The data is needed to run your account and your practice: so you can sign in, save favorites and progress, and see them on any device and in either interface language. Your email address is used to confirm your sign-up and to reset your password.\n\nWe do not sell your data or use it for advertising."
+        }
+      },
+      {
+        "heading": {
+          "ru": "Где хранятся данные",
+          "en": "Where data is stored"
+        },
+        "body": {
+          "ru": "База данных, аутентификация и файловое хранилище работают на платформе Supabase, а сайт размещён на платформе Vercel. Эти поставщики обрабатывают данные для работы сервиса в соответствии со своими условиями.\n\nРегион, в котором физически хранятся и обрабатываются данные, зависит от настроек развёртывания и будет указан в этой политике до публичного запуска.",
+          "en": "The database, authentication and file storage run on the Supabase platform, and the site is hosted on the Vercel platform. These providers process data to run the service under their own terms.\n\nThe region where data is physically stored and processed depends on the deployment settings and will be stated in this policy before the public launch."
+        }
+      },
+      {
+        "heading": {
+          "ru": "Файлы cookie",
+          "en": "Cookies"
+        },
+        "body": {
+          "ru": "Мы используем только необходимые файлы cookie:\n\n- cookie сессии — чтобы вы оставались в аккаунте после входа;\n- cookie языка — чтобы запомнить выбранный язык интерфейса (русский или английский); он хранится до одного года.\n\nНа момент запуска сайт не использует рекламные и аналитические cookie. Если это изменится, политика будет обновлена до того, как такие инструменты появятся.",
+          "en": "We only use necessary cookies:\n\n- a session cookie, so you stay signed in after you sign in;\n- a language cookie, to remember your interface language (Russian or English); it is kept for up to one year.\n\nAt launch, the site does not use advertising or analytics cookies. If that changes, this policy will be updated before such tools are introduced."
+        }
+      },
+      {
+        "heading": {
+          "ru": "Как долго хранятся данные",
+          "en": "How long data is kept"
+        },
+        "body": {
+          "ru": "Данные аккаунта и практики хранятся, пока существует ваш аккаунт. После удаления аккаунта они удаляются из базы данных.\n\nРезервные копии и технические журналы у поставщиков инфраструктуры могут храниться ограниченное время по их собственным правилам.",
+          "en": "Account and practice data is kept for as long as your account exists. When you delete your account, it is deleted from the database.\n\nBackups and technical logs held by infrastructure providers may be kept for a limited time under their own rules."
+        }
+      },
+      {
+        "heading": {
+          "ru": "Ваши права и управление данными",
+          "en": "Your rights and control over your data"
+        },
+        "body": {
+          "ru": "В разделе «Профиль» вы в любой момент можете:\n\n- изменить имя для отображения и предпочитаемый язык;\n- скачать все свои данные в формате JSON;\n- удалить аккаунт вместе со всеми связанными данными.\n\nИзбранное, статусы поз, записи истории практики и цели можно изменять и удалять на страницах поз и в разделе «Моя практика».",
+          "en": "In your Profile you can at any time:\n\n- change your display name and preferred language;\n- download all your data as JSON;\n- delete your account together with all related data.\n\nYou can change or remove favorites, pose statuses, practice log entries and goals on pose pages and in My Practice."
+        }
+      },
+      {
+        "heading": {
+          "ru": "Видео сторонних сервисов",
+          "en": "Third-party videos"
+        },
+        "body": {
+          "ru": "Видеоуроки размещены на сторонних сервисах, например на YouTube. Плеер такого сервиса не загружается, пока вы не нажмёте на видео, поэтому до нажатия сервис не получает данных о вашем посещении.\n\nПосле нажатия видео загружается с серверов стороннего сервиса, и с этого момента действуют его собственные правила конфиденциальности.",
+          "en": "Video lessons are hosted on third-party services such as YouTube. The service’s player does not load until you click the video, so until then the service receives no data about your visit.\n\nOnce you click, the video loads from the third-party service’s servers, and from that point its own privacy policy applies."
+        }
+      },
+      {
+        "heading": {
+          "ru": "Изменения политики",
+          "en": "Changes to this policy"
+        },
+        "body": {
+          "ru": "Мы обновляем эту политику, когда меняется обработка данных. Дата последнего обновления указана в начале страницы.",
+          "en": "We update this policy when the way we process data changes. The date of the latest update is shown at the top of the page."
+        }
+      },
+      {
+        "heading": {
+          "ru": "Связь с нами",
+          "en": "Contact"
+        },
+        "body": {
+          "ru": "По вопросам, связанным с вашими данными, обращайтесь через страницу «Контакты». Контакты проекта будут опубликованы его владельцем.",
+          "en": "For questions about your data, please use the Contact page. The project’s contact details will be published by its owner."
+        }
+      }
+    ]
+  }
+}

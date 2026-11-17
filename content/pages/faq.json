@@ -1,0 +1,115 @@
+{
+  "slug": "faq",
+  "doc": {
+    "title": {
+      "ru": "Частые вопросы",
+      "en": "Frequently Asked Questions"
+    },
+    "intro": {
+      "ru": "Ответы на основные вопросы о том, как пользоваться BALANCE. Материалы сайта носят образовательный характер и не заменяют занятий с преподавателем или консультации специалиста.",
+      "en": "Answers to the main questions about using BALANCE. The materials on this site are educational and do not replace classes with a teacher or advice from a qualified professional."
+    },
+    "items": [
+      {
+        "q": {
+          "ru": "С чего начать, если я никогда не делал(а) балансы?",
+          "en": "Where do I start if I have never done arm balances?"
+        },
+        "a": {
+          "ru": "Начните с программы начального уровня «Первые балансы». Она ведёт от разминки запястий и планок к первым попыткам Вороны на предплечьях и Бакасаны. Не торопитесь: уверенная подготовка делает следующие шаги проще и безопаснее.\n\nЕсли у вас есть травмы или особенности здоровья, сначала обсудите нагрузку со специалистом.",
+          "en": "Start with the beginner program, First Balances. It takes you from a wrist warm-up and planks to your first attempts at Baby Crow and Crow. Take your time: a solid preparation makes the next steps easier and safer.\n\nIf you have an injury or a health condition, discuss the load with a qualified professional first."
+        }
+      },
+      {
+        "q": {
+          "ru": "Как выбрать подходящий уровень?",
+          "en": "How do I choose the right level?"
+        },
+        "a": {
+          "ru": "У каждой позы и программы есть уровень: начальный, средний, продвинутый или экспертный. На странице позы в разделе «Требования к подготовке» перечислено, что стоит уметь до первой попытки. Если вы уверенно выполняете эти требования, поза вам подходит; если нет — начните с более простых поз, которые указаны на той же странице.\n\nЕсли сомневаетесь, выбирайте уровень ниже.",
+          "en": "Every pose and program has a level: beginner, intermediate, advanced or expert. On a pose page, the Preparation Requirements section lists what you should be able to do before your first attempt. If you can meet these requirements with confidence, the pose suits you; if not, start with the easier poses listed on the same page.\n\nIf in doubt, choose the lower level."
+        }
+      },
+      {
+        "q": {
+          "ru": "Можно ли заниматься без преподавателя?",
+          "en": "Can I learn without a teacher?"
+        },
+        "a": {
+          "ru": "Многие подготовительные упражнения и позы начального уровня можно изучать самостоятельно, если внимательно следовать инструкциям и мерам безопасности. Но сайт не видит, как двигаетесь именно вы, и не заменяет личной оценки преподавателя.\n\nИнверсии и сложные позы, особенно продвинутого и экспертного уровней, лучше осваивать с квалифицированным преподавателем или тренером.",
+          "en": "Many preparatory exercises and beginner poses can be learned on your own if you follow the instructions and safety notes carefully. But the site cannot see how you move and does not replace an in-person assessment by a teacher.\n\nInversions and complex poses, especially at the advanced and expert levels, are best learned with a qualified teacher or coach."
+        }
+      },
+      {
+        "q": {
+          "ru": "Какие аксессуары понадобятся?",
+          "en": "What props will I need?"
+        },
+        "a": {
+          "ru": "Для начала достаточно нескользящего коврика. Также пригодятся:\n\n- два блока для йоги (их можно заменить устойчивыми толстыми книгами);\n- подушка или сложенное одеяло, чтобы положить перед ладонями;\n- свободная ровная стена для стоек.\n\nПокупать специальное оборудование не обязательно.",
+          "en": "A non-slip mat is enough to start. These are also useful:\n\n- two yoga blocks (sturdy thick books work too);\n- a cushion or folded blanket to place in front of your hands;\n- a clear, flat wall for inversions.\n\nYou don’t need to buy any special equipment."
+        }
+      },
+      {
+        "q": {
+          "ru": "Как работают фильтры библиотеки?",
+          "en": "How do the library filters work?"
+        },
+        "a": {
+          "ru": "В библиотеке асан можно искать позу по названию на русском, английском или санскрите и фильтровать позы по уровню, типу баланса и навыкам.\n\n- В уровне и типе можно выбрать несколько значений: будут показаны позы, которые подходят под любое из них.\n- Если выбрано несколько навыков, будут показаны позы, в которых есть все эти навыки.\n- Активные фильтры видны над результатами, и любой из них можно убрать одним нажатием.\n\nРезультаты можно сортировать: «Рекомендуемые», по названию или по уровню.",
+          "en": "In the Pose Library you can search for a pose by its English, Russian or Sanskrit name and filter poses by difficulty level, pose type and required skills.\n\n- For level and type you can choose several values: you will see poses that match any of them.\n- If you choose several skills, you will see poses that include all of them.\n- Active filters are shown above the results, and you can remove any of them with one tap.\n\nYou can sort the results by Recommended, Name or Level."
+        }
+      },
+      {
+        "q": {
+          "ru": "Как сохранить позу в избранное?",
+          "en": "How do I save a pose to favorites?"
+        },
+        "a": {
+          "ru": "Нажмите «В избранное» на странице позы или на её карточке в библиотеке. Для этого нужен аккаунт: войдите или зарегистрируйтесь. Сохранённые позы собраны в разделе «Моя практика» → «Избранное».",
+          "en": "Tap Save to favorites on the pose page or on its card in the library. You need an account for this: sign in or sign up. Your saved poses are collected in My Practice → Favorites."
+        }
+      },
+      {
+        "q": {
+          "ru": "Чем отметка «Освоено» отличается от выполнения шага программы?",
+          "en": "What is the difference between marking a pose as learned and completing a program step?"
+        },
+        "a": {
+          "ru": "Это две независимые отметки. Статус позы («Не начато», «В процессе», «Освоено») описывает, как вы владеете самой позой; его можно изменить на странице позы или в шаге программы. Отметка «Шаг выполнен» относится только к прохождению программы.\n\nМожно выполнить шаг, не считая позу освоенной, и наоборот: одна отметка не меняет другую.",
+          "en": "These are two independent marks. A pose status (Not started, In progress, Learned) describes how well you know the pose itself; you can change it on the pose page or in a program step. Step complete refers only to your progress through the program.\n\nYou can complete a step without considering the pose learned, and the other way round: one mark does not change the other."
+        }
+      },
+      {
+        "q": {
+          "ru": "Где найти видеоуроки?",
+          "en": "Where can I find video lessons?"
+        },
+        "a": {
+          "ru": "Если для позы есть видеоурок, он находится на её странице в разделе «Видеоурок». Ролики созданы сторонними авторами, и мы добавляем их только после проверки, поэтому у некоторых поз урока на вашем языке пока нет — страница прямо об этом сообщает.\n\nПлеер загружается только после того, как вы нажмёте на видео.",
+          "en": "If a pose has a video lesson, you will find it on the pose page in the Video Tutorial section. The videos are made by third-party authors, and we add them only after checking them, so some poses do not have a lesson in your language yet — the page says so plainly.\n\nThe player loads only after you click the video."
+        }
+      },
+      {
+        "q": {
+          "ru": "Синхронизируется ли мой прогресс между устройствами и языками?",
+          "en": "Is my progress synced across devices and languages?"
+        },
+        "a": {
+          "ru": "Да, если вы вошли в аккаунт. Избранное, статусы поз, выполненные шаги программ, история практики и цели хранятся в аккаунте и доступны на любом устройстве после входа.\n\nПозы и шаги программ одни и те же в русской и английской версиях, поэтому при переключении языка прогресс сохраняется.",
+          "en": "Yes, when you are signed in. Your favorites, pose statuses, completed program steps, practice history and goals are stored in your account and available on any device after you sign in.\n\nPoses and program steps are the same in the Russian and English versions, so your progress stays when you switch languages."
+        }
+      },
+      {
+        "q": {
+          "ru": "Как удалить аккаунт и мои данные?",
+          "en": "How do I delete my account and data?"
+        },
+        "a": {
+          "ru": "Откройте «Профиль». Там можно скачать все свои данные в формате JSON («Скачать мои данные») и удалить аккаунт.\n\nПри удалении аккаунт и все связанные данные — избранное, прогресс, записи истории практики и цели — удаляются без возможности восстановления, поэтому при необходимости сначала сохраните экспорт.",
+          "en": "Open your Profile. There you can download all your data as JSON (Download my data) and delete your account.\n\nWhen you delete it, your account and all related data — favorites, progress, practice log entries and goals — are permanently deleted, so save an export first if you need one."
+        }
+      }
+    ]
+  }
+}

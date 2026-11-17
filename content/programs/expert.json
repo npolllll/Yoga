@@ -1,0 +1,273 @@
+{
+  "slug": "expert",
+  "level": "expert",
+  "sortWeight": 4,
+  "doc": {
+    "title": {
+      "ru": "Экспертные элементы",
+      "en": "Expert Skills"
+    },
+    "summary": {
+      "ru": "Силовой выход в стойку на руках, переходы между стойкой на голове и вороной, Стрекоза и Скорпион на предплечьях — для опытных практиков, лучше вместе с тренером.",
+      "en": "A tuck press to handstand, transitions between Tripod Headstand and Crow, Dragonfly and Forearm Scorpion — for experienced practitioners, ideally with a coach."
+    },
+    "description": {
+      "ru": "Программа экспертного уровня собирает элементы, которые требуют высокой силы, гибкости и опыта в инверсиях: силовой выход в стойку на руках из группировки, переходы из вороны в стойку на голове и обратно, Стрекозу (Максиканагасану) и Скорпион на предплечьях. Это навыки с высоким риском травмы, поэтому программа начинается с отдельного урока о работе с квалифицированным тренером или преподавателем. Каждый целевой элемент опирается на позу продвинутого уровня, которую стоит освежить перед попытками. Программа помогает выстроить последовательность, но не заменяет личной оценки специалиста.",
+      "en": "An expert program that brings together elements demanding high strength, flexibility and experience upside down: a tuck press to handstand, transitions from Crow into Tripod Headstand and back, Dragonfly (Maksikanagasana) and Forearm Scorpion. These are high-risk skills, so the program opens with a dedicated lesson on working with a qualified coach or teacher. Each target element builds on an advanced pose that is worth refreshing before your attempts. The program helps you organise the sequence but does not replace an in-person assessment by a professional."
+    },
+    "audience": {
+      "ru": "Опытным практикам, которые уверенно выполняют позы продвинутого уровня — свободную стойку на руках, стойку на предплечьях, Каундиньясану I и переход из вороны в стойку на голове.",
+      "en": "Experienced practitioners who confidently do advanced poses — a freestanding handstand, Forearm Stand, Koundinya I and the Crow to Tripod Headstand transition."
+    },
+    "prerequisites": [
+      {
+        "ru": "Свободная стойка на руках около 30 секунд и стойка на руках в группировке с контролируемым выходом.",
+        "en": "A freestanding handstand for about 30 seconds and a tuck handstand with a controlled exit."
+      },
+      {
+        "ru": "Стойка на предплечьях без стены на несколько вдохов и комфортные глубокие прогибы без боли в пояснице.",
+        "en": "Forearm Stand away from the wall for a few breaths and comfortable deep backbends without lower-back pain."
+      },
+      {
+        "ru": "Эка Пада Каундиньясана I и Летающий голубь на обе стороны.",
+        "en": "Eka Pada Koundinyasana I and Flying Pigeon on both sides."
+      },
+      {
+        "ru": "Контролируемый переход из вороны в стойку на голове с опорой на ладони.",
+        "en": "A controlled transition from Crow into Tripod Headstand."
+      },
+      {
+        "ru": "Возможность заниматься под присмотром квалифицированного тренера или преподавателя.",
+        "en": "Access to a qualified coach or teacher who can supervise your practice."
+      }
+    ],
+    "goals": [
+      {
+        "ru": "Выстроить последовательную и бережную работу над силовым выходом в стойку на руках.",
+        "en": "Build careful, step-by-step work towards a tuck press to handstand."
+      },
+      {
+        "ru": "Отработать контроль в переходах между стойкой на голове и вороной в обе стороны.",
+        "en": "Practise control in transitions between Tripod Headstand and Crow in both directions."
+      },
+      {
+        "ru": "Подготовить бёдра и корпус к Стрекозе, а плечи и спину — к Скорпиону на предплечьях.",
+        "en": "Prepare your hips and core for Dragonfly, and your shoulders and back for Forearm Scorpion."
+      },
+      {
+        "ru": "Научиться трезво оценивать готовность и вовремя возвращаться к более простым вариантам.",
+        "en": "Learn to judge your readiness honestly and return to easier versions in time."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Это навыки с высоким риском травмы: осваивайте их с квалифицированным тренером или преподавателем, который может оценить вашу подготовку и подстраховать.",
+        "en": "These are high-risk skills: learn them with a qualified coach or teacher who can assess your readiness and spot you."
+      },
+      {
+        "ru": "Глубокий прогиб в Скорпионе нагружает поясницу и плечи; при боли в спине, шее или плечах сразу выходите из позы.",
+        "en": "The deep backbend in Scorpion loads your lower back and shoulders; come down immediately if you feel pain in your back, neck or shoulders."
+      },
+      {
+        "ru": "При повышенном давлении, глаукоме, травмах шеи, плеч, запястий или спины, а также при беременности обсудите нагрузку со специалистом до начала.",
+        "en": "If you have high blood pressure, glaucoma, a neck, shoulder, wrist or back injury, or are pregnant, discuss the load with a qualified professional before you start."
+      },
+      {
+        "ru": "Не пробуйте новые элементы уставшим: делайте немного свежих попыток в начале занятия, после полной разминки.",
+        "en": "Don’t attempt new elements when you are tired: make a few fresh attempts early in the session, after a full warm-up."
+      },
+      {
+        "ru": "Работайте на мягком покрытии, со свободным пространством вокруг и заранее отработанным выходом из каждой позы.",
+        "en": "Practise on a soft surface with clear space around you and a rehearsed exit from every pose."
+      }
+    ],
+    "steps": [
+      {
+        "key": "ffd6e9c2-8771-4536-8eec-64d2b87dbf7e",
+        "kind": "lesson",
+        "title": {
+          "ru": "Прежде чем начать: высокий риск и работа с тренером",
+          "en": "Before you start: high risk and working with a coach"
+        },
+        "body": {
+          "ru": "Элементы этой программы — навыки с высоким риском. Силовые входы, переходы через стойку на голове, глубокие прогибы в инверсиях и сложные скручивания дают большую нагрузку на запястья, плечи, шею и поясницу, а ошибка в них может закончиться падением.\n\nЛучше всего осваивать их с квалифицированным тренером или преподавателем. Он может:\n\n- оценить, готовы ли вы к конкретному элементу;\n- подстраховать в момент, когда риск падения выше всего;\n- заметить ошибки выстраивания, которые трудно увидеть самостоятельно;\n- подобрать упрощения под ваше тело.\n\nКарточки BALANCE описывают технику и подготовку, но не видят, как двигаетесь именно вы. Используйте программу как карту последовательности, а не как замену личным занятиям.\n\nЕсли вы занимаетесь самостоятельно, ограничьтесь подготовительными шагами и вариантами у стены, не пробуйте свободные элементы без страховки и прекращайте практику при любой боли.",
+          "en": "The elements in this program are high-risk skills. Strength entries, transitions through a headstand, deep backbends upside down and complex twists put a heavy load on your wrists, shoulders, neck and lower back, and a mistake can end in a fall.\n\nThey are best learned with a qualified coach or teacher, who can:\n\n- assess whether you are ready for a specific element;\n- spot you at the moment when the risk of falling is highest;\n- notice alignment issues that are hard to see on your own;\n- choose modifications that suit your body.\n\nBALANCE cards describe technique and preparation, but they cannot see how you move. Use the program as a map of the sequence, not as a replacement for in-person sessions.\n\nIf you practise on your own, stick to the preparatory steps and wall-supported versions, don’t attempt freestanding elements without a spotter, and stop at any pain."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "bfa080b3-9d26-4cc3-9ab3-4bbfa404a2e7",
+        "kind": "lesson",
+        "title": {
+          "ru": "Как пользоваться программой",
+          "en": "How to use this program"
+        },
+        "body": {
+          "ru": "Каждый целевой элемент программы опирается на позу продвинутого уровня. Перед попытками освежите эту позу: если сегодня она нестабильна, сложный элемент тоже будет нестабильным.\n\nСтруктура занятия:\n\n- полная разминка запястий, плеч и корпуса;\n- подготовительное упражнение или базовая поза;\n- несколько свежих попыток целевого элемента со страховкой;\n- спокойное завершение и растяжка в комфортной амплитуде.\n\nВыбирайте одно направление за занятие: силовой выход, переходы, Стрекозу или Скорпион. Чередуйте их по дням и оставляйте полноценные дни отдыха — нагрузка на суставы здесь накапливается быстрее, чем кажется.\n\nОтмечайте шаг выполненным, когда элемент получается стабильно, а не один раз. Если после занятия долго сохраняется дискомфорт, вернитесь на шаг назад и обсудите нагрузку с тренером.",
+          "en": "Each target element in the program builds on an advanced pose. Refresh that pose before your attempts: if it is unsteady today, the harder element will be unsteady too.\n\nSession structure:\n\n- a full warm-up for your wrists, shoulders and core;\n- a preparatory exercise or the base pose;\n- a few fresh attempts at the target element with a spotter;\n- a calm finish and stretching within a comfortable range.\n\nChoose one direction per session: the press, the transitions, Dragonfly or Scorpion. Alternate them on different days and keep full rest days — the load on your joints builds up faster than it seems.\n\nMark a step complete when the element works consistently, not just once. If discomfort lingers after a session, go back a step and discuss the load with your coach."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "591f9745-bfa2-4166-b704-729a83788b0c",
+        "kind": "exercise",
+        "exerciseSlug": "wrist-warmup",
+        "title": {
+          "ru": "Разминка запястий",
+          "en": "Wrist warm-up"
+        },
+        "body": {
+          "ru": "На этом уровне разминка — обязательная часть каждого занятия. Уделите ей больше времени и добавьте упражнения на плечи и корпус из предыдущих программ.",
+          "en": "At this level the warm-up is a required part of every session. Give it more time and add shoulder and core drills from the earlier programs."
+        },
+        "durationMin": 10
+      },
+      {
+        "key": "7c230f13-84a9-4c02-9e72-07a413a9b799",
+        "kind": "exercise",
+        "exerciseSlug": "tuck-lift-on-blocks",
+        "title": {
+          "ru": "Подъём в группировке на блоках",
+          "en": "Tuck lift on blocks"
+        },
+        "body": {
+          "ru": "Знакомое упражнение с новой целью: поднимать таз выше плеч медленно, без толчка ногами. Это основа силового выхода в стойку.",
+          "en": "A familiar exercise with a new aim: lift your hips above your shoulders slowly, without pushing off with your feet. This is the base of the press to handstand."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "dc011dc3-bd4e-4512-b844-efa6d3f45e4e",
+        "kind": "pose",
+        "poseSlug": "tuck-handstand",
+        "title": {
+          "ru": "Стойка на руках в группировке",
+          "en": "Tuck Handstand"
+        },
+        "body": {
+          "ru": "Базовая поза для силового выхода. Удерживайте компактную группировку с тазом над плечами: если это положение нестабильно, пробовать силовой выход пока рано.",
+          "en": "The base pose for the press. Hold a compact tuck with your hips over your shoulders: if this position is unsteady, it is too early to try the press."
+        }
+      },
+      {
+        "key": "eedddfb9-fe46-4f2e-a209-47493f3a9e9d",
+        "kind": "pose",
+        "poseSlug": "tuck-press-to-handstand",
+        "title": {
+          "ru": "Выход в стойку на руках из группировки силой",
+          "en": "Tuck Press to Handstand"
+        },
+        "body": {
+          "ru": "Целевой элемент направления. Начинайте у стены или со страхующим и отрабатывайте отдельные части движения, прежде чем соединять их.",
+          "en": "The target element for this direction. Start at the wall or with a spotter, and work on separate parts of the movement before linking them."
+        }
+      },
+      {
+        "key": "5769d4f5-9371-4211-811e-4ccfd3a8415e",
+        "kind": "pose",
+        "poseSlug": "crow-to-tripod-headstand",
+        "title": {
+          "ru": "Из вороны в стойку на голове",
+          "en": "Crow to Tripod Headstand"
+        },
+        "body": {
+          "ru": "Освежите этот переход продвинутого уровня: голова опускается мягко и под контролем, вес остаётся на руках. Это обязательная основа для обратного перехода.",
+          "en": "Refresh this advanced transition: your head lowers softly and with control, and your weight stays in your hands. It is the required base for the reverse transition."
+        }
+      },
+      {
+        "key": "a6348f97-17c7-4241-b1fb-8996bdceebf7",
+        "kind": "pose",
+        "poseSlug": "tripod-headstand-to-crow",
+        "title": {
+          "ru": "Из стойки на голове в ворону",
+          "en": "Tripod Headstand to Crow"
+        },
+        "body": {
+          "ru": "Обратный переход требует сильного давления ладонями в пол, чтобы оторвать голову от коврика. Отрабатывайте его со страховкой и на мягком покрытии и опускайте колени на руки плавно.",
+          "en": "The reverse transition takes a strong press through your palms to lift your head off the mat. Practise it with a spotter on a soft surface, and lower your knees onto your arms smoothly."
+        }
+      },
+      {
+        "key": "820b41fd-31c9-4c7e-9697-55d154973b24",
+        "kind": "exercise",
+        "exerciseSlug": "pigeon-pose",
+        "title": {
+          "ru": "Поза голубя (подготовительная)",
+          "en": "Pigeon pose prep"
+        },
+        "body": {
+          "ru": "Мягко раскрывает внешнюю сторону бедра — подвижность, нужная для положения ноги «четвёркой» в Стрекозе. Оставайтесь в комфортной амплитуде и следите за ощущениями в колене.",
+          "en": "Gently opens your outer hip — the mobility you need for the figure-four leg in Dragonfly. Stay within a comfortable range and pay attention to your knee."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "873ec39a-dfc5-4423-8e1a-38b10a4fb09b",
+        "kind": "pose",
+        "poseSlug": "eka-pada-koundinyasana-1",
+        "title": {
+          "ru": "Эка Пада Каундиньясана I: основа для Стрекозы",
+          "en": "Koundinya I: the base for Dragonfly"
+        },
+        "body": {
+          "ru": "Освежите эту позу перед Стрекозой: скручивание, согнутые локти и опора ноги на руку здесь те же. Работайте на обе стороны.",
+          "en": "Refresh this pose before Dragonfly: the twist, the bent elbows and the leg resting on your arm are the same. Work both sides."
+        }
+      },
+      {
+        "key": "5528cd01-3c36-42c6-857e-fe3c1e28402c",
+        "kind": "pose",
+        "poseSlug": "maksikanagasana",
+        "title": {
+          "ru": "Стрекоза",
+          "en": "Dragonfly Pose"
+        },
+        "body": {
+          "ru": "Целевая поза направления. Сначала соберите положение ног, пока стопа ещё на полу, затем переносите вес на руки; при любом дискомфорте в колене выходите из позы.",
+          "en": "The target pose for this direction. First set up the leg position while your foot is still on the floor, then shift your weight into your hands; come out of the pose at any knee discomfort."
+        }
+      },
+      {
+        "key": "bdb0b87e-876c-44d9-93da-be160970edce",
+        "kind": "exercise",
+        "exerciseSlug": "bridge-pose",
+        "title": {
+          "ru": "Мостик на лопатках",
+          "en": "Bridge Pose"
+        },
+        "body": {
+          "ru": "Мягко раскрывает грудную клетку и переднюю поверхность бёдер перед прогибом в Скорпионе. Двигайтесь плавно и не форсируйте прогиб в пояснице.",
+          "en": "Gently opens your chest and the front of your hips before the backbend in Scorpion. Move smoothly and don’t force the bend into your lower back."
+        },
+        "durationMin": 5
+      },
+      {
+        "key": "03dde820-b3ba-4cf0-822a-425b4d1a2b7a",
+        "kind": "pose",
+        "poseSlug": "vrschikasana",
+        "title": {
+          "ru": "Скорпион на предплечьях",
+          "en": "Forearm Scorpion Pose"
+        },
+        "body": {
+          "ru": "Начинайте только из уверенной стойки на предплечьях. Углубляйте прогиб постепенно и делайте первые попытки со страхующим, который помогает контролировать положение ног.",
+          "en": "Start only from a confident Forearm Stand. Deepen the backbend gradually and make your first attempts with a spotter who helps you control your legs."
+        }
+      },
+      {
+        "key": "48f61cb5-e261-447a-b4c1-106f9c8cd614",
+        "kind": "lesson",
+        "title": {
+          "ru": "Восстановление и итоги",
+          "en": "Recovery and review"
+        },
+        "body": {
+          "ru": "На экспертном уровне восстановление особенно важно: суставы и связки адаптируются к нагрузке медленнее мышц. Планируйте лёгкие дни и дни полного отдыха, а усталость считайте поводом сократить занятие, а не преодолевать её.\n\nОриентиры того, что элемент закрепился:\n\n- он получается стабильно в разные дни, а не только в удачный;\n- вы контролируете и вход, и выход;\n- после занятия нет боли, которая сохраняется до следующего раза.\n\nВ библиотеке есть и другие позы экспертного уровня — например, стойка на одной руке или Вишвамитрасана. Подходите к ним так же: через позы-основы, со страховкой и вместе с тренером.\n\nУровень сложности — не цель сам по себе. Возвращение к простым позам ради качества — признак зрелой практики.",
+          "en": "At the expert level recovery matters even more: joints and connective tissue adapt to load more slowly than muscles. Plan light days and full rest days, and treat fatigue as a reason to shorten a session rather than push through it.\n\nSigns that an element is consolidated:\n\n- it works consistently on different days, not only on a good one;\n- you control both the entry and the exit;\n- there is no pain after the session that lasts until the next one.\n\nThe library has other expert poses too — for example, the One-Arm Handstand or Visvamitrasana. Approach them the same way: through their base poses, with a spotter and together with a coach.\n\nThe difficulty level is not a goal in itself. Going back to simpler poses for the sake of quality is a sign of a mature practice."
+        },
+        "durationMin": 5
+      }
+    ]
+  }
+}

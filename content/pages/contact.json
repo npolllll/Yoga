@@ -1,0 +1,17 @@
+{
+  "slug": "contact",
+  "doc": {
+    "title": {
+      "ru": "Контакты",
+      "en": "Contact"
+    },
+    "intro": {
+      "ru": "Контакты проекта BALANCE — адрес электронной почты и ссылки на социальные сети — будут опубликованы владельцем проекта. До этого на странице нет способа связи: мы не указываем непроверенные адреса.",
+      "en": "BALANCE project contacts — an email address and social media links — will be published by the project owner. Until then, this page has no contact details: we do not list unverified addresses."
+    },
+    "contact": {
+      "email": null,
+      "socials": []
+    }
+  }
+}
