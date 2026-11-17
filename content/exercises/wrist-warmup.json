@@ -1,0 +1,49 @@
+{
+  "slug": "wrist-warmup",
+  "skills": [
+    "wrist-strength"
+  ],
+  "doc": {
+    "name": {
+      "ru": "Разминка запястий",
+      "en": "Wrist Warm-Up"
+    },
+    "summary": {
+      "ru": "Короткая разминка кистей и предплечий перед практикой с опорой на руки: подготавливает запястья к нагрузке в планке, Бакасане и стойках на руках.",
+      "en": "A short warm-up for the hands and forearms before weight-bearing practice, preparing your wrists for plank, Crow and handstands."
+    },
+    "instructions": [
+      {
+        "ru": "Сцепите пальцы в замок и сделайте 5–10 плавных круговых движений кистями в каждую сторону.",
+        "en": "Interlace your fingers and make 5–10 slow wrist circles in each direction."
+      },
+      {
+        "ru": "Встаньте на четвереньки, ладони под плечами. Мягко покачайтесь вперёд и назад 8–10 раз, не отрывая ладоней от пола.",
+        "en": "Come onto all fours with your hands under your shoulders. Gently rock forward and back 8–10 times, keeping your palms on the floor."
+      },
+      {
+        "ru": "Разверните пальцы к коленям и, если это комфортно, слегка отведите таз назад на 15–30 секунд.",
+        "en": "Turn your fingers toward your knees and, if it feels comfortable, ease your hips back for 15–30 seconds."
+      },
+      {
+        "ru": "Положите кисти тыльной стороной на коврик и мягко потяните предплечья 15–30 секунд, затем встряхните кистями.",
+        "en": "Place the backs of your hands on the mat and gently stretch your forearms for 15–30 seconds, then shake out your hands."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Двигайтесь медленно и в комфортной амплитуде; при боли или онемении прекратите упражнение.",
+        "en": "Move slowly within a comfortable range; stop if you feel pain or numbness."
+      },
+      {
+        "ru": "При недавней травме запястий сначала обсудите нагрузку со специалистом.",
+        "en": "If you have had a recent wrist injury, discuss the load with a qualified professional first."
+      }
+    ],
+    "muscles": [
+      "wrists-forearms",
+      "shoulders-deltoids"
+    ],
+    "sources": []
+  }
+}

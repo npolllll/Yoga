@@ -103,6 +103,9 @@ h3 {
 
 p {
   text-wrap: pretty;
+}
+/* Long Russian words may overflow narrow cards on phones. */
+:lang(ru) p {
   hyphens: auto;
 }
 

@@ -1,0 +1,314 @@
+{
+  "slug": "mayurasana",
+  "category": "arm-balances",
+  "level": "advanced",
+  "skills": [
+    "arm-strength",
+    "wrist-strength",
+    "core-control"
+  ],
+  "sortWeight": 66,
+  "motion": {
+    "view": "side",
+    "contacts": [
+      "hands"
+    ],
+    "entry": "0-2s kneeling with knees slightly apart, palms on the floor between the knees with fingers pointing back toward the feet, little fingers close together; 2-4s elbows bend, forearms come together, torso leans forward so the abdomen near the navel rests on the elbows and the chest on the backs of the upper arms; 4-6s legs straighten back one at a time and join, toes on the mat, body in one line.",
+    "hold": "6-8s chest moves slowly forward and the toes lift: forearms close to vertical with the elbows slightly forward of the wrists, elbows together pressing into the upper abdomen, body straight and parallel to the floor at elbow height, legs together and straight, toes pointed, head lifted, gaze forward (poster frame).",
+    "exit": "8-10s weight moves back, toes and then knees lower to the mat, hands release."
+  },
+  "doc": {
+    "name": {
+      "ru": "Павлин",
+      "en": "Peacock Pose"
+    },
+    "subtitle": {
+      "ru": "Маюрасана",
+      "en": "Mayurasana"
+    },
+    "sanskrit": "Mayurasana",
+    "altNames": [
+      "Маюрасана",
+      "Поза павлина",
+      "Павлин",
+      "Peacock",
+      "Mayūrāsana"
+    ],
+    "summary": {
+      "ru": "Баланс на ладонях с пальцами, направленными к стопам: локти упираются в живот, а прямое тело удерживается параллельно полу.",
+      "en": "A balance on your palms with your fingers pointing toward your feet: your elbows press into your abdomen and your straight body is held parallel to the floor."
+    },
+    "about": {
+      "ru": "Маюрасана — классический продвинутый баланс на руках. Ладони стоят на полу пальцами к стопам, предплечья почти вертикальны и сведены вместе, локти упираются в живот, а прямое тело удерживается над полом, как рычаг. Здесь показана классическая форма с прямыми сомкнутыми ногами. Поза требует сильных и подвижных запястий, сильных рук и плотной работы мышц спины и ягодиц, поэтому её относят к продвинутому уровню. Практикуйте её натощак.",
+      "en": "Mayurasana is a classical advanced arm balance. Your palms are on the floor with your fingers pointing toward your feet, your forearms are almost vertical and close together, your elbows press into your abdomen, and your straight body is held above the floor like a lever. This card shows the classical form with straight legs held together. The pose needs strong, mobile wrists, strong arms and firm work of the back and gluteal muscles, which is why it is rated advanced. Practise it on an empty stomach."
+    },
+    "prerequisites": [
+      {
+        "ru": "Вы стоите на четвереньках с пальцами, направленными назад к коленям, без боли в запястьях.",
+        "en": "You can kneel on all fours with your fingers pointing back toward your knees without wrist pain."
+      },
+      {
+        "ru": "Вы удерживаете Чатурангу или Хамсасану несколько вдохов.",
+        "en": "You can hold Chaturanga or Hamsasana for a few breaths."
+      },
+      {
+        "ru": "Вы держите прямое тело в планке не менее 30–60 секунд.",
+        "en": "You can hold a straight body in plank for at least 30–60 seconds."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Запястья работают в глубоком разгибании: тщательно разомните их и прекратите попытку при боли.",
+        "en": "Your wrists work in deep extension: warm them up well and stop if you feel pain."
+      },
+      {
+        "ru": "Локти давят на живот. Практикуйте натощак. При беременности, грыже или после операций на брюшной полости не выполняйте позу без одобрения специалиста.",
+        "en": "Your elbows press into your abdomen. Practise on an empty stomach. If you are pregnant, have a hernia or have had abdominal surgery, do not do this pose without a qualified professional's approval."
+      },
+      {
+        "ru": "Положите сложенное одеяло под лицо: при переносе веса вперёд можно потерять равновесие лицом вниз.",
+        "en": "Place a folded blanket under your face: as you shift forward, you may tip face-down."
+      },
+      {
+        "ru": "При травмах запястий, локтей или плеч сначала обсудите нагрузку со специалистом.",
+        "en": "If you have a wrist, elbow or shoulder injury, discuss the load with a qualified professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "05fe0b6d-20ac-4473-b74f-3ee4687efe59",
+        "title": {
+          "ru": "Поставьте ладони",
+          "en": "Place your hands"
+        },
+        "body": {
+          "ru": "Встаньте на колени, разведя их чуть шире таза. Поставьте ладони на пол между коленями пальцами к стопам, мизинцы близко друг к другу.",
+          "en": "Kneel with your knees slightly wider than your hips. Place your palms on the floor between your knees with your fingers pointing toward your feet and your little fingers close together."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "7cdc1d73-6afb-4e05-8f3e-3bc49e7c2db6",
+        "title": {
+          "ru": "Упритесь локтями в живот",
+          "en": "Set the elbows"
+        },
+        "body": {
+          "ru": "Согните локти и сведите предплечья вместе. Наклонитесь вперёд и положите живот на локти, а грудь — на верхнюю часть рук.",
+          "en": "Bend your elbows and bring your forearms together. Lean forward and rest your abdomen on your elbows and your chest on your upper arms."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "41ee9b08-fc9a-49c4-b20b-67cffbfcf2e3",
+        "title": {
+          "ru": "Вытяните ноги",
+          "en": "Extend the legs"
+        },
+        "body": {
+          "ru": "По очереди выпрямите ноги назад и соедините их. Опирайтесь на носки, тело вытянуто в одну линию.",
+          "en": "Straighten your legs back one at a time and bring them together. Rest on your toes with your body in one line."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "1a15955c-e801-4889-af28-ccb076a65b92",
+        "title": {
+          "ru": "Поднимите ноги",
+          "en": "Lift the legs"
+        },
+        "body": {
+          "ru": "На выдохе медленно подайте грудь вперёд, перенося вес на ладони. Напрягите ягодицы и ноги, чтобы носки оторвались от пола. Поднимите голову и смотрите вперёд.",
+          "en": "As you exhale, slowly move your chest forward and shift your weight into your palms. Engage your glutes and legs so your toes lift off the floor. Raise your head and look ahead."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "935d3cbe-3b6e-4c31-b6af-1b096dad04f3",
+        "title": {
+          "ru": "Удерживайте прямую линию",
+          "en": "Hold the line"
+        },
+        "body": {
+          "ru": "Держите тело примерно параллельно полу, ноги прямые и вместе. Дышите спокойно несколько вдохов.",
+          "en": "Keep your body roughly parallel to the floor with your legs straight and together. Breathe calmly for a few breaths."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "19596764-e418-4e6a-ae3f-080b6c33bcb2",
+        "title": {
+          "ru": "Выйдите из позы",
+          "en": "Come down"
+        },
+        "body": {
+          "ru": "Перенесите вес назад, опустите носки, затем колени. Освободите кисти и мягко подвигайте запястьями.",
+          "en": "Shift your weight back and lower your toes, then your knees. Release your hands and gently move your wrists."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "chest"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "lower-back"
+      },
+      {
+        "key": "glutes"
+      }
+    ],
+    "anatomy": {
+      "ru": "Кисти и предплечья удерживают вес тела при глубоком разгибании запястий. Руки и грудные мышцы поддерживают корпус над локтями. Мышцы спины, ягодицы и задняя поверхность бёдер удерживают прямые ноги на одной линии с корпусом.",
+      "en": "Your hands and forearms carry your body weight with your wrists deeply extended. Your arms and chest support your torso over your elbows. Your back muscles, glutes and hamstrings keep your straight legs in line with your torso."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "wrist-warmup",
+        "title": {
+          "ru": "Разминка запястий с пальцами назад",
+          "en": "Wrist warm-up with fingers back"
+        },
+        "body": {
+          "ru": "Постепенно приучайте запястья к опоре с пальцами, направленными к коленям.",
+          "en": "Gradually get your wrists used to bearing weight with your fingers pointing toward your knees."
+        }
+      },
+      {
+        "exerciseSlug": "knee-chaturanga",
+        "title": {
+          "ru": "Чатуранга с колен",
+          "en": "Knees-down Chaturanga"
+        },
+        "body": {
+          "ru": "Укрепляет руки и грудь в положении с согнутыми локтями.",
+          "en": "Strengthens your arms and chest with your elbows bent."
+        }
+      },
+      {
+        "exerciseSlug": "plank",
+        "title": {
+          "ru": "Планка",
+          "en": "Plank"
+        },
+        "body": {
+          "ru": "Учит удерживать тело одной прямой линией.",
+          "en": "Teaches you to hold your body in one straight line."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Локти расходятся",
+          "en": "Elbows drifting apart"
+        },
+        "why": {
+          "ru": "Опора под корпусом теряется, и он проваливается между руками.",
+          "en": "You lose the support under your torso and it sinks between your arms."
+        },
+        "fix": {
+          "ru": "Держите предплечья вместе и упирайте локти в живот рядом с пупком.",
+          "en": "Keep your forearms together and press your elbows into your abdomen near the navel."
+        }
+      },
+      {
+        "title": {
+          "ru": "Ноги поднимаются толчком",
+          "en": "Kicking the legs up"
+        },
+        "why": {
+          "ru": "Вес резко уходит вперёд, и вы можете упасть лицом вниз.",
+          "en": "Your weight lurches forward and you may tip onto your face."
+        },
+        "fix": {
+          "ru": "Подавайте грудь вперёд медленно, пока ноги не станут лёгкими.",
+          "en": "Move your chest forward slowly until your legs feel light."
+        }
+      },
+      {
+        "title": {
+          "ru": "Ноги расслаблены",
+          "en": "Soft legs"
+        },
+        "why": {
+          "ru": "Ноги провисают, и тело перестаёт работать как единый рычаг.",
+          "en": "Your legs sag and your body stops working as one lever."
+        },
+        "fix": {
+          "ru": "Соедините ноги, напрягите ягодицы и вытяните носки.",
+          "en": "Press your legs together, engage your glutes and point your toes."
+        }
+      }
+    ],
+    "easier": [
+      "hamsasana",
+      "chaturanga-dandasana"
+    ],
+    "harder": [],
+    "related": [
+      "lolasana",
+      "tolasana",
+      "bakasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Колени на полу, пальцы направлены к стопам",
+          "en": "Kneel, fingers pointing toward the feet"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Локти в живот, грудь на руках",
+          "en": "Elbows into the abdomen, chest on the arms"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Ноги выпрямляются назад",
+          "en": "Legs straighten back"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: тело параллельно полу",
+          "en": "Hold: body parallel to the floor"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Носки и колени опускаются",
+          "en": "Toes and knees lower"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Mayurasana",
+        "note": "Classical description of the pose."
+      }
+    ]
+  }
+}

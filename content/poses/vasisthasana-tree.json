@@ -1,0 +1,303 @@
+{
+  "slug": "vasisthasana-tree",
+  "category": "one-arm-balances",
+  "level": "intermediate",
+  "skills": [
+    "core-control",
+    "hip-openness",
+    "balance-coordination"
+  ],
+  "sortWeight": 44,
+  "motion": {
+    "view": "front",
+    "contacts": [
+      "one-hand",
+      "feet"
+    ],
+    "entry": "0-2s side plank on the right hand and outer edge of the right foot, feet stacked, left hand on hip; 2-4s hips lift so heels, hips and head line up.",
+    "hold": "4-6s left knee bends and the left sole presses into the inner right thigh, knee opens toward the ceiling; 6-8s hold: right arm straight with the hand just ahead of the shoulder, hips lifted, left knee pointing up, left arm reaching up, gaze to the top hand (poster frame).",
+    "exit": "8-10s left foot returns on top of the right, left hand to the mat, roll back to plank."
+  },
+  "doc": {
+    "name": {
+      "ru": "Боковая планка с ногой в позе дерева",
+      "en": "Side Plank Tree Variation"
+    },
+    "subtitle": {
+      "ru": "Врикша Васиштхасана",
+      "en": "Vrksa Vasisthasana"
+    },
+    "sanskrit": "Vrksa Vasisthasana",
+    "altNames": [
+      "Врикша Васиштхасана",
+      "Боковая планка с деревом",
+      "Васиштхасана с ногой в позе дерева",
+      "Side Plank Tree Pose",
+      "Tree Side Plank"
+    ],
+    "summary": {
+      "ru": "Боковая планка, в которой стопа верхней ноги стоит на внутренней стороне бедра нижней ноги, а колено раскрыто вверх, как в позе дерева.",
+      "en": "A side plank in which the sole of the top foot presses into the inner thigh of the bottom leg and the knee opens up, as in Tree Pose."
+    },
+    "about": {
+      "ru": "Вариант Васиштхасаны с ногой в позе дерева. Вы держите тело на одной прямой руке и наружном ребре нижней стопы, а верхнюю ногу сгибаете, ставите стопу на внутреннюю сторону бедра нижней ноги и раскрываете колено к потолку. На полу остаётся только одна стопа, а раскрытое бедро смещает центр тяжести, поэтому баланс сложнее, чем в базовой боковой планке. Поза развивает контроль корпуса, раскрытие бёдер и координацию и относится к среднему уровню.",
+      "en": "A Vasisthasana variation with the leg in Tree Pose. You support your body on one straight arm and the outer edge of the bottom foot, then bend the top leg, place the sole on the inner thigh of the bottom leg and open the knee toward the ceiling. Only one foot stays on the floor and the open hip shifts your center of gravity, so the balance is harder than in the basic side plank. The pose builds core control, hip opening and coordination, and is rated intermediate."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно держите Васиштхасану 30 секунд на каждую сторону.",
+        "en": "You can hold Vasisthasana for 30 seconds on each side."
+      },
+      {
+        "ru": "Спокойно стоите в позе дерева (Врикшасане) со стопой на внутренней стороне бедра.",
+        "en": "You can stand steadily in Tree Pose (Vrksasana) with your foot on the inner thigh."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Ставьте стопу выше или ниже колена, но не на сам коленный сустав.",
+        "en": "Place your foot above or below the knee, never on the knee joint itself."
+      },
+      {
+        "ru": "При боли в запястье, плече или колене прекратите удержание.",
+        "en": "Stop the hold if you feel pain in your wrist, shoulder or knee."
+      },
+      {
+        "ru": "Если таз проваливается, вернитесь к базовой боковой планке или опустите нижнее колено.",
+        "en": "If your hips sink, return to the basic side plank or lower the bottom knee."
+      }
+    ],
+    "steps": [
+      {
+        "key": "9ee82276-74c2-4ee1-ac3f-aa732280759c",
+        "title": {
+          "ru": "Войдите в боковую планку",
+          "en": "Come into side plank"
+        },
+        "body": {
+          "ru": "Из планки повернитесь на правую ладонь и наружное ребро правой стопы. Положите левую стопу на правую, а левую ладонь — на бедро.",
+          "en": "From plank, turn onto your right hand and the outer edge of your right foot. Stack your left foot on top and rest your left hand on your hip."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "687277f5-30fa-44e8-a52c-52e7a5222054",
+        "title": {
+          "ru": "Укрепите опору",
+          "en": "Set your base"
+        },
+        "body": {
+          "ru": "Поставьте правую ладонь чуть впереди плеча и оттолкните пол. Поднимите таз, чтобы тело вытянулось в одну линию.",
+          "en": "Place your right palm just ahead of your shoulder and push the floor away. Lift your hips so your body forms one line."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "9af25e50-6386-4b2b-8ee8-955693da867f",
+        "title": {
+          "ru": "Поставьте стопу в позу дерева",
+          "en": "Place the foot in Tree"
+        },
+        "body": {
+          "ru": "Согните левое колено и поставьте левую стопу на внутреннюю сторону правого бедра. Если так не получается, поставьте её на голень, но не на колено.",
+          "en": "Bend your left knee and place your left sole on your inner right thigh. If that is not possible, place it on the shin, but not on the knee."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "431283e6-3ced-4eb5-8b32-d6eeb80a8f1a",
+        "title": {
+          "ru": "Раскройте колено",
+          "en": "Open the knee"
+        },
+        "body": {
+          "ru": "Направьте левое колено к потолку и прижимайте стопу и бедро друг к другу. Продолжайте поднимать таз, чтобы он не проваливался.",
+          "en": "Point your left knee toward the ceiling and press your foot and thigh into each other. Keep lifting your hips so they don’t sink."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "bbfc22fa-cfdb-4ef4-ba28-8227bfe56c9d",
+        "title": {
+          "ru": "Поднимите руку",
+          "en": "Reach up"
+        },
+        "body": {
+          "ru": "Вытяните левую руку вверх. Смотрите на ладонь или вперёд и дышите ровно.",
+          "en": "Reach your left arm up. Look at your hand or straight ahead and breathe evenly."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "b7c80f8f-e9c4-4728-ad9f-1627c556de13",
+        "title": {
+          "ru": "Выйдите из позы",
+          "en": "Come out"
+        },
+        "body": {
+          "ru": "Верните левую стопу на правую, опустите ладонь на коврик и вернитесь в планку. Повторите на другую сторону.",
+          "en": "Return your left foot on top of the right, lower your hand to the mat and come back to plank. Repeat on the other side."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "serratus"
+      },
+      {
+        "key": "obliques"
+      },
+      {
+        "key": "glutes"
+      },
+      {
+        "key": "adductors"
+      }
+    ],
+    "anatomy": {
+      "ru": "Кисть, плечо и передняя зубчатая мышца опорной руки держат вес тела. Косые мышцы живота и ягодичные мышцы нижней ноги удерживают таз поднятым, а верхняя нога работает на раскрытие бедра и давление стопы в бедро.",
+      "en": "The hand, shoulder and serratus anterior of the supporting arm carry your weight. Your obliques and the glutes of the bottom leg keep your hips lifted, while the top leg works to open the hip and press the foot into the thigh."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "side-plank-knee",
+        "title": {
+          "ru": "Боковая планка с опорой на колено",
+          "en": "Side plank on the knee"
+        },
+        "body": {
+          "ru": "Попробуйте ногу в позе дерева в боковой планке с опорой на колено.",
+          "en": "Try the tree leg in a side plank on the knee."
+        }
+      },
+      {
+        "exerciseSlug": "plank-shoulder-taps",
+        "title": {
+          "ru": "Касания плеч в планке",
+          "en": "Plank shoulder taps"
+        },
+        "body": {
+          "ru": "Учат сохранять устойчивость на одной руке.",
+          "en": "Teach you to stay steady on one arm."
+        }
+      },
+      {
+        "exerciseSlug": "pigeon-pose",
+        "title": {
+          "ru": "Поза голубя",
+          "en": "Pigeon Pose prep"
+        },
+        "body": {
+          "ru": "Готовит тазобедренный сустав к раскрытию колена в сторону.",
+          "en": "Prepares your hip to open the knee out to the side."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Стопа на колене",
+          "en": "Foot on the knee"
+        },
+        "why": {
+          "ru": "Давление приходится на сустав, а не на мышцы бедра или голени.",
+          "en": "The pressure lands on the joint instead of the thigh or shin muscles."
+        },
+        "fix": {
+          "ru": "Поставьте стопу выше или ниже колена.",
+          "en": "Place your foot above or below the knee."
+        }
+      },
+      {
+        "title": {
+          "ru": "Таз проваливается",
+          "en": "Hips sinking"
+        },
+        "why": {
+          "ru": "Без второй стопы на полу нагрузка уходит в плечо и поясницу.",
+          "en": "Without the second foot on the floor, the load shifts into your shoulder and lower back."
+        },
+        "fix": {
+          "ru": "Сильнее прижмите наружное ребро стопы к полу и поднимите таз.",
+          "en": "Press the outer edge of your foot down more firmly and lift your hips."
+        }
+      },
+      {
+        "title": {
+          "ru": "Колено заваливается вперёд",
+          "en": "Knee falling forward"
+        },
+        "why": {
+          "ru": "Грудь поворачивается к полу, и баланс смещается.",
+          "en": "Your chest turns toward the floor and the balance shifts."
+        },
+        "fix": {
+          "ru": "Направьте колено вверх и раскройте грудь в ту же сторону.",
+          "en": "Point your knee up and open your chest the same way."
+        }
+      }
+    ],
+    "easier": [
+      "vasisthasana"
+    ],
+    "harder": [
+      "kasyapasana",
+      "visvamitrasana"
+    ],
+    "related": [
+      "vasisthasana",
+      "kasyapasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Боковая планка",
+          "en": "Side plank"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Таз поднимается в одну линию",
+          "en": "Hips lift into one line"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Стопа на внутреннюю сторону бедра",
+          "en": "Foot to the inner thigh"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: колено вверх, рука вверх",
+          "en": "Hold: knee up, arm up"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Стопы вместе, возврат в планку",
+          "en": "Feet together, back to plank"
+        }
+      }
+    ],
+    "sources": []
+  }
+}

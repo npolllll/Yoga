@@ -1,0 +1,52 @@
+{
+  "slug": "lizard-pose",
+  "skills": [
+    "hip-openness",
+    "flexibility"
+  ],
+  "doc": {
+    "name": {
+      "ru": "Поза ящерицы",
+      "en": "Lizard Pose"
+    },
+    "summary": {
+      "ru": "Глубокий выпад с ладонями или предплечьями с внутренней стороны передней стопы: раскрывает тазобедренные суставы и сгибатели бедра для Эка Пада Каундиньясаны II, Летающего голубя и Светлячка.",
+      "en": "A deep lunge with your hands or forearms inside the front foot that opens the hips and hip flexors for Flying Splits, Flying Pigeon and Firefly."
+    },
+    "instructions": [
+      {
+        "ru": "Из Собаки мордой вниз шагните правой стопой к внешней стороне правой ладони и опустите левое колено на коврик.",
+        "en": "From Downward-Facing Dog, step your right foot to the outside of your right hand and lower your left knee to the mat."
+      },
+      {
+        "ru": "Слегка разверните носок передней стопы наружу; колено направлено в ту же сторону, что и носок.",
+        "en": "Turn your front toes slightly out and keep your knee pointing the same way as your toes."
+      },
+      {
+        "ru": "Оставайтесь на ладонях или опустите предплечья на блок или коврик, удлиняя спину вперёд.",
+        "en": "Stay on your hands or lower your forearms onto a block or the mat, lengthening your spine forward."
+      },
+      {
+        "ru": "Дышите спокойно 30–60 секунд, затем вернитесь в Собаку мордой вниз и повторите на другую сторону.",
+        "en": "Breathe calmly for 30–60 seconds, then return to Downward-Facing Dog and repeat on the other side."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Подложите одеяло под заднее колено и используйте блоки под предплечья, если пол далеко.",
+        "en": "Put a blanket under your back knee and use blocks under your forearms if the floor feels far away."
+      },
+      {
+        "ru": "При боли в колене или паху выйдите из позы.",
+        "en": "Come out of the pose if you feel pain in your knee or groin."
+      }
+    ],
+    "muscles": [
+      "hip-flexors",
+      "adductors",
+      "glutes",
+      "hamstrings"
+    ],
+    "sources": []
+  }
+}

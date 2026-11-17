@@ -1,0 +1,300 @@
+{
+  "slug": "dwi-pada-koundinyasana",
+  "category": "side-balances",
+  "level": "advanced",
+  "skills": [
+    "arm-strength",
+    "twist",
+    "core-control"
+  ],
+  "sortWeight": 66,
+  "motion": {
+    "view": "three-quarter",
+    "contacts": [
+      "hands"
+    ],
+    "entry": "0-2s deep squat on toes, knees together, torso twists right, left upper arm against the outer right thigh, palms down to the right of the feet, shoulder-width; 2-4s elbows bend back, shoulders shift forward, feet lift into Side Crow.",
+    "hold": "4-6s torso lowers toward horizontal while both legs straighten together out to the side; 6-8s hold: elbows ~90° over wrists, torso parallel to the floor, outer right thigh high on the back of the left upper arm, both legs straight, together and parallel to the floor, feet active, gaze forward (poster frame).",
+    "exit": "8-10s knees bend back into Side Crow, feet lower to the mat, untwist to the squat."
+  },
+  "doc": {
+    "name": {
+      "ru": "Дви Пада Каундиньясана",
+      "en": "Two-Legged Koundinya Pose"
+    },
+    "subtitle": {
+      "ru": "Поза Каундиньи, обе ноги в сторону",
+      "en": "Dwi Pada Koundinyasana"
+    },
+    "sanskrit": "Dwi Pada Koundinyasana",
+    "altNames": [
+      "Dwi Pada Kaundinyasana",
+      "Dvi Pada Koundinyasana",
+      "Двипада Каундиньясана",
+      "Каундиньясана на двух ногах",
+      "Two-Legged Sage Koundinya Pose",
+      "Dvi Pāda Kauṇḍinyāsana"
+    ],
+    "summary": {
+      "ru": "Скрученный баланс на согнутых руках: обе ноги вместе вытянуты в сторону и лежат на верхней части одной руки, корпус параллелен полу.",
+      "en": "A twisting bent-arm balance: both legs extend together to the side, resting on one upper arm, with the torso parallel to the floor."
+    },
+    "about": {
+      "ru": "Баланс на руках со скручиванием, посвящённый мудрецу Каундинье. Руки согнуты, как в Чатуранге, обе ноги вместе вытянуты в сторону, а наружная сторона нижнего бедра лежит на верхней части противоположной руки. По сути это Боковая ворона с выпрямленными ногами, и здесь показан вход именно из неё. Поза требует силы рук, глубокого скручивания, сильных мышц корпуса и умения удерживать вес прямых ног далеко от опоры, поэтому относится к продвинутому уровню.",
+      "en": "A twisting arm balance dedicated to the sage Koundinya. The arms bend as in Chaturanga, both legs extend together to the side, and the outer thigh of the lower leg rests on the opposite upper arm. It is essentially Side Crow with straight legs, and this card shows the entry from Side Crow. It takes arm strength, a deep twist, a strong core and the ability to hold the weight of straight legs far from your base, which is why it is rated advanced."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно держите Боковую ворону 5 вдохов и выдохов на каждую сторону.",
+        "en": "You can hold Side Crow for five breaths on each side."
+      },
+      {
+        "ru": "В позе лодки удерживаете прямые ноги на весу 20–30 секунд.",
+        "en": "You can hold straight legs off the floor in Boat Pose for 20–30 seconds."
+      },
+      {
+        "ru": "Опускаетесь в Чатурангу с контролем.",
+        "en": "You can lower into Chaturanga with control."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Положите подушку или сложенное одеяло перед лицом и сбоку от ладоней.",
+        "en": "Place a cushion or folded blanket in front of your face and beside your hands."
+      },
+      {
+        "ru": "При боли в запястьях, локтях, плечах или спине прекратите попытку.",
+        "en": "Stop if you feel pain in your wrists, elbows, shoulders or back."
+      },
+      {
+        "ru": "При беременности, травмах спины или после операций на животе сначала обсудите глубокие скручивания со специалистом.",
+        "en": "If you are pregnant, have a back injury or have had abdominal surgery, discuss deep twists with a qualified healthcare professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "1eda4691-10d3-4dd5-b4c9-a2083971a77f",
+        "title": {
+          "ru": "Скрутитесь в приседе",
+          "en": "Twist in a squat"
+        },
+        "body": {
+          "ru": "Сядьте в присед на носки, колени и стопы вместе. На выдохе поверните корпус вправо и прижмите верхнюю часть левой руки к наружной стороне правого бедра.",
+          "en": "Squat on your toes with your knees and feet together. As you exhale, twist to the right and press your left upper arm against the outside of your right thigh."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "ab08370f-7598-4cca-ac76-915e61c9cc3d",
+        "title": {
+          "ru": "Поднимитесь в Боковую ворону",
+          "en": "Lift into Side Crow"
+        },
+        "body": {
+          "ru": "Поставьте ладони справа от стоп на ширине плеч и согните локти назад. Подайте плечи вперёд и оторвите стопы от коврика.",
+          "en": "Place your palms to the right of your feet, shoulder-width apart, and bend your elbows back. Move your shoulders forward and lift your feet off the mat."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "755b1b8c-15f0-40d1-8c62-ce12fa78f4b8",
+        "title": {
+          "ru": "Подайте грудь вперёд",
+          "en": "Shift your chest forward"
+        },
+        "body": {
+          "ru": "Продолжайте переносить вес вперёд, пока корпус не станет почти параллелен полу. Правое бедро лежит высоко на левой руке, ближе к плечу.",
+          "en": "Keep moving your weight forward until your torso is almost parallel to the floor. Your right thigh rests high on your left arm, closer to the shoulder."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "f5b7e865-5676-41fc-b5e8-865215495a31",
+        "title": {
+          "ru": "Выпрямите обе ноги",
+          "en": "Straighten both legs"
+        },
+        "body": {
+          "ru": "Медленно выпрямите ноги в сторону, сохраняя их вместе. Сожмите бёдра и стопы и тянитесь пятками от себя.",
+          "en": "Slowly straighten your legs out to the side, keeping them together. Squeeze your thighs and feet and reach through your heels."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "9bae77b5-3cbe-4995-98cd-8304e3b1bbfc",
+        "title": {
+          "ru": "Удерживайте и выйдите",
+          "en": "Hold and come out"
+        },
+        "body": {
+          "ru": "Дышите ровно, держа локти над запястьями. Чтобы выйти, согните колени, опустите стопы и раскрутитесь. Повторите в другую сторону.",
+          "en": "Breathe evenly with your elbows over your wrists. To come out, bend your knees, lower your feet and unwind. Repeat on the other side."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "chest"
+      },
+      {
+        "key": "obliques"
+      },
+      {
+        "key": "adductors"
+      },
+      {
+        "key": "hip-flexors"
+      }
+    ],
+    "anatomy": {
+      "ru": "Трицепсы и грудные мышцы удерживают руки согнутыми под весом тела. Косые мышцы живота держат скручивание, а сгибатели бедра и приводящие мышцы удерживают прямые ноги вместе и на весу.",
+      "en": "Your triceps and chest keep your arms bent under your body weight. Your obliques hold the twist, while your hip flexors and adductors keep the straight legs together and lifted."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "twisted-chair",
+        "title": {
+          "ru": "Скручивание в позе стула",
+          "en": "Revolved Chair Pose"
+        },
+        "body": {
+          "ru": "Отрабатывает глубокое скручивание с рукой за бедром.",
+          "en": "Trains the deep twist with your arm outside the thigh."
+        }
+      },
+      {
+        "exerciseSlug": "compression-leg-lifts",
+        "title": {
+          "ru": "Подъёмы ног сидя",
+          "en": "Seated compression leg lifts"
+        },
+        "body": {
+          "ru": "Укрепляют сгибатели бедра, которые держат прямые ноги на весу.",
+          "en": "Strengthen the hip flexors that hold straight legs off the floor."
+        }
+      },
+      {
+        "exerciseSlug": "knee-chaturanga",
+        "title": {
+          "ru": "Чатуранга с колен",
+          "en": "Knees-down Chaturanga"
+        },
+        "body": {
+          "ru": "Укрепляет руки в положении «полочки» с локтями над запястьями.",
+          "en": "Strengthens the bent-arm shelf with the elbows over the wrists."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Ноги разъединяются",
+          "en": "Legs separating"
+        },
+        "why": {
+          "ru": "Нижняя нога соскальзывает с руки, а верхняя тянет таз вниз.",
+          "en": "The lower leg slides off the arm and the top leg pulls your hips down."
+        },
+        "fix": {
+          "ru": "Сожмите бёдра, колени и стопы и выпрямляйте ноги одновременно.",
+          "en": "Squeeze your thighs, knees and feet together and straighten both legs at once."
+        }
+      },
+      {
+        "title": {
+          "ru": "Ноги выпрямляются слишком рано",
+          "en": "Straightening the legs too early"
+        },
+        "why": {
+          "ru": "Вес остаётся сзади, и ноги опускаются на пол.",
+          "en": "Your weight stays back and your legs drop to the floor."
+        },
+        "fix": {
+          "ru": "Сначала подайте грудь вперёд до горизонтали, затем выпрямляйте ноги.",
+          "en": "First move your chest forward until it is level, then straighten your legs."
+        }
+      },
+      {
+        "title": {
+          "ru": "Бедро у локтя",
+          "en": "Thigh near the elbow"
+        },
+        "why": {
+          "ru": "Без глубокого скручивания точка опоры слишком низкая и неустойчивая.",
+          "en": "Without a deep twist the support point is too low and unstable."
+        },
+        "fix": {
+          "ru": "Скрутитесь глубже от живота, чтобы бедро легло выше на руку.",
+          "en": "Twist more deeply from your belly so your thigh rests higher on your arm."
+        }
+      }
+    ],
+    "easier": [
+      "parsva-bakasana"
+    ],
+    "harder": [
+      "maksikanagasana"
+    ],
+    "related": [
+      "eka-pada-koundinyasana-1",
+      "astavakrasana",
+      "side-crow-to-eka-pada-koundinyasana-1"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Присед и скручивание",
+          "en": "Squat and twist"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Боковая ворона",
+          "en": "Side Crow"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Грудь вперёд, ноги выпрямляются в сторону",
+          "en": "Chest forward, legs straighten to the side"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание",
+          "en": "Hold"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Колени сгибаются, стопы на коврик",
+          "en": "Knees bend, feet down"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Dwi Pada Koundinyasana",
+        "note": "Classical description of the pose; the entry from Side Crow shown here is a common teaching method."
+      }
+    ]
+  }
+}

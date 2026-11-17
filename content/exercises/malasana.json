@@ -1,0 +1,52 @@
+{
+  "slug": "malasana",
+  "skills": [
+    "hip-openness",
+    "flexibility"
+  ],
+  "doc": {
+    "name": {
+      "ru": "Глубокий присед",
+      "en": "Garland Pose (Squat)"
+    },
+    "summary": {
+      "ru": "Глубокий присед, который раскрывает тазобедренные суставы и голеностопы и учит оставаться компактным, — исходное положение для Бакасаны и Боковой вороны.",
+      "en": "A deep squat that opens the hips and ankles and teaches you to stay compact — the starting position for Crow and Side Crow."
+    },
+    "instructions": [
+      {
+        "ru": "Встаньте, стопы немного шире таза, носки слегка разверните наружу.",
+        "en": "Stand with your feet a little wider than hip-width and turn your toes slightly out."
+      },
+      {
+        "ru": "Согните колени и медленно опуститесь в присед, направляя колени в ту же сторону, что и носки.",
+        "en": "Bend your knees and slowly lower into a squat, keeping your knees in line with your toes."
+      },
+      {
+        "ru": "Соедините ладони перед грудью и мягко раздвиньте колени локтями, удлиняя спину вверх.",
+        "en": "Bring your palms together in front of your chest and gently press your knees apart with your elbows, lengthening your spine upward."
+      },
+      {
+        "ru": "Если пятки не опускаются, подложите под них сложенное одеяло или сядьте на блок. Оставайтесь 30–60 секунд, спокойно дыша; повторите 2–3 раза.",
+        "en": "If your heels do not reach the floor, place a folded blanket under them or sit on a block. Stay for 30–60 seconds with steady breathing; repeat 2–3 times."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "При боли в коленях, голеностопах или пояснице выйдите из приседа.",
+        "en": "Come out of the squat if you feel pain in your knees, ankles or lower back."
+      },
+      {
+        "ru": "При травмах коленей сначала обсудите нагрузку со специалистом и используйте опору под таз.",
+        "en": "If you have a knee injury, discuss the load with a qualified professional first and use support under your pelvis."
+      }
+    ],
+    "muscles": [
+      "adductors",
+      "glutes",
+      "calves-ankles",
+      "quadriceps"
+    ],
+    "sources": []
+  }
+}

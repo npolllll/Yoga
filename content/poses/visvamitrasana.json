@@ -1,0 +1,315 @@
+{
+  "slug": "visvamitrasana",
+  "category": "one-arm-balances",
+  "level": "expert",
+  "skills": [
+    "arm-strength",
+    "hamstring-flexibility",
+    "hip-openness"
+  ],
+  "sortWeight": 96,
+  "motion": {
+    "view": "front",
+    "contacts": [
+      "one-hand",
+      "feet"
+    ],
+    "entry": "0-2s low lunge with the right foot forward, right shoulder works under the back of the right thigh, right palm down on the inner side of the right foot; 2-4s left heel lowers with the left foot turned out and the sole flat, left leg straight, left hand reaches over and holds the outer edge of the right foot.",
+    "hold": "4-6s weight moves into the right hand and left foot, right leg straightens upward as the chest opens to the side; 6-8s hold: right arm straight, back of the right thigh resting high on the right upper arm, right leg straight and high, left hand holding the right foot, left leg straight with the sole grounded, gaze up (poster frame).",
+    "exit": "8-10s right knee bends, the foot is released and lowered to the mat, back to the lunge."
+  },
+  "doc": {
+    "name": {
+      "ru": "Вишвамитрасана",
+      "en": "Pose Dedicated to Sage Visvamitra"
+    },
+    "subtitle": {
+      "ru": "Поза мудреца Вишвамитры",
+      "en": "Visvamitrasana"
+    },
+    "sanskrit": "Visvamitrasana",
+    "altNames": [
+      "Vishvamitrasana",
+      "Вишвамитрасана",
+      "Поза мудреца Вишвамитры",
+      "Viśvāmitrāsana"
+    ],
+    "summary": {
+      "ru": "Баланс на одной руке и стопе: передняя нога лежит на верхней части опорной руки и поднята вверх, свободная рука держит её стопу, задняя нога прямая.",
+      "en": "A balance on one hand and one foot: the front leg rests on the supporting upper arm and lifts up, the free hand holds its foot, and the back leg stays straight."
+    },
+    "about": {
+      "ru": "Классическая поза, описанная в книге Б. К. С. Айенгара Light on Yoga и посвящённая мудрецу Вишвамитре. Вы опираетесь на одну ладонь и стопу задней ноги, передняя нога лежит задней поверхностью бедра на верхней части опорной руки и выпрямляется вверх, а свободная рука держит её стопу. Поза требует очень гибкой задней поверхности бёдер, раскрытого таза, сильного плеча и умения держать вес на одной руке. Это сочетание делает её одной из сложных поз на одной руке, поэтому она относится к экспертному уровню.",
+      "en": "A classical pose described in B.K.S. Iyengar’s Light on Yoga and dedicated to the sage Visvamitra. You balance on one palm and the back foot; the back of the front thigh rests on the supporting upper arm and the leg straightens upward, while your free hand holds its foot. It requires very flexible hamstrings, open hips, a strong shoulder and the ability to carry weight on one arm. That combination makes it one of the demanding one-arm poses, which is why it is rated expert."
+    },
+    "prerequisites": [
+      {
+        "ru": "Лёжа на спине, выпрямляете ногу вверх и держите большой палец стопы, не сгибая колено.",
+        "en": "Lying on your back, you can straighten one leg up and hold the big toe without bending the knee."
+      },
+      {
+        "ru": "Уверенно держите Васиштхасану и Эка Хаста Бхуджасану.",
+        "en": "You can hold Vasisthasana and Eka Hasta Bhujasana steadily."
+      },
+      {
+        "ru": "В глубоком выпаде заводите плечо под бедро передней ноги без боли.",
+        "en": "In a deep lunge you can tuck your shoulder under the front thigh without pain."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Не выпрямляйте ногу через силу: при боли под коленом или у седалищной кости прекратите.",
+        "en": "Don’t force the leg straight; stop if you feel pain behind the knee or near the sitting bone."
+      },
+      {
+        "ru": "При боли в запястье или плече опорной руки выйдите из позы.",
+        "en": "Come out of the pose if you feel pain in the wrist or shoulder of the supporting arm."
+      },
+      {
+        "ru": "При травмах поясницы, крестца или задней поверхности бедра сначала обсудите нагрузку со специалистом.",
+        "en": "If you have a lower back, sacroiliac or hamstring injury, discuss the load with a qualified healthcare professional first."
+      },
+      {
+        "ru": "Практикуйте на нескользящем коврике, чтобы задняя стопа не скользила.",
+        "en": "Practice on a non-slip mat so your back foot doesn’t slide."
+      }
+    ],
+    "steps": [
+      {
+        "key": "246fc3f6-b660-4f00-b792-4109245bee2d",
+        "title": {
+          "ru": "Войдите в выпад",
+          "en": "Come into a lunge"
+        },
+        "body": {
+          "ru": "Из собаки мордой вниз шагните правой стопой вперёд к правой ладони в низкий выпад.",
+          "en": "From Downward-Facing Dog, step your right foot forward beside your right hand into a low lunge."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "bf7b66f2-07cd-4bee-a3f6-76f4ffe019b2",
+        "title": {
+          "ru": "Заведите плечо под бедро",
+          "en": "Tuck the shoulder under the thigh"
+        },
+        "body": {
+          "ru": "Уведите правое плечо как можно глубже под заднюю поверхность правого бедра. Поставьте правую ладонь на коврик с внутренней стороны правой стопы.",
+          "en": "Work your right shoulder as far under the back of your right thigh as you can. Place your right palm on the mat on the inner side of your right foot."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "7f8e9207-9908-48b2-aa80-05fbd311bb82",
+        "title": {
+          "ru": "Разверните заднюю стопу",
+          "en": "Turn the back foot"
+        },
+        "body": {
+          "ru": "Опустите левую пятку, разверните левую стопу наружу и поставьте всю подошву на коврик. Выпрямите левую ногу.",
+          "en": "Lower your left heel, turn your left foot out and place the whole sole on the mat. Straighten your left leg."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "bd2f7093-f0d6-4903-8f94-f21862807a68",
+        "title": {
+          "ru": "Возьмитесь за стопу",
+          "en": "Hold the foot"
+        },
+        "body": {
+          "ru": "Перенесите вес на правую ладонь и левую стопу. Левой рукой возьмитесь за наружный край правой стопы.",
+          "en": "Shift your weight into your right palm and left foot. With your left hand, take hold of the outer edge of your right foot."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "78cf7cf3-92e5-4002-a75c-449dae0028f9",
+        "title": {
+          "ru": "Выпрямите ногу",
+          "en": "Straighten the leg"
+        },
+        "body": {
+          "ru": "Постепенно выпрямляйте правую ногу вверх, раскрывая грудь в сторону. Правая рука прямая; смотрите вверх, если это удобно шее. Дышите ровно.",
+          "en": "Gradually straighten your right leg upward as you open your chest to the side. Keep your right arm straight and look up if that is comfortable for your neck. Breathe evenly."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "d51b1e4d-ea76-4968-b0a3-720b3d84983f",
+        "title": {
+          "ru": "Выйдите из позы",
+          "en": "Come out"
+        },
+        "body": {
+          "ru": "Согните правое колено, отпустите стопу и опустите её на коврик. Вернитесь в выпад и повторите на другую сторону.",
+          "en": "Bend your right knee, release the foot and lower it to the mat. Return to the lunge and repeat on the other side."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "serratus"
+      },
+      {
+        "key": "obliques"
+      },
+      {
+        "key": "hamstrings"
+      },
+      {
+        "key": "adductors"
+      }
+    ],
+    "anatomy": {
+      "ru": "Кисть, плечо и передняя зубчатая мышца опорной руки держат вес тела. Мышцы задней поверхности бедра и приводящие мышцы поднятой ноги удлиняются, а косые мышцы живота помогают раскрыть грудь и удержать корпус в одной плоскости.",
+      "en": "The hand, shoulder and serratus anterior of the supporting arm carry your weight. The hamstrings and adductors of the lifted leg lengthen, while your obliques help open your chest and keep your torso in one plane."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "lizard-pose",
+        "title": {
+          "ru": "Поза ящерицы",
+          "en": "Lizard Pose"
+        },
+        "body": {
+          "ru": "Раскрывает тазобедренный сустав; в выпаде попробуйте завести плечо под бедро.",
+          "en": "Opens your hip; in the lunge, practice tucking your shoulder under the thigh."
+        }
+      },
+      {
+        "exerciseSlug": "forward-fold",
+        "title": {
+          "ru": "Наклон вперёд стоя",
+          "en": "Standing Forward Fold"
+        },
+        "body": {
+          "ru": "Постепенно удлиняет заднюю поверхность бёдер.",
+          "en": "Gradually lengthens your hamstrings."
+        }
+      },
+      {
+        "exerciseSlug": "side-plank-knee",
+        "title": {
+          "ru": "Боковая планка с опорой на колено",
+          "en": "Side plank on the knee"
+        },
+        "body": {
+          "ru": "Готовит плечо к нагрузке на одну руку сбоку.",
+          "en": "Prepares your shoulder to carry weight on one arm from the side."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Бедро низко на руке",
+          "en": "Thigh too low on the arm"
+        },
+        "why": {
+          "ru": "Нога соскальзывает, и рука не может её поддерживать.",
+          "en": "The leg slides down and the arm can’t support it."
+        },
+        "fix": {
+          "ru": "Уведите плечо глубже под бедро до того, как выпрямлять ногу.",
+          "en": "Work your shoulder deeper under the thigh before you straighten the leg."
+        }
+      },
+      {
+        "title": {
+          "ru": "Нога выпрямляется через силу",
+          "en": "Forcing the leg straight"
+        },
+        "why": {
+          "ru": "Спина округляется, а натяжение уходит под колено.",
+          "en": "Your back rounds and the strain goes behind the knee."
+        },
+        "fix": {
+          "ru": "Выпрямляйте ногу настолько, насколько позволяет гибкость; колено можно оставить слегка согнутым.",
+          "en": "Straighten the leg only as far as your flexibility allows; you can keep the knee slightly bent."
+        }
+      },
+      {
+        "title": {
+          "ru": "Грудь поворачивается к полу",
+          "en": "Chest turning toward the floor"
+        },
+        "why": {
+          "ru": "Вес уходит вперёд, и опорное плечо перегружается.",
+          "en": "Your weight tips forward and the supporting shoulder is overloaded."
+        },
+        "fix": {
+          "ru": "Прижмите заднюю стопу к полу и раскройте грудь в сторону.",
+          "en": "Press your back foot into the floor and open your chest to the side."
+        }
+      }
+    ],
+    "easier": [
+      "kasyapasana",
+      "eka-hasta-bhujasana",
+      "vasisthasana"
+    ],
+    "harder": [],
+    "related": [
+      "vasisthasana",
+      "kasyapasana",
+      "eka-hasta-bhujasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Выпад, плечо под бедро",
+          "en": "Lunge, shoulder under the thigh"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Задняя стопа разворачивается, рука берёт стопу",
+          "en": "Back foot turns out, hand takes the foot"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Нога выпрямляется вверх",
+          "en": "Leg straightens upward"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание",
+          "en": "Hold"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Колено сгибается, возврат в выпад",
+          "en": "Knee bends, back to the lunge"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Visvamitrasana",
+        "note": "Classical description of the pose; the entry from a lunge shown here is a common teaching method."
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "slug": "hamsasana",
+  "category": "arm-balances",
+  "level": "intermediate",
+  "skills": [
+    "arm-strength",
+    "core-control",
+    "wrist-strength"
+  ],
+  "sortWeight": 44,
+  "motion": {
+    "view": "side",
+    "contacts": [
+      "hands"
+    ],
+    "entry": "0-2s kneeling, knees slightly apart, palms on the floor close together with fingers pointing forward, thumbs and index fingers near each other; 2-4s elbows bend, forearms together and roughly vertical, belly rests on the elbows near the navel, chest on the backs of the upper arms, legs step back one at a time and join, toes on the mat.",
+    "hold": "4-6s chest moves forward, forearms tilt forward over the hands, head lifts, feet get light; 6-8s hold: straight legs lifted together, body one line parallel to the floor balanced on the palms, elbows in the belly, gaze forward (poster frame).",
+    "exit": "8-10s toes lower to the mat, then the knees, belly lifts off the elbows."
+  },
+  "doc": {
+    "name": {
+      "ru": "Хамсасана",
+      "en": "Swan Pose"
+    },
+    "subtitle": {
+      "ru": "Поза лебедя",
+      "en": "Hamsasana"
+    },
+    "sanskrit": "Hamsasana",
+    "altNames": [
+      "Поза лебедя",
+      "Лебедь",
+      "Swan Pose",
+      "Swan",
+      "Hamsāsana"
+    ],
+    "summary": {
+      "ru": "Баланс на ладонях, похожий на Павлина: локти упираются в живот, пальцы рук направлены вперёд, тело вытянуто параллельно полу.",
+      "en": "A Peacock-like balance on your palms: your elbows press into your belly, your fingers point forward and your body stretches out parallel to the floor."
+    },
+    "about": {
+      "ru": "Хамсасана — «поза лебедя» — близка к Маюрасане (Павлину): живот лежит на согнутых локтях, грудь — на плечах, а прямое тело удерживается над полом на ладонях. Отличие в постановке рук: пальцы направлены вперёд, к голове, а не к стопам, как в Маюрасане. Во многих классах Хамсасаной также называют подготовительный вариант с носками на полу; здесь он служит этапом перед подъёмом ног. Поза требует сильных запястий и корпуса и точного переноса веса вперёд, поэтому сначала освойте Чатурангу.",
+      "en": "Hamsasana, the Swan Pose, is close to Mayurasana (Peacock): your belly rests on your bent elbows, your chest on your upper arms, and your straight body is held above the floor on your palms. The difference is the hand position: your fingers point forward, toward your head, rather than back toward your feet as in Mayurasana. In many classes a preparatory version with the toes on the floor is also called Hamsasana; here it is a stage before lifting the legs. The pose needs strong wrists and core and a precise forward weight shift, so build Chaturanga first."
+    },
+    "prerequisites": [
+      {
+        "ru": "Контролируемо держите Чатурангу несколько вдохов.",
+        "en": "You can hold Chaturanga with control for a few breaths."
+      },
+      {
+        "ru": "Опора на ладони не вызывает боли в запястьях, даже когда предплечья наклоняются вперёд.",
+        "en": "Weight on your hands doesn’t cause wrist pain, even when your forearms tilt forward."
+      },
+      {
+        "ru": "Уверенно держите планку 60 секунд.",
+        "en": "You can hold a plank for 60 seconds."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Перед практикой разомните запястья; при боли в запястьях или локтях прекратите попытку.",
+        "en": "Warm up your wrists first; stop if you feel pain in your wrists or elbows."
+      },
+      {
+        "ru": "Положите подушку или сложенное одеяло перед лицом на случай, если вес уйдёт вперёд.",
+        "en": "Place a cushion or folded blanket in front of your face in case your weight tips forward."
+      },
+      {
+        "ru": "Не выполняйте позу на полный желудок: локти давят на живот.",
+        "en": "Avoid the pose on a full stomach: your elbows press into your belly."
+      },
+      {
+        "ru": "При беременности, после недавней операции на животе или при травме запястий сначала обсудите нагрузку со специалистом.",
+        "en": "If you are pregnant, have had recent abdominal surgery or have a wrist injury, discuss the load with a qualified healthcare professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "d30965ff-bdb2-4bb2-a69a-933e1c3ed380",
+        "title": {
+          "ru": "Встаньте на колени и поставьте ладони",
+          "en": "Kneel and place your hands"
+        },
+        "body": {
+          "ru": "Встаньте на колени, колени немного врозь. Наклонитесь и поставьте ладони на пол близко друг к другу, пальцы направлены вперёд.",
+          "en": "Kneel with your knees slightly apart. Lean forward and place your palms on the floor close together, fingers pointing forward."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "2e4f069e-4846-4a67-bb7c-ad070a6e685c",
+        "title": {
+          "ru": "Упритесь локтями в живот",
+          "en": "Elbows into your belly"
+        },
+        "body": {
+          "ru": "Согните локти и сведите предплечья вместе. Опустите живот на локти около пупка, а грудь — на заднюю сторону плеч.",
+          "en": "Bend your elbows and bring your forearms together. Rest your belly on your elbows near the navel and your chest on the backs of your upper arms."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "554ca9ca-9eb7-4076-b0b9-4eca5278c5c8",
+        "title": {
+          "ru": "Вытяните ноги назад",
+          "en": "Extend your legs"
+        },
+        "body": {
+          "ru": "По очереди вытяните ноги назад и соедините их. Тело прямое, вес на ладонях и пальцах ног. Подтяните живот и напрягите ягодицы.",
+          "en": "Stretch your legs back one at a time and bring them together. Keep your body straight with your weight on your palms and toes. Draw in your belly and firm your glutes."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "16b494de-428a-4230-802f-61b3878389c2",
+        "title": {
+          "ru": "Перенесите вес вперёд",
+          "en": "Shift forward"
+        },
+        "body": {
+          "ru": "Медленно подайте грудь вперёд, пока стопы не станут лёгкими. Держите голову приподнятой и смотрите вперёд.",
+          "en": "Slowly move your chest forward until your feet feel light. Keep your head lifted and look forward."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "ce33aa28-5611-4eab-b931-2a8b5a90f186",
+        "title": {
+          "ru": "Поднимите ноги",
+          "en": "Lift your legs"
+        },
+        "body": {
+          "ru": "Если опора устойчива, на выдохе оторвите прямые ноги от пола, чтобы тело стало параллельно полу. Держите ноги вместе и дышите ровно несколько вдохов. Если ноги пока не поднимаются, оставайтесь с носками на полу.",
+          "en": "If your base feels steady, exhale and lift your straight legs off the floor so your body is parallel to it. Keep your legs together and breathe evenly for a few breaths. If your legs don’t lift yet, stay with your toes on the floor."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "54a22a32-76c4-4b29-9014-4c73b5eb8044",
+        "title": {
+          "ru": "Выйдите из позы",
+          "en": "Come down"
+        },
+        "body": {
+          "ru": "Опустите носки на коврик, затем колени, и снимите живот с локтей.",
+          "en": "Lower your toes to the mat, then your knees, and lift your belly off your elbows."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "chest"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "lower-back"
+      },
+      {
+        "key": "glutes"
+      }
+    ],
+    "anatomy": {
+      "ru": "Кисти и предплечья принимают вес тела и управляют балансом. Плечевой пояс и грудные мышцы удерживают локти у живота, напряжённые мышцы живота помогают выдерживать давление локтей, а разгибатели спины и ягодичные держат прямые ноги на одной линии с корпусом.",
+      "en": "Your hands and forearms take your weight and steer the balance. Your shoulders and chest keep your elbows against your belly, firm abdominal muscles help you tolerate the pressure of the elbows, and your back extensors and glutes hold your straight legs in line with your torso."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "wrist-warmup",
+        "title": {
+          "ru": "Разминка запястий",
+          "en": "Wrist warm-up"
+        },
+        "body": {
+          "ru": "Подготовьте запястья к сильному разгибанию под весом тела.",
+          "en": "Prepare your wrists for deep extension under load."
+        }
+      },
+      {
+        "exerciseSlug": "plank",
+        "title": {
+          "ru": "Планка",
+          "en": "Plank"
+        },
+        "body": {
+          "ru": "Укрепляет корпус, чтобы тело оставалось прямым.",
+          "en": "Builds the core strength that keeps your body straight."
+        }
+      },
+      {
+        "title": {
+          "ru": "Хамсасана с носками на полу",
+          "en": "Swan with toes down"
+        },
+        "body": {
+          "ru": "Удерживайте позу с локтями у живота и носками на коврике, понемногу подавая грудь вперёд.",
+          "en": "Hold the shape with your elbows at your belly and your toes on the mat, moving your chest forward little by little."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Локти расходятся",
+          "en": "Elbows splaying apart"
+        },
+        "why": {
+          "ru": "Живот теряет опору на локтях, и баланс разваливается.",
+          "en": "Your belly loses its support on the elbows and the balance falls apart."
+        },
+        "fix": {
+          "ru": "Сведите предплечья вместе и держите локти около пупка.",
+          "en": "Keep your forearms together and your elbows near your navel."
+        }
+      },
+      {
+        "title": {
+          "ru": "Недостаточный перенос вперёд",
+          "en": "Not shifting forward enough"
+        },
+        "why": {
+          "ru": "Вес остаётся на ногах, и они не отрываются от пола.",
+          "en": "Your weight stays in your legs and they don’t leave the floor."
+        },
+        "fix": {
+          "ru": "Медленно подайте грудь вперёд и приподнимите голову.",
+          "en": "Slowly move your chest forward and lift your head."
+        }
+      },
+      {
+        "title": {
+          "ru": "Ноги сгибаются",
+          "en": "Bending the legs"
+        },
+        "why": {
+          "ru": "Тело теряет прямую линию, и удерживать баланс становится труднее.",
+          "en": "Your body loses its straight line and the balance gets harder to hold."
+        },
+        "fix": {
+          "ru": "Соедините ноги, напрягите бёдра и ягодицы и тянитесь пятками назад.",
+          "en": "Bring your legs together, firm your thighs and glutes, and reach back through your heels."
+        }
+      }
+    ],
+    "easier": [
+      "chaturanga-dandasana"
+    ],
+    "harder": [
+      "mayurasana"
+    ],
+    "related": [
+      "bakasana",
+      "lolasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Колени на полу, пальцы рук вперёд",
+          "en": "Kneeling, palms down, fingers forward"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Локти в живот, ноги назад",
+          "en": "Elbows into the belly, legs back"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Грудь вперёд, стопы становятся лёгкими",
+          "en": "Chest forward, feet get light"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: тело параллельно полу",
+          "en": "Hold: body parallel to the floor"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Носки и колени на коврик",
+          "en": "Toes and knees down"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Hamsasana",
+        "note": "Classical description of the pose; the toes-down stage is a common teaching progression."
+      }
+    ]
+  }
+}

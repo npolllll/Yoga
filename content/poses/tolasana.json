@@ -1,0 +1,290 @@
+{
+  "slug": "tolasana",
+  "category": "arm-balances",
+  "level": "intermediate",
+  "skills": [
+    "arm-strength",
+    "hip-openness",
+    "core-control"
+  ],
+  "sortWeight": 32,
+  "motion": {
+    "view": "three-quarter",
+    "contacts": [
+      "hands"
+    ],
+    "entry": "0-3s seated in full lotus, palms flat on the floor (or on blocks) beside the hips, fingers forward, arms straight; 3-5s shoulders draw down away from the ears, torso leans slightly forward, knees draw toward the chest.",
+    "hold": "5-6s on an exhale the hips and lotus knees lift off the floor on straight arms; 6-8s hold: arms straight and vertical, hips hanging between the arms with the lotus knees just in front, whole body a few inches above the floor, gaze forward (poster frame).",
+    "exit": "8-10s hips lower softly back to the floor, still in lotus."
+  },
+  "doc": {
+    "name": {
+      "ru": "Толасана",
+      "en": "Scale Pose"
+    },
+    "subtitle": {
+      "ru": "Поза весов",
+      "en": "Tolasana"
+    },
+    "sanskrit": "Tolasana",
+    "altNames": [
+      "Поза весов",
+      "Весы",
+      "Scale Pose",
+      "Scales Pose",
+      "Utpluthih",
+      "Tolāsana"
+    ],
+    "summary": {
+      "ru": "Баланс в лотосе: прямые руки поднимают скрещенные ноги и таз над полом, вес только на ладонях.",
+      "en": "A balance in Lotus: straight arms lift your crossed legs and hips off the floor so your weight rests only on your palms."
+    },
+    "about": {
+      "ru": "Толасана — «поза весов». Из Падмасаны (полного лотоса) вы ставите ладони рядом с бёдрами и поднимаете всё тело над полом на прямых руках. Здесь описана классическая форма с ногами в полном лотосе; варианты со скрещенными ногами — отдельная подготовка. Поза требует свободного, без боли, лотоса, силы рук и плеч и умения сжимать корпус, поэтому её относят к среднему уровню. Блоки под ладонями добавляют высоты и облегчают подъём.",
+      "en": "Tolasana, the Scale Pose, starts in Padmasana (full Lotus): you place your palms beside your hips and lift your whole body off the floor on straight arms. This card shows the classical form with your legs in full Lotus; crossed-leg versions are a separate preparation. It needs a comfortable, pain-free Lotus, arm and shoulder strength and the ability to compress your torso, which is why it is rated intermediate. Blocks under your palms add height and make the lift easier."
+    },
+    "prerequisites": [
+      {
+        "ru": "Спокойно сидите в Падмасане без боли в коленях.",
+        "en": "You can sit in Padmasana (full Lotus) without knee pain."
+      },
+      {
+        "ru": "Можете приподнять таз над полом сидя, опираясь на ладони или блоки.",
+        "en": "You can lift your hips off the floor from sitting, with your hands on the floor or on blocks."
+      },
+      {
+        "ru": "Опора на прямые руки не вызывает боли в запястьях.",
+        "en": "Straight-arm weight bearing doesn’t cause wrist pain."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Никогда не затягивайте ноги в лотос силой. При боли в коленях выйдите из позы.",
+        "en": "Never force your legs into Lotus. Come out if you feel pain in your knees."
+      },
+      {
+        "ru": "При боли в запястьях, локтях или плечах прекратите попытку.",
+        "en": "Stop if you feel pain in your wrists, elbows or shoulders."
+      },
+      {
+        "ru": "При травме коленей или бёдер, а также во время беременности сначала обсудите нагрузку со специалистом.",
+        "en": "If you have a knee or hip injury, or are pregnant, discuss the load with a qualified healthcare professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "12650405-cf8c-4666-b30e-98bb134f9f0d",
+        "title": {
+          "ru": "Сядьте в лотос",
+          "en": "Sit in Lotus"
+        },
+        "body": {
+          "ru": "Сядьте в Падмасану. При желании поставьте по блоку рядом с каждым бедром.",
+          "en": "Sit in Padmasana. If you like, place a block beside each hip."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "4f114493-63f3-492b-9952-4160c217aed3",
+        "title": {
+          "ru": "Поставьте ладони",
+          "en": "Place your hands"
+        },
+        "body": {
+          "ru": "Положите ладони на пол или на блоки рядом с бёдрами, пальцы направлены вперёд. Раскройте пальцы и прижмите основания ладоней.",
+          "en": "Place your palms on the floor or on the blocks beside your hips, fingers pointing forward. Spread your fingers and press down through the heels of your hands."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "4fdf93b0-19f6-411c-b709-d37343456e7a",
+        "title": {
+          "ru": "Подготовьте подъём",
+          "en": "Prepare to lift"
+        },
+        "body": {
+          "ru": "Выпрямите руки и опустите плечи от ушей. Подтяните живот, слегка наклонитесь вперёд и притяните колени к груди.",
+          "en": "Straighten your arms and draw your shoulders away from your ears. Draw in your belly, lean slightly forward and draw your knees toward your chest."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "66bbc502-16b5-44da-8d7e-2e89d0dc0a24",
+        "title": {
+          "ru": "Поднимитесь",
+          "en": "Lift up"
+        },
+        "body": {
+          "ru": "На выдохе оттолкнитесь ладонями и поднимите таз и колени над полом. Держите руки прямыми, смотрите вперёд и дышите ровно. Удерживайте несколько вдохов.",
+          "en": "As you exhale, press into your palms and lift your hips and knees off the floor. Keep your arms straight, look forward and breathe evenly. Stay for a few breaths."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "c3df3af0-5f3d-4376-b1c3-dd27a7bff77a",
+        "title": {
+          "ru": "Опуститесь и смените ноги",
+          "en": "Lower and switch"
+        },
+        "body": {
+          "ru": "Мягко опустите таз на пол. Смените скрещивание ног и повторите на другую сторону.",
+          "en": "Gently lower your hips to the floor. Change the cross of your legs and repeat on the other side."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "lats"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "hip-flexors"
+      }
+    ],
+    "anatomy": {
+      "ru": "Трицепсы удерживают руки прямыми, а широчайшие и мышцы плечевого пояса опускают плечи и поднимают корпус. Мышцы живота и сгибатели бедра подтягивают скрещенные ноги к груди.",
+      "en": "Your triceps keep your arms straight, while your lats and shoulder muscles press your shoulders down and lift your torso. Your abdominal muscles and hip flexors draw your crossed legs toward your chest."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "tuck-lift-on-blocks",
+        "title": {
+          "ru": "Подъём в группировке на блоках",
+          "en": "Tuck lift on blocks"
+        },
+        "body": {
+          "ru": "Учит отрывать таз от пола на прямых руках.",
+          "en": "Teaches you to lift your hips off the floor on straight arms."
+        }
+      },
+      {
+        "exerciseSlug": "compression-leg-lifts",
+        "title": {
+          "ru": "Подъёмы ног сидя",
+          "en": "Seated leg lifts"
+        },
+        "body": {
+          "ru": "Развивают силу сгибателей бедра и живота для компактной группировки.",
+          "en": "Build hip-flexor and abdominal strength for a compact tuck."
+        }
+      },
+      {
+        "exerciseSlug": "pigeon-pose",
+        "title": {
+          "ru": "Поза голубя",
+          "en": "Pigeon prep"
+        },
+        "body": {
+          "ru": "Мягко готовит тазобедренные суставы к лотосу. Двигайтесь без боли в коленях.",
+          "en": "Gently prepares your hips for Lotus. Stay free of knee pain."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Лотос через силу",
+          "en": "Forcing Lotus"
+        },
+        "why": {
+          "ru": "Если тазобедренные суставы не готовы, нагрузка уходит в колени.",
+          "en": "When your hips aren’t ready, the strain goes into your knees."
+        },
+        "fix": {
+          "ru": "Раскрывайте бёдра постепенно и выполняйте позу только из удобного лотоса.",
+          "en": "Open your hips gradually and practice the pose only from a comfortable Lotus."
+        }
+      },
+      {
+        "title": {
+          "ru": "Плечи поднимаются к ушам",
+          "en": "Shoulders hunching up"
+        },
+        "why": {
+          "ru": "Корпус проседает между рук, и подняться не получается.",
+          "en": "Your torso sinks between your arms and you can’t lift."
+        },
+        "fix": {
+          "ru": "Толкайте пол ладонями и опускайте плечи; поставьте ладони на блоки.",
+          "en": "Push the floor away and draw your shoulders down; place your hands on blocks."
+        }
+      },
+      {
+        "title": {
+          "ru": "Отклонение назад",
+          "en": "Leaning back"
+        },
+        "why": {
+          "ru": "Вес остаётся на ягодицах, а колени тянут корпус назад.",
+          "en": "Your weight stays on your seat and your knees pull you backward."
+        },
+        "fix": {
+          "ru": "Слегка наклоните корпус вперёд и подтяните колени к груди.",
+          "en": "Lean your torso slightly forward and draw your knees toward your chest."
+        }
+      }
+    ],
+    "easier": [],
+    "harder": [
+      "kukkutasana",
+      "urdhva-kukkutasana"
+    ],
+    "related": [
+      "lolasana",
+      "bakasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 3,
+        "label": {
+          "ru": "Падмасана, ладони рядом с бёдрами",
+          "en": "Lotus, palms beside the hips"
+        }
+      },
+      {
+        "fromSec": 3,
+        "toSec": 5,
+        "label": {
+          "ru": "Руки прямые, плечи вниз, наклон вперёд",
+          "en": "Arms straight, shoulders down, slight lean forward"
+        }
+      },
+      {
+        "fromSec": 5,
+        "toSec": 8,
+        "label": {
+          "ru": "Подъём и удержание на ладонях",
+          "en": "Lift and hold on the palms"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Таз опускается на пол",
+          "en": "Hips lower to the floor"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Tolasana",
+        "note": "Classical description of the pose; blocks under the hands are a common teaching aid."
+      }
+    ]
+  }
+}

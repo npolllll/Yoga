@@ -1,0 +1,52 @@
+{
+  "slug": "twisted-chair",
+  "skills": [
+    "twist",
+    "core-control"
+  ],
+  "doc": {
+    "name": {
+      "ru": "Скручивание в позе стула",
+      "en": "Revolved Chair Pose"
+    },
+    "summary": {
+      "ru": "Скручивание в полуприседе: развивает поворот в грудном отделе и учит заводить руку за внешнюю сторону бедра — подготовка к Боковой вороне и Эка Пада Каундиньясане I.",
+      "en": "A twist in a half squat that builds rotation through the upper back and teaches you to hook your arm outside the thigh — preparation for Side Crow and Koundinya I."
+    },
+    "instructions": [
+      {
+        "ru": "Встаньте, стопы вместе или на ширине таза. Согните колени и отведите таз назад, как в позе стула.",
+        "en": "Stand with your feet together or hip-width apart. Bend your knees and send your hips back as in Chair Pose."
+      },
+      {
+        "ru": "Соедините ладони перед грудью. На вдохе удлините позвоночник.",
+        "en": "Bring your palms together at your chest. Inhale and lengthen your spine."
+      },
+      {
+        "ru": "На выдохе повернитесь вправо и заведите левый локоть за внешнюю сторону правого бедра. Колени остаются на одном уровне.",
+        "en": "Exhale, turn to the right and place your left elbow outside your right thigh. Keep your knees level."
+      },
+      {
+        "ru": "Удерживайте 3–5 вдохов: на вдохе удлиняйте позвоночник, на выдохе мягко углубляйте поворот. Вернитесь в центр и повторите в другую сторону.",
+        "en": "Hold for 3–5 breaths, lengthening on each inhale and gently deepening the twist on each exhale. Return to centre and repeat on the other side."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Поворачивайтесь за счёт грудного отдела и не дожимайте поворот рычагом локтя о колено.",
+        "en": "Twist from your upper back; don't force the twist by levering your elbow against your knee."
+      },
+      {
+        "ru": "При боли в коленях или спине выйдите из позы; при беременности сначала обсудите скручивания со специалистом.",
+        "en": "Come out of the pose if you feel pain in your knees or back; if you are pregnant, discuss twists with a qualified professional first."
+      }
+    ],
+    "muscles": [
+      "obliques",
+      "quadriceps",
+      "glutes",
+      "upper-back"
+    ],
+    "sources": []
+  }
+}

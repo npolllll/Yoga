@@ -1,0 +1,306 @@
+{
+  "slug": "maksikanagasana",
+  "category": "side-balances",
+  "level": "expert",
+  "skills": [
+    "arm-strength",
+    "twist",
+    "hip-openness"
+  ],
+  "sortWeight": 92,
+  "motion": {
+    "view": "three-quarter",
+    "contacts": [
+      "hands"
+    ],
+    "entry": "0-2s standing on the left leg, right ankle crossed over the left thigh just above the knee (figure-four), right foot flexed, left knee bent; 2-4s fold and twist left, right upper arm against the outer left thigh near the knee, palms down to the left of the left foot, shoulder-width, flexed right foot hooks around the right upper arm near the shoulder, elbows bend back.",
+    "hold": "4-6s chest shifts forward to near horizontal, left foot lifts and the left leg straightens out to the side over the right arm; 6-8s hold: elbows ~90° over wrists, torso near horizontal, outer left thigh on the back of the right upper arm, right shin crossing over it with the flexed foot hooked on the arm, left leg straight and parallel to the floor, gaze forward (poster frame).",
+    "exit": "8-10s left knee bends, left foot returns to the mat, right foot unhooks, rise back to standing."
+  },
+  "doc": {
+    "name": {
+      "ru": "Стрекоза",
+      "en": "Dragonfly Pose"
+    },
+    "subtitle": {
+      "ru": "Максиканагасана",
+      "en": "Maksikanagasana"
+    },
+    "sanskrit": "Maksikanagasana",
+    "altNames": [
+      "Максиканагасана",
+      "Стрекоза",
+      "Поза стрекозы",
+      "Dragonfly",
+      "Dragonfly Pose"
+    ],
+    "summary": {
+      "ru": "Скрученный баланс на согнутых руках: одна нога вытянута в сторону и лежит на верхней части руки, а другая скрещена поверх неё «четвёркой», и её стопа зацеплена за ту же руку.",
+      "en": "A twisting bent-arm balance: one leg extends to the side, resting on an upper arm, while the other crosses over it in a figure-four with its foot hooked on the same arm."
+    },
+    "about": {
+      "ru": "Экспертный скрученный баланс на руках. Руки согнуты, как в Чатуранге. Нижняя нога лежит наружной стороной бедра на верхней части противоположной руки и вытянута в сторону, а вторая нога согнута и скрещена поверх неё «четвёркой», её согнутая стопа зацеплена за ту же руку. Названия «Стрекоза» и похожие в разных школах используют для близких форм, а детали зацепа стопы различаются; здесь описана одна из этих форм. Поза сочетает раскрытие тазобедренного сустава, как в Летающем голубе, со скручиванием и вытянутой ногой, как в Эка Пада Каундиньясане I. Она требует силы, гибкости и точного контроля, поэтому относится к экспертному уровню.",
+      "en": "An expert-level twisting arm balance. The arms bend as in Chaturanga. The lower leg rests its outer thigh on the opposite upper arm and extends to the side, while the other leg bends and crosses over it in a figure-four, with its flexed foot hooked on the same arm. Different schools use the name Dragonfly and similar names for closely related shapes, and the details of the foot hook vary; this card describes one of these forms. The pose combines the hip opening of Flying Pigeon with the twist and extended leg of Eka Pada Koundinyasana I. It demands strength, flexibility and precise control, so it is rated expert."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно держите Эка Пада Каундиньясану I и Летающего голубя на обе стороны.",
+        "en": "You can hold Eka Pada Koundinyasana I and Flying Pigeon on both sides."
+      },
+      {
+        "ru": "В позе голубя или «четвёрке» лёжа вам комфортно, без боли в колене.",
+        "en": "You are comfortable in Pigeon Pose or a reclined figure-four, without knee pain."
+      },
+      {
+        "ru": "Опускаетесь в Чатурангу с прямыми ногами и с контролем.",
+        "en": "You can lower into Chaturanga with straight legs and control."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Держите стопу скрещенной ноги согнутой на себя и сразу выйдите из позы при боли в колене.",
+        "en": "Keep the foot of the crossed leg flexed, and come out right away if you feel knee pain."
+      },
+      {
+        "ru": "Положите подушку или сложенное одеяло перед лицом.",
+        "en": "Place a cushion or folded blanket in front of your face."
+      },
+      {
+        "ru": "При травмах колена, спины или плеча, а также при беременности сначала обсудите нагрузку со специалистом.",
+        "en": "If you have a knee, back or shoulder injury, or are pregnant, discuss the load with a qualified healthcare professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "b712565c-1878-46c9-8420-f63f1844bda0",
+        "title": {
+          "ru": "Встаньте в «четвёрку»",
+          "en": "Stand in a figure-four"
+        },
+        "body": {
+          "ru": "Стоя на левой ноге, положите правую лодыжку на левое бедро чуть выше колена. Согните правую стопу на себя и согните левое колено, как в позе стула.",
+          "en": "Standing on your left leg, place your right ankle on your left thigh just above the knee. Flex your right foot and bend your left knee as in Chair Pose."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "9c84161f-ec61-40f0-babe-e74ec3e65622",
+        "title": {
+          "ru": "Скрутитесь и поставьте ладони",
+          "en": "Twist and place your hands"
+        },
+        "body": {
+          "ru": "Наклонитесь и поверните корпус влево. Прижмите верхнюю часть правой руки к наружной стороне левого бедра у колена и поставьте ладони на коврик слева от левой стопы на ширине плеч.",
+          "en": "Fold forward and twist to the left. Press your right upper arm against the outside of your left thigh near the knee and place your palms on the mat to the left of your left foot, shoulder-width apart."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "e516ee8f-db95-487e-b1cb-c084f0b26cc8",
+        "title": {
+          "ru": "Зацепите стопу",
+          "en": "Hook the foot"
+        },
+        "body": {
+          "ru": "Зацепите согнутую правую стопу за верхнюю часть правой руки, как можно ближе к плечу. Согните локти назад, как в Чатуранге.",
+          "en": "Hook your flexed right foot around your right upper arm, as close to the shoulder as you can. Bend your elbows back as in Chaturanga."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "630fa29f-83ad-403d-b334-41a25071a322",
+        "title": {
+          "ru": "Перенесите вес вперёд",
+          "en": "Shift forward"
+        },
+        "body": {
+          "ru": "Подайте грудь вперёд, пока корпус не станет почти параллелен полу. Левое бедро ложится на правую руку, левая стопа становится лёгкой.",
+          "en": "Move your chest forward until your torso is almost parallel to the floor. Your left thigh settles onto your right arm and your left foot becomes light."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "63699d6f-8c8c-420c-a768-5d9825465c38",
+        "title": {
+          "ru": "Выпрямите ногу",
+          "en": "Extend the leg"
+        },
+        "body": {
+          "ru": "Оторвите левую стопу от коврика и выпрямите левую ногу в сторону. Держите правую стопу согнутой, а взгляд — на коврике впереди. Дышите ровно.",
+          "en": "Lift your left foot off the mat and straighten your left leg out to the side. Keep your right foot flexed and your gaze on the mat ahead. Breathe evenly."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "cec1fab5-f28a-4185-bcda-5efe085d4f28",
+        "title": {
+          "ru": "Выйдите из позы",
+          "en": "Come out"
+        },
+        "body": {
+          "ru": "Согните левое колено, опустите левую стопу на коврик, освободите правую стопу и поднимитесь. Повторите в другую сторону.",
+          "en": "Bend your left knee, lower your left foot to the mat, release your right foot and come up. Repeat on the other side."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "chest"
+      },
+      {
+        "key": "obliques"
+      },
+      {
+        "key": "hip-flexors"
+      },
+      {
+        "key": "glutes"
+      }
+    ],
+    "anatomy": {
+      "ru": "Трицепсы и грудные мышцы удерживают согнутые руки под весом тела. Косые мышцы живота держат скручивание, сгибатели бедра и мышцы бедра поднимают и выпрямляют вытянутую ногу, а ягодичные мышцы скрещенной ноги удлиняются в положении «четвёрки».",
+      "en": "Your triceps and chest hold the bent arms under your body weight. Your obliques hold the twist, your hip flexors and thigh muscles lift and straighten the extended leg, and the glutes of the crossed leg lengthen in the figure-four."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "pigeon-pose",
+        "title": {
+          "ru": "Поза голубя",
+          "en": "Pigeon Pose prep"
+        },
+        "body": {
+          "ru": "Готовит тазобедренный сустав к положению «четвёрки».",
+          "en": "Prepares your hip for the figure-four position."
+        }
+      },
+      {
+        "exerciseSlug": "twisted-chair",
+        "title": {
+          "ru": "Скручивание в позе стула",
+          "en": "Revolved Chair Pose"
+        },
+        "body": {
+          "ru": "Отрабатывает скручивание с рукой за бедром из позы стула.",
+          "en": "Trains the twist with your arm outside the thigh from a chair position."
+        }
+      },
+      {
+        "exerciseSlug": "knee-chaturanga",
+        "title": {
+          "ru": "Чатуранга с колен",
+          "en": "Knees-down Chaturanga"
+        },
+        "body": {
+          "ru": "Укрепляет руки в положении «полочки», на которой держатся ноги.",
+          "en": "Strengthens the bent-arm shelf that holds your legs."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Расслабленная стопа скрещенной ноги",
+          "en": "Relaxed foot on the crossed leg"
+        },
+        "why": {
+          "ru": "Стопа соскальзывает с руки, а колено оказывается в неустойчивом положении.",
+          "en": "The foot slides off the arm and the knee ends up in an unstable position."
+        },
+        "fix": {
+          "ru": "Согните стопу на себя и зацепите её за руку до того, как переносить вес.",
+          "en": "Flex the foot and hook it on your arm before you shift your weight."
+        }
+      },
+      {
+        "title": {
+          "ru": "Недостаточное скручивание",
+          "en": "Not twisting enough"
+        },
+        "why": {
+          "ru": "Бедро ложится у локтя, и опора получается слишком низкой.",
+          "en": "Your thigh lands near the elbow and the support is too low."
+        },
+        "fix": {
+          "ru": "Скрутитесь глубже до постановки ладоней, чтобы бедро легло выше на руку.",
+          "en": "Twist more deeply before you place your hands so your thigh rests higher on the arm."
+        }
+      },
+      {
+        "title": {
+          "ru": "Нога выпрямляется до переноса веса",
+          "en": "Straightening the leg before shifting forward"
+        },
+        "why": {
+          "ru": "Вес остаётся сзади, и стопа снова опускается на пол.",
+          "en": "Your weight stays back and the foot drops to the floor again."
+        },
+        "fix": {
+          "ru": "Сначала подайте грудь вперёд до горизонтали, затем выпрямляйте ногу.",
+          "en": "First bring your chest forward until it is level, then straighten the leg."
+        }
+      }
+    ],
+    "easier": [
+      "eka-pada-galavasana",
+      "eka-pada-koundinyasana-1",
+      "parsva-bakasana"
+    ],
+    "harder": [],
+    "related": [
+      "eka-pada-galavasana",
+      "eka-pada-koundinyasana-1",
+      "dwi-pada-koundinyasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "«Четвёрка» стоя",
+          "en": "Standing figure-four"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Скручивание, ладони на коврик, стопа цепляется за руку",
+          "en": "Twist, hands down, foot hooks the arm"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Грудь вперёд, нога выпрямляется в сторону",
+          "en": "Chest forward, leg straightens to the side"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание",
+          "en": "Hold"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Стопа на коврик, выход",
+          "en": "Foot down, come out"
+        }
+      }
+    ],
+    "sources": []
+  }
+}

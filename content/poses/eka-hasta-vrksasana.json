@@ -1,0 +1,301 @@
+{
+  "slug": "eka-hasta-vrksasana",
+  "category": "one-arm-balances",
+  "level": "expert",
+  "skills": [
+    "arm-strength",
+    "balance-coordination",
+    "inversion"
+  ],
+  "sortWeight": 98,
+  "motion": {
+    "view": "front",
+    "contacts": [
+      "one-hand"
+    ],
+    "entry": "0-2s straight freestanding two-arm handstand, hands shoulder-width, legs together; 2-4s legs open into a wide straddle, hips and legs shift sideways toward the right hand until the right shoulder is stacked over it, left hand light on its fingertips.",
+    "hold": "4-6s left hand lifts a few centimeters and the left arm extends out to the side; 6-8s hold: right arm vertical and locked, shoulder elevated over the right hand, body angled slightly so the center of mass stays over the hand, wide straddle, left arm out to the side, gaze toward the hand (poster frame).",
+    "exit": "8-10s left hand returns to the floor, legs close together, step down one leg at a time."
+  },
+  "doc": {
+    "name": {
+      "ru": "Стойка на одной руке",
+      "en": "One-Arm Handstand"
+    },
+    "subtitle": {
+      "ru": "Эка Хаста Врикшасана, ноги врозь",
+      "en": "Eka Hasta Vrksasana, straddle form"
+    },
+    "sanskrit": "Eka Hasta Vrksasana",
+    "altNames": [
+      "One Arm Handstand",
+      "OAHS",
+      "Эка Хаста Врикшасана",
+      "Стойка на одной руке ноги врозь",
+      "Straddle one-arm handstand"
+    ],
+    "summary": {
+      "ru": "Свободная стойка на одной прямой руке с ногами врозь: тело выстроено над опорной ладонью, свободная рука отведена в сторону.",
+      "en": "A freestanding handstand on one straight arm with the legs in a straddle: the body stacks over the supporting hand and the free arm reaches out to the side."
+    },
+    "about": {
+      "ru": "Экспертный гимнастический навык, а не поза для самостоятельного знакомства с балансами. Здесь показана форма с ногами врозь: широко разведённые ноги помогают управлять балансом, поэтому обучение обычно начинают с неё. Перед стойкой на одной руке нужна стабильная свободная стойка на двух руках, а сам навык осваивают постепенно, через упражнения у стены и перенос веса, лучше всего под руководством тренера. Нагрузка на запястье, локоть и плечо опорной руки очень высокая, поэтому объём тренировок увеличивают медленно.",
+      "en": "An expert gymnastic skill, not a pose for exploring arm balances on your own. This card shows the straddle form: wide legs help you manage the balance, which is why training usually starts here. Before a one-arm handstand you need a consistent freestanding two-arm handstand, and the skill itself is built gradually through wall drills and weight shifts, ideally under the guidance of a coach. The load on the wrist, elbow and shoulder of the supporting arm is very high, so training volume is increased slowly."
+    },
+    "prerequisites": [
+      {
+        "ru": "Стабильно держите свободную стойку на руках с прямым телом (ориентир — около минуты) и умеете безопасно из неё выходить.",
+        "en": "You can consistently hold a straight freestanding handstand (roughly a minute as a guide) and know how to come out of it safely."
+      },
+      {
+        "ru": "Уверенно держите стойку на руках ноги врозь.",
+        "en": "You can hold a straddle handstand steadily."
+      },
+      {
+        "ru": "У стены держите почти весь вес на одной руке без боли в запястье.",
+        "en": "At the wall, you can hold almost all your weight on one hand without wrist pain."
+      },
+      {
+        "ru": "Тренируетесь по постепенной программе, лучше с тренером по стойкам на руках.",
+        "en": "You follow a progressive training plan, ideally with a hand-balancing coach."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "До первых попыток освойте безопасный выход из стойки шагом или поворотом в сторону, лучше с тренером.",
+        "en": "Before your first attempts, learn a safe bail by stepping or turning out to the side, ideally with a coach."
+      },
+      {
+        "ru": "Нагрузка на запястье, локоть и плечо очень высокая: увеличивайте объём постепенно и прекращайте при боли.",
+        "en": "The load on the wrist, elbow and shoulder is very high: increase volume gradually and stop if you feel pain."
+      },
+      {
+        "ru": "При повышенном давлении, глаукоме, травмах плеча или запястья, а также при беременности сначала обсудите перевёрнутые позы со специалистом.",
+        "en": "If you have high blood pressure, glaucoma, a shoulder or wrist injury, or are pregnant, discuss inversions with a qualified healthcare professional first."
+      },
+      {
+        "ru": "Освободите пространство вокруг и тренируйтесь на ровной, нескользкой поверхности.",
+        "en": "Clear the space around you and train on a flat, non-slip surface."
+      }
+    ],
+    "steps": [
+      {
+        "key": "1d8787af-01da-4f5e-9a32-54653a47b5e3",
+        "title": {
+          "ru": "Встаньте в стойку",
+          "en": "Get into a handstand"
+        },
+        "body": {
+          "ru": "Выйдите в свободную стойку на руках, ладони на ширине плеч. Тело прямое, плечи вытянуты к ушам.",
+          "en": "Come into a freestanding handstand with your hands shoulder-width apart. Keep your body straight and your shoulders pushed up toward your ears."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "41cdaf98-fa3a-4e2a-893b-adbf486fc37a",
+        "title": {
+          "ru": "Разведите ноги",
+          "en": "Open the straddle"
+        },
+        "body": {
+          "ru": "Плавно разведите прямые ноги широко в стороны, сохраняя таз над плечами.",
+          "en": "Smoothly open your straight legs into a wide straddle, keeping your hips over your shoulders."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "2f7977fb-8e99-4025-8ffc-5e91fdc54542",
+        "title": {
+          "ru": "Перенесите вес",
+          "en": "Shift your weight"
+        },
+        "body": {
+          "ru": "Медленно сместите таз и ноги в сторону правой ладони, чтобы плечо оказалось точно над ней. Левая ладонь становится лёгкой и остаётся только на кончиках пальцев.",
+          "en": "Slowly shift your hips and legs toward your right hand so the shoulder stacks directly over it. Your left hand becomes light, staying only on its fingertips."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "2331e894-2fbb-4922-beaa-891a0a8c328a",
+        "title": {
+          "ru": "Отпустите руку",
+          "en": "Release the hand"
+        },
+        "body": {
+          "ru": "Когда вес полностью на правой руке, поднимите левую ладонь на несколько сантиметров и отведите руку в сторону. Держите правую руку прямой и управляйте балансом пальцами и запястьем.",
+          "en": "Once your weight is fully on your right hand, lift your left hand a few centimeters and take the arm out to the side. Keep your right arm straight and steer the balance with your fingers and wrist."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "ca0cd692-de7c-47b5-994f-886b518d64d1",
+        "title": {
+          "ru": "Вернитесь на две руки",
+          "en": "Return to two hands"
+        },
+        "body": {
+          "ru": "Верните левую ладонь на пол, сведите ноги и опуститесь по одной ноге. Если теряете баланс, выходите шагом или поворотом в сторону.",
+          "en": "Return your left hand to the floor, bring your legs together and step down one leg at a time. If you lose the balance, step or turn out to the side."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "serratus"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "obliques"
+      },
+      {
+        "key": "core-abs"
+      }
+    ],
+    "anatomy": {
+      "ru": "Кисть и предплечье опорной руки постоянно корректируют баланс. Дельтовидная и передняя зубчатая мышцы удерживают плечо поднятым над ладонью, трицепс держит руку прямой, а косые мышцы и мышцы живота сохраняют тело выстроенным над опорой.",
+      "en": "The hand and forearm of the supporting arm keep fine-tuning the balance. Your deltoid and serratus anterior hold the shoulder elevated over the hand, the triceps keeps the arm straight, and your obliques and abdominals keep the body stacked over the base."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "wall-walk",
+        "title": {
+          "ru": "Перенос веса у стены",
+          "en": "Weight shifts at the wall"
+        },
+        "body": {
+          "ru": "В стойке грудью к стене переносите вес на одну руку, облегчая другую до кончиков пальцев.",
+          "en": "In a chest-to-wall handstand, shift your weight onto one hand and lighten the other to the fingertips."
+        }
+      },
+      {
+        "exerciseSlug": "plank-shoulder-taps",
+        "title": {
+          "ru": "Касания плеч в планке",
+          "en": "Plank shoulder taps"
+        },
+        "body": {
+          "ru": "Учат удерживать корпус на одной руке без вращения.",
+          "en": "Teach you to hold your torso on one arm without rotating."
+        }
+      },
+      {
+        "exerciseSlug": "wrist-warmup",
+        "title": {
+          "ru": "Разминка запястий",
+          "en": "Wrist warm-up"
+        },
+        "body": {
+          "ru": "Подготовьте запястья перед каждой тренировкой.",
+          "en": "Prepare your wrists before every session."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Отрыв руки до переноса веса",
+          "en": "Lifting the hand before the weight shift"
+        },
+        "why": {
+          "ru": "Вес остаётся посередине, и вы падаете в сторону свободной руки.",
+          "en": "Your weight stays in the middle and you fall toward the free hand."
+        },
+        "fix": {
+          "ru": "Сначала сместите таз и ноги к опорной руке, пока вторая ладонь не станет лёгкой.",
+          "en": "First move your hips and legs toward the supporting hand until the other hand feels light."
+        }
+      },
+      {
+        "title": {
+          "ru": "Сгибание опорной руки",
+          "en": "Bending the supporting arm"
+        },
+        "why": {
+          "ru": "Плечо проваливается, и удерживать баланс становится намного труднее.",
+          "en": "Your shoulder sinks and the balance becomes much harder to hold."
+        },
+        "fix": {
+          "ru": "Держите руку выпрямленной и тянитесь плечом вверх к уху.",
+          "en": "Keep the arm locked and push your shoulder up toward your ear."
+        }
+      },
+      {
+        "title": {
+          "ru": "Слишком большой объём сразу",
+          "en": "Too much volume too soon"
+        },
+        "why": {
+          "ru": "Запястье, локоть и плечо не успевают адаптироваться к нагрузке.",
+          "en": "Your wrist, elbow and shoulder don’t have time to adapt to the load."
+        },
+        "fix": {
+          "ru": "Делайте короткие попытки, отдыхайте между ними и увеличивайте объём постепенно.",
+          "en": "Keep attempts short, rest between them and build volume gradually."
+        }
+      }
+    ],
+    "easier": [
+      "straddle-handstand",
+      "adho-mukha-vrksasana"
+    ],
+    "harder": [],
+    "related": [
+      "straddle-handstand",
+      "adho-mukha-vrksasana",
+      "tuck-press-to-handstand"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Стойка на двух руках",
+          "en": "Two-arm handstand"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Ноги врозь, перенос веса",
+          "en": "Straddle and weight shift"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Свободная рука отрывается от пола",
+          "en": "Free hand lifts off"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание на одной руке",
+          "en": "One-arm hold"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Рука на пол, ноги вместе, спуск",
+          "en": "Hand down, legs together, step down"
+        }
+      }
+    ],
+    "sources": []
+  }
+}

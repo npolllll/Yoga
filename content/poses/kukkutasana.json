@@ -1,0 +1,312 @@
+{
+  "slug": "kukkutasana",
+  "category": "arm-balances",
+  "level": "advanced",
+  "skills": [
+    "arm-strength",
+    "hip-openness",
+    "wrist-strength"
+  ],
+  "sortWeight": 72,
+  "motion": {
+    "view": "front",
+    "contacts": [
+      "hands"
+    ],
+    "entry": "0-2s seated in full lotus (Padmasana) on a folded blanket; 2-4s right hand then left hand slide between thigh and calf near each knee, arms work through toward the elbows, palms reach the floor shoulder-width apart with fingers pointing forward.",
+    "hold": "4-6s palms press, arms straighten, hips and lotus lift off the floor; 6-8s hold: arms straight, lotus resting around the forearms near the elbows, torso upright, shoulders drawn down away from the ears, gaze forward (poster frame).",
+    "exit": "8-10s hips lower to the blanket, arms withdraw one at a time."
+  },
+  "doc": {
+    "name": {
+      "ru": "Куккутасана",
+      "en": "Rooster Pose"
+    },
+    "subtitle": {
+      "ru": "Поза петуха",
+      "en": "Kukkutasana"
+    },
+    "sanskrit": "Kukkutasana",
+    "altNames": [
+      "Петух",
+      "Поза петуха",
+      "Rooster",
+      "Cockerel Pose",
+      "Kukkuṭāsana"
+    ],
+    "summary": {
+      "ru": "Баланс на прямых руках из Падмасаны: руки продеты между бёдрами и икрами, ладони на полу, таз и ноги приподняты.",
+      "en": "A straight-arm balance from Padmasana: your arms pass between your thighs and calves, your palms are on the floor and your hips and legs are lifted."
+    },
+    "about": {
+      "ru": "Куккутасана — классический продвинутый баланс на руках из полного лотоса. Руки продеты между бёдрами и икрами почти до локтей, ладони стоят на полу, руки прямые, а корпус и скрещённые ноги приподняты над полом. Поза подходит только при свободной, безболезненной Падмасане: продевание рук усиливает давление на колени. Она требует подвижных тазобедренных суставов, сильных запястий и рук, поэтому её относят к продвинутому уровню. Если лотос пока не свободен, продолжайте подготовку тазобедренных суставов и не выполняйте эту позу.",
+      "en": "Kukkutasana is a classical advanced arm balance from full lotus. Your arms pass between your thighs and calves almost to the elbows, your palms are on the floor, your arms are straight, and your torso and crossed legs are lifted off the floor. The pose is only for a free, pain-free Padmasana: threading the arms adds pressure on the knees. It needs open hips and strong wrists and arms, which is why it is rated advanced. If your lotus is not yet free, keep working on hip preparation and skip this pose."
+    },
+    "prerequisites": [
+      {
+        "ru": "Вы сидите в Падмасане 1–2 минуты без боли и неприятных ощущений в коленях и лодыжках.",
+        "en": "You can sit in Padmasana for 1–2 minutes without pain or discomfort in your knees and ankles."
+      },
+      {
+        "ru": "Вы приподнимаете таз и ноги в Толасане на несколько вдохов.",
+        "en": "You can lift your hips and legs in Tolasana for a few breaths."
+      },
+      {
+        "ru": "Вы удерживаете вес тела на прямых руках без боли в запястьях.",
+        "en": "You can hold your body weight on straight arms without wrist pain."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Никогда не втягивайте ноги в лотос силой. При боли в колене сразу выйдите из позы.",
+        "en": "Never force your legs into lotus. Come out of the pose at once if you feel knee pain."
+      },
+      {
+        "ru": "Продевайте руки медленно, по одной. При онемении, покалывании или резком давлении в ногах освободите руки.",
+        "en": "Thread your arms slowly, one at a time. Release them if you feel numbness, tingling or sharp pressure in your legs."
+      },
+      {
+        "ru": "Сядьте на сложенное одеяло. Осваивайте позу под присмотром преподавателя.",
+        "en": "Sit on a folded blanket. Learn the pose under a teacher's supervision."
+      },
+      {
+        "ru": "При травмах колен, лодыжек, запястий или локтей не выполняйте позу без согласования со специалистом.",
+        "en": "With a knee, ankle, wrist or elbow injury, do not do this pose without clearance from a qualified professional."
+      }
+    ],
+    "steps": [
+      {
+        "key": "b8cf83f5-7cb8-4277-b810-6275043abcef",
+        "title": {
+          "ru": "Сядьте в Падмасану",
+          "en": "Sit in Padmasana"
+        },
+        "body": {
+          "ru": "Сядьте на сложенное одеяло и войдите в полный лотос: сначала правая стопа на левое бедро, затем левая — на правое. Колени не должны болеть.",
+          "en": "Sit on a folded blanket and come into full lotus: right foot onto the left thigh first, then left foot onto the right thigh. Your knees must stay pain-free."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "bf0c168e-d5e3-4b1e-86a7-8370e3c5fdee",
+        "title": {
+          "ru": "Проденьте руки",
+          "en": "Thread the arms"
+        },
+        "body": {
+          "ru": "Медленно проденьте правую кисть между правым бедром и икрой рядом с коленом. Продвигайте руку вниз, пока ладонь не коснётся пола. Повторите левой рукой.",
+          "en": "Slowly slide your right hand between your right thigh and calf near the knee. Work the arm down until your palm reaches the floor. Repeat with your left arm."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "ee59753d-9210-46a2-b79f-b18229354e39",
+        "title": {
+          "ru": "Поставьте ладони",
+          "en": "Set the hands"
+        },
+        "body": {
+          "ru": "Поставьте ладони на пол на ширине плеч, пальцы раскрыты и направлены вперёд. Продвигайте руки глубже, ближе к локтям, только если коленям комфортно.",
+          "en": "Place your palms on the floor shoulder-width apart, fingers spread and pointing forward. Work your arms deeper, toward the elbows, only if your knees feel comfortable."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "1e42c97a-ad04-4182-bcc2-e6bacccb32ca",
+        "title": {
+          "ru": "Поднимитесь",
+          "en": "Lift up"
+        },
+        "body": {
+          "ru": "На выдохе надавите ладонями в пол и выпрямите руки. Оторвите таз и ноги от пола, держите корпус вертикально, смотрите вперёд.",
+          "en": "As you exhale, press your palms into the floor and straighten your arms. Lift your hips and legs off the floor, keep your torso upright and look ahead."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "e95d989a-38cd-4125-b3ce-eee870bca949",
+        "title": {
+          "ru": "Удерживайте позу",
+          "en": "Hold"
+        },
+        "body": {
+          "ru": "Отведите плечи от ушей и дышите ровно несколько вдохов.",
+          "en": "Draw your shoulders away from your ears and breathe evenly for a few breaths."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "ad447a25-7095-49b6-be6a-828bcd68a2c7",
+        "title": {
+          "ru": "Выйдите из позы",
+          "en": "Come down"
+        },
+        "body": {
+          "ru": "Опустите таз на одеяло. По одной освободите руки и аккуратно выйдите из лотоса. В следующий раз начните лотос с другой ноги.",
+          "en": "Lower your hips to the blanket. Free your arms one at a time and carefully unfold the lotus. Next time, start the lotus with the other leg."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "hip-flexors"
+      }
+    ],
+    "anatomy": {
+      "ru": "Кисти, предплечья и трицепсы удерживают вес на прямых руках. Мышцы плечевого пояса опускают плечи и поднимают корпус. Мышцы живота и сгибатели бедра подтягивают лотос вверх, а свободные тазобедренные суставы нужны, чтобы лотос не нагружал колени.",
+      "en": "Your hands, forearms and triceps carry your weight on straight arms. Your shoulder muscles draw your shoulders down and lift your torso. Your abdominal muscles and hip flexors draw the lotus up, and open hips are needed so the lotus does not strain your knees."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "pigeon-pose",
+        "title": {
+          "ru": "Подготовка тазобедренных суставов",
+          "en": "Hip preparation"
+        },
+        "body": {
+          "ru": "Постепенно развивайте наружное вращение бедра, которое нужно для лотоса. Не переносите нагрузку на колено.",
+          "en": "Gradually work on the outward hip rotation that lotus needs. Keep the strain out of your knee."
+        }
+      },
+      {
+        "exerciseSlug": "tuck-lift-on-blocks",
+        "title": {
+          "ru": "Подъём в группировке на блоках",
+          "en": "Tuck lift on blocks"
+        },
+        "body": {
+          "ru": "Учит поднимать таз от пола за счёт прямых рук и корпуса.",
+          "en": "Teaches you to lift your hips off the floor with straight arms and your core."
+        }
+      },
+      {
+        "exerciseSlug": "wrist-warmup",
+        "title": {
+          "ru": "Разминка запястий",
+          "en": "Wrist warm-up"
+        },
+        "body": {
+          "ru": "Подготовьте кисти к нагрузке на прямых руках.",
+          "en": "Prepare your wrists to bear weight on straight arms."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Лотос через силу",
+          "en": "Forcing the lotus"
+        },
+        "why": {
+          "ru": "Если тазобедренные суставы вращаются недостаточно, нагрузка уходит в колени.",
+          "en": "If your hips do not rotate enough, the strain goes into your knees."
+        },
+        "fix": {
+          "ru": "Продолжайте подготовку тазобедренных суставов и входите в позу только из свободной Падмасаны.",
+          "en": "Keep working on hip preparation and enter the pose only from a free Padmasana."
+        }
+      },
+      {
+        "title": {
+          "ru": "Руки продеты неглубоко",
+          "en": "Arms threaded too shallow"
+        },
+        "why": {
+          "ru": "Ноги лежат на предплечьях низко, и поднять таз трудно.",
+          "en": "Your legs sit low on your forearms and lifting your hips is hard."
+        },
+        "fix": {
+          "ru": "Продвигайте руки глубже постепенно и только без боли в коленях.",
+          "en": "Work your arms deeper gradually, and only without knee pain."
+        }
+      },
+      {
+        "title": {
+          "ru": "Плечи подняты к ушам",
+          "en": "Shoulders hunched to the ears"
+        },
+        "why": {
+          "ru": "Корпус проседает, и опора на руки становится неустойчивой.",
+          "en": "Your torso sinks and the support on your arms becomes unsteady."
+        },
+        "fix": {
+          "ru": "Надавите ладонями в пол и отведите плечи вниз.",
+          "en": "Press your palms into the floor and draw your shoulders down."
+        }
+      }
+    ],
+    "easier": [
+      "tolasana",
+      "lolasana"
+    ],
+    "harder": [
+      "urdhva-kukkutasana"
+    ],
+    "related": [
+      "mayurasana",
+      "bakasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Падмасана на одеяле",
+          "en": "Padmasana on a blanket"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Руки продеваются между бёдрами и икрами",
+          "en": "Arms thread between thighs and calves"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Ладони на полу, руки выпрямляются",
+          "en": "Palms down, arms straighten"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: таз и ноги над полом",
+          "en": "Hold: hips and legs off the floor"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Опускание, руки освобождаются",
+          "en": "Lower down, arms come out"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Kukkutasana",
+        "note": "Classical description of the pose."
+      }
+    ]
+  }
+}

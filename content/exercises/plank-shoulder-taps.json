@@ -1,0 +1,53 @@
+{
+  "slug": "plank-shoulder-taps",
+  "skills": [
+    "core-control",
+    "balance-coordination",
+    "arm-strength"
+  ],
+  "doc": {
+    "name": {
+      "ru": "Касания плеч в планке",
+      "en": "Plank Shoulder Taps"
+    },
+    "summary": {
+      "ru": "Поочерёдные касания плеч в планке: учат удерживать таз неподвижным, пока вес переходит на одну руку, — основа для Васиштхасаны и других балансов с опорой на одну руку.",
+      "en": "Alternating shoulder taps in a plank that teach you to keep your hips still while your weight moves into one hand — a base for Side Plank and other one-arm balances."
+    },
+    "instructions": [
+      {
+        "ru": "Встаньте в планку, ладони под плечами, стопы шире таза для устойчивости.",
+        "en": "Come into a plank with your hands under your shoulders and your feet wider than hip-width for stability."
+      },
+      {
+        "ru": "Подтяните живот и слегка напрягите ягодицы, чтобы таз оставался ровным.",
+        "en": "Draw in your belly and lightly engage your glutes to keep your hips level."
+      },
+      {
+        "ru": "Медленно оторвите правую ладонь и коснитесь левого плеча, затем верните ладонь на коврик. Повторите другой рукой.",
+        "en": "Slowly lift your right hand to touch your left shoulder, then return it to the mat. Repeat with the other hand."
+      },
+      {
+        "ru": "Двигайтесь без раскачивания таза. Выполните 2–4 подхода по 6–10 касаний на каждую сторону; при необходимости опустите колени.",
+        "en": "Move without rocking your hips. Do 2–4 sets of 6–10 taps per side; lower your knees if needed."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Если таз раскачивается, поставьте стопы шире или выполняйте упражнение с колен.",
+        "en": "If your hips sway, widen your feet or do the exercise on your knees."
+      },
+      {
+        "ru": "При боли в запястьях, плечах или пояснице прекратите упражнение.",
+        "en": "Stop if you feel pain in your wrists, shoulders or lower back."
+      }
+    ],
+    "muscles": [
+      "core-abs",
+      "obliques",
+      "shoulders-deltoids",
+      "wrists-forearms"
+    ],
+    "sources": []
+  }
+}

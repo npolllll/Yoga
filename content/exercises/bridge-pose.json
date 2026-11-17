@@ -1,0 +1,52 @@
+{
+  "slug": "bridge-pose",
+  "skills": [
+    "shoulder-mobility",
+    "flexibility"
+  ],
+  "doc": {
+    "name": {
+      "ru": "Мостик на лопатках",
+      "en": "Bridge Pose"
+    },
+    "summary": {
+      "ru": "Мостик на лопатках раскрывает грудь и переднюю поверхность бёдер и укрепляет ягодицы: готовит плечевой пояс к Полустойке и Стойке на плечах и уравновешивает балансы с округлённой спиной.",
+      "en": "Bridge Pose opens the chest and the front of the hips and strengthens the glutes, preparing the shoulders for Half and Supported Shoulder Stand and balancing out rounded-back arm balances."
+    },
+    "instructions": [
+      {
+        "ru": "Лягте на спину, согните колени и поставьте стопы на ширине таза под коленями. Руки вдоль тела.",
+        "en": "Lie on your back with your knees bent and your feet hip-width apart under your knees. Rest your arms by your sides."
+      },
+      {
+        "ru": "Надавите стопами и плечами в пол и на вдохе поднимите таз.",
+        "en": "Press your feet and shoulders into the floor and lift your hips as you inhale."
+      },
+      {
+        "ru": "Сведите лопатки, слегка подверните плечи под себя и при желании сцепите пальцы под тазом. Колени направлены вперёд.",
+        "en": "Draw your shoulder blades together, roll your shoulders slightly under you and, if you like, interlace your fingers beneath your pelvis. Keep your knees pointing forward."
+      },
+      {
+        "ru": "Держите шею свободной и не поворачивайте голову. Удерживайте 20–40 секунд, затем медленно опустите спину позвонок за позвонком. Повторите 2–3 раза.",
+        "en": "Keep your neck relaxed and don't turn your head. Hold for 20–40 seconds, then slowly roll your spine down. Repeat 2–3 times."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "При боли в пояснице, шее или коленях опустите таз; для облегчённого варианта положите блок под крестец.",
+        "en": "Lower your hips if you feel pain in your lower back, neck or knees; for a supported version, rest your sacrum on a block."
+      },
+      {
+        "ru": "При травмах шеи или беременности сначала обсудите нагрузку со специалистом.",
+        "en": "If you have a neck injury or are pregnant, discuss the load with a qualified professional first."
+      }
+    ],
+    "muscles": [
+      "glutes",
+      "hamstrings",
+      "lower-back",
+      "quadriceps"
+    ],
+    "sources": []
+  }
+}

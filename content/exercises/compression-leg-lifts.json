@@ -1,0 +1,51 @@
+{
+  "slug": "compression-leg-lifts",
+  "skills": [
+    "core-control",
+    "hamstring-flexibility"
+  ],
+  "doc": {
+    "name": {
+      "ru": "Подъёмы ног сидя",
+      "en": "Seated Compression Leg Lifts"
+    },
+    "summary": {
+      "ru": "Подъёмы прямых ног сидя развивают активную «компрессию» — силу сгибателей бедра и мышц живота, которая нужна в Толасане, Светлячке и при выходе в стойку на руках силой.",
+      "en": "Seated straight-leg lifts that build active compression — the hip flexor and abdominal strength used in Scale Pose, Firefly and pressing into a handstand."
+    },
+    "instructions": [
+      {
+        "ru": "Сядьте с прямыми ногами вместе (Дандасана) и поставьте ладони на пол по сторонам от коленей или бёдер.",
+        "en": "Sit with your legs straight and together (Staff Pose) and place your palms on the floor beside your knees or thighs."
+      },
+      {
+        "ru": "Удлините спину и слегка наклоните корпус вперёд от тазобедренных суставов.",
+        "en": "Lengthen your spine and lean slightly forward from your hips."
+      },
+      {
+        "ru": "Напрягите переднюю поверхность бёдер и приподнимите обе ноги на несколько сантиметров, не отклоняясь назад. Можно начать с одной ноги.",
+        "en": "Engage the front of your thighs and lift both legs a few centimetres without leaning back. You can start with one leg at a time."
+      },
+      {
+        "ru": "Задержитесь на 1–3 секунды и мягко опустите ноги. Выполните 2–4 подхода по 5–10 повторений.",
+        "en": "Pause for 1–3 seconds, then lower your legs gently. Do 2–4 sets of 5–10 repetitions."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Если ноги не отрываются от пола, слегка согните колени или подложите блоки под ладони.",
+        "en": "If your legs won't leave the floor, bend your knees slightly or place blocks under your hands."
+      },
+      {
+        "ru": "При боли в пояснице или судороге в передней поверхности бедра прекратите упражнение.",
+        "en": "Stop if you feel pain in your lower back or a cramp at the front of your hip."
+      }
+    ],
+    "muscles": [
+      "hip-flexors",
+      "core-abs",
+      "quadriceps"
+    ],
+    "sources": []
+  }
+}

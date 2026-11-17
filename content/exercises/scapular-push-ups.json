@@ -1,0 +1,51 @@
+{
+  "slug": "scapular-push-ups",
+  "skills": [
+    "arm-strength",
+    "shoulder-mobility"
+  ],
+  "doc": {
+    "name": {
+      "ru": "Отжимания лопатками",
+      "en": "Scapular Push-Ups"
+    },
+    "summary": {
+      "ru": "Движение лопаток в планке на прямых руках: укрепляет зубчатые мышцы и учит отталкивать пол — навык для Бакасаны, Чатуранги и стоек на руках.",
+      "en": "Moving your shoulder blades in a straight-arm plank to strengthen the serratus and learn to push the floor away — a skill for Crow, Chaturanga and handstands."
+    },
+    "instructions": [
+      {
+        "ru": "Встаньте в планку на прямых руках — на носках или на коленях, ладони под плечами.",
+        "en": "Come into a straight-arm plank, on your toes or knees, with your hands under your shoulders."
+      },
+      {
+        "ru": "Не сгибая локтей, позвольте груди мягко опуститься между рук, чтобы лопатки сблизились.",
+        "en": "Without bending your elbows, let your chest sink gently between your arms so your shoulder blades move together."
+      },
+      {
+        "ru": "Оттолкните пол ладонями и разведите лопатки, слегка округлив верх спины.",
+        "en": "Push the floor away and spread your shoulder blades apart, gently rounding your upper back."
+      },
+      {
+        "ru": "Двигайтесь медленно и только за счёт лопаток. Выполните 2–3 подхода по 8–12 повторений.",
+        "en": "Move slowly and only from your shoulder blades. Do 2–3 sets of 8–12 repetitions."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Держите локти прямыми, но не переразгибайте их.",
+        "en": "Keep your elbows straight but not locked."
+      },
+      {
+        "ru": "При боли в плечах или запястьях прекратите упражнение.",
+        "en": "Stop if you feel pain in your shoulders or wrists."
+      }
+    ],
+    "muscles": [
+      "serratus",
+      "shoulders-deltoids",
+      "upper-back"
+    ],
+    "sources": []
+  }
+}

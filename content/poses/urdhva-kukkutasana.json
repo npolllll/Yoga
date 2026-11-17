@@ -1,0 +1,319 @@
+{
+  "slug": "urdhva-kukkutasana",
+  "category": "arm-balances",
+  "level": "expert",
+  "skills": [
+    "arm-strength",
+    "hip-openness",
+    "inversion"
+  ],
+  "sortWeight": 93,
+  "motion": {
+    "view": "side",
+    "contacts": [
+      "hands"
+    ],
+    "entry": "0-2s tripod headstand (crown of the head and palms in a triangle on the mat, elbows over the wrists) with the legs already folded in lotus above the hips; 2-4s hips fold and the lotus lowers to rest on the backs of the upper arms close to the armpits, crown still on the mat.",
+    "hold": "4-6s weight moves into the palms, head lifts off the mat, arms gradually straighten; 6-8s hold: arms straight (elbows not locked), palms shoulder-width, lotus resting high on the backs of the upper arms near the armpits, back rounded, pelvis lifted high behind the arms, head lifted, gaze forward and down (poster frame).",
+    "exit": "8-10s elbows bend, crown returns softly to the mat in front of the hands: tripod headstand base with the lotus still on the arms (end frame)."
+  },
+  "doc": {
+    "name": {
+      "ru": "Урдхва Куккутасана",
+      "en": "Upward Rooster Pose"
+    },
+    "subtitle": {
+      "ru": "Поднятый петух",
+      "en": "Urdhva Kukkutasana"
+    },
+    "sanskrit": "Urdhva Kukkutasana",
+    "altNames": [
+      "Урдхва Куккутасана",
+      "Поднятый петух",
+      "Поза поднятого петуха",
+      "Upward Rooster",
+      "Ūrdhva Kukkuṭāsana"
+    ],
+    "summary": {
+      "ru": "Баланс на прямых руках с ногами в лотосе: скрещённые ноги лежат высоко на верхней части рук, голова поднята.",
+      "en": "A straight-arm balance with your legs in lotus: your crossed legs rest high on your upper arms and your head is lifted."
+    },
+    "about": {
+      "ru": "Урдхва Куккутасана — экспертный баланс на руках. Ноги сложены в Падмасану, лотос лежит на задней стороне плеч ближе к подмышкам, руки выпрямлены, спина округлена, голова поднята. Здесь показан вход из стойки на голове с опорой на ладони (Саламба Ширшасана II), в которой ноги складывают в лотос. Поза сочетает свободную Падмасану, уверенную стойку на голове и силу рук, поэтому её относят к экспертному уровню. Осваивайте её под присмотром опытного преподавателя.",
+      "en": "Urdhva Kukkutasana is an expert arm balance. Your legs are folded into Padmasana, the lotus rests on the backs of your upper arms close to the armpits, your arms are straight, your back is rounded and your head is lifted. This card shows the entry from tripod headstand (Salamba Sirsasana II), where you fold your legs into lotus. The pose combines a free Padmasana, a steady tripod headstand and arm strength, which is why it is rated expert. Learn it under the supervision of an experienced teacher."
+    },
+    "prerequisites": [
+      {
+        "ru": "Вы уверенно стоите в Саламба Ширшасане II (стойке на голове с опорой на ладони) не менее 30 секунд.",
+        "en": "You can hold Salamba Sirsasana II (tripod headstand) steadily for at least 30 seconds."
+      },
+      {
+        "ru": "Вы складываете ноги в Падмасану без помощи рук и без боли в коленях.",
+        "en": "You can fold your legs into Padmasana without using your hands and without knee pain."
+      },
+      {
+        "ru": "Вы уверенно выполняете Куккутасану или Бакасану на прямых руках.",
+        "en": "You can do Kukkutasana or straight-arm Bakasana with confidence."
+      },
+      {
+        "ru": "Вы владеете переходом из Бакасаны в стойку на голове и обратно.",
+        "en": "You can move from Bakasana to tripod headstand and back."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Никогда не складывайте лотос силой, особенно в перевёрнутом положении. При боли в колене выйдите из позы.",
+        "en": "Never force the lotus, especially upside down. Come out of the pose if you feel knee pain."
+      },
+      {
+        "ru": "В стойке на голове держите основной вес на ладонях и руках, а не на шее. При боли в шее прекратите попытку.",
+        "en": "In the headstand, keep most of your weight in your hands and arms, not your neck. Stop if you feel neck pain."
+      },
+      {
+        "ru": "Освободите место вокруг, положите одеяло под голову и практикуйте под присмотром преподавателя или со страховкой.",
+        "en": "Clear the space around you, place a blanket under your head and practise under a teacher's supervision or with a spotter."
+      },
+      {
+        "ru": "При травмах шеи, колен или запястий, повышенном давлении, глаукоме или беременности обсудите перевёрнутые позы со специалистом.",
+        "en": "With a neck, knee or wrist injury, high blood pressure, glaucoma or pregnancy, discuss inversions with a qualified professional."
+      }
+    ],
+    "steps": [
+      {
+        "key": "620292ea-6ab8-46ce-aa04-a399531c901e",
+        "title": {
+          "ru": "Встаньте в стойку на голове",
+          "en": "Come into tripod headstand"
+        },
+        "body": {
+          "ru": "Поставьте макушку и ладони на коврик треугольником, локти над запястьями. Поднимитесь в Саламба Ширшасану II и найдите устойчивость.",
+          "en": "Place the crown of your head and your palms on the mat in a triangle, elbows over wrists. Come up into Salamba Sirsasana II and find stability."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "f1802978-e0af-47b6-9129-cbe3fcb82239",
+        "title": {
+          "ru": "Сложите лотос",
+          "en": "Fold the lotus"
+        },
+        "body": {
+          "ru": "Если стойка устойчива, сложите ноги в Падмасану без помощи рук: сначала одну стопу, затем другую.",
+          "en": "If the headstand is steady, fold your legs into Padmasana without using your hands: one foot, then the other."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "5ee58de7-6a75-48b6-bb19-764ead8c6972",
+        "title": {
+          "ru": "Опустите лотос на руки",
+          "en": "Lower the lotus onto the arms"
+        },
+        "body": {
+          "ru": "На выдохе согнитесь в тазобедренных суставах и опустите лотос. Положите его на заднюю сторону плеч как можно ближе к подмышкам.",
+          "en": "As you exhale, fold at the hips and lower the lotus. Rest it on the backs of your upper arms as close to the armpits as you can."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "1b7e4623-2fa7-4fa1-9bf1-542a5d8b6eb2",
+        "title": {
+          "ru": "Поднимите голову",
+          "en": "Lift the head"
+        },
+        "body": {
+          "ru": "Надавите ладонями в пол, перенесите вес на руки и оторвите голову от коврика. Постепенно выпрямите руки, округлите спину и смотрите вперёд и вниз.",
+          "en": "Press your palms into the floor, move your weight into your hands and lift your head off the mat. Gradually straighten your arms, round your back and look forward and down."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "d8ce3c8f-2b94-439d-9a86-176db4324faa",
+        "title": {
+          "ru": "Удерживайте позу",
+          "en": "Hold"
+        },
+        "body": {
+          "ru": "Держите лотос высоко на руках, а плечи — отведёнными от ушей. Дышите ровно несколько вдохов.",
+          "en": "Keep the lotus high on your arms and your shoulders away from your ears. Breathe evenly for a few breaths."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "7caae436-bd61-4456-ba97-42da2ff0b6eb",
+        "title": {
+          "ru": "Выйдите из позы",
+          "en": "Come down"
+        },
+        "body": {
+          "ru": "Согните локти и мягко верните макушку на коврик. Поднимите лотос вверх в стойку на голове, раскройте ноги и опустите их по одной.",
+          "en": "Bend your elbows and gently return the crown of your head to the mat. Raise the lotus back up into the headstand, unfold your legs and lower them one at a time."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "serratus"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "neck"
+      }
+    ],
+    "anatomy": {
+      "ru": "Кисти, плечи и трицепсы удерживают вес тела на прямых руках. Передняя зубчатая мышца и мышцы живота округляют спину и поднимают таз. Мышцы шеи стабилизируют голову в фазе стойки на голове, а для лотоса нужны свободные тазобедренные суставы.",
+      "en": "Your hands, shoulders and triceps carry your body weight on straight arms. Your serratus anterior and abdominal muscles round your back and lift your pelvis. Your neck muscles stabilise your head in the headstand phase, and the lotus needs open hips."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "headstand-prep",
+        "title": {
+          "ru": "Подготовка к стойке на голове",
+          "en": "Headstand preparation"
+        },
+        "body": {
+          "ru": "Укрепляйте опору на ладони и руки, чтобы не перегружать шею.",
+          "en": "Build support through your hands and arms so you do not overload your neck."
+        }
+      },
+      {
+        "exerciseSlug": "pigeon-pose",
+        "title": {
+          "ru": "Подготовка тазобедренных суставов",
+          "en": "Hip preparation"
+        },
+        "body": {
+          "ru": "Развивайте наружное вращение бедра, чтобы лотос складывался без помощи рук и без давления на колени.",
+          "en": "Work on outward hip rotation so the lotus folds without your hands and without strain on your knees."
+        }
+      },
+      {
+        "exerciseSlug": "tuck-lift-on-blocks",
+        "title": {
+          "ru": "Подъём в группировке на блоках",
+          "en": "Tuck lift on blocks"
+        },
+        "body": {
+          "ru": "Развивает силу прямых рук и сжатие корпуса для компактного баланса.",
+          "en": "Builds straight-arm strength and core compression for a compact balance."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Лотос сползает к локтям",
+          "en": "Lotus sliding toward the elbows"
+        },
+        "why": {
+          "ru": "Опора уходит ниже, и поднять голову становится трудно.",
+          "en": "Your support slips lower and lifting your head becomes hard."
+        },
+        "fix": {
+          "ru": "Опускайте лотос медленно и кладите его как можно ближе к подмышкам.",
+          "en": "Lower the lotus slowly and place it as close to your armpits as you can."
+        }
+      },
+      {
+        "title": {
+          "ru": "Подъём головы рывком",
+          "en": "Jerking the head up"
+        },
+        "why": {
+          "ru": "Резкое движение сбивает баланс и нагружает шею.",
+          "en": "A sudden movement breaks the balance and strains your neck."
+        },
+        "fix": {
+          "ru": "Сначала перенесите вес на ладони, затем плавно поднимите голову.",
+          "en": "Shift your weight into your hands first, then lift your head smoothly."
+        }
+      },
+      {
+        "title": {
+          "ru": "Лотос в перевёрнутом положении через силу",
+          "en": "Forcing lotus upside down"
+        },
+        "why": {
+          "ru": "Без помощи рук легко перегрузить колени.",
+          "en": "Without your hands to help, it is easy to strain your knees."
+        },
+        "fix": {
+          "ru": "Складывайте лотос в стойке, только если сидя он складывается свободно и без помощи рук.",
+          "en": "Fold lotus in the headstand only if it folds freely when you are seated, without your hands."
+        }
+      }
+    ],
+    "easier": [
+      "kukkutasana",
+      "tripod-headstand",
+      "tolasana"
+    ],
+    "harder": [],
+    "related": [
+      "crow-to-tripod-headstand",
+      "tripod-headstand-to-crow",
+      "bakasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Стойка на голове с ногами в лотосе",
+          "en": "Tripod headstand with legs in lotus"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Лотос опускается на плечи",
+          "en": "Lotus lowers onto the upper arms"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Голова отрывается, руки выпрямляются",
+          "en": "Head lifts, arms straighten"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: лотос у подмышек",
+          "en": "Hold: lotus near the armpits"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Макушка возвращается на коврик",
+          "en": "Crown returns to the mat"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Urdhva Kukkutasana",
+        "note": "Classical description of the pose."
+      }
+    ]
+  }
+}

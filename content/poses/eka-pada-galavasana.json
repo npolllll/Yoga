@@ -1,0 +1,310 @@
+{
+  "slug": "eka-pada-galavasana",
+  "category": "arm-balances",
+  "level": "intermediate",
+  "skills": [
+    "arm-strength",
+    "hip-openness",
+    "balance-coordination"
+  ],
+  "sortWeight": 40,
+  "motion": {
+    "view": "three-quarter",
+    "contacts": [
+      "hands"
+    ],
+    "entry": "0-2s standing on the left leg, right ankle on the left thigh just above the knee, right foot flexed, left knee bends into a chair-like sit; 2-4s fold forward, palms shoulder-width apart, right toes hook around the left upper arm, right shin rests across the backs of both upper arms near the armpits, right knee on the right upper arm, elbows bend straight back.",
+    "hold": "4-6s chest moves forward, gaze ahead, left foot lifts with the knee bent toward the chest; 6-8s hold: elbows bent about 90° hugging the ribs, right shin on the arm shelf, left leg straight back and up in line with the torso, torso nearly parallel to the floor (poster frame).",
+    "exit": "8-10s left knee bends, left foot lowers to the mat, weight shifts back to the standing figure four."
+  },
+  "doc": {
+    "name": {
+      "ru": "Летающий голубь",
+      "en": "Flying Pigeon Pose"
+    },
+    "subtitle": {
+      "ru": "Эка Пада Галавасана",
+      "en": "Eka Pada Galavasana"
+    },
+    "sanskrit": "Eka Pada Galavasana",
+    "altNames": [
+      "Эка Пада Галавасана",
+      "Галавасана",
+      "Flying Pigeon",
+      "Galavasana",
+      "Eka Pada Gālavāsana"
+    ],
+    "summary": {
+      "ru": "Баланс на согнутых руках: голень одной ноги лежит поперёк плеч, стопа зацеплена за руку, вторая нога вытянута назад.",
+      "en": "A bent-arm balance: one shin rests across the backs of your upper arms with that foot hooked around an arm, and the other leg extends back."
+    },
+    "about": {
+      "ru": "Эка Пада Галавасана, или «летающий голубь», — баланс на ладонях с согнутыми локтями. Голень одной ноги лежит поперёк задней стороны обоих плеч, а вторая нога вытянута назад. Здесь показан распространённый вход из положения стоя с ногой в «четвёрке» (лодыжка на противоположном бедре). Поза требует открытых тазобедренных суставов, силы рук, как в Чатуранге, и уверенного переноса веса вперёд, поэтому её относят к среднему уровню. Начните с удержания с согнутой задней ногой и выпрямляйте её, только когда баланс устойчив.",
+      "en": "Eka Pada Galavasana, or Flying Pigeon, is a bent-arm balance. One shin rests across the backs of both upper arms while the other leg extends back. This card shows the common entry from standing with your leg in a figure four (ankle on the opposite thigh). It calls for open hips, Chaturanga-like arm strength and a steady forward weight shift, which is why it is rated intermediate. Start by holding with your back knee bent and straighten it only once the balance feels steady."
+    },
+    "prerequisites": [
+      {
+        "ru": "Удобно стоите на одной ноге с лодыжкой другой ноги на бедре («четвёрка»).",
+        "en": "You can stand comfortably on one leg with the other ankle on your thigh (standing figure four)."
+      },
+      {
+        "ru": "Уверенно держите Бакасану несколько вдохов.",
+        "en": "You can hold Bakasana steadily for a few breaths."
+      },
+      {
+        "ru": "Контролируемо опускаетесь в Чатурангу.",
+        "en": "You can lower into Chaturanga with control."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Держите стопу согнутой ноги активной, носок на себя. При боли в колене выйдите из позы.",
+        "en": "Keep the foot of the bent leg active, toes drawn toward you. Come out if you feel knee pain."
+      },
+      {
+        "ru": "Положите подушку или блок перед лицом и не делайте мах задней ногой.",
+        "en": "Place a cushion or block in front of your face and don’t kick up with the back leg."
+      },
+      {
+        "ru": "При боли в запястьях, локтях или плечах прекратите попытку.",
+        "en": "Stop if you feel pain in your wrists, elbows or shoulders."
+      },
+      {
+        "ru": "При недавней травме колена, бедра или плеча сначала обсудите нагрузку со специалистом.",
+        "en": "If you’ve had a recent knee, hip or shoulder injury, discuss the load with a qualified healthcare professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "5f510204-c42f-42e6-96ec-786c3ac6204e",
+        "title": {
+          "ru": "Встаньте в «четвёрку»",
+          "en": "Stand in a figure four"
+        },
+        "body": {
+          "ru": "Стоя на левой ноге, положите правую лодыжку на левое бедро чуть выше колена. Возьмите правый носок на себя и опуститесь, сгибая левое колено.",
+          "en": "Standing on your left leg, place your right ankle on your left thigh just above the knee. Flex your right foot and sit back by bending your left knee."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "56534256-67c2-4212-adca-60176bfd5a9c",
+        "title": {
+          "ru": "Поставьте ладони и зацепите стопу",
+          "en": "Hands down, hook the foot"
+        },
+        "body": {
+          "ru": "Наклонитесь и поставьте ладони на ширине плеч. Зацепите пальцы правой стопы за левое плечо, а голень положите поперёк задней стороны обоих плеч как можно ближе к подмышкам.",
+          "en": "Fold forward and place your palms shoulder-width apart. Hook the toes of your right foot around your left upper arm and rest your shin across the backs of both upper arms, as close to your armpits as you can."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "de60f385-54eb-4c59-8ab4-f245caeed485",
+        "title": {
+          "ru": "Создайте опору",
+          "en": "Build the shelf"
+        },
+        "body": {
+          "ru": "Согните локти назад, как в Чатуранге, чтобы плечи стали полкой для голени. Правое колено упирается в правое плечо.",
+          "en": "Bend your elbows back as in Chaturanga so your upper arms form a shelf for your shin. Press your right knee into your right upper arm."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "c7346df6-207d-4615-b992-2cae5c819c6b",
+        "title": {
+          "ru": "Перенесите вес вперёд",
+          "en": "Shift forward"
+        },
+        "body": {
+          "ru": "Подайте грудь вперёд и смотрите на коврик впереди ладоней. Когда левая стопа станет лёгкой, оторвите её от пола и подтяните колено к груди.",
+          "en": "Move your chest forward and look at the mat ahead of your hands. When your left foot feels light, lift it off the floor and draw the knee toward your chest."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "76727d50-094c-4a29-ba09-6ae90cf1be42",
+        "title": {
+          "ru": "Вытяните ногу назад",
+          "en": "Extend the back leg"
+        },
+        "body": {
+          "ru": "Если баланс устойчив, медленно выпрямите левую ногу назад и вверх. Держите стопу активной и дышите ровно несколько вдохов.",
+          "en": "If the balance feels steady, slowly straighten your left leg back and up. Keep the foot active and breathe evenly for a few breaths."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "04ed0220-5d46-4d6e-84fc-737fcc986870",
+        "title": {
+          "ru": "Выйдите и смените сторону",
+          "en": "Come down and switch"
+        },
+        "body": {
+          "ru": "Согните левую ногу, опустите стопу на коврик и вернитесь в «четвёрку». Повторите на другую сторону.",
+          "en": "Bend your left leg, lower the foot to the mat and come back to the figure four. Repeat on the other side."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "chest"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "glutes"
+      },
+      {
+        "key": "hamstrings"
+      }
+    ],
+    "anatomy": {
+      "ru": "Трицепсы, грудные и дельтовидные мышцы держат согнутые локти, как в Чатуранге. Мышцы живота сохраняют корпус компактным, а ягодичные и задняя поверхность бедра поднимают и вытягивают заднюю ногу.",
+      "en": "Your triceps, chest and deltoids hold your bent elbows, as in Chaturanga. Your abdominal muscles keep your torso compact, while your glutes and hamstrings lift and extend the back leg."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "pigeon-pose",
+        "title": {
+          "ru": "Поза голубя",
+          "en": "Pigeon prep"
+        },
+        "body": {
+          "ru": "Раскрывает тазобедренный сустав для положения голени на плечах.",
+          "en": "Opens your hip for placing your shin across your arms."
+        }
+      },
+      {
+        "exerciseSlug": "knee-chaturanga",
+        "title": {
+          "ru": "Чатуранга с колен",
+          "en": "Knees-down Chaturanga"
+        },
+        "body": {
+          "ru": "Укрепляет руки для удержания согнутых локтей.",
+          "en": "Strengthens your arms for holding bent elbows."
+        }
+      },
+      {
+        "exerciseSlug": "crow-weight-shift",
+        "title": {
+          "ru": "Перенос веса с опорной стопой на полу",
+          "en": "Weight shift with the standing foot down"
+        },
+        "body": {
+          "ru": "Зацепите голень за плечи и подавайтесь вперёд, оставляя опорную стопу на коврике.",
+          "en": "With your shin hooked on your arms, shift forward while keeping your standing foot on the mat."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Голень слишком низко",
+          "en": "Shin too low"
+        },
+        "why": {
+          "ru": "Голень соскальзывает к локтям, и опора уходит.",
+          "en": "Your shin slides toward your elbows and you lose the shelf."
+        },
+        "fix": {
+          "ru": "Положите голень ближе к подмышкам и плотно зацепите стопу за плечо.",
+          "en": "Place your shin closer to your armpits and hook your foot firmly around your arm."
+        }
+      },
+      {
+        "title": {
+          "ru": "Расслабленная стопа",
+          "en": "Relaxed foot"
+        },
+        "why": {
+          "ru": "Стопа соскальзывает с плеча, а колено теряет устойчивость.",
+          "en": "Your foot slips off your arm and your knee loses stability."
+        },
+        "fix": {
+          "ru": "Держите стопу согнутой, пальцы обхватывают плечо.",
+          "en": "Keep the foot flexed with your toes wrapped around your arm."
+        }
+      },
+      {
+        "title": {
+          "ru": "Мах задней ногой",
+          "en": "Kicking the back leg up"
+        },
+        "why": {
+          "ru": "Рывок перебрасывает вес вперёд быстрее, чем вы успеваете его контролировать.",
+          "en": "A kick throws your weight forward faster than you can control."
+        },
+        "fix": {
+          "ru": "Сначала оторвите стопу с согнутым коленом, затем медленно выпрямите ногу.",
+          "en": "Lift the foot first with the knee bent, then slowly straighten the leg."
+        }
+      }
+    ],
+    "easier": [
+      "bakasana"
+    ],
+    "harder": [
+      "eka-pada-bakasana",
+      "eka-pada-koundinyasana-2"
+    ],
+    "related": [
+      "chaturanga-dandasana",
+      "parsva-bakasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Стоя в «четвёрке»",
+          "en": "Standing figure four"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Ладони на коврик, стопа зацеплена",
+          "en": "Hands down, foot hooked"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Вес вперёд, опорная стопа отрывается",
+          "en": "Weight forward, standing foot lifts"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: задняя нога вытянута",
+          "en": "Hold: back leg extended"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Стопа на коврик, возврат",
+          "en": "Foot down, back to the start"
+        }
+      }
+    ],
+    "sources": []
+  }
+}

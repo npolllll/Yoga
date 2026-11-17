@@ -1,0 +1,313 @@
+{
+  "slug": "eka-pada-bakasana",
+  "category": "arm-balances",
+  "level": "advanced",
+  "skills": [
+    "arm-strength",
+    "core-control",
+    "balance-coordination"
+  ],
+  "sortWeight": 68,
+  "motion": {
+    "view": "side",
+    "contacts": [
+      "hands"
+    ],
+    "entry": "0-2s low squat, palms placed shoulder-width; 2-4s knees onto the upper arms above the elbows, shoulders move forward, both feet lift into bent-arm Bakasana.",
+    "hold": "4-6s right knee stays high on the right upper arm near the armpit, chest moves slightly forward, left knee slides off the arm and the left leg straightens back; 6-8s hold: elbows bent and pointing back, torso inclined forward, left leg straight behind in line with the pelvis at about hip height, toes pointing back, pelvis level, gaze at the mat ahead of the hands (poster frame).",
+    "exit": "8-10s left knee bends back onto the arm, both feet lower softly to the mat, return to squat."
+  },
+  "doc": {
+    "name": {
+      "ru": "Эка Пада Бакасана",
+      "en": "Flying Crow Pose"
+    },
+    "subtitle": {
+      "ru": "Ворона на одной ноге",
+      "en": "One-Legged Crow"
+    },
+    "sanskrit": "Eka Pada Bakasana",
+    "altNames": [
+      "Эка Пада Бакасана",
+      "Ворона на одной ноге",
+      "Летящая ворона",
+      "One-Legged Crow",
+      "Flying Crow",
+      "Eka Pāda Bakāsana"
+    ],
+    "summary": {
+      "ru": "Вариант вороны на одной ноге: одно колено лежит высоко на плече, а другая нога вытянута прямо назад.",
+      "en": "A one-legged crow variation: one knee rests high on your upper arm and the other leg extends straight back."
+    },
+    "about": {
+      "ru": "Эка Пада Бакасана — продвинутый вариант Бакасаны. Одно колено лежит высоко на верхней части руки, вторая нога вытянута назад примерно на уровне таза, локти согнуты. Здесь показана форма с вытянутой назад ногой и входом из Бакасаны; название «летящая ворона» иногда используют и для Эка Пада Галавасаны. Вытянутая нога смещает центр тяжести назад, а на руки опирается только одно колено, поэтому позе нужны уверенная Бакасана, сильные руки и контроль корпуса.",
+      "en": "Eka Pada Bakasana is an advanced variation of Bakasana. One knee rests high on your upper arm, the other leg extends back at about hip height, and your elbows are bent. This card shows the leg-back form entered from Bakasana; the name Flying Crow is sometimes also used for Eka Pada Galavasana. The extended leg moves your centre of gravity back and leaves only one knee on the arms, so the pose needs a confident Bakasana, strong arms and core control."
+    },
+    "prerequisites": [
+      {
+        "ru": "Вы удерживаете Бакасану 15–20 секунд без рывков и толчков стопами.",
+        "en": "You can hold Bakasana for 15–20 seconds without jumping or pushing off."
+      },
+      {
+        "ru": "В Бакасане вы по очереди отводите стопы назад, не теряя опоры.",
+        "en": "In Bakasana you can move each foot back in turn without losing your support."
+      },
+      {
+        "ru": "Вы держите планку с поднятой ногой 20–30 секунд.",
+        "en": "You can hold a plank with one leg lifted for 20–30 seconds."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Положите подушку или сложенное одеяло перед ладонями: в этой позе вес смещается вперёд сильнее, чем в Бакасане.",
+        "en": "Place a cushion or folded blanket in front of your hands: your weight moves further forward than in Bakasana."
+      },
+      {
+        "ru": "Вытягивайте ногу медленно, без маха. При боли в запястьях, локтях или плечах прекратите попытку.",
+        "en": "Extend the leg slowly, without a kick. Stop if you feel pain in your wrists, elbows or shoulders."
+      },
+      {
+        "ru": "При недавней травме сначала обсудите нагрузку со специалистом.",
+        "en": "If you have had a recent injury, discuss the load with a qualified professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "f4055b00-bd69-4c47-9e68-5b0ca9d43e51",
+        "title": {
+          "ru": "Подготовьте опору",
+          "en": "Set your hands"
+        },
+        "body": {
+          "ru": "Сядьте в присед и поставьте ладони на ширине плеч. Раскройте пальцы и прижмите ладони к коврику.",
+          "en": "Squat and place your palms shoulder-width apart. Spread your fingers and press your palms into the mat."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "1b1f9ae0-3bbb-42a2-a085-071dd918d846",
+        "title": {
+          "ru": "Войдите в Бакасану",
+          "en": "Come into Bakasana"
+        },
+        "body": {
+          "ru": "Упритесь коленями в верхнюю часть рук, подайте плечи вперёд и плавно поднимите обе стопы.",
+          "en": "Bring your knees onto your upper arms, move your shoulders forward and slowly lift both feet."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "6f3fdd5c-8669-4986-a51b-af7a52a1acbf",
+        "title": {
+          "ru": "Закрепите опорное колено",
+          "en": "Anchor the supporting knee"
+        },
+        "body": {
+          "ru": "Прижмите правое колено высоко к правому плечу, ближе к подмышке. Слегка подайте грудь вперёд.",
+          "en": "Press your right knee high onto your right upper arm, closer to the armpit. Move your chest slightly forward."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "aadecd69-bbbd-4f89-93ed-de85d984164d",
+        "title": {
+          "ru": "Вытяните ногу назад",
+          "en": "Extend the leg back"
+        },
+        "body": {
+          "ru": "Медленно снимите левое колено с руки и выпрямите левую ногу назад на уровне таза. Держите таз ровно и тянитесь стопой назад.",
+          "en": "Slowly slide your left knee off your arm and straighten your left leg back at hip height. Keep your pelvis level and reach back through your foot."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "b1da7efa-09fa-437d-b339-9cea0ebde6c7",
+        "title": {
+          "ru": "Удерживайте баланс",
+          "en": "Hold the balance"
+        },
+        "body": {
+          "ru": "Держите локти согнутыми и направленными назад, смотрите на коврик впереди ладоней. Дышите ровно.",
+          "en": "Keep your elbows bent and pointing back, and look at the mat ahead of your hands. Breathe evenly."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "5ef26fc2-028f-497b-96d5-589a557666ea",
+        "title": {
+          "ru": "Вернитесь на коврик",
+          "en": "Lower back down"
+        },
+        "body": {
+          "ru": "Согните левую ногу, верните колено на руку и мягко опустите стопы. Повторите на другую сторону.",
+          "en": "Bend your left leg, bring the knee back onto your arm and gently lower your feet. Repeat on the other side."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "hip-flexors"
+      },
+      {
+        "key": "glutes"
+      }
+    ],
+    "anatomy": {
+      "ru": "Кисти, плечи и трицепсы удерживают вес на согнутых руках. Мышцы живота и сгибатели бедра прижимают опорное колено к руке. Ягодичные мышцы и задняя поверхность бедра удерживают вытянутую ногу на уровне таза.",
+      "en": "Your hands, shoulders and triceps hold your weight on bent arms. Your abdominal muscles and hip flexors keep the supporting knee pressed into your arm. Your glutes and hamstrings hold the extended leg at hip height."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "crow-weight-shift",
+        "title": {
+          "ru": "Перенос веса с носками на полу",
+          "en": "Weight shift with toes down"
+        },
+        "body": {
+          "ru": "Найдите положение, в котором стопы становятся лёгкими.",
+          "en": "Find the position where your feet become light."
+        }
+      },
+      {
+        "exerciseSlug": "plank",
+        "title": {
+          "ru": "Планка с поднятой ногой",
+          "en": "Plank with one leg lifted"
+        },
+        "body": {
+          "ru": "Укрепляет руки, корпус и ягодицы для удержания вытянутой ноги.",
+          "en": "Strengthens your arms, core and glutes for holding the extended leg."
+        }
+      },
+      {
+        "exerciseSlug": "hollow-body-hold",
+        "title": {
+          "ru": "Удержание «лодочки» на спине",
+          "en": "Hollow body hold"
+        },
+        "body": {
+          "ru": "Учит сохранять корпус собранным, пока ноги работают по отдельности.",
+          "en": "Teaches you to keep your torso compact while your legs move independently."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Мах ногой",
+          "en": "Kicking the leg back"
+        },
+        "why": {
+          "ru": "Резкое движение сбивает баланс и бросает вес вперёд.",
+          "en": "A sharp movement breaks the balance and throws your weight forward."
+        },
+        "fix": {
+          "ru": "Сначала снимите колено с руки, затем выпрямляйте ногу медленно.",
+          "en": "Slide the knee off your arm first, then straighten the leg slowly."
+        }
+      },
+      {
+        "title": {
+          "ru": "Опорное колено соскальзывает",
+          "en": "Supporting knee slipping"
+        },
+        "why": {
+          "ru": "Колено уходит к локтю, и опора на руку теряется.",
+          "en": "The knee slides toward the elbow and you lose support on the arm."
+        },
+        "fix": {
+          "ru": "Подтяните колено выше к подмышке и слегка округлите верх спины.",
+          "en": "Draw the knee higher toward the armpit and gently round your upper back."
+        }
+      },
+      {
+        "title": {
+          "ru": "Таз разворачивается",
+          "en": "Pelvis rotating"
+        },
+        "why": {
+          "ru": "Вытянутая нога уводит корпус в сторону.",
+          "en": "The extended leg pulls your torso to the side."
+        },
+        "fix": {
+          "ru": "Направьте носок вытянутой ноги вниз и держите таз ровно.",
+          "en": "Point the toes of the extended leg toward the floor and keep your pelvis level."
+        }
+      }
+    ],
+    "easier": [
+      "bakasana",
+      "baby-crow"
+    ],
+    "harder": [
+      "tripod-headstand-to-crow"
+    ],
+    "related": [
+      "eka-pada-galavasana",
+      "eka-pada-koundinyasana-2",
+      "crow-to-chaturanga"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Присед и постановка ладоней",
+          "en": "Squat and hand placement"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Вход в Бакасану",
+          "en": "Lift into Bakasana"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Одна нога вытягивается назад",
+          "en": "One leg extends back"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: нога на уровне таза",
+          "en": "Hold: leg at hip height"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Колено на руку, стопы на коврик",
+          "en": "Knee back to the arm, feet down"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Eka Pada Bakasana",
+        "note": "The book describes two forms (I and II); this card shows the form with one leg extended back, entered from Bakasana as is common in teaching."
+      }
+    ]
+  }
+}

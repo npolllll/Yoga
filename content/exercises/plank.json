@@ -1,0 +1,53 @@
+{
+  "slug": "plank",
+  "skills": [
+    "arm-strength",
+    "core-control",
+    "wrist-strength"
+  ],
+  "doc": {
+    "name": {
+      "ru": "Планка",
+      "en": "Plank"
+    },
+    "summary": {
+      "ru": "Базовое удержание на прямых руках: укрепляет кисти, плечи и корпус — основу для Бакасаны и большинства балансов на руках.",
+      "en": "A basic straight-arm hold that strengthens the wrists, shoulders and core — the foundation for Crow Pose and most arm balances."
+    },
+    "instructions": [
+      {
+        "ru": "Поставьте ладони под плечами, раскройте пальцы и равномерно прижмите всю ладонь к коврику.",
+        "en": "Place your palms under your shoulders, spread your fingers and press the whole palm evenly into the mat."
+      },
+      {
+        "ru": "Отведите ноги назад и поставьте стопы на ширине таза: тело — одна линия от макушки до пяток.",
+        "en": "Step your feet back hip-width apart so your body forms one line from the crown of your head to your heels."
+      },
+      {
+        "ru": "Подтяните живот и оттолкните пол ладонями, чтобы грудь не проваливалась между лопаток, а поясница не прогибалась.",
+        "en": "Draw in your belly and push the floor away so your chest does not sink between your shoulder blades and your lower back does not sag."
+      },
+      {
+        "ru": "Смотрите в пол чуть впереди ладоней и дышите ровно. Начните с 3–5 подходов по 15–30 секунд; при необходимости опустите колени на коврик.",
+        "en": "Look at the floor just ahead of your hands and breathe evenly. Start with 3–5 rounds of 15–30 seconds; lower your knees to the mat if needed."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "При боли в запястьях, плечах или пояснице прекратите упражнение.",
+        "en": "Stop if you feel pain in your wrists, shoulders or lower back."
+      },
+      {
+        "ru": "Если запястья чувствительны, сократите время удержания или выполняйте планку с колен.",
+        "en": "If your wrists are sensitive, shorten the hold or do the plank on your knees."
+      }
+    ],
+    "muscles": [
+      "wrists-forearms",
+      "shoulders-deltoids",
+      "serratus",
+      "core-abs"
+    ],
+    "sources": []
+  }
+}

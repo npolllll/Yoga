@@ -4,15 +4,17 @@ export function LevelBadge({
   label,
   ariaLabel,
   size = "sm",
+  showLabel = true,
 }: {
   rank: number;
   label: string;
   ariaLabel?: string;
   size?: "sm" | "md";
+  showLabel?: boolean;
 }) {
   const dot = size === "md" ? "h-2.5 w-2.5" : "h-2 w-2";
   return (
-    <span className="inline-flex items-center gap-2 text-sm text-muted" aria-label={ariaLabel ?? label}>
+    <span className="inline-flex items-center gap-2 text-sm text-muted" role="img" aria-label={ariaLabel ?? label}>
       <span className="inline-flex items-center gap-1" aria-hidden="true">
         {[1, 2, 3, 4].map((i) => (
           <span
@@ -21,7 +23,7 @@ export function LevelBadge({
           />
         ))}
       </span>
-      <span aria-hidden="true">{label}</span>
+      {showLabel ? <span aria-hidden="true">{label}</span> : null}
     </span>
   );
 }

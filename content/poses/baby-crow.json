@@ -1,0 +1,289 @@
+{
+  "slug": "baby-crow",
+  "category": "arm-balances",
+  "level": "beginner",
+  "skills": [
+    "core-control",
+    "hip-openness",
+    "balance-coordination"
+  ],
+  "sortWeight": 11,
+  "motion": {
+    "view": "three-quarter",
+    "contacts": [
+      "forearms"
+    ],
+    "entry": "0-2s deep squat on the balls of the feet, forearms lowered to the mat parallel and shoulder-width apart, palms flat; 2-4s hips lift, back rounds, knees press into the backs of the upper arms close to the armpits, toes still on the mat.",
+    "hold": "4-6s shoulders move forward over the elbows, one foot lifts then the other without a hop; 6-8s hold: forearms flat and parallel, knees high on the triceps, heels drawn toward the buttocks, upper back rounded, gaze slightly ahead (poster frame).",
+    "exit": "8-10s feet softly return to the mat, weight shifts back to the feet, forearms lift, back to the squat."
+  },
+  "doc": {
+    "name": {
+      "ru": "Ворона на предплечьях",
+      "en": "Baby Crow Pose"
+    },
+    "subtitle": {
+      "ru": "Малая ворона",
+      "en": "Forearm Crow"
+    },
+    "sanskrit": "",
+    "altNames": [
+      "Малая ворона",
+      "Ворона на локтях",
+      "Baby Crow",
+      "Forearm Crow",
+      "Baby Bakasana"
+    ],
+    "summary": {
+      "ru": "Мягкий шаг к вороне: опора на предплечья, колени на задней стороне плеч, стопы приподняты над ковриком.",
+      "en": "A gentle step toward Crow: you rest on your forearms, place your knees on the backs of your upper arms and lift your feet off the mat."
+    },
+    "about": {
+      "ru": "Ворона на предплечьях — подготовительный баланс. Ладони и предплечья лежат на коврике параллельно, а колени упираются в заднюю сторону плеч как можно ближе к подмышкам. Центр тяжести находится низко, а запястья нагружены меньше, чем в Бакасане. Поза учит округлять спину, подтягивать колени к корпусу и переносить вес вперёд без рывка. Здесь описан вариант с параллельными предплечьями; это не классическая асана, а распространённый современный этап освоения вороны.",
+      "en": "Baby Crow is a preparatory balance. Your palms and forearms rest flat and parallel on the mat, and your knees press into the backs of your upper arms as close to the armpits as you can. Your center of gravity stays low and your wrists carry less load than in Bakasana. The pose teaches you to round your back, draw your knees toward your torso and shift forward without a jump. This card shows the parallel-forearm version; it is not a classical asana but a common modern stage on the way to Crow."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно держите планку на предплечьях 30 секунд.",
+        "en": "You can hold a forearm plank for 30 seconds."
+      },
+      {
+        "ru": "Спокойно сидите в глубоком приседе (Маласане) на носках.",
+        "en": "You can sit comfortably in a deep squat (Malasana) on the balls of your feet."
+      },
+      {
+        "ru": "Удерживаете позу дельфина без боли в плечах.",
+        "en": "You can hold Dolphin Pose without shoulder pain."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Подложите сложенное одеяло под предплечья, а перед лицом положите подушку или блок.",
+        "en": "Place a folded blanket under your forearms and a cushion or block in front of your face."
+      },
+      {
+        "ru": "При боли в плечах, шее или локтях прекратите попытку.",
+        "en": "Stop if you feel pain in your shoulders, neck or elbows."
+      },
+      {
+        "ru": "При недавней травме или беременности сначала обсудите нагрузку со специалистом.",
+        "en": "If you’ve had a recent injury or are pregnant, discuss the load with a qualified healthcare professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "a7324221-a6dd-412f-8881-62027ea94470",
+        "title": {
+          "ru": "Опустите предплечья",
+          "en": "Lower onto your forearms"
+        },
+        "body": {
+          "ru": "Из глубокого приседа на носках опустите предплечья на коврик параллельно друг другу. Локти — на ширине плеч, ладони прижаты к полу.",
+          "en": "From a deep squat on the balls of your feet, lower your forearms to the mat, parallel to each other. Keep your elbows shoulder-width apart and press your palms down."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "245b899e-646c-4624-a0a8-c2584da620a0",
+        "title": {
+          "ru": "Поставьте колени высоко",
+          "en": "Place your knees high"
+        },
+        "body": {
+          "ru": "Поднимите таз, округлите спину и упритесь коленями в заднюю сторону плеч как можно ближе к подмышкам.",
+          "en": "Lift your hips, round your back and press your knees into the backs of your upper arms, as close to your armpits as you can."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "7f06d77a-51db-4431-8c5c-c2156592c821",
+        "title": {
+          "ru": "Перенесите вес вперёд",
+          "en": "Shift forward"
+        },
+        "body": {
+          "ru": "Плавно подайте плечи вперёд, пока стопы не станут лёгкими. Прижимайте предплечья к коврику и смотрите немного вперёд.",
+          "en": "Slowly move your shoulders forward until your feet feel light. Keep pressing your forearms into the mat and look slightly ahead."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "cf873880-fc27-4320-b7e4-543bac554f6e",
+        "title": {
+          "ru": "Поднимите стопы",
+          "en": "Lift your feet"
+        },
+        "body": {
+          "ru": "Приподнимите одну стопу, затем вторую и подтяните пятки к ягодицам. Дышите ровно и удерживайте позу 3–5 вдохов.",
+          "en": "Lift one foot, then the other, and draw your heels toward your buttocks. Breathe evenly and stay for 3–5 breaths."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "f4fe9420-db93-4b89-af96-aa6636324579",
+        "title": {
+          "ru": "Вернитесь в присед",
+          "en": "Come back down"
+        },
+        "body": {
+          "ru": "Мягко опустите стопы, перенесите вес назад и поднимите предплечья с коврика.",
+          "en": "Gently lower your feet, shift your weight back and lift your forearms off the mat."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "serratus"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "hip-flexors"
+      },
+      {
+        "key": "adductors"
+      }
+    ],
+    "anatomy": {
+      "ru": "Плечевой пояс и передняя зубчатая мышца удерживают вес на предплечьях и не дают груди проваливаться. Мышцы живота и сгибатели бедра подтягивают колени к корпусу, а приводящие мышцы прижимают их к рукам.",
+      "en": "Your shoulders and serratus anterior hold your weight on your forearms and keep your chest from sinking. Your abdominal muscles and hip flexors draw your knees toward your torso, and your inner thighs hug them against your arms."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "forearm-plank",
+        "title": {
+          "ru": "Планка на предплечьях",
+          "en": "Forearm plank"
+        },
+        "body": {
+          "ru": "Укрепляет плечи и корпус для опоры на предплечья.",
+          "en": "Builds your shoulders and core for weight on your forearms."
+        }
+      },
+      {
+        "exerciseSlug": "malasana",
+        "title": {
+          "ru": "Глубокий присед",
+          "en": "Deep squat"
+        },
+        "body": {
+          "ru": "Помогает удобно сгруппироваться и поставить колени высоко на руки.",
+          "en": "Helps you tuck in comfortably and bring your knees high on your arms."
+        }
+      },
+      {
+        "exerciseSlug": "crow-weight-shift",
+        "title": {
+          "ru": "Перенос веса с носками на полу",
+          "en": "Weight shift with toes down"
+        },
+        "body": {
+          "ru": "Выполните его на предплечьях: подавайте плечи вперёд, оставляя носки на коврике.",
+          "en": "Do it on your forearms: move your shoulders forward while keeping your toes on the mat."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Колени стоят слишком низко",
+          "en": "Knees too low"
+        },
+        "why": {
+          "ru": "Колени соскальзывают к локтям, и опора теряется.",
+          "en": "Your knees slide down toward your elbows and you lose your support."
+        },
+        "fix": {
+          "ru": "Поднимите таз выше и поставьте колени ближе к подмышкам.",
+          "en": "Lift your hips higher and place your knees closer to your armpits."
+        }
+      },
+      {
+        "title": {
+          "ru": "Грудь проваливается между плеч",
+          "en": "Chest sinking between the shoulders"
+        },
+        "why": {
+          "ru": "Нагрузка уходит в плечевые суставы, а спина перестаёт помогать удерживать позу.",
+          "en": "The load sinks into your shoulder joints and your back stops helping you hold the shape."
+        },
+        "fix": {
+          "ru": "Отталкивайте коврик предплечьями и округлите верх спины.",
+          "en": "Push the mat away with your forearms and round your upper back."
+        }
+      },
+      {
+        "title": {
+          "ru": "Подпрыгивание",
+          "en": "Hopping up"
+        },
+        "why": {
+          "ru": "Рывок перебрасывает вес вперёд быстрее, чем вы успеваете его контролировать.",
+          "en": "A hop throws your weight forward faster than you can control."
+        },
+        "fix": {
+          "ru": "Подавайте плечи вперёд медленно и дождитесь, пока стопы станут лёгкими.",
+          "en": "Move your shoulders forward slowly and wait until your feet feel light."
+        }
+      }
+    ],
+    "easier": [],
+    "harder": [
+      "bakasana",
+      "parsva-bakasana"
+    ],
+    "related": [
+      "ardha-pincha-mayurasana",
+      "pincha-mayurasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Присед, предплечья на коврике",
+          "en": "Squat, forearms down"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Таз вверх, колени к подмышкам",
+          "en": "Hips lift, knees toward the armpits"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Плечи вперёд, стопы поднимаются",
+          "en": "Shoulders forward, feet lift"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: спина округлена, пятки к ягодицам",
+          "en": "Hold: back rounded, heels toward the buttocks"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Стопы на коврик, возврат в присед",
+          "en": "Feet down, back to the squat"
+        }
+      }
+    ],
+    "sources": []
+  }
+}

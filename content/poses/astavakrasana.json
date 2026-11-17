@@ -1,0 +1,318 @@
+{
+  "slug": "astavakrasana",
+  "category": "arm-balances",
+  "level": "advanced",
+  "skills": [
+    "arm-strength",
+    "twist",
+    "core-control"
+  ],
+  "sortWeight": 63,
+  "motion": {
+    "view": "front",
+    "contacts": [
+      "hands"
+    ],
+    "entry": "0-2s seated, right knee bent and the right leg hooked high over the back of the right upper arm, palms beside the hips, left leg extended forward; 2-4s palms press, hips and left leg lift (Eka Hasta Bhujasana), left ankle crosses over the right ankle, thighs squeeze the right arm.",
+    "hold": "4-6s elbows bend toward 90° pointing back over the wrists, chest moves forward and down while both legs straighten out to the model's right; 6-8s hold: right arm between the thighs with the right thigh high on the upper arm, ankles crossed, legs straight and roughly parallel to the floor out to the right, chest roughly parallel to the floor and turned slightly toward the left, shoulders at elbow height, gaze forward and down (poster frame).",
+    "exit": "8-10s arms straighten, chest lifts, knees bend, hips lower back to sitting."
+  },
+  "doc": {
+    "name": {
+      "ru": "Поза восьми углов",
+      "en": "Eight-Angle Pose"
+    },
+    "subtitle": {
+      "ru": "Аштавакрасана",
+      "en": "Astavakrasana"
+    },
+    "sanskrit": "Astavakrasana",
+    "altNames": [
+      "Аштавакрасана",
+      "Поза мудреца Аштавакры",
+      "Поза восьми углов",
+      "Ashtavakrasana",
+      "Eight-Angle Pose",
+      "Aṣṭāvakrāsana"
+    ],
+    "summary": {
+      "ru": "Баланс на согнутых руках со скручиванием: одна нога лежит на плече, лодыжки скрещены, а прямые ноги вытянуты в сторону.",
+      "en": "A bent-arm balance with a twist: one leg rests over your upper arm, your ankles are crossed and your straight legs extend to the side."
+    },
+    "about": {
+      "ru": "Аштавакрасана — продвинутый баланс на руках, названный в честь мудреца Аштавакры. Правое бедро лежит высоко на правом плече, лодыжки скрещены, правая рука зажата между бёдрами, локти согнуты, как в Чатуранге, а ноги вытянуты вправо. Здесь показан распространённый вход из положения сидя через Эка Хаста Бхуджасану; существуют и другие варианты входа, например из положения стоя. Поза сочетает силу рук и груди, скручивание корпуса и работу приводящих мышц бёдер, поэтому её относят к продвинутому уровню.",
+      "en": "Astavakrasana is an advanced arm balance named after the sage Ashtavakra. Your right thigh rests high on your right upper arm, your ankles are crossed, your right arm is held between your thighs, your elbows bend as in Chaturanga, and your legs extend to the right. This card shows a common seated entry through Eka Hasta Bhujasana; other entries exist, for example from standing. The pose combines arm and chest strength, a twist of the torso and inner-thigh work, which is why it is rated advanced."
+    },
+    "prerequisites": [
+      {
+        "ru": "Вы поднимаетесь в Эка Хаста Бхуджасану и удерживаете её несколько вдохов.",
+        "en": "You can lift into Eka Hasta Bhujasana and hold it for a few breaths."
+      },
+      {
+        "ru": "Вы под контролем опускаетесь в Чатурангу, удерживая локти над запястьями.",
+        "en": "You can lower into Chaturanga under control with your elbows over your wrists."
+      },
+      {
+        "ru": "Сидя, вы заводите согнутую ногу высоко на плечо без боли в колене и тазобедренном суставе.",
+        "en": "Seated, you can bring a bent leg high onto your upper arm without pain in the knee or hip."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Держите локти над запястьями и не опускайте плечи ниже локтей: так нагрузка на плечевые суставы остаётся умеренной.",
+        "en": "Keep your elbows over your wrists and your shoulders no lower than your elbows to keep the load on your shoulder joints moderate."
+      },
+      {
+        "ru": "Не заводите ногу на плечо рывком и не тяните колено руками. При боли в колене или тазобедренном суставе остановитесь.",
+        "en": "Do not jerk your leg onto your arm or pull the knee with your hands. Stop if you feel pain in the knee or hip."
+      },
+      {
+        "ru": "Положите сложенное одеяло под лицо и плечо на случай, если корпус опустится слишком низко.",
+        "en": "Place a folded blanket under your face and shoulder in case your torso drops too low."
+      },
+      {
+        "ru": "При травмах запястий, локтей, плеч или поясницы сначала обсудите нагрузку со специалистом.",
+        "en": "If you have a wrist, elbow, shoulder or lower-back injury, discuss the load with a qualified professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "43400e82-845f-4c20-bd3e-1b6d8e5c88c2",
+        "title": {
+          "ru": "Заведите ногу на плечо",
+          "en": "Hook the leg"
+        },
+        "body": {
+          "ru": "Сядьте с прямыми ногами. Согните правую ногу и заведите правое плечо под колено, чтобы бедро легло высоко на плечо.",
+          "en": "Sit with your legs straight. Bend your right leg and bring your right shoulder under the knee so the thigh rests high on your upper arm."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "1b028607-ed4e-4eff-9510-ccbb91ab6b73",
+        "title": {
+          "ru": "Поднимите таз",
+          "en": "Lift your hips"
+        },
+        "body": {
+          "ru": "Поставьте ладони на пол рядом с бёдрами, пальцы направлены вперёд. Надавите ладонями и оторвите таз и левую ногу от пола.",
+          "en": "Place your palms on the floor beside your hips, fingers pointing forward. Press down and lift your hips and left leg off the floor."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "af421267-9c7c-493a-9d03-7752d464b562",
+        "title": {
+          "ru": "Скрестите лодыжки",
+          "en": "Cross the ankles"
+        },
+        "body": {
+          "ru": "Положите левую лодыжку на правую. Сожмите бёдрами правую руку.",
+          "en": "Cross your left ankle over your right. Squeeze your right arm between your thighs."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "e3ba0a00-27a8-4bf1-b26e-55cf845c95c3",
+        "title": {
+          "ru": "Наклонитесь и вытяните ноги",
+          "en": "Lean and extend"
+        },
+        "body": {
+          "ru": "Согните локти и подайте грудь вперёд и вниз. Одновременно выпрямите ноги вправо. Держите локти над запястьями и близко к корпусу.",
+          "en": "Bend your elbows and move your chest forward and down. At the same time, straighten your legs out to the right. Keep your elbows over your wrists and close to your body."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "804bc0c0-01d7-4816-a3d1-43e6ac7dfb41",
+        "title": {
+          "ru": "Удерживайте позу",
+          "en": "Hold"
+        },
+        "body": {
+          "ru": "Держите грудь примерно параллельно полу, взгляд направьте вперёд и вниз. Дышите ровно несколько вдохов.",
+          "en": "Keep your chest roughly parallel to the floor and look forward and down. Breathe evenly for a few breaths."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "1a099d7d-ccda-4a55-8448-33c6ea75d0f9",
+        "title": {
+          "ru": "Выйдите из позы",
+          "en": "Come down"
+        },
+        "body": {
+          "ru": "Выпрямите руки, поднимите грудь, согните колени и опустите таз на пол. Повторите в другую сторону.",
+          "en": "Straighten your arms, lift your chest, bend your knees and lower your hips to the floor. Repeat on the other side."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "chest"
+      },
+      {
+        "key": "obliques"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "adductors"
+      }
+    ],
+    "anatomy": {
+      "ru": "Трицепсы, грудные мышцы и плечи удерживают корпус на согнутых руках. Косые мышцы живота поддерживают скручивание. Приводящие мышцы бёдер сжимают руку и удерживают ноги вместе.",
+      "en": "Your triceps, chest and shoulders hold your torso on bent arms. Your obliques support the twist. Your inner-thigh muscles squeeze your arm and keep your legs together."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "compression-leg-lifts",
+        "title": {
+          "ru": "Подъёмы ног сидя",
+          "en": "Seated leg lifts"
+        },
+        "body": {
+          "ru": "Учат поднимать ноги за счёт мышц живота и сгибателей бедра.",
+          "en": "Teach you to lift your legs with your abdominal muscles and hip flexors."
+        }
+      },
+      {
+        "exerciseSlug": "knee-chaturanga",
+        "title": {
+          "ru": "Чатуранга с колен",
+          "en": "Knees-down Chaturanga"
+        },
+        "body": {
+          "ru": "Отрабатывайте положение локтей над запястьями при медленном опускании.",
+          "en": "Practise keeping your elbows over your wrists as you lower slowly."
+        }
+      },
+      {
+        "exerciseSlug": "twisted-chair",
+        "title": {
+          "ru": "Скручивание в позе стула",
+          "en": "Revolved Chair Pose"
+        },
+        "body": {
+          "ru": "Готовит скручивание корпуса с опорой на руку.",
+          "en": "Prepares the twist of the torso against the arm."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Нога лежит низко на руке",
+          "en": "Leg resting low on the arm"
+        },
+        "why": {
+          "ru": "Бедро соскальзывает к локтю, и ноги опускаются на пол.",
+          "en": "Your thigh slides toward the elbow and your legs drop to the floor."
+        },
+        "fix": {
+          "ru": "Заведите плечо глубже под колено, чтобы бедро легло ближе к плечевому суставу.",
+          "en": "Work your shoulder further under the knee so the thigh rests closer to the shoulder joint."
+        }
+      },
+      {
+        "title": {
+          "ru": "Локти расходятся",
+          "en": "Elbows flaring out"
+        },
+        "why": {
+          "ru": "Плечи проваливаются, и нагрузка на плечевые и локтевые суставы растёт.",
+          "en": "Your shoulders sag and the load on your shoulder and elbow joints increases."
+        },
+        "fix": {
+          "ru": "Держите локти над запястьями и направляйте их назад.",
+          "en": "Keep your elbows over your wrists and point them back."
+        }
+      },
+      {
+        "title": {
+          "ru": "Ноги расслаблены",
+          "en": "Loose legs"
+        },
+        "why": {
+          "ru": "Без сжатия бёдер ноги расходятся и опускаются.",
+          "en": "Without squeezing your thighs, your legs drift apart and sink."
+        },
+        "fix": {
+          "ru": "Плотно скрестите лодыжки и сожмите бёдрами руку.",
+          "en": "Hook your ankles firmly and squeeze your arm with your thighs."
+        }
+      }
+    ],
+    "easier": [
+      "eka-hasta-bhujasana",
+      "parsva-bakasana",
+      "chaturanga-dandasana"
+    ],
+    "harder": [
+      "maksikanagasana"
+    ],
+    "related": [
+      "eka-pada-koundinyasana-1",
+      "dwi-pada-koundinyasana",
+      "tittibhasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Нога заведена на плечо",
+          "en": "Leg hooked over the arm"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Таз поднимается, лодыжки скрещены",
+          "en": "Hips lift, ankles cross"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Локти сгибаются, ноги вытягиваются в сторону",
+          "en": "Elbows bend, legs extend to the side"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: грудь параллельно полу",
+          "en": "Hold: chest parallel to the floor"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Руки выпрямляются, возврат в положение сидя",
+          "en": "Arms straighten, back to sitting"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Astavakrasana",
+        "note": "Classical description of the pose; the seated entry shown here is a common teaching approach."
+      }
+    ]
+  }
+}

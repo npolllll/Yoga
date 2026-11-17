@@ -1,0 +1,52 @@
+{
+  "slug": "forearm-plank",
+  "skills": [
+    "core-control",
+    "arm-strength"
+  ],
+  "doc": {
+    "name": {
+      "ru": "Планка на предплечьях",
+      "en": "Forearm Plank"
+    },
+    "summary": {
+      "ru": "Удержание на предплечьях без нагрузки на запястья: укрепляет корпус и плечевой пояс для Вороны на предплечьях, Дельфина и стоек на предплечьях и голове.",
+      "en": "A forearm hold that spares the wrists while strengthening the core and shoulder girdle for Baby Crow, Dolphin, Forearm Stand and headstands."
+    },
+    "instructions": [
+      {
+        "ru": "Поставьте локти под плечами, предплечья параллельно друг другу, ладони прижаты к коврику.",
+        "en": "Place your elbows under your shoulders with your forearms parallel and your palms pressing into the mat."
+      },
+      {
+        "ru": "Отведите ноги назад на носки и выстройте тело в одну линию от макушки до пяток.",
+        "en": "Step your feet back onto your toes and line up your body from the crown of your head to your heels."
+      },
+      {
+        "ru": "Надавите предплечьями в пол, разведите лопатки и подтяните живот, чтобы поясница не прогибалась.",
+        "en": "Press your forearms into the floor, spread your shoulder blades and draw in your belly so your lower back does not sag."
+      },
+      {
+        "ru": "Держите шею продолжением позвоночника и дышите ровно. Начните с 3–5 подходов по 15–30 секунд; при необходимости опустите колени.",
+        "en": "Keep your neck in line with your spine and breathe evenly. Start with 3–5 rounds of 15–30 seconds; lower your knees if needed."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "При боли в плечах, локтях или пояснице прекратите упражнение.",
+        "en": "Stop if you feel pain in your shoulders, elbows or lower back."
+      },
+      {
+        "ru": "Если поясница начинает проваливаться, сократите время удержания или опустите колени на коврик.",
+        "en": "If your lower back starts to sag, shorten the hold or lower your knees to the mat."
+      }
+    ],
+    "muscles": [
+      "shoulders-deltoids",
+      "serratus",
+      "core-abs",
+      "glutes"
+    ],
+    "sources": []
+  }
+}

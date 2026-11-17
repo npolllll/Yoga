@@ -1,0 +1,319 @@
+{
+  "slug": "eka-pada-koundinyasana-2",
+  "category": "arm-balances",
+  "level": "advanced",
+  "skills": [
+    "arm-strength",
+    "hamstring-flexibility",
+    "hip-openness"
+  ],
+  "sortWeight": 70,
+  "motion": {
+    "view": "side",
+    "contacts": [
+      "hands"
+    ],
+    "entry": "0-2s low lunge with the right foot stepped outside the right hand, back knee down; 2-4s right shoulder works under the right knee so the back of the right thigh rests high on the right upper arm, palms shoulder-width, back knee lifts with the back leg straight on the toes, elbows bend toward 90° over the wrists.",
+    "hold": "4-6s chest moves forward, back foot lifts to hip height, front leg straightens forward along the outside of the right arm; 6-8s hold: elbows bent about 90° over the wrists and hugging the body, shoulders at elbow height, torso almost parallel to the floor, back of the right thigh on the right upper arm, front leg straight forward just off the floor, back leg straight behind at hip height, gaze forward (poster frame).",
+    "exit": "8-10s front knee bends, back foot lowers to the mat, return to the lunge."
+  },
+  "doc": {
+    "name": {
+      "ru": "Эка Пада Каундиньясана II",
+      "en": "Flying Splits Pose"
+    },
+    "subtitle": {
+      "ru": "Поза мудреца Каундиньи II",
+      "en": "Eka Pada Koundinyasana II"
+    },
+    "sanskrit": "Eka Pada Koundinyasana II",
+    "altNames": [
+      "Эка Пада Каундиньясана 2",
+      "Каундиньясана II",
+      "Поза мудреца Каундиньи II",
+      "Летящий шпагат",
+      "Flying Splits",
+      "Koundinyasana II",
+      "Eka Pada Kaundinyasana II",
+      "Eka Pāda Kauṇḍinyāsana II"
+    ],
+    "summary": {
+      "ru": "Баланс на согнутых руках в продольном шпагате: передняя нога лежит на плече и вытянута вперёд, а задняя вытянута назад.",
+      "en": "A bent-arm balance in a lengthwise split: your front leg rests on your upper arm and extends forward, and your back leg extends behind you."
+    },
+    "about": {
+      "ru": "Эка Пада Каундиньясана II — продвинутый баланс на руках, посвящённый мудрецу Каундинье. Задняя поверхность переднего бедра лежит высоко на плече той же стороны, передняя нога вытянута вперёд, задняя — назад, локти согнуты, как в Чатуранге, а корпус почти параллелен полу. Здесь показан распространённый вход из выпада; существуют и другие варианты входа, например из стойки на голове с опорой на ладони. Поза требует свободы задней поверхности бёдер и сгибателей бедра, силы рук и контроля корпуса, поэтому её относят к продвинутому уровню.",
+      "en": "Eka Pada Koundinyasana II is an advanced arm balance dedicated to the sage Koundinya. The back of your front thigh rests high on the upper arm of the same side, your front leg extends forward, your back leg extends behind you, your elbows bend as in Chaturanga, and your torso is almost parallel to the floor. This card shows a common entry from a lunge; other entries exist, for example from tripod headstand. The pose needs free hamstrings and hip flexors, arm strength and core control, which is why it is rated advanced."
+    },
+    "prerequisites": [
+      {
+        "ru": "Вы под контролем опускаетесь в Чатурангу, удерживая локти над запястьями.",
+        "en": "You can lower into Chaturanga under control with your elbows over your wrists."
+      },
+      {
+        "ru": "В выпаде вы заводите плечо под переднее колено без боли в паху и пояснице.",
+        "en": "In a lunge you can bring your shoulder under your front knee without pain in the groin or lower back."
+      },
+      {
+        "ru": "Вы поднимаетесь в Эка Хаста Бхуджасану или уверенно удерживаете Бакасану.",
+        "en": "You can lift into Eka Hasta Bhujasana or hold Bakasana with confidence."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Держите локти над запястьями и не опускайте плечи ниже локтей: так нагрузка на плечевые суставы остаётся умеренной.",
+        "en": "Keep your elbows over your wrists and your shoulders no lower than your elbows to keep the load on your shoulder joints moderate."
+      },
+      {
+        "ru": "Не выпрямляйте переднюю ногу через силу: тянущее ощущение под коленом должно оставаться умеренным.",
+        "en": "Do not force your front leg straight: keep the stretch behind the knee moderate."
+      },
+      {
+        "ru": "Положите блок или сложенное одеяло под лоб на случай, если корпус опустится слишком низко.",
+        "en": "Place a block or folded blanket under your forehead in case your torso drops too low."
+      },
+      {
+        "ru": "При травмах запястий, локтей, плеч или поясницы сначала обсудите нагрузку со специалистом.",
+        "en": "If you have a wrist, elbow, shoulder or lower-back injury, discuss the load with a qualified professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "b115daed-815f-4320-be7c-3b7992602d05",
+        "title": {
+          "ru": "Выйдите в выпад",
+          "en": "Step into a lunge"
+        },
+        "body": {
+          "ru": "Из собаки мордой вниз поставьте правую стопу снаружи от правой ладони. При необходимости опустите заднее колено.",
+          "en": "From Downward-Facing Dog, step your right foot outside your right hand. Lower your back knee if you need to."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "aaa3dab3-ad02-4fc1-bfed-55f852ebd200",
+        "title": {
+          "ru": "Заведите плечо под бедро",
+          "en": "Bring the shoulder under the thigh"
+        },
+        "body": {
+          "ru": "Заведите правое плечо под правое колено, чтобы задняя поверхность бедра легла высоко на плечо. Поставьте ладони на ширине плеч, пальцы раскрыты.",
+          "en": "Work your right shoulder under your right knee so the back of the thigh rests high on your upper arm. Place your palms shoulder-width apart with your fingers spread."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "d587ecf4-a69e-4d03-b08e-70cee30ea2ed",
+        "title": {
+          "ru": "Согните локти",
+          "en": "Bend the elbows"
+        },
+        "body": {
+          "ru": "Поднимите заднее колено и выпрямите заднюю ногу. Согните локти, как в Чатуранге, держа их над запястьями.",
+          "en": "Lift your back knee and straighten your back leg. Bend your elbows as in Chaturanga, keeping them over your wrists."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "6121af0e-e230-4b7d-b6d9-66c4dec6b1d4",
+        "title": {
+          "ru": "Перенесите вес и поднимите ноги",
+          "en": "Shift and lift"
+        },
+        "body": {
+          "ru": "Подайте грудь вперёд, пока задняя стопа не станет лёгкой. Поднимите заднюю ногу до уровня таза и выпрямите переднюю ногу вперёд.",
+          "en": "Move your chest forward until your back foot feels light. Lift your back leg to hip height and straighten your front leg forward."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "39eeec42-85dc-4d47-9358-debdcf8f7a6b",
+        "title": {
+          "ru": "Удерживайте позу",
+          "en": "Hold"
+        },
+        "body": {
+          "ru": "Держите корпус почти параллельно полу, плечи на уровне локтей, взгляд направьте вперёд. Дышите ровно.",
+          "en": "Keep your torso almost parallel to the floor, your shoulders level with your elbows and your gaze forward. Breathe evenly."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "4c492a57-0f9d-41d1-a5ad-b7a056f90f2f",
+        "title": {
+          "ru": "Выйдите из позы",
+          "en": "Come down"
+        },
+        "body": {
+          "ru": "Согните переднюю ногу, опустите заднюю стопу на коврик и вернитесь в выпад. Повторите на другую сторону.",
+          "en": "Bend your front leg, lower your back foot to the mat and return to the lunge. Repeat on the other side."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "chest"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "glutes"
+      }
+    ],
+    "anatomy": {
+      "ru": "Трицепсы, грудные мышцы и плечи удерживают корпус на согнутых руках. Мышцы живота и сгибатели бедра поднимают и выпрямляют переднюю ногу. Ягодичные мышцы удерживают заднюю ногу на уровне таза.",
+      "en": "Your triceps, chest and shoulders hold your torso on bent arms. Your abdominal muscles and hip flexors lift and straighten your front leg. Your glutes hold your back leg at hip height."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "lizard-pose",
+        "title": {
+          "ru": "Поза ящерицы",
+          "en": "Lizard Pose"
+        },
+        "body": {
+          "ru": "Раскрывает тазобедренные суставы и учит заводить плечо под переднее колено.",
+          "en": "Opens your hips and teaches you to bring your shoulder under the front knee."
+        }
+      },
+      {
+        "exerciseSlug": "knee-chaturanga",
+        "title": {
+          "ru": "Чатуранга с колен",
+          "en": "Knees-down Chaturanga"
+        },
+        "body": {
+          "ru": "Отрабатывайте положение локтей над запястьями при медленном опускании.",
+          "en": "Practise keeping your elbows over your wrists as you lower slowly."
+        }
+      },
+      {
+        "exerciseSlug": "forward-fold",
+        "title": {
+          "ru": "Наклон вперёд стоя",
+          "en": "Standing forward fold"
+        },
+        "body": {
+          "ru": "Готовит заднюю поверхность бёдер к выпрямлению передней ноги.",
+          "en": "Prepares your hamstrings for straightening the front leg."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Бедро лежит низко на руке",
+          "en": "Thigh low on the arm"
+        },
+        "why": {
+          "ru": "Передняя нога соскальзывает, и её трудно выпрямить.",
+          "en": "Your front leg slides off and is hard to straighten."
+        },
+        "fix": {
+          "ru": "Глубже заведите плечо под колено, прежде чем сгибать локти.",
+          "en": "Work your shoulder further under the knee before you bend your elbows."
+        }
+      },
+      {
+        "title": {
+          "ru": "Плечи проваливаются ниже локтей",
+          "en": "Shoulders dropping below the elbows"
+        },
+        "why": {
+          "ru": "Нагрузка на плечевые суставы резко растёт.",
+          "en": "The load on your shoulder joints rises sharply."
+        },
+        "fix": {
+          "ru": "Держите плечи на уровне локтей. Если высота не удерживается, вернитесь к варианту с опорой задней стопы.",
+          "en": "Keep your shoulders level with your elbows. If you cannot hold that height, go back to the version with your back foot down."
+        }
+      },
+      {
+        "title": {
+          "ru": "Задняя нога согнута и опущена",
+          "en": "Bent, sagging back leg"
+        },
+        "why": {
+          "ru": "Вес смещается назад, и баланс теряется.",
+          "en": "Your weight shifts back and you lose the balance."
+        },
+        "fix": {
+          "ru": "Выпрямите колено, напрягите ягодицы и тянитесь стопой назад.",
+          "en": "Straighten the knee, engage your glutes and reach back through your foot."
+        }
+      }
+    ],
+    "easier": [
+      "eka-hasta-bhujasana",
+      "chaturanga-dandasana"
+    ],
+    "harder": [
+      "visvamitrasana"
+    ],
+    "related": [
+      "eka-pada-koundinyasana-1",
+      "eka-pada-bakasana",
+      "astavakrasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Выпад, стопа снаружи ладони",
+          "en": "Lunge, foot outside the hand"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Плечо под бедром, локти сгибаются",
+          "en": "Shoulder under the thigh, elbows bend"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Задняя нога поднимается, передняя выпрямляется",
+          "en": "Back leg lifts, front leg straightens"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: ноги в шпагате",
+          "en": "Hold: legs in a split"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Возврат в выпад",
+          "en": "Back to the lunge"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Eka Pada Koundinyasana II",
+        "note": "Classical description of the pose; the lunge entry shown here is a common teaching approach."
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "slug": "tittibhasana",
+  "category": "arm-balances",
+  "level": "advanced",
+  "skills": [
+    "arm-strength",
+    "hamstring-flexibility",
+    "hip-openness"
+  ],
+  "sortWeight": 61,
+  "motion": {
+    "view": "three-quarter",
+    "contacts": [
+      "hands"
+    ],
+    "entry": "0-2s stand with feet slightly narrower than hip-width, knees bend, torso folds forward between the thighs; 2-4s shoulders work behind the knees one at a time, palms placed behind the heels with fingers pointing forward, inner thighs high on the upper arms; 4-6s elbows bend slightly, hips sit back, weight moves into the palms and the feet lift with knees still bent.",
+    "hold": "6-8s hold: arms almost straight (elbows soft, not locked), inner thighs resting high on the upper arms near the shoulders, legs straight and extending forward and slightly apart at or above hip height, toes active, pelvis slightly behind and above the hands, chest lifted forward between the thighs, gaze forward (poster frame).",
+    "exit": "8-10s knees bend, feet lower to the mat in front of the hands, shoulders slide out from under the legs, return to a forward fold."
+  },
+  "doc": {
+    "name": {
+      "ru": "Светлячок",
+      "en": "Firefly Pose"
+    },
+    "subtitle": {
+      "ru": "Титтибхасана",
+      "en": "Tittibhasana"
+    },
+    "sanskrit": "Tittibhasana",
+    "altNames": [
+      "Титтибхасана",
+      "Поза светлячка",
+      "Светлячок",
+      "Firefly",
+      "Insect Pose",
+      "Tiṭṭibhāsana"
+    ],
+    "summary": {
+      "ru": "Баланс на почти прямых руках: бёдра лежат высоко на плечах, а ноги вытянуты вперёд и в стороны над ковриком.",
+      "en": "A balance on almost straight arms: your thighs rest high on your upper arms and your legs extend forward and apart above the mat."
+    },
+    "about": {
+      "ru": "Титтибхасана — продвинутый баланс на руках из семейства поз с опорой бёдер на руки. Ладони стоят позади пяток, внутренняя сторона бёдер лежит высоко на верхней части рук, руки почти прямые, а ноги вытянуты вперёд над полом. Здесь показан вход из положения стоя через наклон вперёд с согнутыми коленями. Поза требует свободы задней поверхности бёдер, глубокого наклона вперёд, силы рук и сжатия корпуса, поэтому её относят к продвинутому уровню. Сначала освойте Бхуджапидасану и уверенный наклон с ладонями на полу.",
+      "en": "Tittibhasana is an advanced arm balance from the family of poses where the thighs rest on the arms. Your palms are behind your heels, your inner thighs rest high on your upper arms, your arms are almost straight, and your legs extend forward above the floor. This card shows the entry from standing through a forward fold with bent knees. The pose needs free hamstrings, a deep forward fold, arm strength and core compression, which is why it is rated advanced. Learn Bhujapidasana and a steady forward fold with palms on the floor first."
+    },
+    "prerequisites": [
+      {
+        "ru": "Вы наклоняетесь вперёд с согнутыми коленями и ставите ладони на пол позади пяток.",
+        "en": "You can fold forward with bent knees and place your palms on the floor behind your heels."
+      },
+      {
+        "ru": "Вы удерживаете Бхуджапидасану или Бакасану 15–20 секунд под контролем.",
+        "en": "You can hold Bhujapidasana or Bakasana under control for 15–20 seconds."
+      },
+      {
+        "ru": "Вы сидите с прямыми ногами врозь и наклоняетесь вперёд без боли под коленями и в пояснице.",
+        "en": "You can sit with straight legs apart and fold forward without pain behind the knees or in the lower back."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Запястья нагружаются сильнее, чем в Бакасане: тщательно разомните их и прекратите попытку при боли.",
+        "en": "Your wrists carry more load than in Bakasana: warm them up well and stop if you feel pain."
+      },
+      {
+        "ru": "Не выпрямляйте ноги через силу. Тянущее ощущение под коленями должно оставаться умеренным.",
+        "en": "Do not force your legs straight. Keep the stretch behind your knees moderate."
+      },
+      {
+        "ru": "Держите локти слегка мягкими, не блокируйте их. Положите сложенное одеяло позади себя на случай, если сядете назад.",
+        "en": "Keep your elbows slightly soft rather than locked. Place a folded blanket behind you in case you sit back."
+      },
+      {
+        "ru": "При травмах запястий, локтей, плеч или поясницы сначала обсудите нагрузку со специалистом.",
+        "en": "If you have a wrist, elbow, shoulder or lower-back injury, discuss the load with a qualified professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "a125c9d1-88c8-4dd2-bcc8-259b2bd97bcc",
+        "title": {
+          "ru": "Наклонитесь вперёд",
+          "en": "Stand and fold"
+        },
+        "body": {
+          "ru": "Поставьте стопы чуть уже ширины таза. Согните колени и наклонитесь вперёд, опустив корпус между бёдрами.",
+          "en": "Stand with your feet slightly narrower than hip-width. Bend your knees and fold forward, bringing your torso between your thighs."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "d1484041-e8c1-46fe-86a2-c9e64c092617",
+        "title": {
+          "ru": "Заведите плечи под колени",
+          "en": "Thread your shoulders"
+        },
+        "body": {
+          "ru": "По очереди заведите плечи под колени. Поставьте ладони позади пяток, пальцы раскрыты и направлены вперёд.",
+          "en": "Work one shoulder, then the other, behind your knees. Place your palms behind your heels with your fingers spread and pointing forward."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "9f09b35d-3085-4de1-a97f-d901bc11a5b3",
+        "title": {
+          "ru": "Поднимите бёдра выше",
+          "en": "Bring the thighs high"
+        },
+        "body": {
+          "ru": "Поднимите внутреннюю сторону бёдер как можно выше на плечи. Слегка согните локти и плавно сядьте назад, перенося вес на ладони.",
+          "en": "Bring your inner thighs as high up your arms as you can. Bend your elbows slightly and slowly sit back, moving your weight into your palms."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "1a5fda3d-4f30-48ad-aa7b-c577240be91a",
+        "title": {
+          "ru": "Оторвите стопы",
+          "en": "Lift the feet"
+        },
+        "body": {
+          "ru": "Когда опора станет устойчивой, оторвите стопы от коврика. Прижмите бёдра к рукам и подтяните живот.",
+          "en": "When the support feels steady, lift your feet off the mat. Squeeze your thighs into your arms and draw your belly in."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "df87c0f3-8ede-43fc-97c0-f7807f8ac647",
+        "title": {
+          "ru": "Вытяните ноги",
+          "en": "Extend the legs"
+        },
+        "body": {
+          "ru": "Постепенно выпрямите ноги вперёд и выпрямите руки, не блокируя локти. Приподнимите грудь и смотрите вперёд. Дышите ровно.",
+          "en": "Gradually straighten your legs forward and straighten your arms without locking the elbows. Lift your chest and look ahead. Breathe evenly."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "37163c10-45a4-4ea7-a6de-4fda92d9d18e",
+        "title": {
+          "ru": "Выйдите из позы",
+          "en": "Come down"
+        },
+        "body": {
+          "ru": "Согните колени и мягко опустите стопы на коврик перед ладонями. Освободите плечи и поднимитесь в наклон.",
+          "en": "Bend your knees and gently lower your feet to the mat in front of your hands. Free your shoulders and rise into a forward fold."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "hip-flexors"
+      },
+      {
+        "key": "hamstrings"
+      }
+    ],
+    "anatomy": {
+      "ru": "Кисти, предплечья и трицепсы удерживают вес тела на почти прямых руках. Мышцы живота и сгибатели бедра поднимают ноги и прижимают бёдра к рукам. Задней поверхности бёдер нужна достаточная подвижность, чтобы ноги выпрямились.",
+      "en": "Your hands, forearms and triceps hold your body weight on almost straight arms. Your abdominal muscles and hip flexors lift your legs and press your thighs into your arms. Your hamstrings need enough length for your legs to straighten."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "forward-fold",
+        "title": {
+          "ru": "Наклон вперёд с согнутыми коленями",
+          "en": "Forward fold with bent knees"
+        },
+        "body": {
+          "ru": "Учитесь опускать корпус между бёдрами и ставить ладони позади пяток.",
+          "en": "Practise bringing your torso between your thighs and placing your palms behind your heels."
+        }
+      },
+      {
+        "exerciseSlug": "compression-leg-lifts",
+        "title": {
+          "ru": "Подъёмы ног сидя",
+          "en": "Seated leg lifts"
+        },
+        "body": {
+          "ru": "Развивают силу, которая поднимает прямые ноги над полом.",
+          "en": "Builds the strength that lifts straight legs off the floor."
+        }
+      },
+      {
+        "exerciseSlug": "wrist-warmup",
+        "title": {
+          "ru": "Разминка запястий",
+          "en": "Wrist warm-up"
+        },
+        "body": {
+          "ru": "Подготовьте кисти к нагрузке на почти прямых руках.",
+          "en": "Prepare your wrists to carry weight on almost straight arms."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Бёдра слишком низко на руках",
+          "en": "Thighs too low on the arms"
+        },
+        "why": {
+          "ru": "Ноги соскальзывают к локтям, и выпрямить их не получается.",
+          "en": "Your legs slide toward your elbows and you cannot straighten them."
+        },
+        "fix": {
+          "ru": "Глубже заведите плечи под колени и поднимите бёдра ближе к плечевым суставам.",
+          "en": "Work your shoulders further behind your knees and bring your thighs closer to your shoulder joints."
+        }
+      },
+      {
+        "title": {
+          "ru": "Ноги выпрямляются раньше времени",
+          "en": "Straightening the legs too soon"
+        },
+        "why": {
+          "ru": "Вес уходит назад, и вы садитесь на коврик.",
+          "en": "Your weight tips back and you sit down on the mat."
+        },
+        "fix": {
+          "ru": "Сначала найдите баланс с согнутыми коленями, затем выпрямляйте ноги постепенно.",
+          "en": "Find the balance with bent knees first, then straighten your legs gradually."
+        }
+      },
+      {
+        "title": {
+          "ru": "Заблокированные локти",
+          "en": "Locked elbows"
+        },
+        "why": {
+          "ru": "Нагрузка переходит на локтевые суставы, а не на мышцы рук.",
+          "en": "The load moves into your elbow joints instead of your arm muscles."
+        },
+        "fix": {
+          "ru": "Держите локти слегка мягкими и давите ладонями в пол.",
+          "en": "Keep a slight bend in your elbows and press your palms into the floor."
+        }
+      }
+    ],
+    "easier": [
+      "bhujapidasana",
+      "eka-hasta-bhujasana"
+    ],
+    "harder": [
+      "visvamitrasana"
+    ],
+    "related": [
+      "astavakrasana",
+      "eka-pada-koundinyasana-2",
+      "bakasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Наклон вперёд с согнутыми коленями",
+          "en": "Forward fold with bent knees"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Плечи под коленями, ладони позади пяток",
+          "en": "Shoulders behind the knees, palms behind the heels"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Вес на ладонях, стопы отрываются",
+          "en": "Weight into the palms, feet lift"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: ноги вытянуты вперёд",
+          "en": "Hold: legs extend forward"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Колени сгибаются, стопы на коврик",
+          "en": "Knees bend, feet return to the mat"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Tittibhasana",
+        "note": "Classical description of the pose."
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "navasana",
+  "skills": [
+    "core-control",
+    "balance-coordination"
+  ],
+  "doc": {
+    "name": {
+      "ru": "Лодка",
+      "en": "Boat Pose"
+    },
+    "summary": {
+      "ru": "Баланс на седалищных костях, который укрепляет мышцы живота и сгибатели бедра — силу, помогающую подтягивать колени к корпусу в Бакасане, Толасане и Лоласане.",
+      "en": "A balance on the sitting bones that strengthens the abdominal muscles and hip flexors you use to draw your knees in for Crow, Scale and Pendant Pose."
+    },
+    "instructions": [
+      {
+        "ru": "Сядьте на коврик, согните колени и поставьте стопы на пол. Возьмитесь руками за заднюю поверхность бёдер.",
+        "en": "Sit on the mat with your knees bent and your feet on the floor. Hold the backs of your thighs."
+      },
+      {
+        "ru": "Слегка отклоните корпус назад, сохраняя спину длинной, и найдите баланс на седалищных костях.",
+        "en": "Lean back slightly, keeping your spine long, and find your balance on your sitting bones."
+      },
+      {
+        "ru": "Поднимите голени параллельно полу и вытяните руки вперёд. Выпрямляйте ноги, только если спина остаётся длинной.",
+        "en": "Lift your shins parallel to the floor and reach your arms forward. Straighten your legs only if your back stays long."
+      },
+      {
+        "ru": "Дышите ровно, грудь раскрыта. Выполните 3–5 подходов по 10–20 секунд и мягко опускайте стопы на пол между ними.",
+        "en": "Breathe evenly with an open chest. Do 3–5 rounds of 10–20 seconds, gently lowering your feet to the floor between rounds."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "При боли в пояснице или шее прекратите упражнение и вернитесь к варианту с согнутыми коленями и руками на бёдрах.",
+        "en": "Stop if you feel pain in your lower back or neck, and return to the bent-knee version with your hands on your thighs."
+      },
+      {
+        "ru": "При недавней травме спины или беременности сначала обсудите нагрузку со специалистом.",
+        "en": "If you have a recent back injury or are pregnant, discuss the load with a qualified professional first."
+      }
+    ],
+    "muscles": [
+      "core-abs",
+      "hip-flexors",
+      "quadriceps"
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Paripurna Navasana",
+        "note": "Classical description of the full boat pose; the bent-knee option is a common teaching modification."
+      }
+    ]
+  }
+}

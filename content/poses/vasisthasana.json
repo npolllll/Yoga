@@ -1,0 +1,309 @@
+{
+  "slug": "vasisthasana",
+  "category": "side-balances",
+  "level": "beginner",
+  "skills": [
+    "arm-strength",
+    "core-control",
+    "balance-coordination"
+  ],
+  "sortWeight": 12,
+  "motion": {
+    "view": "front",
+    "contacts": [
+      "one-hand",
+      "feet"
+    ],
+    "entry": "0-2s plank, palms under shoulders; 2-4s right palm shifts slightly forward, body rolls onto the outer edge of the right foot, left foot stacks on the right, left hand on hip.",
+    "hold": "4-6s hips lift into one line and the left arm reaches up; 6-8s hold: right arm straight with the hand just ahead of the shoulder, feet stacked, heels-hips-head in one straight line, left arm vertical in line with the right arm, gaze to the top hand (poster frame).",
+    "exit": "8-10s left hand returns to the mat, body rolls back to plank."
+  },
+  "doc": {
+    "name": {
+      "ru": "Васиштхасана",
+      "en": "Side Plank Pose"
+    },
+    "subtitle": {
+      "ru": "Боковая планка",
+      "en": "Vasisthasana"
+    },
+    "sanskrit": "Vasisthasana",
+    "altNames": [
+      "Vasishthasana",
+      "Васиштхасана",
+      "Вашиштхасана",
+      "Боковая планка",
+      "Side Plank",
+      "Поза мудреца Васиштхи",
+      "Vasiṣṭhāsana"
+    ],
+    "summary": {
+      "ru": "Боковая планка: тело держится на одной прямой руке и наружном ребре нижней стопы, ноги лежат одна на другой, верхняя рука вытянута вверх.",
+      "en": "A side plank: your body rests on one straight arm and the outer edge of the bottom foot, with the legs stacked and the top arm reaching up."
+    },
+    "about": {
+      "ru": "Боковой баланс на одной руке и одной стопе. Тело развёрнуто в сторону и вытянуто в одну линию от пяток до макушки, ноги лежат одна на другой, верхняя рука направлена вверх. Здесь показана базовая форма с ногами вместе; в классическом описании Б. К. С. Айенгара итоговая форма включает ещё и поднятую верхнюю ногу с захватом большого пальца стопы. Поза развивает силу кистей и плечевого пояса, боковые мышцы корпуса и чувство равновесия. Опора меньше, чем в планке, но положение простое и близко к полу, поэтому позу относят к начальному уровню и используют как основу для более сложных балансов на одной руке.",
+      "en": "A side balance on one hand and one foot. Your body turns to the side and forms one line from heels to the crown of your head, with the legs stacked and the top arm reaching up. This card shows the basic stacked-leg form; in B.K.S. Iyengar’s classical description, the final form also lifts the top leg and holds the big toe. The pose builds hand and shoulder strength, the side body and balance. The base is smaller than in a plank, but the shape is simple and stays close to the floor, so it is rated beginner and serves as a foundation for harder one-arm balances."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно держите планку 30–45 секунд без боли в запястьях.",
+        "en": "You can hold a plank for 30–45 seconds without wrist pain."
+      },
+      {
+        "ru": "Держите боковую планку с опорой на колено около 20 секунд на каждую сторону.",
+        "en": "You can hold a side plank on the knee for about 20 seconds on each side."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "При боли в запястье, локте или плече опорной руки прекратите удержание.",
+        "en": "Stop the hold if you feel pain in the wrist, elbow or shoulder of the supporting arm."
+      },
+      {
+        "ru": "Если баланс неустойчив, поставьте верхнюю стопу на коврик перед нижней или опустите нижнее колено.",
+        "en": "If the balance feels unsteady, place the top foot on the mat in front of the bottom foot, or lower the bottom knee."
+      },
+      {
+        "ru": "При травме плеча или запястья сначала обсудите нагрузку со специалистом.",
+        "en": "If you have a shoulder or wrist injury, discuss the load with a qualified healthcare professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "3cbc6580-dfc5-404f-b3c2-5e05605b0ad9",
+        "title": {
+          "ru": "Начните с планки",
+          "en": "Start in plank"
+        },
+        "body": {
+          "ru": "Встаньте в планку: ладони под плечами, пальцы раскрыты, тело вытянуто от пяток до макушки.",
+          "en": "Come into a plank: palms under your shoulders, fingers spread, body long from heels to the crown of your head."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "839495ef-8bda-44d9-ae1e-21df7c513d81",
+        "title": {
+          "ru": "Поставьте опорную руку",
+          "en": "Set the supporting hand"
+        },
+        "body": {
+          "ru": "Переместите правую ладонь немного вперёд и к центру коврика, чтобы она оказалась чуть впереди плеча. Прижмите основание пальцев к коврику.",
+          "en": "Move your right palm slightly forward and toward the middle of the mat so it sits just ahead of your shoulder. Press the base of your fingers into the mat."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "50d80b3b-392f-4eac-b6e1-5faea1e9dfbb",
+        "title": {
+          "ru": "Повернитесь на бок",
+          "en": "Roll onto your side"
+        },
+        "body": {
+          "ru": "Перекатитесь на наружное ребро правой стопы и положите левую стопу на правую. Левую ладонь положите на бедро.",
+          "en": "Roll onto the outer edge of your right foot and stack your left foot on top. Rest your left hand on your hip."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "513d63ee-f5c4-424b-b8df-3b63af95bc31",
+        "title": {
+          "ru": "Поднимите таз",
+          "en": "Lift your hips"
+        },
+        "body": {
+          "ru": "Оттолкните пол правой ладонью и поднимите таз, чтобы пятки, таз и голова оказались на одной линии. Не проваливайтесь в опорное плечо.",
+          "en": "Push the floor away with your right hand and lift your hips so your heels, hips and head line up. Don’t sink into the supporting shoulder."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "49bcaf1c-40c8-4a2f-82ac-e8edeffd4838",
+        "title": {
+          "ru": "Вытяните руку вверх",
+          "en": "Reach the top arm up"
+        },
+        "body": {
+          "ru": "Вытяните левую руку вверх, на одной линии с правой. Смотрите на верхнюю ладонь или вперёд, если так удобнее шее. Дышите ровно.",
+          "en": "Reach your left arm up in line with your right arm. Look at your top hand, or straight ahead if that is easier on your neck. Breathe evenly."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "9073f6eb-518a-4b03-9887-745dc7078fc0",
+        "title": {
+          "ru": "Вернитесь в планку",
+          "en": "Return to plank"
+        },
+        "body": {
+          "ru": "Опустите левую ладонь на коврик, вернитесь в планку и повторите на другую сторону.",
+          "en": "Lower your left hand to the mat, return to plank and repeat on the other side."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "serratus"
+      },
+      {
+        "key": "obliques"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "glutes"
+      }
+    ],
+    "anatomy": {
+      "ru": "Кисть, плечо и передняя зубчатая мышца опорной руки удерживают вес и не дают плечу проваливаться. Косые мышцы живота и ягодичные мышцы, особенно средняя ягодичная, держат таз поднятым и тело на одной линии.",
+      "en": "The hand, shoulder and serratus anterior of the supporting arm carry your weight and keep the shoulder from sinking. Your obliques and glutes, especially the gluteus medius, keep your hips lifted and your body in one line."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "side-plank-knee",
+        "title": {
+          "ru": "Боковая планка с опорой на колено",
+          "en": "Side plank on the knee"
+        },
+        "body": {
+          "ru": "Освойте положение плеча и таза с меньшей нагрузкой.",
+          "en": "Learn the shoulder and hip position with less load."
+        }
+      },
+      {
+        "exerciseSlug": "plank",
+        "title": {
+          "ru": "Планка",
+          "en": "Plank"
+        },
+        "body": {
+          "ru": "Укрепляет кисти, плечи и корпус перед опорой на одну руку.",
+          "en": "Builds the hands, shoulders and core before you load one arm."
+        }
+      },
+      {
+        "exerciseSlug": "wrist-warmup",
+        "title": {
+          "ru": "Разминка запястий",
+          "en": "Wrist warm-up"
+        },
+        "body": {
+          "ru": "Подготовьте запястье опорной руки к нагрузке.",
+          "en": "Prepare the wrist of the supporting arm for the load."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Провисающий таз",
+          "en": "Sagging hips"
+        },
+        "why": {
+          "ru": "Нагрузка уходит в поясницу и плечо, а линия тела теряется.",
+          "en": "The load shifts into your lower back and shoulder, and you lose the line of the body."
+        },
+        "fix": {
+          "ru": "Поднимите таз выше и включите боковые мышцы корпуса; при усталости опустите нижнее колено.",
+          "en": "Lift your hips higher and engage your side body; when you tire, lower the bottom knee."
+        }
+      },
+      {
+        "title": {
+          "ru": "Проваливание в плечо",
+          "en": "Sinking into the shoulder"
+        },
+        "why": {
+          "ru": "Плечо поднимается к уху, и опора становится менее устойчивой.",
+          "en": "Your shoulder creeps toward your ear and the support becomes less stable."
+        },
+        "fix": {
+          "ru": "Активно отталкивайте пол ладонью и отводите плечо от уха.",
+          "en": "Actively push the floor away and draw your shoulder away from your ear."
+        }
+      },
+      {
+        "title": {
+          "ru": "Ладонь далеко от плеча",
+          "en": "Hand too far from the shoulder"
+        },
+        "why": {
+          "ru": "Запястье и плечо оказываются под неудобным углом, и вес распределяется хуже.",
+          "en": "Your wrist and shoulder end up at an awkward angle and the weight is poorly distributed."
+        },
+        "fix": {
+          "ru": "Поставьте ладонь почти под плечо, чуть впереди него.",
+          "en": "Place your palm nearly under your shoulder, just slightly ahead of it."
+        }
+      }
+    ],
+    "easier": [],
+    "harder": [
+      "vasisthasana-tree",
+      "kasyapasana",
+      "visvamitrasana"
+    ],
+    "related": [
+      "chaturanga-dandasana",
+      "vasisthasana-tree"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Планка",
+          "en": "Plank"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Поворот на бок, стопы одна на другой",
+          "en": "Roll to the side, feet stacked"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Таз поднимается, рука тянется вверх",
+          "en": "Hips lift, top arm reaches up"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: тело на одной линии",
+          "en": "Hold: body in one line"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Возврат в планку",
+          "en": "Back to plank"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Vasisthasana",
+        "note": "Classical description of the pose; its final form lifts the top leg and holds the big toe. The basic stacked-leg form shown here is a common teaching form."
+      }
+    ]
+  }
+}

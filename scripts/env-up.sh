@@ -7,7 +7,11 @@ if ! docker info >/dev/null 2>&1; then
   (dockerd >/tmp/dockerd.log 2>&1 &)
   for i in $(seq 1 30); do docker info >/dev/null 2>&1 && break; sleep 1; done
 fi
-pnpm exec supabase start -x studio,edge-runtime,logflare,vector,realtime,imgproxy,supavisor,postgres-meta
+# The DB health check can time out on a cold start: retry a few times.
+for attempt in 1 2 3; do
+  if pnpm exec supabase start -x studio,edge-runtime,logflare,vector,realtime,imgproxy,supavisor,postgres-meta; then break; fi
+  echo "supabase start failed (attempt $attempt), retrying in 15s…"; sleep 15
+done
 if [ ! -f .env.local ]; then
   eval "$(pnpm exec supabase status -o env 2>/dev/null | sed 's/^/export SB_/')"
   cat > .env.local <<ENV

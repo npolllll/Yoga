@@ -1,0 +1,53 @@
+{
+  "slug": "side-plank-knee",
+  "skills": [
+    "core-control",
+    "arm-strength",
+    "balance-coordination"
+  ],
+  "doc": {
+    "name": {
+      "ru": "Боковая планка с опорой на колено",
+      "en": "Side Plank on the Knee"
+    },
+    "summary": {
+      "ru": "Облегчённая боковая планка с опорой на колено: укрепляет косые мышцы живота и плечо опорной руки — подготовка к Васиштхасане и её вариантам.",
+      "en": "A modified side plank on one knee that strengthens the obliques and the supporting shoulder — preparation for Side Plank Pose and its variations."
+    },
+    "instructions": [
+      {
+        "ru": "Встаньте на четвереньки. Поставьте правую ладонь под плечом, а правое колено — под тазом.",
+        "en": "Come onto all fours. Place your right hand under your shoulder and your right knee under your hip."
+      },
+      {
+        "ru": "Вытяните левую ногу в линию с корпусом и поставьте стопу на пол, затем разверните грудь и таз влево.",
+        "en": "Extend your left leg in line with your body and place the foot on the floor, then turn your chest and hips to the left."
+      },
+      {
+        "ru": "Оттолкните пол правой ладонью, приподнимите таз и поднимите левую руку вверх. Смотрите вперёд или на верхнюю руку.",
+        "en": "Push the floor away with your right hand, lift your hips and raise your left arm. Look forward or up at your top hand."
+      },
+      {
+        "ru": "Удерживайте 15–30 секунд, спокойно дыша, затем вернитесь на четвереньки и повторите на другую сторону. Выполните 2–3 подхода.",
+        "en": "Hold for 15–30 seconds with steady breathing, then return to all fours and repeat on the other side. Do 2–3 rounds."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Не проваливайтесь в опорное плечо: держите его активным и отталкивайте пол.",
+        "en": "Don't sink into your supporting shoulder; keep it active by pushing the floor away."
+      },
+      {
+        "ru": "Подложите сложенное одеяло под колено; при боли в плече, запястье или колене прекратите упражнение.",
+        "en": "Place a folded blanket under your knee, and stop if you feel pain in your shoulder, wrist or knee."
+      }
+    ],
+    "muscles": [
+      "obliques",
+      "shoulders-deltoids",
+      "serratus",
+      "glutes"
+    ],
+    "sources": []
+  }
+}

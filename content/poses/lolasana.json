@@ -1,0 +1,298 @@
+{
+  "slug": "lolasana",
+  "category": "arm-balances",
+  "level": "intermediate",
+  "skills": [
+    "arm-strength",
+    "core-control",
+    "wrist-strength"
+  ],
+  "sortWeight": 34,
+  "motion": {
+    "view": "side",
+    "contacts": [
+      "hands"
+    ],
+    "entry": "0-2s kneeling, a block on each side of the knees, palms on the blocks, fingers forward; 2-4s ankles cross right over left, sit back toward the heels, arms straight.",
+    "hold": "4-6s back rounds, shoulders press down, knees draw toward the chest and the crossed feet lift toward the buttocks; 6-8s hold: arms straight and vertical on the blocks, knees tucked to the chest, crossed shins and feet clear of the floor, head in line with the rounded spine, gaze down and slightly forward (poster frame).",
+    "exit": "8-10s knees lower softly to the mat, back to kneeling."
+  },
+  "doc": {
+    "name": {
+      "ru": "Лоласана",
+      "en": "Pendant Pose"
+    },
+    "subtitle": {
+      "ru": "Поза серьги",
+      "en": "Lolasana"
+    },
+    "sanskrit": "Lolasana",
+    "altNames": [
+      "Поза серьги",
+      "Кулон",
+      "Pendant Pose",
+      "Pendant",
+      "Swinging Pose",
+      "Lolāsana"
+    ],
+    "summary": {
+      "ru": "Компактный баланс на прямых руках: лодыжки скрещены, колени подтянуты к груди, всё тело висит над полом.",
+      "en": "A compact straight-arm balance: your ankles are crossed, your knees are drawn toward your chest and your whole body hangs above the floor."
+    },
+    "about": {
+      "ru": "Лоласана — «поза серьги»: тело подвешено на прямых руках, как подвеска, и может слегка покачиваться вперёд-назад. Здесь показан вариант со скрещенными лодыжками и входом из положения стоя на коленях, ладони на блоках. Поза требует сильного сжатия корпуса: спина округлена, колени и стопы подтянуты к груди, плечи опущены. Её относят к среднему уровню, потому что поднять голени и стопы с пола без рывка можно только при хорошей силе рук и мышц живота.",
+      "en": "Lolasana, the Pendant Pose, suspends your body on straight arms like a pendant, and you can gently swing back and forth. This card shows the version with crossed ankles, entered from kneeling with your hands on blocks. It needs strong compression: your back rounds, your knees and feet draw up toward your chest and your shoulders stay down. It is rated intermediate because lifting your shins and feet off the floor without a jump takes solid arm and abdominal strength."
+    },
+    "prerequisites": [
+      {
+        "ru": "Спокойно сидите на пятках без боли в коленях.",
+        "en": "You can sit on your heels without knee pain."
+      },
+      {
+        "ru": "Можете приподнять таз сидя, опираясь прямыми руками на блоки.",
+        "en": "You can lift your hips from sitting with straight arms on blocks."
+      },
+      {
+        "ru": "Удерживаете «лодочку» на спине 30 секунд.",
+        "en": "You can hold a hollow body position for 30 seconds."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Подложите сложенное одеяло под колени и голени, а блоки поставьте на ровную нескользкую поверхность.",
+        "en": "Place a folded blanket under your knees and shins, and set your blocks on a flat, non-slip surface."
+      },
+      {
+        "ru": "При боли в запястьях, плечах или коленях прекратите попытку.",
+        "en": "Stop if you feel pain in your wrists, shoulders or knees."
+      },
+      {
+        "ru": "При недавней травме или беременности сначала обсудите нагрузку со специалистом.",
+        "en": "If you’ve had a recent injury or are pregnant, discuss the load with a qualified healthcare professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "bb331522-2056-4ce3-af06-b82bb4e8a525",
+        "title": {
+          "ru": "Встаньте на колени",
+          "en": "Kneel with blocks"
+        },
+        "body": {
+          "ru": "Встаньте на колени и поставьте блоки по обе стороны от коленей. Положите ладони на блоки, пальцы направлены вперёд.",
+          "en": "Kneel and set a block on each side of your knees. Place your palms on the blocks, fingers pointing forward."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "3ef7dac7-cc86-44fd-9ba8-1b1a2a6f4310",
+        "title": {
+          "ru": "Скрестите лодыжки",
+          "en": "Cross your ankles"
+        },
+        "body": {
+          "ru": "Скрестите лодыжки, правая поверх левой, и сядьте ближе к пяткам. Выпрямите руки.",
+          "en": "Cross your ankles, right over left, and sit back toward your heels. Straighten your arms."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "38baa663-1a7e-415d-8907-c7ce3c23939b",
+        "title": {
+          "ru": "Сгруппируйтесь",
+          "en": "Compress"
+        },
+        "body": {
+          "ru": "Округлите спину, опустите плечи от ушей и подтяните живот. Слегка подайтесь вперёд к ладоням.",
+          "en": "Round your back, draw your shoulders away from your ears and draw in your belly. Lean slightly forward toward your hands."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "059fdd7e-1d44-4125-9d59-65899747a96e",
+        "title": {
+          "ru": "Поднимите тело",
+          "en": "Lift off"
+        },
+        "body": {
+          "ru": "На выдохе оттолкнитесь ладонями, подтяните колени к груди, а стопы — к ягодицам, отрывая голени от пола. Держите руки прямыми и дышите ровно.",
+          "en": "As you exhale, press into your hands and draw your knees toward your chest and your feet toward your buttocks, lifting your shins off the floor. Keep your arms straight and breathe evenly."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "b205a27b-336b-4b85-9bd9-a0690df052ec",
+        "title": {
+          "ru": "Опуститесь",
+          "en": "Lower down"
+        },
+        "body": {
+          "ru": "Мягко опустите колени на коврик. Смените скрещивание лодыжек и повторите.",
+          "en": "Gently lower your knees to the mat. Switch the cross of your ankles and repeat."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "serratus"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "hip-flexors"
+      }
+    ],
+    "anatomy": {
+      "ru": "Трицепсы держат руки прямыми, а передняя зубчатая мышца и плечевой пояс отталкивают опору и округляют верх спины. Мышцы живота и сгибатели бедра поднимают колени и стопы и удерживают тело компактным.",
+      "en": "Your triceps keep your arms straight, while your serratus anterior and shoulders push into the support and round your upper back. Your abdominal muscles and hip flexors lift your knees and feet and keep your body compact."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "tuck-lift-on-blocks",
+        "title": {
+          "ru": "Подъём в группировке на блоках",
+          "en": "Tuck lift on blocks"
+        },
+        "body": {
+          "ru": "Начните с отрыва таза, затем пробуйте подтянуть стопы.",
+          "en": "Start by lifting your hips, then try drawing your feet up."
+        }
+      },
+      {
+        "exerciseSlug": "hollow-body-hold",
+        "title": {
+          "ru": "«Лодочка» на спине",
+          "en": "Hollow body hold"
+        },
+        "body": {
+          "ru": "Учит округлять корпус и удерживать живот подтянутым.",
+          "en": "Teaches you to round your torso and keep your belly drawn in."
+        }
+      },
+      {
+        "exerciseSlug": "compression-leg-lifts",
+        "title": {
+          "ru": "Подъёмы ног сидя",
+          "en": "Seated leg lifts"
+        },
+        "body": {
+          "ru": "Развивают силу, нужную, чтобы подтянуть ноги к груди.",
+          "en": "Build the strength you need to draw your legs toward your chest."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Прыжок вместо подъёма",
+          "en": "Jumping instead of lifting"
+        },
+        "why": {
+          "ru": "Рывок сбивает баланс, и при приземлении колени могут удариться о пол.",
+          "en": "A jump throws off your balance and your knees can bump the floor as you land."
+        },
+        "fix": {
+          "ru": "Поднимайтесь медленно: сначала оторвите колени, затем стопы.",
+          "en": "Lift slowly: first your knees, then your feet."
+        }
+      },
+      {
+        "title": {
+          "ru": "Руки сгибаются",
+          "en": "Bending the elbows"
+        },
+        "why": {
+          "ru": "Корпус опускается, и стопам не хватает места над полом.",
+          "en": "Your torso drops and your feet run out of room above the floor."
+        },
+        "fix": {
+          "ru": "Выпрямите руки и толкайте блоки вниз; при необходимости поставьте блоки на более высокую грань.",
+          "en": "Straighten your arms and push the blocks down; turn the blocks to a taller height if you need to."
+        }
+      },
+      {
+        "title": {
+          "ru": "Прямая спина",
+          "en": "Flat back"
+        },
+        "why": {
+          "ru": "Без округления спины колени не поднимаются достаточно высоко.",
+          "en": "Without a rounded back, your knees can’t come up high enough."
+        },
+        "fix": {
+          "ru": "Округлите спину и смотрите на коврик между ладонями.",
+          "en": "Round your back and look at the mat between your hands."
+        }
+      }
+    ],
+    "easier": [],
+    "harder": [
+      "kukkutasana",
+      "tuck-press-to-handstand"
+    ],
+    "related": [
+      "tolasana",
+      "bakasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Колени на коврике, ладони на блоках",
+          "en": "Kneeling, palms on blocks"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Лодыжки скрещены, руки прямые",
+          "en": "Ankles crossed, arms straight"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Спина округляется, колени подтягиваются",
+          "en": "Back rounds, knees draw in"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание над полом",
+          "en": "Hold above the floor"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Колени на коврик",
+          "en": "Knees down to the mat"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Lolasana",
+        "note": "Classical description of the pose; the kneeling entry with hands on blocks shown here is a common teaching form."
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "forward-fold",
+  "skills": [
+    "hamstring-flexibility",
+    "flexibility"
+  ],
+  "doc": {
+    "name": {
+      "ru": "Наклон вперёд стоя",
+      "en": "Standing Forward Fold"
+    },
+    "summary": {
+      "ru": "Наклон вперёд стоя: мягко вытягивает заднюю поверхность ног и учит складываться в тазобедренных суставах — подготовка к Светлячку, Эка Хаста Бхуджасане и выходу в стойку на руках силой.",
+      "en": "A standing forward bend that gently stretches the backs of your legs and teaches you to fold at the hips — preparation for Firefly, Elephant Trunk Pose and pressing into a handstand."
+    },
+    "instructions": [
+      {
+        "ru": "Встаньте, стопы на ширине таза. На вдохе удлините позвоночник.",
+        "en": "Stand with your feet hip-width apart. Inhale and lengthen your spine."
+      },
+      {
+        "ru": "На выдохе наклонитесь вперёд от тазобедренных суставов, слегка согнув колени.",
+        "en": "Exhale and fold forward from your hips with your knees slightly bent."
+      },
+      {
+        "ru": "Положите ладони на пол, блоки или голени. Позвольте голове и шее свободно расслабиться.",
+        "en": "Rest your hands on the floor, blocks or shins. Let your head and neck relax."
+      },
+      {
+        "ru": "Оставайтесь 30–60 секунд, спокойно дыша. Чтобы выйти, согните колени и медленно поднимитесь на вдохе с длинной спиной.",
+        "en": "Stay for 30–60 seconds, breathing calmly. To come up, bend your knees and rise slowly on an inhale with a long spine."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Не тянитесь с усилием: при боли в пояснице или под коленями согните колени сильнее или выйдите из наклона.",
+        "en": "Don't force the stretch; if you feel pain in your lower back or behind your knees, bend your knees more or come out of the fold."
+      },
+      {
+        "ru": "При головокружении, повышенном давлении или глаукоме поднимайтесь медленно и обсудите положения головой вниз со специалистом.",
+        "en": "If you feel dizzy or have high blood pressure or glaucoma, come up slowly and discuss head-down positions with a qualified professional."
+      }
+    ],
+    "muscles": [
+      "hamstrings",
+      "calves-ankles",
+      "lower-back"
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Uttanasana",
+        "note": "Classical description of the pose; the bent-knee option is a common teaching modification."
+      }
+    ]
+  }
+}

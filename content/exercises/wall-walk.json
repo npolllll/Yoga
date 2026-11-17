@@ -1,0 +1,58 @@
+{
+  "slug": "wall-walk",
+  "skills": [
+    "inversion",
+    "arm-strength",
+    "shoulder-mobility"
+  ],
+  "doc": {
+    "name": {
+      "ru": "Подъём по стене",
+      "en": "Wall Walk"
+    },
+    "summary": {
+      "ru": "Постепенный подъём стопами по стене в перевёрнутое положение: развивает силу плеч и привычку к положению вниз головой для стоек на руках.",
+      "en": "Walking your feet up a wall into an inverted position to build shoulder strength and comfort being upside down for handstands."
+    },
+    "instructions": [
+      {
+        "ru": "Встаньте в планку, упираясь стопами в стену, ладони на ширине плеч.",
+        "en": "Come into a plank with the soles of your feet against the wall and your hands shoulder-width apart."
+      },
+      {
+        "ru": "Поставьте на стену одну стопу, затем другую, и начните шагать ногами вверх.",
+        "en": "Place one foot on the wall, then the other, and begin walking your feet up."
+      },
+      {
+        "ru": "Одновременно небольшими шагами переставляйте ладони ближе к стене, сохраняя корпус собранным, а руки прямыми. Для начала поднимайтесь только до половины высоты.",
+        "en": "At the same time, walk your hands a little closer to the wall in small steps, keeping your body engaged and your arms straight. At first, go only halfway up."
+      },
+      {
+        "ru": "Задержитесь на 3–5 вдохов и спуститесь в обратном порядке: ладони отходят от стены, стопы шагают вниз. Выполните 2–4 повтора.",
+        "en": "Pause for 3–5 breaths, then come down in reverse: walk your hands away from the wall and your feet down. Do 2–4 repetitions."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Освободите пространство вокруг и спускайтесь заранее, не дожидаясь сильной усталости.",
+        "en": "Clear the space around you and come down before you get very tired."
+      },
+      {
+        "ru": "При повышенном давлении, глаукоме, травмах плеч или беременности сначала обсудите перевёрнутые положения со специалистом.",
+        "en": "If you have high blood pressure, glaucoma or a shoulder injury, or are pregnant, discuss inversions with a qualified professional first."
+      },
+      {
+        "ru": "При боли в плечах или запястьях, а также при головокружении прекратите упражнение.",
+        "en": "Stop if you feel pain in your shoulders or wrists, or if you feel dizzy."
+      }
+    ],
+    "muscles": [
+      "shoulders-deltoids",
+      "triceps",
+      "serratus",
+      "core-abs",
+      "wrists-forearms"
+    ],
+    "sources": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "dolphin-push-ups",
+  "skills": [
+    "shoulder-mobility",
+    "arm-strength",
+    "core-control"
+  ],
+  "doc": {
+    "name": {
+      "ru": "Отжимания в дельфине",
+      "en": "Dolphin Push-Ups"
+    },
+    "summary": {
+      "ru": "Перемещение из Дельфина вперёд к планке на предплечьях и обратно: укрепляет плечи и корпус для стойки на предплечьях и стойки на голове.",
+      "en": "Moving from Dolphin towards a forearm plank and back to strengthen the shoulders and core for Forearm Stand and Supported Headstand."
+    },
+    "instructions": [
+      {
+        "ru": "Встаньте на предплечья: локти на ширине плеч под плечевыми суставами, предплечья параллельны или пальцы сцеплены.",
+        "en": "Come onto your forearms with your elbows shoulder-width apart under your shoulders, forearms parallel or fingers interlaced."
+      },
+      {
+        "ru": "Поднимите таз в Дельфина; согните колени настолько, чтобы спина оставалась длинной.",
+        "en": "Lift your hips into Dolphin; bend your knees as much as you need to keep your spine long."
+      },
+      {
+        "ru": "Плавно подайте плечи вперёд к положению планки на предплечьях, пока они не окажутся над локтями.",
+        "en": "Smoothly move your shoulders forward towards a forearm plank until they are over your elbows."
+      },
+      {
+        "ru": "Отведите таз вверх и назад, возвращаясь в Дельфина. Дышите ровно. Выполните 2–3 подхода по 5–10 повторений.",
+        "en": "Lift your hips up and back to return to Dolphin, breathing steadily. Do 2–3 sets of 5–10 repetitions."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Держите локти на ширине плеч и не позволяйте им расходиться.",
+        "en": "Keep your elbows shoulder-width apart and don't let them slide out."
+      },
+      {
+        "ru": "При боли в плечах, шее или пояснице прекратите упражнение.",
+        "en": "Stop if you feel pain in your shoulders, neck or lower back."
+      }
+    ],
+    "muscles": [
+      "shoulders-deltoids",
+      "serratus",
+      "upper-back",
+      "core-abs"
+    ],
+    "sources": []
+  }
+}

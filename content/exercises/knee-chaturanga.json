@@ -1,0 +1,52 @@
+{
+  "slug": "knee-chaturanga",
+  "skills": [
+    "arm-strength",
+    "core-control"
+  ],
+  "doc": {
+    "name": {
+      "ru": "Опускание в чатурангу с колен",
+      "en": "Knees-Down Chaturanga"
+    },
+    "summary": {
+      "ru": "Медленное опускание из планки с опорой на колени: развивает силу трицепсов и контроль плеч для Чатуранги Дандасаны и перехода из Вороны в Чатурангу.",
+      "en": "A slow lowering from a kneeling plank that builds triceps strength and shoulder control for Four-Limbed Staff Pose and the Crow-to-Chaturanga transition."
+    },
+    "instructions": [
+      {
+        "ru": "Встаньте в планку и опустите колени на коврик. Ладони под плечами, тело — одна линия от макушки до коленей.",
+        "en": "Come into a plank and lower your knees to the mat. Keep your hands under your shoulders and your body in one line from head to knees."
+      },
+      {
+        "ru": "Слегка подайте плечи вперёд за линию запястий и прижмите локти к бокам.",
+        "en": "Shift your shoulders slightly forward of your wrists and keep your elbows close to your sides."
+      },
+      {
+        "ru": "На выдохе медленно согните локти назад и опуститесь, пока плечи не окажутся на уровне локтей или чуть выше.",
+        "en": "As you exhale, slowly bend your elbows back and lower until your shoulders are level with your elbows or slightly above."
+      },
+      {
+        "ru": "Опуститесь на живот или вернитесь в планку на коленях. Выполните 2–4 подхода по 3–6 повторений.",
+        "en": "Lower to your belly or press back up to the kneeling plank. Do 2–4 sets of 3–6 repetitions."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Не опускайте плечи ниже уровня локтей и не проваливайте грудь.",
+        "en": "Don't lower your shoulders below your elbows or let your chest collapse."
+      },
+      {
+        "ru": "При боли в плечах, локтях или запястьях прекратите упражнение.",
+        "en": "Stop if you feel pain in your shoulders, elbows or wrists."
+      }
+    ],
+    "muscles": [
+      "triceps",
+      "chest",
+      "shoulders-deltoids",
+      "core-abs"
+    ],
+    "sources": []
+  }
+}

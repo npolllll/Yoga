@@ -1,0 +1,299 @@
+{
+  "slug": "chaturanga-dandasana",
+  "category": "arm-balances",
+  "level": "beginner",
+  "skills": [
+    "arm-strength",
+    "core-control",
+    "wrist-strength"
+  ],
+  "sortWeight": 12,
+  "motion": {
+    "view": "side",
+    "contacts": [
+      "hands",
+      "feet"
+    ],
+    "entry": "0-2s plank on straight arms, palms under the shoulders, feet hip-width apart, body one straight line; 2-4s roll forward on the toes so the shoulders move slightly ahead of the wrists.",
+    "hold": "4-6s exhale, elbows bend straight back hugging the ribs, the whole body lowers as one unit; 6-8s hold: upper arms parallel to the floor, shoulders level with the elbows, forearms vertical, body straight a few inches above the mat, gaze slightly ahead (poster frame).",
+    "exit": "8-10s the body lowers to the mat as one unit and rests prone."
+  },
+  "doc": {
+    "name": {
+      "ru": "Чатуранга Дандасана",
+      "en": "Four-Limbed Staff Pose"
+    },
+    "subtitle": {
+      "ru": "Поза посоха на четырёх опорах",
+      "en": "Chaturanga Dandasana"
+    },
+    "sanskrit": "Chaturanga Dandasana",
+    "altNames": [
+      "Чатуранга",
+      "Низкая планка",
+      "Chaturanga",
+      "Low Plank",
+      "Four-Limbed Staff",
+      "Caturanga Dandasana"
+    ],
+    "summary": {
+      "ru": "Низкая планка на ладонях и пальцах ног: тело прямое и параллельно полу, локти согнуты и прижаты к корпусу.",
+      "en": "A low plank on your palms and toes: your body stays straight and parallel to the floor, with your elbows bent and close to your sides."
+    },
+    "about": {
+      "ru": "Чатуранга Дандасана — силовая поза: тело удерживается прямым, как посох, на ладонях и пальцах ног в нескольких сантиметрах над полом. В «Прояснении йоги» Б. К. С. Айенгара в позу поднимаются из положения лёжа на животе; в виньяса-практике в неё обычно опускаются из планки — этот вход описан здесь. Поза развивает силу рук, плеч и корпуса и входит во многие балансы на руках и переходы. Её относят к начальному уровню, но правильная форма требует внимания: локти идут назад вдоль рёбер, а плечи не опускаются ниже локтей.",
+      "en": "Chaturanga Dandasana is a strength pose: you hold your body straight as a staff on your palms and toes, a few inches above the floor. In B.K.S. Iyengar’s Light on Yoga you lift into the pose from lying face down; in vinyasa classes you usually lower into it from plank, and that entry is shown here. The pose builds arm, shoulder and core strength and is part of many arm balances and transitions. It is rated beginner, but good form takes attention: your elbows travel back along your ribs and your shoulders stay no lower than your elbows."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно держите планку 30–60 секунд с прямым телом.",
+        "en": "You can hold a plank for 30–60 seconds with a straight body."
+      },
+      {
+        "ru": "Контролируемо опускаетесь в чатурангу с коленями на полу.",
+        "en": "You can lower into a knees-down Chaturanga with control."
+      },
+      {
+        "ru": "Опора на ладони не вызывает боли в запястьях.",
+        "en": "Bearing weight on your hands doesn’t cause wrist pain."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "При боли в плечах, локтях или запястьях прекратите и вернитесь к варианту с коленями на полу.",
+        "en": "If you feel pain in your shoulders, elbows or wrists, stop and return to the knees-down version."
+      },
+      {
+        "ru": "Дышите ровно и не задерживайте дыхание.",
+        "en": "Breathe steadily and don’t hold your breath."
+      },
+      {
+        "ru": "При недавней травме плеча или запястья, а также во время беременности сначала обсудите нагрузку со специалистом.",
+        "en": "If you’ve had a recent shoulder or wrist injury, or are pregnant, discuss the load with a qualified healthcare professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "6cef6247-fcbb-415d-b735-6eb1c499204d",
+        "title": {
+          "ru": "Встаньте в планку",
+          "en": "Set up in plank"
+        },
+        "body": {
+          "ru": "Поставьте ладони под плечами и раскройте пальцы. Отставьте ноги назад на ширине таза: тело — одна прямая линия от макушки до пяток.",
+          "en": "Place your palms under your shoulders and spread your fingers. Step your feet back hip-width apart so your body forms one straight line from the crown of your head to your heels."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "9a5b9e3b-702f-4a7a-9ead-038338736098",
+        "title": {
+          "ru": "Подайтесь вперёд",
+          "en": "Shift forward"
+        },
+        "body": {
+          "ru": "Перекатитесь на носках немного вперёд, чтобы плечи оказались чуть впереди запястий. Подтяните живот и напрягите бёдра.",
+          "en": "Roll forward slightly on your toes so your shoulders move just ahead of your wrists. Draw in your belly and firm your thighs."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "f11cf594-5051-4d66-b4e2-b65ae0e123af",
+        "title": {
+          "ru": "Опуститесь",
+          "en": "Lower down"
+        },
+        "body": {
+          "ru": "На выдохе согните локти и ведите их назад вдоль рёбер. Опускайтесь всем телом сразу, пока плечи не окажутся на уровне локтей.",
+          "en": "As you exhale, bend your elbows and draw them back along your ribs. Lower your whole body as one unit until your shoulders are level with your elbows."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "a621336b-052c-49f4-bdc0-54b4e6bb7a53",
+        "title": {
+          "ru": "Удерживайте",
+          "en": "Hold"
+        },
+        "body": {
+          "ru": "Держите тело прямым и параллельным полу в нескольких сантиметрах над ним. Грудь раскрыта, взгляд на коврик чуть впереди. Сделайте несколько спокойных вдохов.",
+          "en": "Keep your body straight and parallel to the floor, a few inches above it. Keep your chest broad and look at the mat slightly ahead. Take a few steady breaths."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "63baf8a0-1115-4aeb-b1e1-e8b01dd66716",
+        "title": {
+          "ru": "Выйдите из позы",
+          "en": "Release"
+        },
+        "body": {
+          "ru": "Опустите тело на коврик и отдохните лёжа на животе. Чтобы облегчить выход, сначала опустите колени.",
+          "en": "Lower your body to the mat and rest on your belly. To make it easier, bring your knees down first."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "chest"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "serratus"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "wrists-forearms"
+      }
+    ],
+    "anatomy": {
+      "ru": "Трицепсы и грудные мышцы контролируют сгибание локтей и удерживают вес. Передняя зубчатая и дельтовидные мышцы стабилизируют плечи, а мышцы живота не дают тазу провисать.",
+      "en": "Your triceps and chest muscles control the bend of your elbows and hold your weight. Your serratus anterior and deltoids steady your shoulders, while your abdominal muscles keep your hips from sagging."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "plank",
+        "title": {
+          "ru": "Планка",
+          "en": "Plank"
+        },
+        "body": {
+          "ru": "Научитесь держать прямую линию тела на прямых руках.",
+          "en": "Learn to hold a straight line from head to heels on straight arms."
+        }
+      },
+      {
+        "exerciseSlug": "knee-chaturanga",
+        "title": {
+          "ru": "Чатуранга с колен",
+          "en": "Knees-down Chaturanga"
+        },
+        "body": {
+          "ru": "Отработайте направление локтей и высоту плеч с меньшей нагрузкой.",
+          "en": "Practice the elbow path and shoulder height with less load."
+        }
+      },
+      {
+        "exerciseSlug": "scapular-push-ups",
+        "title": {
+          "ru": "Отжимания лопатками",
+          "en": "Scapular push-ups"
+        },
+        "body": {
+          "ru": "Учат управлять лопатками и не проваливаться в плечах.",
+          "en": "Teach you to control your shoulder blades and avoid sinking between them."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Плечи ниже локтей",
+          "en": "Shoulders dropping below the elbows"
+        },
+        "why": {
+          "ru": "Передняя часть плеча берёт на себя лишнюю нагрузку.",
+          "en": "The front of your shoulder takes on extra load."
+        },
+        "fix": {
+          "ru": "Остановитесь выше: плечи на уровне локтей или чуть выше.",
+          "en": "Stop higher, with your shoulders level with your elbows or slightly above."
+        }
+      },
+      {
+        "title": {
+          "ru": "Таз провисает или поднимается",
+          "en": "Hips sagging or piking"
+        },
+        "why": {
+          "ru": "Тело теряет прямую линию, и нагрузка уходит в поясницу или в плечи.",
+          "en": "Your body loses its straight line and the load shifts into your lower back or shoulders."
+        },
+        "fix": {
+          "ru": "Подтяните живот, напрягите ягодицы и бёдра, тянитесь пятками назад.",
+          "en": "Draw in your belly, firm your glutes and thighs, and reach back through your heels."
+        }
+      },
+      {
+        "title": {
+          "ru": "Локти расходятся в стороны",
+          "en": "Elbows flaring out"
+        },
+        "why": {
+          "ru": "Плечи теряют устойчивость, а трицепсы работают хуже.",
+          "en": "Your shoulders lose stability and your triceps can’t do their job well."
+        },
+        "fix": {
+          "ru": "Ведите локти назад вдоль рёбер, предплечья держите вертикально.",
+          "en": "Draw your elbows back along your ribs and keep your forearms vertical."
+        }
+      }
+    ],
+    "easier": [],
+    "harder": [
+      "hamsasana",
+      "crow-to-chaturanga"
+    ],
+    "related": [
+      "vasisthasana",
+      "bakasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Планка",
+          "en": "Plank"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Подача вперёд на носках",
+          "en": "Roll forward onto the toes"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Опускание: локти назад вдоль рёбер",
+          "en": "Lowering: elbows back along the ribs"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: тело параллельно полу",
+          "en": "Hold: body parallel to the floor"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Опускание на коврик",
+          "en": "Lower to the mat"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Chaturanga Dandasana",
+        "note": "Classical description lifts into the pose from lying prone; the entry by lowering from plank shown here is a common vinyasa form."
+      }
+    ]
+  }
+}

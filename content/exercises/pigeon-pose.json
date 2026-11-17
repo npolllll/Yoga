@@ -1,0 +1,50 @@
+{
+  "slug": "pigeon-pose",
+  "skills": [
+    "hip-openness",
+    "flexibility"
+  ],
+  "doc": {
+    "name": {
+      "ru": "Поза голубя (подготовительная)",
+      "en": "Pigeon Pose Prep"
+    },
+    "summary": {
+      "ru": "Подготовительный вариант позы голубя: мягко раскрывает наружную поверхность бедра и ягодицы — гибкость, которая нужна для Летающего голубя и балансов из лотоса, таких как Толасана.",
+      "en": "A preparatory version of Pigeon Pose that gently opens the outer hip and glutes — the flexibility needed for Flying Pigeon and lotus-based balances such as Scale Pose."
+    },
+    "instructions": [
+      {
+        "ru": "С четверенек или из Собаки мордой вниз выведите правое колено вперёд к правому запястью и положите голень на коврик под углом. Держите стопу передней ноги активной.",
+        "en": "From all fours or Downward-Facing Dog, bring your right knee forward towards your right wrist and lay your shin on the mat at an angle. Keep your front foot active."
+      },
+      {
+        "ru": "Вытяните левую ногу назад, верх стопы на коврике. Выровняйте таз; если он не опускается, подложите под правую ягодицу блок или одеяло.",
+        "en": "Extend your left leg back with the top of the foot on the mat. Square your hips; if they don't reach the floor, place a block or blanket under your right buttock."
+      },
+      {
+        "ru": "Удлините спину, опираясь на ладони, или мягко наклонитесь вперёд на предплечья.",
+        "en": "Lengthen your spine with your hands on the mat, or gently fold forward onto your forearms."
+      },
+      {
+        "ru": "Дышите спокойно 30–60 секунд, затем вернитесь в исходное положение и повторите на другую сторону.",
+        "en": "Breathe calmly for 30–60 seconds, then return to the starting position and repeat on the other side."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "При боли в колене приблизьте пятку к паху или выполните вариант лёжа на спине, положив щиколотку на противоположное колено.",
+        "en": "If you feel pain in your knee, bring your heel closer to your groin or do the version lying on your back with your ankle on the opposite knee."
+      },
+      {
+        "ru": "Не тянитесь с усилием; при боли в пояснице или крестце выйдите из позы.",
+        "en": "Don't force the stretch; come out of the pose if you feel pain in your lower back or sacrum."
+      }
+    ],
+    "muscles": [
+      "glutes",
+      "hip-flexors"
+    ],
+    "sources": []
+  }
+}

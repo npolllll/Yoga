@@ -1,0 +1,53 @@
+{
+  "slug": "crow-weight-shift",
+  "skills": [
+    "arm-strength",
+    "wrist-strength",
+    "balance-coordination"
+  ],
+  "doc": {
+    "name": {
+      "ru": "Перенос веса на ладони с носками на полу",
+      "en": "Weight Shift with Toes Down"
+    },
+    "summary": {
+      "ru": "Перенос веса на ладони в положении Бакасаны с носками на полу: учит находить точку баланса и привыкать к нагрузке на руки до отрыва стоп.",
+      "en": "Shifting weight into your hands in the Crow setup with your toes on the mat, so you learn the balance point and get used to the load before lifting your feet."
+    },
+    "instructions": [
+      {
+        "ru": "Из глубокого приседа поставьте ладони на ширине плеч и раскройте пальцы.",
+        "en": "From a deep squat, place your palms shoulder-width apart and spread your fingers."
+      },
+      {
+        "ru": "Согните локти назад, поднимитесь на носки и упритесь коленями в верхнюю часть рук выше локтей.",
+        "en": "Bend your elbows back, rise onto your toes and rest your knees on your upper arms above the elbows."
+      },
+      {
+        "ru": "Медленно подайте плечи вперёд, пока вес не начнёт переходить на ладони, а стопы не станут лёгкими. Носки остаются на полу, взгляд — на коврик чуть впереди ладоней.",
+        "en": "Slowly move your shoulders forward until your weight moves into your hands and your feet feel light. Keep your toes on the floor and look at the mat just ahead of your hands."
+      },
+      {
+        "ru": "Задержитесь на 3–5 вдохов и вернитесь назад в присед. Повторите 4–6 раз.",
+        "en": "Pause for 3–5 breaths, then shift back into the squat. Repeat 4–6 times."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Положите подушку или сложенное одеяло перед ладонями.",
+        "en": "Place a cushion or folded blanket in front of your hands."
+      },
+      {
+        "ru": "При боли в запястьях, локтях или плечах прекратите упражнение.",
+        "en": "Stop if you feel pain in your wrists, elbows or shoulders."
+      }
+    ],
+    "muscles": [
+      "wrists-forearms",
+      "triceps",
+      "shoulders-deltoids",
+      "core-abs"
+    ],
+    "sources": []
+  }
+}

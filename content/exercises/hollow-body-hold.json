@@ -1,0 +1,54 @@
+{
+  "slug": "hollow-body-hold",
+  "skills": [
+    "core-control"
+  ],
+  "doc": {
+    "name": {
+      "ru": "Удержание «лодочки» на спине",
+      "en": "Hollow Body Hold"
+    },
+    "summary": {
+      "ru": "Удержание на спине с прижатой к полу поясницей: учит держать корпус единым целым — навык для стоек на руках, Лоласаны и переходов с прыжком.",
+      "en": "A hold on your back with your lower back pressed down that teaches you to keep your body as one unit — useful for handstands, Pendant Pose and jump transitions."
+    },
+    "instructions": [
+      {
+        "ru": "Лягте на спину, согните колени и прижмите поясницу к коврику, подтянув живот.",
+        "en": "Lie on your back, bend your knees and press your lower back into the mat by drawing in your belly."
+      },
+      {
+        "ru": "Приподнимите голову и лопатки, вытяните руки вдоль тела или за голову.",
+        "en": "Lift your head and shoulder blades and reach your arms alongside your body or overhead."
+      },
+      {
+        "ru": "Поднимите ноги и постепенно выпрямляйте их — ровно настолько, насколько поясница остаётся прижатой к полу.",
+        "en": "Lift your legs and gradually straighten them, only as far as your lower back stays on the floor."
+      },
+      {
+        "ru": "Дышите ровно, не задерживая дыхание. Выполните 3–5 подходов по 10–20 секунд.",
+        "en": "Breathe steadily without holding your breath. Do 3–5 rounds of 10–20 seconds."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Если поясница отрывается от пола, согните колени или поднимите ноги выше.",
+        "en": "If your lower back lifts off the floor, bend your knees or raise your legs higher."
+      },
+      {
+        "ru": "При боли в пояснице или шее прекратите упражнение.",
+        "en": "Stop if you feel pain in your lower back or neck."
+      },
+      {
+        "ru": "При беременности или после операций на брюшной полости сначала обсудите нагрузку со специалистом.",
+        "en": "If you are pregnant or have had abdominal surgery, discuss the load with a qualified professional first."
+      }
+    ],
+    "muscles": [
+      "core-abs",
+      "hip-flexors",
+      "obliques"
+    ],
+    "sources": []
+  }
+}

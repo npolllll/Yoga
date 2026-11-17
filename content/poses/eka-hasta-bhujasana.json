@@ -1,0 +1,297 @@
+{
+  "slug": "eka-hasta-bhujasana",
+  "category": "arm-balances",
+  "level": "intermediate",
+  "skills": [
+    "arm-strength",
+    "hip-openness",
+    "hamstring-flexibility"
+  ],
+  "sortWeight": 36,
+  "motion": {
+    "view": "three-quarter",
+    "contacts": [
+      "hands"
+    ],
+    "entry": "0-2s seated in Dandasana, legs straight, spine tall, palms beside the hips; 2-4s right knee bends, right arm slides under it and the back of the right thigh settles high on the back of the right upper arm near the shoulder, left leg stays straight on the mat.",
+    "hold": "4-6s palms press beside the hips, fingers forward, left foot flexed and thigh firm; 6-8s hold: arms straight, hips and the straight left leg lifted off the floor, left leg reaching forward roughly parallel to the mat, right leg draped over the right arm with the foot off the floor, gaze forward (poster frame).",
+    "exit": "8-10s hips and left leg lower to the mat, right leg releases, back to Dandasana."
+  },
+  "doc": {
+    "name": {
+      "ru": "Эка Хаста Бхуджасана",
+      "en": "Elephant Trunk Pose"
+    },
+    "subtitle": {
+      "ru": "Поза хобота слона",
+      "en": "Eka Hasta Bhujasana"
+    },
+    "sanskrit": "Eka Hasta Bhujasana",
+    "altNames": [
+      "Хобот слона",
+      "Поза хобота слона",
+      "Elephant’s Trunk Pose",
+      "Elephant Trunk",
+      "Eka Hasta Bhujāsana"
+    ],
+    "summary": {
+      "ru": "Баланс на прямых руках: бедро одной ноги лежит на задней стороне плеча, вторая нога прямая и вытянута вперёд над полом.",
+      "en": "A straight-arm balance: one thigh rests on the back of the same-side upper arm while the other leg stretches straight forward above the floor."
+    },
+    "about": {
+      "ru": "Эка Хаста Бхуджасана — «поза хобота слона». Из Дандасаны вы кладёте одну ногу высоко на плечо, ставите ладони рядом с бёдрами и поднимаете тело над полом, удерживая вторую ногу прямой. Здесь описана классическая форма с прямыми руками и вытянутой вперёд свободной ногой. Поза требует гибкости задней поверхности бедра и тазобедренного сустава, силы рук и сжатия корпуса, поэтому её относят к среднему уровню. Блоки под ладонями облегчают подъём.",
+      "en": "Eka Hasta Bhujasana, the Elephant Trunk Pose, starts in Dandasana: you hook one leg high over the same-side upper arm, place your palms beside your hips and lift your body off the floor while the other leg stays straight. This card shows the classical form with straight arms and the free leg reaching forward. It calls for flexible hamstrings and hips, arm strength and torso compression, which is why it is rated intermediate. Blocks under your palms make the lift easier."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно сидите в Дандасане с прямой спиной.",
+        "en": "You can sit tall in Dandasana (Staff Pose)."
+      },
+      {
+        "ru": "Можете без боли положить бедро высоко на заднюю сторону плеча сидя.",
+        "en": "You can rest your thigh high on the back of your upper arm while seated, without pain."
+      },
+      {
+        "ru": "Можете приподнять таз сидя, опираясь прямыми руками на пол или блоки.",
+        "en": "You can lift your hips from sitting with straight arms on the floor or on blocks."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Не тяните ногу на плечо силой: при тянущей боли под коленом или в паху ослабьте положение.",
+        "en": "Don’t pull your leg onto your arm by force; ease off if you feel a pulling pain behind your knee or in your groin."
+      },
+      {
+        "ru": "При боли в запястьях, локтях или плечах прекратите попытку.",
+        "en": "Stop if you feel pain in your wrists, elbows or shoulders."
+      },
+      {
+        "ru": "При травме поясницы или задней поверхности бедра, а также во время беременности сначала обсудите нагрузку со специалистом.",
+        "en": "If you have a lower-back or hamstring injury, or are pregnant, discuss the load with a qualified healthcare professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "354d3d72-9994-4353-97d9-967aab551ae9",
+        "title": {
+          "ru": "Сядьте в Дандасану",
+          "en": "Sit in Staff Pose"
+        },
+        "body": {
+          "ru": "Сядьте с прямыми ногами и вытянутой спиной. При желании поставьте блоки рядом с бёдрами.",
+          "en": "Sit with your legs straight and your spine long. If you like, place blocks beside your hips."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "1f5dd8a1-8058-47b2-97b2-c5983bde9f6a",
+        "title": {
+          "ru": "Положите ногу на плечо",
+          "en": "Hook the leg over your arm"
+        },
+        "body": {
+          "ru": "Согните правое колено, проведите правую руку под ним и положите заднюю сторону бедра как можно выше на заднюю сторону правого плеча.",
+          "en": "Bend your right knee, slide your right arm under it and rest the back of your thigh as high as you can on the back of your right upper arm."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "4998baaf-84e8-47fb-8dfc-9ef1b86e49e5",
+        "title": {
+          "ru": "Поставьте ладони",
+          "en": "Place your hands"
+        },
+        "body": {
+          "ru": "Поставьте ладони на пол или на блоки рядом с бёдрами, пальцы вперёд. Левую ногу держите прямой: носок на себя, бедро напряжено.",
+          "en": "Place your palms on the floor or on the blocks beside your hips, fingers forward. Keep your left leg straight: draw your toes toward you and firm the thigh."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "52b60bc0-6a7c-4822-9254-6cddc7b493ce",
+        "title": {
+          "ru": "Поднимитесь",
+          "en": "Lift up"
+        },
+        "body": {
+          "ru": "На выдохе оттолкнитесь ладонями, выпрямите руки и поднимите таз и левую ногу над полом. Левая нога прямая и тянется вперёд, взгляд вперёд. Удерживайте несколько вдохов.",
+          "en": "As you exhale, press into your palms, straighten your arms and lift your hips and left leg off the floor. Keep your left leg straight and reaching forward, and look ahead. Stay for a few breaths."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "f09cdfbe-59e9-4c65-920a-f46fec830530",
+        "title": {
+          "ru": "Опуститесь и смените сторону",
+          "en": "Lower and switch sides"
+        },
+        "body": {
+          "ru": "Мягко опустите таз и ногу, освободите правую ногу и вернитесь в Дандасану. Повторите на другую сторону.",
+          "en": "Gently lower your hips and leg, release your right leg and return to Dandasana. Repeat on the other side."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "hip-flexors"
+      },
+      {
+        "key": "quadriceps"
+      }
+    ],
+    "anatomy": {
+      "ru": "Трицепсы и плечевой пояс удерживают вес на прямых руках. Мышцы живота и сгибатели бедра поднимают таз и прямую ногу, а четырёхглавая мышца держит её колено выпрямленным. Задняя поверхность бедра ноги, лежащей на плече, растягивается.",
+      "en": "Your triceps and shoulders hold your weight on straight arms. Your abdominal muscles and hip flexors lift your hips and the straight leg, while your quadriceps keep that knee straight. The hamstrings of the leg on your arm are stretched."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "tuck-lift-on-blocks",
+        "title": {
+          "ru": "Подъём в группировке на блоках",
+          "en": "Tuck lift on blocks"
+        },
+        "body": {
+          "ru": "Отрабатывает отрыв таза от пола на прямых руках.",
+          "en": "Trains lifting your hips off the floor on straight arms."
+        }
+      },
+      {
+        "exerciseSlug": "compression-leg-lifts",
+        "title": {
+          "ru": "Подъёмы ног сидя",
+          "en": "Seated leg lifts"
+        },
+        "body": {
+          "ru": "Укрепляют мышцы, которые держат прямую ногу над полом.",
+          "en": "Strengthen the muscles that hold your straight leg above the floor."
+        }
+      },
+      {
+        "exerciseSlug": "forward-fold",
+        "title": {
+          "ru": "Наклон вперёд стоя",
+          "en": "Standing forward fold"
+        },
+        "body": {
+          "ru": "Мягко готовит заднюю поверхность бёдер к положению ноги на плече.",
+          "en": "Gently prepares your hamstrings for resting your leg on your arm."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Нога лежит слишком низко",
+          "en": "Leg too low on the arm"
+        },
+        "why": {
+          "ru": "Бедро соскальзывает к локтю, и рука не удерживает ногу.",
+          "en": "Your thigh slides toward your elbow and your arm can’t hold the leg."
+        },
+        "fix": {
+          "ru": "Заведите плечо глубже под колено, чтобы бедро легло ближе к плечевому суставу.",
+          "en": "Slide your shoulder further under your knee so your thigh rests closer to your shoulder joint."
+        }
+      },
+      {
+        "title": {
+          "ru": "Прямая нога опускается",
+          "en": "Free leg dropping"
+        },
+        "why": {
+          "ru": "Пятка тянет вес вниз, и таз не отрывается от пола.",
+          "en": "Your heel drags your weight down and your hips stay on the floor."
+        },
+        "fix": {
+          "ru": "Напрягите бедро, возьмите носок на себя и тянитесь пяткой вперёд; используйте блоки.",
+          "en": "Firm your thigh, draw your toes toward you and reach through your heel; use blocks."
+        }
+      },
+      {
+        "title": {
+          "ru": "Плечи поднимаются к ушам",
+          "en": "Shoulders hunching up"
+        },
+        "why": {
+          "ru": "Корпус проседает между рук, и подъём не получается.",
+          "en": "Your torso sinks between your arms and the lift doesn’t happen."
+        },
+        "fix": {
+          "ru": "Толкайте пол ладонями и опускайте плечи вниз.",
+          "en": "Push the floor away and draw your shoulders down."
+        }
+      }
+    ],
+    "easier": [],
+    "harder": [
+      "astavakrasana",
+      "tittibhasana"
+    ],
+    "related": [
+      "bhujapidasana",
+      "tolasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Дандасана",
+          "en": "Staff Pose"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Правая нога на плечо",
+          "en": "Right leg over the arm"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Ладони у бёдер, левая нога прямая",
+          "en": "Palms beside the hips, left leg straight"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Подъём и удержание",
+          "en": "Lift and hold"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Возврат в Дандасану",
+          "en": "Back to Staff Pose"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Eka Hasta Bhujasana",
+        "note": "Classical description of the pose; blocks under the hands are a common teaching aid."
+      }
+    ]
+  }
+}
