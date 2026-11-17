@@ -1,0 +1,842 @@
+{
+  "poses": [
+    {
+      "slug": "bakasana",
+      "category": "arm-balances",
+      "level": "beginner",
+      "skills": [
+        "arm-strength",
+        "core-control",
+        "wrist-strength"
+      ],
+      "name": {
+        "ru": "Бакасана",
+        "en": "Crow Pose"
+      },
+      "sanskrit": "Bakasana"
+    },
+    {
+      "slug": "baby-crow",
+      "category": "arm-balances",
+      "level": "beginner",
+      "skills": [
+        "core-control",
+        "hip-openness",
+        "balance-coordination"
+      ],
+      "name": {
+        "ru": "Ворона на предплечьях",
+        "en": "Baby Crow Pose"
+      },
+      "sanskrit": ""
+    },
+    {
+      "slug": "chaturanga-dandasana",
+      "category": "arm-balances",
+      "level": "beginner",
+      "skills": [
+        "arm-strength",
+        "core-control",
+        "wrist-strength"
+      ],
+      "name": {
+        "ru": "Чатуранга Дандасана",
+        "en": "Four-Limbed Staff Pose"
+      },
+      "sanskrit": "Chaturanga Dandasana"
+    },
+    {
+      "slug": "tolasana",
+      "category": "arm-balances",
+      "level": "intermediate",
+      "skills": [
+        "arm-strength",
+        "hip-openness",
+        "core-control"
+      ],
+      "name": {
+        "ru": "Толасана",
+        "en": "Scale Pose"
+      },
+      "sanskrit": "Tolasana"
+    },
+    {
+      "slug": "lolasana",
+      "category": "arm-balances",
+      "level": "intermediate",
+      "skills": [
+        "arm-strength",
+        "core-control",
+        "wrist-strength"
+      ],
+      "name": {
+        "ru": "Лоласана",
+        "en": "Pendant Pose"
+      },
+      "sanskrit": "Lolasana"
+    },
+    {
+      "slug": "eka-hasta-bhujasana",
+      "category": "arm-balances",
+      "level": "intermediate",
+      "skills": [
+        "arm-strength",
+        "hip-openness",
+        "hamstring-flexibility"
+      ],
+      "name": {
+        "ru": "Эка Хаста Бхуджасана",
+        "en": "Elephant Trunk Pose"
+      },
+      "sanskrit": "Eka Hasta Bhujasana"
+    },
+    {
+      "slug": "eka-pada-galavasana",
+      "category": "arm-balances",
+      "level": "intermediate",
+      "skills": [
+        "arm-strength",
+        "hip-openness",
+        "balance-coordination"
+      ],
+      "name": {
+        "ru": "Летающий голубь",
+        "en": "Flying Pigeon Pose"
+      },
+      "sanskrit": "Eka Pada Galavasana"
+    },
+    {
+      "slug": "hamsasana",
+      "category": "arm-balances",
+      "level": "intermediate",
+      "skills": [
+        "arm-strength",
+        "core-control",
+        "wrist-strength"
+      ],
+      "name": {
+        "ru": "Хамсасана",
+        "en": "Swan Pose"
+      },
+      "sanskrit": "Hamsasana"
+    },
+    {
+      "slug": "tittibhasana",
+      "category": "arm-balances",
+      "level": "advanced",
+      "skills": [
+        "arm-strength",
+        "hamstring-flexibility",
+        "hip-openness"
+      ],
+      "name": {
+        "ru": "Светлячок",
+        "en": "Firefly Pose"
+      },
+      "sanskrit": "Tittibhasana"
+    },
+    {
+      "slug": "astavakrasana",
+      "category": "arm-balances",
+      "level": "advanced",
+      "skills": [
+        "arm-strength",
+        "twist",
+        "core-control"
+      ],
+      "name": {
+        "ru": "Поза восьми углов",
+        "en": "Eight-Angle Pose"
+      },
+      "sanskrit": "Astavakrasana"
+    },
+    {
+      "slug": "mayurasana",
+      "category": "arm-balances",
+      "level": "advanced",
+      "skills": [
+        "arm-strength",
+        "wrist-strength",
+        "core-control"
+      ],
+      "name": {
+        "ru": "Павлин",
+        "en": "Peacock Pose"
+      },
+      "sanskrit": "Mayurasana"
+    },
+    {
+      "slug": "eka-pada-bakasana",
+      "category": "arm-balances",
+      "level": "advanced",
+      "skills": [
+        "arm-strength",
+        "core-control",
+        "balance-coordination"
+      ],
+      "name": {
+        "ru": "Эка Пада Бакасана",
+        "en": "Flying Crow Pose"
+      },
+      "sanskrit": "Eka Pada Bakasana"
+    },
+    {
+      "slug": "eka-pada-koundinyasana-2",
+      "category": "arm-balances",
+      "level": "advanced",
+      "skills": [
+        "arm-strength",
+        "hamstring-flexibility",
+        "hip-openness"
+      ],
+      "name": {
+        "ru": "Эка Пада Каундиньясана II",
+        "en": "Flying Splits Pose"
+      },
+      "sanskrit": "Eka Pada Koundinyasana II"
+    },
+    {
+      "slug": "kukkutasana",
+      "category": "arm-balances",
+      "level": "advanced",
+      "skills": [
+        "arm-strength",
+        "hip-openness",
+        "wrist-strength"
+      ],
+      "name": {
+        "ru": "Куккутасана",
+        "en": "Rooster Pose"
+      },
+      "sanskrit": "Kukkutasana"
+    },
+    {
+      "slug": "urdhva-kukkutasana",
+      "category": "arm-balances",
+      "level": "expert",
+      "skills": [
+        "arm-strength",
+        "hip-openness",
+        "inversion"
+      ],
+      "name": {
+        "ru": "Урдхва Куккутасана",
+        "en": "Upward Rooster Pose"
+      },
+      "sanskrit": "Urdhva Kukkutasana"
+    },
+    {
+      "slug": "vasisthasana",
+      "category": "side-balances",
+      "level": "beginner",
+      "skills": [
+        "arm-strength",
+        "core-control",
+        "balance-coordination"
+      ],
+      "name": {
+        "ru": "Васиштхасана",
+        "en": "Side Plank Pose"
+      },
+      "sanskrit": "Vasisthasana"
+    },
+    {
+      "slug": "parsva-bakasana",
+      "category": "side-balances",
+      "level": "intermediate",
+      "skills": [
+        "arm-strength",
+        "twist",
+        "core-control"
+      ],
+      "name": {
+        "ru": "Боковая ворона",
+        "en": "Side Crow Pose"
+      },
+      "sanskrit": "Parsva Bakasana"
+    },
+    {
+      "slug": "eka-pada-koundinyasana-1",
+      "category": "side-balances",
+      "level": "advanced",
+      "skills": [
+        "arm-strength",
+        "twist",
+        "hamstring-flexibility"
+      ],
+      "name": {
+        "ru": "Эка Пада Каундиньясана I",
+        "en": "Pose Dedicated to Sage Koundinya I"
+      },
+      "sanskrit": "Eka Pada Koundinyasana I"
+    },
+    {
+      "slug": "dwi-pada-koundinyasana",
+      "category": "side-balances",
+      "level": "advanced",
+      "skills": [
+        "arm-strength",
+        "twist",
+        "core-control"
+      ],
+      "name": {
+        "ru": "Дви Пада Каундиньясана",
+        "en": "Two-Legged Koundinya Pose"
+      },
+      "sanskrit": "Dwi Pada Koundinyasana"
+    },
+    {
+      "slug": "maksikanagasana",
+      "category": "side-balances",
+      "level": "expert",
+      "skills": [
+        "arm-strength",
+        "twist",
+        "hip-openness"
+      ],
+      "name": {
+        "ru": "Стрекоза",
+        "en": "Dragonfly Pose"
+      },
+      "sanskrit": "Maksikanagasana"
+    },
+    {
+      "slug": "ardha-sarvangasana",
+      "category": "shoulder-balances",
+      "level": "beginner",
+      "skills": [
+        "shoulder-mobility",
+        "core-control",
+        "inversion"
+      ],
+      "name": {
+        "ru": "Полустойка на плечах",
+        "en": "Half Shoulder Stand"
+      },
+      "sanskrit": "Ardha Sarvangasana"
+    },
+    {
+      "slug": "salamba-sarvangasana",
+      "category": "shoulder-balances",
+      "level": "intermediate",
+      "skills": [
+        "shoulder-mobility",
+        "core-control",
+        "inversion"
+      ],
+      "name": {
+        "ru": "Стойка на плечах",
+        "en": "Supported Shoulder Stand"
+      },
+      "sanskrit": "Salamba Sarvangasana"
+    },
+    {
+      "slug": "bhujapidasana",
+      "category": "shoulder-balances",
+      "level": "intermediate",
+      "skills": [
+        "arm-strength",
+        "hip-openness",
+        "core-control"
+      ],
+      "name": {
+        "ru": "Бхуджапидасана",
+        "en": "Shoulder-Pressing Pose"
+      },
+      "sanskrit": "Bhujapidasana"
+    },
+    {
+      "slug": "tripod-headstand",
+      "category": "shoulder-balances",
+      "level": "intermediate",
+      "skills": [
+        "inversion",
+        "core-control",
+        "shoulder-mobility"
+      ],
+      "name": {
+        "ru": "Стойка на голове с опорой на ладони",
+        "en": "Tripod Headstand"
+      },
+      "sanskrit": "Salamba Sirsasana II"
+    },
+    {
+      "slug": "niralamba-sarvangasana",
+      "category": "shoulder-balances",
+      "level": "expert",
+      "skills": [
+        "inversion",
+        "core-control",
+        "balance-coordination"
+      ],
+      "name": {
+        "ru": "Стойка на плечах без опоры рук",
+        "en": "Unsupported Shoulder Stand"
+      },
+      "sanskrit": "Niralamba Sarvangasana"
+    },
+    {
+      "slug": "l-handstand",
+      "category": "handstands",
+      "level": "intermediate",
+      "skills": [
+        "arm-strength",
+        "shoulder-mobility",
+        "inversion"
+      ],
+      "name": {
+        "ru": "Стойка на руках у стены уголком",
+        "en": "L-Shape Handstand at the Wall"
+      },
+      "sanskrit": ""
+    },
+    {
+      "slug": "adho-mukha-vrksasana",
+      "category": "handstands",
+      "level": "advanced",
+      "skills": [
+        "arm-strength",
+        "shoulder-mobility",
+        "inversion"
+      ],
+      "name": {
+        "ru": "Стойка на руках",
+        "en": "Handstand"
+      },
+      "sanskrit": "Adho Mukha Vrksasana"
+    },
+    {
+      "slug": "tuck-handstand",
+      "category": "handstands",
+      "level": "advanced",
+      "skills": [
+        "arm-strength",
+        "core-control",
+        "inversion"
+      ],
+      "name": {
+        "ru": "Стойка на руках в группировке",
+        "en": "Tuck Handstand"
+      },
+      "sanskrit": ""
+    },
+    {
+      "slug": "straddle-handstand",
+      "category": "handstands",
+      "level": "advanced",
+      "skills": [
+        "arm-strength",
+        "flexibility",
+        "inversion"
+      ],
+      "name": {
+        "ru": "Стойка на руках ноги врозь",
+        "en": "Straddle Handstand"
+      },
+      "sanskrit": ""
+    },
+    {
+      "slug": "handstand-scorpion",
+      "category": "handstands",
+      "level": "expert",
+      "skills": [
+        "arm-strength",
+        "flexibility",
+        "inversion"
+      ],
+      "name": {
+        "ru": "Скорпион в стойке на руках",
+        "en": "Handstand Scorpion"
+      },
+      "sanskrit": "Vrschikasana II"
+    },
+    {
+      "slug": "ardha-pincha-mayurasana",
+      "category": "forearm-balances",
+      "level": "beginner",
+      "skills": [
+        "shoulder-mobility",
+        "hamstring-flexibility",
+        "core-control"
+      ],
+      "name": {
+        "ru": "Дельфин",
+        "en": "Dolphin Pose"
+      },
+      "sanskrit": "Ardha Pincha Mayurasana"
+    },
+    {
+      "slug": "salamba-sirsasana",
+      "category": "forearm-balances",
+      "level": "intermediate",
+      "skills": [
+        "inversion",
+        "core-control",
+        "shoulder-mobility"
+      ],
+      "name": {
+        "ru": "Стойка на голове",
+        "en": "Supported Headstand"
+      },
+      "sanskrit": "Salamba Sirsasana"
+    },
+    {
+      "slug": "pincha-mayurasana",
+      "category": "forearm-balances",
+      "level": "advanced",
+      "skills": [
+        "shoulder-mobility",
+        "arm-strength",
+        "inversion"
+      ],
+      "name": {
+        "ru": "Стойка на предплечьях",
+        "en": "Forearm Stand"
+      },
+      "sanskrit": "Pincha Mayurasana"
+    },
+    {
+      "slug": "vrschikasana",
+      "category": "forearm-balances",
+      "level": "expert",
+      "skills": [
+        "shoulder-mobility",
+        "flexibility",
+        "inversion"
+      ],
+      "name": {
+        "ru": "Скорпион на предплечьях",
+        "en": "Forearm Scorpion Pose"
+      },
+      "sanskrit": "Vrschikasana"
+    },
+    {
+      "slug": "vasisthasana-tree",
+      "category": "one-arm-balances",
+      "level": "intermediate",
+      "skills": [
+        "core-control",
+        "hip-openness",
+        "balance-coordination"
+      ],
+      "name": {
+        "ru": "Боковая планка с ногой в позе дерева",
+        "en": "Side Plank Tree Variation"
+      },
+      "sanskrit": "Vrksa Vasisthasana"
+    },
+    {
+      "slug": "kasyapasana",
+      "category": "one-arm-balances",
+      "level": "advanced",
+      "skills": [
+        "arm-strength",
+        "hip-openness",
+        "balance-coordination"
+      ],
+      "name": {
+        "ru": "Кашьяпасана",
+        "en": "Pose Dedicated to Sage Kasyapa"
+      },
+      "sanskrit": "Kasyapasana"
+    },
+    {
+      "slug": "visvamitrasana",
+      "category": "one-arm-balances",
+      "level": "expert",
+      "skills": [
+        "arm-strength",
+        "hamstring-flexibility",
+        "hip-openness"
+      ],
+      "name": {
+        "ru": "Вишвамитрасана",
+        "en": "Pose Dedicated to Sage Visvamitra"
+      },
+      "sanskrit": "Visvamitrasana"
+    },
+    {
+      "slug": "eka-hasta-vrksasana",
+      "category": "one-arm-balances",
+      "level": "expert",
+      "skills": [
+        "arm-strength",
+        "balance-coordination",
+        "inversion"
+      ],
+      "name": {
+        "ru": "Стойка на одной руке",
+        "en": "One-Arm Handstand"
+      },
+      "sanskrit": "Eka Hasta Vrksasana"
+    },
+    {
+      "slug": "jump-to-crow",
+      "category": "transitions",
+      "level": "intermediate",
+      "skills": [
+        "core-control",
+        "arm-strength",
+        "balance-coordination"
+      ],
+      "name": {
+        "ru": "Прыжок в ворону",
+        "en": "Jump into Crow"
+      },
+      "sanskrit": ""
+    },
+    {
+      "slug": "crow-to-chaturanga",
+      "category": "transitions",
+      "level": "advanced",
+      "skills": [
+        "arm-strength",
+        "core-control",
+        "balance-coordination"
+      ],
+      "name": {
+        "ru": "Из вороны в чатурангу",
+        "en": "Crow to Chaturanga"
+      },
+      "sanskrit": ""
+    },
+    {
+      "slug": "crow-to-tripod-headstand",
+      "category": "transitions",
+      "level": "advanced",
+      "skills": [
+        "core-control",
+        "inversion",
+        "arm-strength"
+      ],
+      "name": {
+        "ru": "Из вороны в стойку на голове",
+        "en": "Crow to Tripod Headstand"
+      },
+      "sanskrit": ""
+    },
+    {
+      "slug": "side-crow-to-eka-pada-koundinyasana-1",
+      "category": "transitions",
+      "level": "advanced",
+      "skills": [
+        "twist",
+        "arm-strength",
+        "core-control"
+      ],
+      "name": {
+        "ru": "Из боковой вороны в Каундиньясану I",
+        "en": "Side Crow to Koundinya I"
+      },
+      "sanskrit": ""
+    },
+    {
+      "slug": "tripod-headstand-to-crow",
+      "category": "transitions",
+      "level": "expert",
+      "skills": [
+        "core-control",
+        "inversion",
+        "arm-strength"
+      ],
+      "name": {
+        "ru": "Из стойки на голове в ворону",
+        "en": "Tripod Headstand to Crow"
+      },
+      "sanskrit": ""
+    },
+    {
+      "slug": "tuck-press-to-handstand",
+      "category": "transitions",
+      "level": "expert",
+      "skills": [
+        "arm-strength",
+        "core-control",
+        "inversion"
+      ],
+      "name": {
+        "ru": "Выход в стойку на руках из группировки силой",
+        "en": "Tuck Press to Handstand"
+      },
+      "sanskrit": ""
+    }
+  ],
+  "exercises": [
+    {
+      "slug": "plank",
+      "name": {
+        "ru": "Планка",
+        "en": "Plank"
+      },
+      "sanskrit": "Phalakasana"
+    },
+    {
+      "slug": "forearm-plank",
+      "name": {
+        "ru": "Планка на предплечьях",
+        "en": "Forearm Plank"
+      },
+      "sanskrit": ""
+    },
+    {
+      "slug": "navasana",
+      "name": {
+        "ru": "Лодка",
+        "en": "Boat Pose"
+      },
+      "sanskrit": "Navasana"
+    },
+    {
+      "slug": "malasana",
+      "name": {
+        "ru": "Глубокий присед",
+        "en": "Garland Pose (Squat)"
+      },
+      "sanskrit": "Malasana"
+    },
+    {
+      "slug": "wrist-warmup",
+      "name": {
+        "ru": "Разминка запястий",
+        "en": "Wrist Warm-Up"
+      },
+      "sanskrit": ""
+    },
+    {
+      "slug": "crow-weight-shift",
+      "name": {
+        "ru": "Перенос веса на ладони с носками на полу",
+        "en": "Weight Shift with Toes Down"
+      },
+      "sanskrit": ""
+    },
+    {
+      "slug": "hollow-body-hold",
+      "name": {
+        "ru": "Удержание «лодочки» на спине",
+        "en": "Hollow Body Hold"
+      },
+      "sanskrit": ""
+    },
+    {
+      "slug": "knee-chaturanga",
+      "name": {
+        "ru": "Опускание в чатурангу с колен",
+        "en": "Knees-Down Chaturanga"
+      },
+      "sanskrit": ""
+    },
+    {
+      "slug": "side-plank-knee",
+      "name": {
+        "ru": "Боковая планка с опорой на колено",
+        "en": "Side Plank on the Knee"
+      },
+      "sanskrit": ""
+    },
+    {
+      "slug": "plank-shoulder-taps",
+      "name": {
+        "ru": "Касания плеч в планке",
+        "en": "Plank Shoulder Taps"
+      },
+      "sanskrit": ""
+    },
+    {
+      "slug": "scapular-push-ups",
+      "name": {
+        "ru": "Отжимания лопатками",
+        "en": "Scapular Push-Ups"
+      },
+      "sanskrit": ""
+    },
+    {
+      "slug": "dolphin-push-ups",
+      "name": {
+        "ru": "Отжимания в дельфине",
+        "en": "Dolphin Push-Ups"
+      },
+      "sanskrit": ""
+    },
+    {
+      "slug": "wall-walk",
+      "name": {
+        "ru": "Подъём по стене",
+        "en": "Wall Walk"
+      },
+      "sanskrit": ""
+    },
+    {
+      "slug": "compression-leg-lifts",
+      "name": {
+        "ru": "Подъёмы ног сидя",
+        "en": "Seated Compression Leg Lifts"
+      },
+      "sanskrit": ""
+    },
+    {
+      "slug": "twisted-chair",
+      "name": {
+        "ru": "Скручивание в позе стула",
+        "en": "Revolved Chair Pose"
+      },
+      "sanskrit": "Parivrtta Utkatasana"
+    },
+    {
+      "slug": "lizard-pose",
+      "name": {
+        "ru": "Поза ящерицы",
+        "en": "Lizard Pose"
+      },
+      "sanskrit": "Utthan Pristhasana"
+    },
+    {
+      "slug": "forward-fold",
+      "name": {
+        "ru": "Наклон вперёд стоя",
+        "en": "Standing Forward Fold"
+      },
+      "sanskrit": "Uttanasana"
+    },
+    {
+      "slug": "handstand-kick-ups",
+      "name": {
+        "ru": "Махи в стойку у стены",
+        "en": "Handstand Kick-Ups at the Wall"
+      },
+      "sanskrit": ""
+    },
+    {
+      "slug": "headstand-prep",
+      "name": {
+        "ru": "Подготовка к стойке на голове",
+        "en": "Headstand Preparation"
+      },
+      "sanskrit": ""
+    },
+    {
+      "slug": "tuck-lift-on-blocks",
+      "name": {
+        "ru": "Подъём в группировке на блоках",
+        "en": "Tuck Lift on Blocks"
+      },
+      "sanskrit": ""
+    },
+    {
+      "slug": "pigeon-pose",
+      "name": {
+        "ru": "Поза голубя (подготовительная)",
+        "en": "Pigeon Pose Prep"
+      },
+      "sanskrit": "Eka Pada Rajakapotasana (prep)"
+    },
+    {
+      "slug": "bridge-pose",
+      "name": {
+        "ru": "Мостик на лопатках",
+        "en": "Bridge Pose"
+      },
+      "sanskrit": "Setu Bandha Sarvangasana"
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "slug": "bakasana",
+  "category": "arm-balances",
+  "level": "beginner",
+  "skills": [
+    "arm-strength",
+    "core-control",
+    "wrist-strength"
+  ],
+  "sortWeight": 10,
+  "motion": {
+    "view": "three-quarter",
+    "contacts": [
+      "hands"
+    ],
+    "entry": "0-2s low squat, palms placed shoulder-width; 2-4s knees onto upper arms above elbows, shoulders move forward, toes still on mat.",
+    "hold": "4-6s lift one foot then the other without a jump, palms fixed; 6-8s hold: elbows bent, knees in contact with arms, gaze slightly forward (poster frame).",
+    "exit": "8-10s feet softly return to the mat, weight back to the feet, back to squat."
+  },
+  "doc": {
+    "name": {
+      "ru": "Бакасана",
+      "en": "Crow Pose"
+    },
+    "subtitle": {
+      "ru": "Поза ворона",
+      "en": "Bakasana"
+    },
+    "sanskrit": "Bakasana",
+    "altNames": [
+      "Какасана",
+      "Kakasana",
+      "Поза ворона",
+      "Ворона",
+      "Crow",
+      "Crane Pose",
+      "Поза журавля",
+      "Bakāsana"
+    ],
+    "summary": {
+      "ru": "Компактный баланс на ладонях: колени опираются на верхнюю часть рук, локти согнуты, стопы приподняты над ковриком.",
+      "en": "A compact arm balance with both palms on the mat, the knees supported on the upper arms and the elbows bent."
+    },
+    "about": {
+      "ru": "Компактный баланс на ладонях. Колени опираются на верхнюю часть рук, локти согнуты, стопы приподняты над ковриком. Здесь показан вариант с согнутыми локтями; в некоторых школах его называют Какасаной. Начните с переноса веса на ладони, оставляя носки на полу. Затем попробуйте приподнять одну стопу. Поза относится к балансам на руках и требует силы кистей и рук, контроля корпуса и умения постепенно переносить вес вперёд, поэтому её обычно осваивают одной из первых.",
+      "en": "A compact arm balance with both palms on the mat, the knees supported on the upper arms, and the elbows bent. This is the bent-arm variation; some schools call it Kakasana. Start by shifting weight into your hands while keeping your toes on the mat. Then try lifting one foot. It belongs to the arm-balance family and builds hand and arm strength, core control and a gradual forward weight shift, which is why it is usually one of the first arm balances people learn."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно держите планку 30 секунд без боли в запястьях.",
+        "en": "You can hold a plank for 30 seconds without wrist pain."
+      },
+      {
+        "ru": "Спокойно сидите в глубоком приседе (Маласане) с опорой на всю стопу или на носки.",
+        "en": "You can sit comfortably in a deep squat (Malasana), on flat feet or on your toes."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Освободите место перед собой и при желании положите подушку или сложенное одеяло перед ладонями.",
+        "en": "Clear the space in front of you; you may place a cushion or folded blanket ahead of your hands."
+      },
+      {
+        "ru": "При боли в запястьях, локтях или плечах прекратите попытку.",
+        "en": "Stop if you feel pain in your wrists, elbows, or shoulders."
+      },
+      {
+        "ru": "При недавней травме сначала обсудите нагрузку со специалистом.",
+        "en": "If you’ve had a recent injury, discuss the load with a qualified healthcare professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "5b6af3c1-2287-4498-9b97-4ddf5b44631d",
+        "title": {
+          "ru": "Подготовьте опору",
+          "en": "Set your hands"
+        },
+        "body": {
+          "ru": "Из приседа поставьте ладони примерно на ширине плеч. Раскройте пальцы и прижмите ладони к коврику.",
+          "en": "From a squat, place your palms about shoulder-width apart. Spread your fingers and press your palms into the mat."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "2a99a06f-211b-4d97-bb6d-6b5361c1bbd2",
+        "title": {
+          "ru": "Соберите позу",
+          "en": "Set up the shape"
+        },
+        "body": {
+          "ru": "Согните локти назад, поднимитесь на носки и упритесь коленями в верхнюю часть рук выше локтей.",
+          "en": "Bend your elbows back, rise onto your toes, and bring your knees against your upper arms above the elbows."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "66693132-1a4b-42e6-999a-729368bc1e33",
+        "title": {
+          "ru": "Перенесите вес",
+          "en": "Shift forward"
+        },
+        "body": {
+          "ru": "Плавно подайте плечи вперёд. Слегка округлите верх спины и смотрите на коврик немного впереди ладоней.",
+          "en": "Slowly move your shoulders forward. Gently round your upper back and look at the mat just ahead of your hands."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "7d0e4578-5c45-48ca-aab2-1f41bed545cb",
+        "title": {
+          "ru": "Попробуйте баланс",
+          "en": "Try the balance"
+        },
+        "body": {
+          "ru": "Когда опора на руках станет устойчивой, приподнимите одну стопу. Если сохраняете контроль, приподнимите вторую. Дышите спокойно.",
+          "en": "When your hands feel steady, lift one foot. If you can stay in control, lift the other. Keep breathing steadily."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "f5ed4e00-6d65-4a33-88fa-189c7a2be920",
+        "title": {
+          "ru": "Вернитесь на коврик",
+          "en": "Lower back down"
+        },
+        "body": {
+          "ru": "Мягко опустите стопы, перенесите вес обратно на ноги и вернитесь в присед.",
+          "en": "Gently return your feet to the mat, shift your weight back onto them, and settle into a squat."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "hip-flexors"
+      }
+    ],
+    "anatomy": {
+      "ru": "Кисти и предплечья помогают управлять опорой. Плечевой пояс и руки поддерживают вес тела. Мышцы живота и сгибатели бедра помогают удерживать колени близко к корпусу.",
+      "en": "Your hands and forearms help control the balance. Your shoulders and arms support your weight. Your abdominal muscles and hip flexors help keep your knees close to your torso."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "crow-weight-shift",
+        "title": {
+          "ru": "Перенос веса с носками на полу",
+          "en": "Weight shift with toes down"
+        },
+        "body": {
+          "ru": "Найдите положение, в котором вес постепенно переходит на ладони.",
+          "en": "Find the position where your weight gradually moves into your hands."
+        }
+      },
+      {
+        "exerciseSlug": "malasana",
+        "title": {
+          "ru": "Подъём одной стопы",
+          "en": "Single-foot lift"
+        },
+        "body": {
+          "ru": "Оставьте носки второй ноги на коврике и попробуйте обе стороны по очереди.",
+          "en": "Keep the other toes on the mat and try each side in turn."
+        }
+      },
+      {
+        "exerciseSlug": "plank",
+        "title": {
+          "ru": "Планка",
+          "en": "Plank"
+        },
+        "body": {
+          "ru": "Укрепляет кисти, плечи и корпус для опоры на руки.",
+          "en": "Builds the hands, shoulders and core for weight bearing."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Толчок стопами",
+          "en": "Pushing off the floor"
+        },
+        "why": {
+          "ru": "Рывок лишает контроля и может перебросить вес слишком далеко вперёд.",
+          "en": "A jump takes away control and can throw your weight too far forward."
+        },
+        "fix": {
+          "ru": "Начните с медленного переноса веса и дождитесь, пока стопы станут лёгкими.",
+          "en": "Shift your weight slowly until your feet feel light."
+        }
+      },
+      {
+        "title": {
+          "ru": "Локти расходятся в стороны",
+          "en": "Elbows splaying out"
+        },
+        "why": {
+          "ru": "Колени соскальзывают, а нагрузка на плечи становится менее устойчивой.",
+          "en": "Your knees slide off and the load on your shoulders becomes less stable."
+        },
+        "fix": {
+          "ru": "Направьте локти назад и вернитесь к варианту с носками на полу, если опора теряется.",
+          "en": "Point them back and return to the toes-down version if you lose stability."
+        }
+      },
+      {
+        "title": {
+          "ru": "Голова опускается между рук",
+          "en": "Dropping your head between your arms"
+        },
+        "why": {
+          "ru": "Вес смещается вперёд резче, чем вы успеваете его контролировать.",
+          "en": "Your weight moves forward faster than you can control."
+        },
+        "fix": {
+          "ru": "Переведите взгляд на точку чуть впереди ладоней.",
+          "en": "Look at a spot just ahead of your hands."
+        }
+      }
+    ],
+    "easier": [
+      "baby-crow"
+    ],
+    "harder": [
+      "eka-pada-bakasana",
+      "crow-to-chaturanga",
+      "parsva-bakasana"
+    ],
+    "related": [
+      "parsva-bakasana",
+      "jump-to-crow",
+      "crow-to-tripod-headstand"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Присед и постановка ладоней",
+          "en": "Squat and hand placement"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Колени выше локтей, плечи подаются вперёд",
+          "en": "Knees above the elbows, shoulders move forward"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Поднимается одна стопа, затем вторая",
+          "en": "One foot lifts, then the other"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: локти согнуты, взгляд вперёд",
+          "en": "Hold: elbows bent, gaze forward"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Стопы на коврик, возврат в присед",
+          "en": "Feet down, back to the squat"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Bakasana",
+        "note": "Classical description of the pose; the bent-arm variation shown here is a common teaching form."
+      }
+    ]
+  }
+}
