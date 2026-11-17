@@ -1,0 +1,153 @@
+{
+  "slug": "eka-hasta-vrksasana",
+  "version": 2,
+  "view": {
+    "azimuth": 8,
+    "elevation": 6
+  },
+  "keys": [
+    {
+      "t": 0.0,
+      "pose": "handstand",
+      "support": [
+        "hands"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.pitch",
+          "shoulder_*.flex"
+        ],
+        "balance": true,
+        "goals": [
+          {
+            "over": [
+              "shoulder_L",
+              "hand_L"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 1.2,
+      "support": [
+        "hands"
+      ]
+    },
+    {
+      "t": 3.0,
+      "pose": "handstand_straddle",
+      "support": [
+        "hands"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.roll",
+          "pelvis.pitch",
+          "shoulder_*.abd",
+          "spine.side"
+        ],
+        "goals": [
+          {
+            "comover": "hand_R"
+          },
+          {
+            "over": [
+              "shoulder_R",
+              "hand_R"
+            ],
+            "w": 0.5
+          }
+        ]
+      }
+    },
+    {
+      "t": 4.4,
+      "pose": "handstand_straddle",
+      "set": {
+        "shoulder_L.abd": 60,
+        "shoulder_L.flex": 140
+      },
+      "support": [
+        "hand_R"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.roll",
+          "pelvis.pitch",
+          "shoulder_R.abd",
+          "shoulder_R.flex",
+          "spine.side"
+        ],
+        "balance": true,
+        "goals": [
+          {
+            "over": [
+              "shoulder_R",
+              "hand_R"
+            ]
+          },
+          {
+            "above": [
+              "hand_L",
+              0.12
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 8.0,
+      "support": [
+        "hand_R"
+      ]
+    },
+    {
+      "t": 8.8,
+      "pose": "handstand_straddle",
+      "support": [
+        "hands"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.roll",
+          "pelvis.pitch",
+          "shoulder_*.abd",
+          "spine.side"
+        ],
+        "goals": [
+          {
+            "comover": "hand_R",
+            "w": 0.5
+          }
+        ]
+      }
+    },
+    {
+      "t": 10.0,
+      "pose": "handstand",
+      "support": [
+        "hands"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.pitch",
+          "shoulder_*.flex"
+        ],
+        "balance": true
+      }
+    }
+  ],
+  "keyframes": [
+    1.0,
+    3.0,
+    4.4,
+    6.5,
+    9.4
+  ],
+  "poster": 6.5,
+  "hold": [
+    5.0,
+    8.0
+  ]
+}

@@ -14,6 +14,9 @@ import { StatusControl } from "@/components/pose/PoseActions";
 import { PoseImage } from "@/components/pose/PoseCard";
 import { VideoLesson } from "@/components/pose/VideoLesson";
 
+// Known slugs are prerendered at build time; slugs published later render on demand (allowed to block).
+export const instant = false;
+
 export async function generateStaticParams() {
   const programs = await getPrograms();
   const params = programs.flatMap((p) => p.doc.steps.map((s) => ({ slug: p.slug, stepKey: s.key })));

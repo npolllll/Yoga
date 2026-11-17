@@ -1,0 +1,145 @@
+{
+  "slug": "bakasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.0.0",
+    "configVersion": 1,
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 2.15,
+    "minBodyZCm": -5.94,
+    "comMarginCm": 2.4,
+    "uniqueFrames": 211
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/bakasana/bakasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 110810,
+      "sha256": "447a2a607d94f59861523abdf96293accf6730084d3f9740c3b569277926ef55",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/bakasana/bakasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 151529,
+      "sha256": "65a0b6556ad5c1b73992f92cbe9409c2cfa69ee5f4278938c3b1864d98388021",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/bakasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 11944,
+      "sha256": "5fd7776ff81a48f9617c17e80eed0ea3e7581ed3c62060eeb5afe3b448fde94f",
+      "alt": {
+        "ru": "Бакасана: 3D-персонаж в позе",
+        "en": "Crow Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/bakasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1952,
+      "sha256": "ec6938c4179ad86c02119748ab4a97bf0bd9704c641489a0bb5e34147b7b6b15",
+      "alt": {
+        "ru": "Бакасана: 3D-персонаж в позе",
+        "en": "Crow Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/bakasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3082,
+      "sha256": "411260d86951a1d53d4b335a6e42b96cfd3cc8a3b27bf8143374ff5ab0614a00",
+      "position": 0,
+      "meta": {
+        "t": 1.6
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/bakasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2922,
+      "sha256": "d3b4a7cac0cb8b7fb9c0cf230d5d55b423f5a467a905114d5d9a24717fdcac33",
+      "position": 1,
+      "meta": {
+        "t": 3.8
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/bakasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2976,
+      "sha256": "b161045951f77e3ffb64b6bab24d80f2ff3a1a5a5ee23aa67d926c3fa44b5f35",
+      "position": 2,
+      "meta": {
+        "t": 4.7
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/bakasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2958,
+      "sha256": "d409d2c19ee0c109aa1a358eecd8e12d634fd40abb49f1980b68b77a84c732b3",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/bakasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3006,
+      "sha256": "5640a556db0e45ac9e592fc4e3eb386f481812efba071953dc0b9d58fe403a11",
+      "position": 4,
+      "meta": {
+        "t": 9.6
+      }
+    }
+  ]
+}

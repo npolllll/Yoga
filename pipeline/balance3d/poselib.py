@@ -66,6 +66,31 @@ POSES: dict[str, dict] = {
 }
 
 
+POSES.update({
+    # Squat with knees and feet together (side-crow start).
+    "squat_tight": {
+        "extends": "squat",
+        "sym": {"hip.abd": 2, "hip.rot": 0, "hip.flex": 140, "knee.flex": 155, "ankle.flex": 5},
+    },
+    # Standing split lunge with palms on the floor (handstand entry), right leg standing.
+    "lunge_hands": {
+        "set": {"pelvis.pitch": 118, "spine.flex": 0, "neck.flex": -30},
+        "sym": {"shoulder.flex": 175, "wrist.ext": 85},
+        "R": {"hip.flex": 115, "knee.flex": 15, "ankle.flex": -10},
+        "L": {"hip.flex": 0, "knee.flex": 5, "ankle.flex": 30},
+    },
+    "handstand_straddle": {
+        "extends": "handstand",
+        "sym": {"hip.abd": 55, "ankle.flex": 45},
+    },
+    # Kneeling with forearms on the floor (exit to Child's Pose).
+    "kneel_forearms": {
+        "set": {"pelvis.pitch": 95, "spine.flex": 35, "neck.flex": 10},
+        "sym": {"hip.flex": 125, "knee.flex": 150, "ankle.flex": 60, "shoulder.flex": 150, "elbow.flex": 90, "wrist.ext": 0},
+    },
+})
+
+
 def _apply_sym(out: dict[str, float], values: dict[str, float], sides=("L", "R")):
     for k, v in values.items():
         joint, param = k.split(".")

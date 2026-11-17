@@ -1,0 +1,175 @@
+{
+  "slug": "adho-mukha-vrksasana",
+  "version": 2,
+  "view": {
+    "azimuth": 88,
+    "elevation": 6
+  },
+  "keys": [
+    {
+      "t": 0.0,
+      "pose": "stand_arms_up",
+      "support": [
+        "feet"
+      ]
+    },
+    {
+      "t": 0.6,
+      "support": [
+        "feet"
+      ]
+    },
+    {
+      "t": 1.8,
+      "pose": "lunge_hands",
+      "support": [
+        "foot_R",
+        "hands"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.pitch",
+          "hip_R.flex",
+          "knee_R.flex",
+          "shoulder_*.flex"
+        ],
+        "goals": [
+          {
+            "over": [
+              "shoulder_L",
+              "hand_L"
+            ],
+            "w": 0.3
+          },
+          {
+            "above": [
+              "chest",
+              0.45
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 2.8,
+      "pose": "handstand",
+      "set": {
+        "pelvis.pitch": 150,
+        "hip_L.flex": -15,
+        "hip_R.flex": 75,
+        "knee_R.flex": 40
+      },
+      "support": [
+        "hands"
+      ]
+    },
+    {
+      "t": 3.8,
+      "pose": "handstand",
+      "support": [
+        "hands"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.pitch",
+          "shoulder_*.flex"
+        ],
+        "balance": true,
+        "goals": [
+          {
+            "over": [
+              "shoulder_L",
+              "hand_L"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 7.0,
+      "support": [
+        "hands"
+      ]
+    },
+    {
+      "t": 8.1,
+      "pose": "handstand",
+      "set": {
+        "hip_L.flex": 115,
+        "knee_L.flex": 10,
+        "ankle_L.flex": -10
+      },
+      "support": [
+        "hands",
+        "foot_L"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.pitch",
+          "hip_L.flex",
+          "shoulder_*.flex"
+        ],
+        "goals": [
+          {
+            "over": [
+              "shoulder_L",
+              "hand_L"
+            ],
+            "w": 0.3
+          }
+        ]
+      }
+    },
+    {
+      "t": 9.0,
+      "pose": "lunge_hands",
+      "mirror": true,
+      "support": [
+        "foot_L",
+        "hands"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.pitch",
+          "hip_L.flex",
+          "knee_L.flex",
+          "shoulder_*.flex"
+        ],
+        "goals": [
+          {
+            "over": [
+              "shoulder_R",
+              "hand_R"
+            ],
+            "w": 0.3
+          },
+          {
+            "above": [
+              "chest",
+              0.45
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 10.0,
+      "pose": "stand_arms_up",
+      "support": [
+        "feet"
+      ]
+    }
+  ],
+  "keyframes": [
+    1.8,
+    2.8,
+    4.5,
+    6.0,
+    8.1
+  ],
+  "poster": 6.0,
+  "hold": [
+    4.5,
+    7.0
+  ]
+}

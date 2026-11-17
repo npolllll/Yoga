@@ -1,0 +1,237 @@
+{
+  "slug": "pincha-mayurasana",
+  "version": 2,
+  "view": {
+    "azimuth": 85,
+    "elevation": 6
+  },
+  "keys": [
+    {
+      "t": 0.0,
+      "pose": "dolphin",
+      "support": [
+        "forearms",
+        "feet"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.pitch",
+          "hip_*.flex",
+          "shoulder_*.flex",
+          "neck.flex"
+        ],
+        "goals": [
+          {
+            "above": [
+              "face",
+              0.08
+            ]
+          },
+          {
+            "over": [
+              "shoulder_L",
+              "elbow_L"
+            ],
+            "w": 0.3
+          }
+        ]
+      }
+    },
+    {
+      "t": 0.8,
+      "support": [
+        "forearms",
+        "feet"
+      ]
+    },
+    {
+      "t": 2.2,
+      "pose": "dolphin",
+      "set": {
+        "hip_R.flex": 15,
+        "knee_L.flex": 20
+      },
+      "support": [
+        "forearms",
+        "foot_L"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.pitch",
+          "hip_L.flex",
+          "shoulder_*.flex",
+          "neck.flex"
+        ],
+        "goals": [
+          {
+            "above": [
+              "face",
+              0.08
+            ]
+          },
+          {
+            "over": [
+              "shoulder_L",
+              "elbow_L"
+            ],
+            "w": 0.6
+          }
+        ]
+      }
+    },
+    {
+      "t": 3.6,
+      "pose": "forearm_stand",
+      "set": {
+        "hip_L.flex": 70,
+        "knee_L.flex": 70,
+        "pelvis.pitch": 165
+      },
+      "support": [
+        "forearms"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.pitch",
+          "shoulder_*.flex",
+          "neck.flex"
+        ],
+        "goals": [
+          {
+            "above": [
+              "face",
+              0.1
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 5.0,
+      "pose": "forearm_stand",
+      "support": [
+        "forearms"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.pitch",
+          "spine.flex",
+          "shoulder_*.flex",
+          "neck.flex"
+        ],
+        "balance": true,
+        "goals": [
+          {
+            "above": [
+              "face",
+              0.1
+            ]
+          },
+          {
+            "over": [
+              "shoulder_L",
+              "elbow_L"
+            ],
+            "w": 0.5
+          }
+        ]
+      }
+    },
+    {
+      "t": 8.0,
+      "support": [
+        "forearms"
+      ]
+    },
+    {
+      "t": 8.8,
+      "pose": "forearm_stand",
+      "set": {
+        "hip_L.flex": 120,
+        "knee_L.flex": 10,
+        "ankle_L.flex": -10,
+        "spine.flex": 0
+      },
+      "support": [
+        "forearms",
+        "foot_L"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.pitch",
+          "hip_L.flex",
+          "shoulder_*.flex",
+          "neck.flex"
+        ],
+        "goals": [
+          {
+            "above": [
+              "face",
+              0.08
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 9.5,
+      "pose": "dolphin",
+      "support": [
+        "forearms",
+        "feet"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.pitch",
+          "hip_*.flex",
+          "shoulder_*.flex",
+          "neck.flex"
+        ],
+        "goals": [
+          {
+            "above": [
+              "face",
+              0.08
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 10.0,
+      "pose": "kneel_forearms",
+      "support": [
+        "forearms",
+        "knees"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.pitch",
+          "hip_*.flex",
+          "shoulder_*.flex",
+          "spine.flex"
+        ],
+        "goals": [
+          {
+            "above": [
+              "face",
+              0.05
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "keyframes": [
+    0.8,
+    2.2,
+    3.6,
+    6.5,
+    8.8
+  ],
+  "poster": 6.5,
+  "hold": [
+    5.4,
+    8.0
+  ]
+}

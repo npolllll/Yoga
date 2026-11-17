@@ -102,12 +102,104 @@ def fit_key(params: dict[str, float], support: list[str], fits: list[dict], bala
     return best
 
 
+def _expand(patterns: list[str]) -> list[str]:
+    out = []
+    for p in patterns:
+        out.extend([p.replace("*", "L"), p.replace("*", "R")] if "*" in p else [p])
+    return list(dict.fromkeys(out))
+
+
+def _point(sk: rig.Skeleton, name: str):
+    if name in rig.CONTACT_POINTS:
+        return rig.contact_world(sk, name)
+    return sk.pos(name)
+
+
+def solve_objective(params, support, goals, balance, base, reg):
+    sk = rig.forward_kinematics(params)
+    cost = 0.0
+    zs = [rig.contact_world(sk, c).z for c in support]
+    plane = sum(zs) / len(zs) if zs else 0.0
+    if zs:
+        cost += sum((z - plane) ** 2 for z in zs) * 1e4
+        others = [n for n in rig.CONTACT_POINTS if n not in support and n not in ("crown",)]
+        for n in others:
+            dz = rig.contact_world(sk, n).z - plane
+            if dz < -0.01:
+                cost += (dz + 0.01) ** 2 * 3e3
+        if balance:
+            com = rig.center_of_mass(sk)
+            pts = [rig.contact_world(sk, c) for c in support]
+            cx, cy = sum(p.x for p in pts) / len(pts), sum(p.y for p in pts) / len(pts)
+            cost += ((com.x - cx) ** 2 + (com.y - cy) ** 2) * 3e3
+    for g in goals:
+        w = g.get("w", 1.0)
+        if "near" in g:
+            a, b = (_point(sk, n) for n in g["near"])
+            d = (a - b).length - g.get("d", 0.06)
+            cost += max(0.0, d) ** 2 * 2e3 * w
+        elif "height" in g:
+            name, h = g["height"]
+            cost += ((_point(sk, name).z - plane) - h) ** 2 * 2e3 * w
+        elif "above" in g:
+            name, h = g["above"]
+            dz = (_point(sk, name).z - plane) - h
+            cost += min(0.0, dz) ** 2 * 2e3 * w
+        elif "over" in g:
+            a, b = (_point(sk, n) for n in g["over"])
+            cost += ((a.x - b.x) ** 2 + (a.y - b.y) ** 2) * 2e3 * w
+        elif "comover" in g:
+            com = rig.center_of_mass(sk)
+            q = _point(sk, g["comover"])
+            cost += ((com.x - q.x) ** 2 + (com.y - q.y) ** 2) * 3e3 * w
+        elif "apart" in g:
+            a, b = (_point(sk, n) for n in g["apart"])
+            d = (a - b).length - g.get("d", 0.15)
+            cost += min(0.0, d) ** 2 * 2e3 * w
+    for k, v in params.items():
+        lim = rig.LIMITS.get(rig.limit_key(k))
+        if lim and not (lim[0] <= v <= lim[1]):
+            cost += (min(abs(v - lim[0]), abs(v - lim[1]))) ** 2 * 10
+    cost += reg * sum((params.get(k, 0.0) - base.get(k, 0.0)) ** 2 for k in params) / 100.0
+    return cost
+
+
+def solve_key(params: dict[str, float], support: list[str], spec: dict) -> dict[str, float]:
+    """Coordinate descent over `vary` parameters to satisfy goals (body-point relations), keep supports
+    level on the floor, avoid penetration and (optionally) keep the centre of mass over the base."""
+    names = _expand(spec.get("vary", []))
+    goals = spec.get("goals", [])
+    balance = bool(spec.get("balance"))
+    reg = spec.get("reg", 0.05)
+    base = dict(params)
+    best = dict(params)
+    for n in names:
+        best.setdefault(n, 0.0)
+    cur = solve_objective(best, support, goals, balance, base, reg)
+    for step in (16.0, 8.0, 4.0, 2.0, 1.0, 0.5):
+        improved = True
+        sweeps = 0
+        while improved and sweeps < 6:
+            improved = False
+            sweeps += 1
+            for n in names:
+                for sgn in (1, -1):
+                    trial = dict(best)
+                    trial[n] = best[n] + sgn * step
+                    c = solve_objective(trial, support, goals, balance, base, reg)
+                    if c < cur - 1e-9:
+                        best, cur = trial, c
+                        improved = True
+                        break
+    return best
+
+
 def build_keys(config: dict) -> tuple[list[Key], list[str]]:
     keys: list[Key] = []
     clamped_all: list[str] = []
     prev: dict[str, float] = {}
     for k in config["keys"]:
-        params = dict(prev)
+        params = {} if "pose" in k else dict(prev)
         if "pose" in k:
             params.update(resolve_pose(k["pose"]))
         params.update(k.get("set", {}))
@@ -115,6 +207,8 @@ def build_keys(config: dict) -> tuple[list[Key], list[str]]:
             params = mirror(params)
         if k.get("fit"):
             params = fit_key(params, rig.expand_contacts(k.get("support", [])), k["fit"], bool(k.get("balance")))
+        if k.get("solve"):
+            params = solve_key(params, rig.expand_contacts(k.get("support", [])), k["solve"])
         params, clamped = rig.clamp_params(params)
         clamped_all += [f"t={k['t']}: {c}" for c in clamped]
         keys.append(Key(float(k["t"]), params, rig.expand_contacts(k.get("support", [])), k.get("ease", "smooth")))
@@ -141,6 +235,22 @@ def mirror(params: dict[str, float]) -> dict[str, float]:
     return out
 
 
+FAMILY = {"hand": "hand", "fingers": "hand", "forearm": "forearm", "elbow": "forearm", "foot": "foot", "toes": "foot", "heel": "foot", "knee": "knee"}
+
+
+def _family(c: str) -> str:
+    base, _, side = c.partition("_")
+    return f"{FAMILY.get(base, base)}_{side}"
+
+
+def moving_support(a: list[str], b: list[str]) -> list[str]:
+    """Contacts held fixed while moving from key a to key b: those present in both (a foot rolling from toes
+    to sole counts as the same contact). Contacts only in a lift off at a; contacts only in b land at b."""
+    fam_b = {_family(c) for c in b}
+    held = [c for c in a if _family(c) in fam_b]
+    return held if held else a
+
+
 def interpolate(keys: list[Key], t: float) -> tuple[dict[str, float], list[str]]:
     for a, b in zip(keys, keys[1:]):
         if a.t <= t <= b.t:
@@ -149,7 +259,12 @@ def interpolate(keys: list[Key], t: float) -> tuple[dict[str, float], list[str]]
             w = smoother(x) if b.ease == "smooth" else x
             names = set(a.params) | set(b.params)
             params = {n: a.params.get(n, 0.0) * (1 - w) + b.params.get(n, 0.0) * w for n in names}
-            support = a.support if t < b.t else b.support
+            if t <= a.t + 1e-9:
+                support = a.support
+            elif t >= b.t - 1e-9 or x > 0.985:
+                support = b.support
+            else:
+                support = moving_support(a.support, b.support)
             return params, support
     return keys[-1].params, keys[-1].support
 

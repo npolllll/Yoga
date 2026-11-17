@@ -11,6 +11,9 @@ import { LevelBadge } from "@/components/ui/LevelBadge";
 import { RichText } from "@/components/ui/RichText";
 import { ContinueButton, ProgressBar, StepList, type StepRow } from "@/components/program/ProgramProgress";
 
+// Known slugs are prerendered at build time; slugs published later render on demand (allowed to block).
+export const instant = false;
+
 export async function generateStaticParams() {
   const programs = await getPrograms();
   return programs.length > 0 ? programs.map((p) => ({ slug: p.slug })) : [{ slug: "beginner" }];

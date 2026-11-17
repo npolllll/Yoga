@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import { isLocale, type Locale } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/dictionaries";
 import { getPage, getTaxonomy } from "@/lib/data/public";
+import type { PageDoc } from "@/lib/content/schema";
 import { t } from "@/lib/i18n/paths";
 import { fmt } from "@/lib/i18n/format";
 import { RichText } from "@/components/ui/RichText";
@@ -22,12 +23,16 @@ export async function contentMetadata(slug: string, locale: string): Promise<Met
 export async function ContentPage({ slug, locale: raw }: { slug: string; locale: string }) {
   if (!isLocale(raw)) notFound();
   const locale: Locale = raw;
-  const dict = getDictionary(locale);
   const [page, taxonomy] = await Promise.all([getPage(slug), getTaxonomy()]);
   if (!page) notFound();
   const d = page.doc;
   const contact = slug === "contact" ? { email: d.contact?.email ?? taxonomy.settings.contact.email, socials: [...(d.contact?.socials ?? []), ...taxonomy.settings.contact.socials] } : null;
+  return <ContentView doc={d} locale={locale} slug={slug} contact={contact} />;
+}
 
+export function ContentView({ doc: d, locale, slug, contact }: { doc: PageDoc; locale: Locale; slug: string; contact: { email: string | null; socials: { label: string; url: string }[] } | null }) {
+  const dict = getDictionary(locale);
+  void slug;
   return (
     <article className="mx-auto max-w-3xl px-4 pb-8 pt-10 sm:px-6 sm:pt-14">
       <header>
