@@ -178,8 +178,10 @@ for s in SIDES:
     )
 CONTACT_POINTS.update(
     {
-        "crown": ("head", (0.0, 0.0, 0.27)),          # top of the head
+        "crown": ("head", (0.0, 0.0, 0.285)),         # top of the head (hair surface, slightly compressed)
         "face": ("head", (0.0, -0.13, 0.11)),          # nose/forehead (penetration checks)
+        "bun": ("head", (0.0, 0.121, 0.258)),          # hair bun centre (radius below), top-back of the head
+        "head_back": ("head", (0.0, 0.15, 0.15)),       # back of the hair cap
         "chin": ("head", (0.0, -0.10, 0.04)),
         "upper_back": ("chest", (0.0, 0.07, 0.10)),     # shoulder blades (shoulder stand)
         "sit": ("pelvis", (0.0, 0.03, -0.11)),
@@ -187,7 +189,7 @@ CONTACT_POINTS.update(
 )
 # Radius of the body surface around each contact point (distance from the point to the floor).
 CONTACT_RADIUS = {"hand": 0.018, "fingers": 0.012, "forearm": 0.034, "elbow": 0.037, "foot": 0.0, "toes": 0.025,
-                  "heel": 0.0, "knee": 0.05, "crown": 0.0, "upper_back": 0.0, "sit": 0.0}
+                  "heel": 0.0, "knee": 0.05, "crown": 0.0, "upper_back": 0.0, "sit": 0.0, "bun": 0.046, "head": 0.0}
 
 # Named groups usable in pose files.
 CONTACT_GROUPS = {

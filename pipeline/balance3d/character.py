@@ -3,7 +3,7 @@ The BALANCE mascot: one stylised character reused in every scene.
 Built procedurally from smooth rigid parts attached to rig joints (no skin weights → no
 deformation artefacts in extreme poses such as handstands or binds).
 
-Look (inspired by Balance.pdf): soft matte 3D, brown hair in a high bun with face-framing strands,
+Look (inspired by Balance.pdf): soft matte 3D, brown hair in a top-back bun with face-framing strands,
 small gold hoop earrings, a beauty mark, half-closed calm eyes, dusty-mauve crop top and leggings.
 """
 from __future__ import annotations
@@ -13,7 +13,7 @@ import bmesh
 import bpy
 from mathutils import Matrix, Vector
 
-CHARACTER_VERSION = "1.1.0"  # 1.1: slimmer, flatter midriff
+CHARACTER_VERSION = "1.2.0"  # 1.1: slimmer, flatter midriff; 1.2: bun moved to the top-back so the crown can carry a headstand
 
 PALETTE = {
     "skin": (0.93, 0.70, 0.58),
@@ -187,8 +187,11 @@ def build_character() -> list[tuple[bpy.types.Object, str]]:
     add(ellipsoid("jaw", H + V((0, -0.035, -0.06)), (0.095, 0.08, 0.07), M["skin"]), "head")
     add(ellipsoid("hair_cap", H + V((0, 0.018, 0.022)), (0.137, 0.128, 0.138), M["hair"]), "head")
     add(ellipsoid("hair_fringe", H + V((0, -0.07, 0.085)), (0.118, 0.06, 0.055), M["hair"]), "head")
-    add(ellipsoid("bun", H + V((0, 0.045, 0.165)), (0.07, 0.065, 0.06), M["hair"]), "head")
-    add(torus("bun_wrap", H + V((0, 0.04, 0.115)), 0.045, 0.012, M["hair"]), "head")
+    # Bun on the top-back of the head (44° behind vertical): it still reads as a high bun in profile, but the
+    # crown stays the highest point for headstands and the back of the head stays flat for shoulder stands.
+    bun_tilt = Matrix.Rotation(math.radians(-44), 4, "X")
+    add(ellipsoid("bun", H + V((0, 0.121, 0.128)), (0.052, 0.046, 0.046), M["hair"], rot=bun_tilt), "head")
+    add(torus("bun_wrap", H + V((0, 0.096, 0.103)), 0.036, 0.011, M["hair"], rot=bun_tilt), "head")
     for s, sx in (("L", 1), ("R", -1)):
         add(capsule(f"strand_{s}", H + V((0.105 * sx, -0.06, 0.06)), H + V((0.112 * sx, -0.075, -0.07)), 0.014, 0.008, M["hair"]), "head")
         add(ellipsoid(f"ear_{s}", H + V((0.126 * sx, 0.005, -0.005)), (0.018, 0.026, 0.034), M["skin"]), "head")

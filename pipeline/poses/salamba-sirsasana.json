@@ -2,7 +2,7 @@
   "slug": "salamba-sirsasana",
   "version": 1,
   "view": {
-    "azimuth": 88,
+    "azimuth": 30,
     "elevation": 6
   },
   "keys": [
@@ -341,7 +341,7 @@
           {
             "above": [
               "toes_L",
-              0.08
+              0.14
             ]
           }
         ]
@@ -536,7 +536,7 @@
           {
             "above": [
               "toes_R",
-              0.08
+              0.14
             ]
           }
         ]

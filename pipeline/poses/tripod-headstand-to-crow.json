@@ -1,0 +1,445 @@
+{
+  "slug": "tripod-headstand-to-crow",
+  "version": 1,
+  "view": {
+    "azimuth": 88,
+    "elevation": 6
+  },
+  "keys": [
+    {
+      "t": 0.0,
+      "pose": "handstand",
+      "set": {
+        "pelvis.pitch": 168,
+        "neck.flex": -40,
+        "hip_L.flex": -12,
+        "hip_R.flex": -12,
+        "shoulder_L.flex": 110,
+        "shoulder_R.flex": 110,
+        "elbow_L.flex": 75,
+        "elbow_R.flex": 75,
+        "wrist_L.ext": 90,
+        "wrist_R.ext": 90,
+        "ankle_L.flex": 40,
+        "ankle_R.flex": 40
+      },
+      "support": [
+        "hands"
+      ],
+      "solve": {
+        "vary": [
+          "spine.flex",
+          "shoulder_*.flex",
+          "elbow_*.flex",
+          "neck.flex"
+        ],
+        "balance": true,
+        "reg": 0.2,
+        "goals": [
+          {
+            "height": [
+              "crown",
+              0.05
+            ],
+            "w": 3
+          },
+          {
+            "above": [
+              "face",
+              0.03
+            ]
+          },
+          {
+            "apart": [
+              "crown",
+              "hand_L"
+            ],
+            "d": 0.24
+          },
+          {
+            "apart": [
+              "crown",
+              "hand_R"
+            ],
+            "d": 0.24
+          },
+          {
+            "over": [
+              "elbow_L",
+              "wrist_L"
+            ]
+          },
+          {
+            "over": [
+              "elbow_R",
+              "wrist_R"
+            ]
+          },
+          {
+            "above": [
+              "fingers_L",
+              0.0
+            ]
+          },
+          {
+            "above": [
+              "fingers_R",
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 1.4,
+      "support": [
+        "hands"
+      ]
+    },
+    {
+      "t": 3.2,
+      "pose": "handstand",
+      "set": {
+        "pelvis.pitch": 168,
+        "neck.flex": -40,
+        "hip_L.flex": 130,
+        "hip_R.flex": 130,
+        "shoulder_L.flex": 110,
+        "shoulder_R.flex": 110,
+        "elbow_L.flex": 75,
+        "elbow_R.flex": 75,
+        "wrist_L.ext": 90,
+        "wrist_R.ext": 90,
+        "ankle_L.flex": 50,
+        "ankle_R.flex": 50,
+        "knee_L.flex": 150,
+        "knee_R.flex": 150
+      },
+      "support": [
+        "hands"
+      ],
+      "solve": {
+        "vary": [
+          "spine.flex",
+          "shoulder_*.flex",
+          "elbow_*.flex",
+          "neck.flex"
+        ],
+        "balance": true,
+        "reg": 0.2,
+        "goals": [
+          {
+            "height": [
+              "crown",
+              0.05
+            ],
+            "w": 3
+          },
+          {
+            "above": [
+              "face",
+              0.03
+            ]
+          },
+          {
+            "apart": [
+              "crown",
+              "hand_L"
+            ],
+            "d": 0.24
+          },
+          {
+            "apart": [
+              "crown",
+              "hand_R"
+            ],
+            "d": 0.24
+          },
+          {
+            "over": [
+              "elbow_L",
+              "wrist_L"
+            ]
+          },
+          {
+            "over": [
+              "elbow_R",
+              "wrist_R"
+            ]
+          },
+          {
+            "above": [
+              "fingers_L",
+              0.0
+            ]
+          },
+          {
+            "above": [
+              "fingers_R",
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 5.2,
+      "pose": "crow",
+      "set": {
+        "neck.flex": -40,
+        "pelvis.pitch": 85,
+        "elbow_L.flex": 95,
+        "elbow_R.flex": 95,
+        "ankle_L.flex": 40,
+        "ankle_R.flex": 40,
+        "hip_L.flex": 145,
+        "hip_R.flex": 145
+      },
+      "support": [
+        "hands"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.pitch",
+          "spine.flex",
+          "shoulder_*.flex",
+          "neck.flex",
+          "hip_*.flex",
+          "knee_*.flex"
+        ],
+        "reg": 0.1,
+        "goals": [
+          {
+            "height": [
+              "crown",
+              0.05
+            ],
+            "w": 3
+          },
+          {
+            "above": [
+              "face",
+              0.03
+            ]
+          },
+          {
+            "apart": [
+              "crown",
+              "hand_L"
+            ],
+            "d": 0.24
+          },
+          {
+            "apart": [
+              "crown",
+              "hand_R"
+            ],
+            "d": 0.24
+          },
+          {
+            "above": [
+              "face",
+              0.08
+            ]
+          },
+          {
+            "above": [
+              "chin",
+              0.08
+            ]
+          },
+          {
+            "near": [
+              "knee_L",
+              "elbow_L"
+            ],
+            "d": 0.09,
+            "w": 3
+          },
+          {
+            "near": [
+              "knee_R",
+              "elbow_R"
+            ],
+            "d": 0.09,
+            "w": 3
+          },
+          {
+            "above": [
+              "toes_L",
+              0.1
+            ]
+          },
+          {
+            "above": [
+              "toes_R",
+              0.1
+            ]
+          },
+          {
+            "over": [
+              "elbow_L",
+              "wrist_L"
+            ],
+            "w": 0.5
+          },
+          {
+            "over": [
+              "elbow_R",
+              "wrist_R"
+            ],
+            "w": 0.5
+          },
+          {
+            "above": [
+              "fingers_L",
+              0.0
+            ]
+          },
+          {
+            "above": [
+              "fingers_R",
+              0.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 5.9,
+      "support": [
+        "hands"
+      ]
+    },
+    {
+      "t": 6.9,
+      "pose": "crow",
+      "support": [
+        "hands"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.pitch",
+          "shoulder_*.flex",
+          "elbow_*.flex",
+          "wrist_*.ext",
+          "neck.flex"
+        ],
+        "balance": true,
+        "reg": 0.3,
+        "goals": [
+          {
+            "above": [
+              "fingers_L",
+              0.0
+            ]
+          },
+          {
+            "above": [
+              "fingers_R",
+              0.0
+            ]
+          },
+          {
+            "above": [
+              "toes_L",
+              0.08
+            ]
+          },
+          {
+            "above": [
+              "toes_R",
+              0.08
+            ]
+          },
+          {
+            "above": [
+              "face",
+              0.14
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 9.0,
+      "support": [
+        "hands"
+      ]
+    },
+    {
+      "t": 9.8,
+      "pose": "crow",
+      "set": {
+        "ankle_L.flex": 10,
+        "ankle_R.flex": 10
+      },
+      "support": [
+        "toes",
+        "hands"
+      ],
+      "solve": {
+        "vary": [
+          "pelvis.pitch",
+          "knee_*.flex",
+          "hip_*.flex",
+          "shoulder_*.flex",
+          "wrist_*.ext"
+        ],
+        "goals": [
+          {
+            "above": [
+              "fingers_L",
+              0.0
+            ]
+          },
+          {
+            "above": [
+              "fingers_R",
+              0.0
+            ]
+          },
+          {
+            "near": [
+              "knee_L",
+              "elbow_L"
+            ],
+            "d": 0.1
+          },
+          {
+            "near": [
+              "knee_R",
+              "elbow_R"
+            ],
+            "d": 0.1
+          },
+          {
+            "above": [
+              "face",
+              0.15
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 10.0,
+      "support": [
+        "toes",
+        "hands"
+      ]
+    }
+  ],
+  "keyframes": [
+    1.0,
+    3.2,
+    5.2,
+    6.5,
+    9.8
+  ],
+  "poster": 8.0,
+  "hold": [
+    7.2,
+    9.0
+  ]
+}

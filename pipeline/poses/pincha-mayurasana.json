@@ -18,7 +18,8 @@
           "pelvis.pitch",
           "hip_*.flex",
           "shoulder_*.flex",
-          "neck.flex"
+          "neck.flex",
+          "ankle_*.flex"
         ],
         "goals": [
           {
@@ -60,7 +61,8 @@
           "pelvis.pitch",
           "hip_L.flex",
           "shoulder_*.flex",
-          "neck.flex"
+          "neck.flex",
+          "ankle_L.flex"
         ],
         "goals": [
           {
@@ -75,6 +77,13 @@
               "elbow_L"
             ],
             "w": 0.6
+          },
+          {
+            "above": [
+              "toes_L",
+              0.0
+            ],
+            "w": 3
           }
         ]
       }
@@ -161,7 +170,8 @@
           "pelvis.pitch",
           "hip_L.flex",
           "shoulder_*.flex",
-          "neck.flex"
+          "neck.flex",
+          "ankle_L.flex"
         ],
         "goals": [
           {
@@ -169,6 +179,13 @@
               "face",
               0.08
             ]
+          },
+          {
+            "above": [
+              "toes_L",
+              0.0
+            ],
+            "w": 3
           }
         ]
       }
@@ -185,7 +202,8 @@
           "pelvis.pitch",
           "hip_*.flex",
           "shoulder_*.flex",
-          "neck.flex"
+          "neck.flex",
+          "ankle_*.flex"
         ],
         "goals": [
           {
@@ -199,24 +217,32 @@
     },
     {
       "t": 10.0,
-      "pose": "kneel_forearms",
+      "pose": "dolphin",
       "support": [
         "forearms",
-        "knees"
+        "feet"
       ],
       "solve": {
         "vary": [
           "pelvis.pitch",
           "hip_*.flex",
           "shoulder_*.flex",
-          "spine.flex"
+          "neck.flex",
+          "ankle_*.flex"
         ],
         "goals": [
           {
             "above": [
               "face",
-              0.05
+              0.08
             ]
+          },
+          {
+            "over": [
+              "shoulder_L",
+              "elbow_L"
+            ],
+            "w": 0.3
           }
         ]
       }

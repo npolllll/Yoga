@@ -36,14 +36,9 @@ config = json.load(open(os.path.join(HERE, "poses", f"{args.slug}.json")))
 out = os.path.join(HERE, "out", args.slug, args.quality)
 frames_dir = os.path.join(out, "frames")
 # Resume only frames rendered from the SAME config + character + pipeline code; otherwise start over.
-import hashlib  # noqa: E402
+from confighash import config_hash as _config_hash  # noqa: E402
 
-_h = hashlib.sha256(json.dumps(config, sort_keys=True).encode())
-_h.update(CHARACTER_VERSION.encode())
-for _f in sorted(os.listdir(os.path.join(HERE, "balance3d"))):
-    if _f.endswith(".py"):
-        _h.update(open(os.path.join(HERE, "balance3d", _f), "rb").read())
-config_hash = _h.hexdigest()[:16]
+config_hash = _config_hash(args.slug)
 hash_file = os.path.join(out, ".config-hash")
 if os.path.exists(out) and (not os.path.exists(hash_file) or open(hash_file).read().strip() != config_hash):
     shutil.rmtree(out)

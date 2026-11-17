@@ -48,3 +48,4 @@ next-env.d.ts
 /pipeline/cache/
 *.blend1
 /backups/
+__pycache__/
