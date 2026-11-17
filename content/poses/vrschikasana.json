@@ -1,0 +1,316 @@
+{
+  "slug": "vrschikasana",
+  "category": "forearm-balances",
+  "level": "expert",
+  "skills": [
+    "shoulder-mobility",
+    "flexibility",
+    "inversion"
+  ],
+  "sortWeight": 93,
+  "motion": {
+    "view": "side",
+    "contacts": [
+      "forearms"
+    ],
+    "entry": "0-2s already in Pincha Mayurasana: forearms parallel and shoulder-width, palms flat, body vertical, head lifted; 2-4s head and chest lift and move forward so the shoulders travel slightly ahead of the elbows, knees bend and stay close together.",
+    "hold": "4-6s spine arches progressively through the upper back while the feet lower slowly toward the head; 6-8s hold: deep backbend, knees bent, soles facing up, heels near or touching the crown of the head, chest forward, head lifted, gaze forward, forearms pressing down (poster frame).",
+    "exit": "8-10s feet rise back to the vertical forearm stand, legs lower to the mat one at a time, knees down into Child's Pose."
+  },
+  "doc": {
+    "name": {
+      "ru": "Скорпион на предплечьях",
+      "en": "Forearm Scorpion Pose"
+    },
+    "subtitle": {
+      "ru": "Вришчикасана",
+      "en": "Vrschikasana"
+    },
+    "sanskrit": "Vrschikasana",
+    "altNames": [
+      "Вришчикасана",
+      "Vrschikasana",
+      "Vrischikasana",
+      "Vṛścikāsana",
+      "Vrschikasana I",
+      "Скорпион",
+      "Scorpion Pose",
+      "Forearm Scorpion"
+    ],
+    "summary": {
+      "ru": "Баланс на предплечьях с глубоким прогибом: колени согнуты, стопы опускаются к голове, грудь подана вперёд, голова приподнята.",
+      "en": "A forearm balance with a deep backbend: the knees bend, the feet lower toward the head, the chest moves forward and the head lifts."
+    },
+    "about": {
+      "ru": "Баланс на предплечьях с глубоким прогибом назад. Из стойки на предплечьях колени сгибаются, спина прогибается, грудь подаётся вперёд, а стопы опускаются к голове; в полной форме пятки касаются макушки. Здесь показан вариант на предплечьях (Вришчикасана I по классификации Айенгара); вариант на ладонях описан отдельно. Поза сочетает перевёрнутое положение, баланс и глубокий прогиб и требует очень подвижных плеч и грудного отдела, поэтому это поза экспертного уровня. Её осваивают с преподавателем после устойчивой стойки на предплечьях.",
+      "en": "A forearm balance with a deep backbend. From the forearm stand, the knees bend, the spine arches, the chest moves forward and the feet lower toward the head; in the full form the heels touch the crown. This card shows the forearm form (Vrschikasana I in Iyengar’s system); the version on the hands is described separately. It combines an inversion, a balance and a deep backbend and calls for very mobile shoulders and upper back, which makes it an expert-level pose. It is learned with a teacher after a steady forearm stand."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно держите Пинча Маюрасану без стены 5–10 вдохов.",
+        "en": "You can hold Pincha Mayurasana away from the wall for 5–10 breaths."
+      },
+      {
+        "ru": "Спокойно выполняете глубокие прогибы, например Урдхва Дханурасану (полный мост), без боли в пояснице.",
+        "en": "You can do deep backbends such as Wheel Pose (Urdhva Dhanurasana) comfortably, without lower-back pain."
+      },
+      {
+        "ru": "Умеете спокойно выходить из стойки на предплечьях, если теряете равновесие.",
+        "en": "You know how to come out of the forearm stand calmly if you lose balance."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "При проблемах или травмах шеи, плеч или поясницы, повышенном давлении, глаукоме или других заболеваниях глаз, а также при беременности обсудите позу со специалистом до начала практики.",
+        "en": "If you have neck, shoulder or lower-back problems or injuries, high blood pressure, glaucoma or another eye condition, or are pregnant, discuss the pose with a qualified healthcare professional before you practice it."
+      },
+      {
+        "ru": "Некоторые преподаватели советуют не выполнять перевёрнутые позы во время менструации. Ориентируйтесь на самочувствие и рекомендации своего преподавателя.",
+        "en": "Some teachers advise avoiding inversions during menstruation. Go by how you feel and your teacher’s guidance."
+      },
+      {
+        "ru": "Осваивайте позу с квалифицированным преподавателем. Сначала опускайте стопы к стене, а не в свободное пространство.",
+        "en": "Learn the pose with a qualified teacher. At first, lower your feet toward a wall rather than into open space."
+      },
+      {
+        "ru": "Опускайте стопы медленно и только в комфортной амплитуде. При боли в пояснице, шее или плечах вернитесь в стойку на предплечьях или опуститесь на коврик.",
+        "en": "Lower your feet slowly and only within a comfortable range. If you feel pain in your lower back, neck or shoulders, return to the forearm stand or come down to the mat."
+      }
+    ],
+    "steps": [
+      {
+        "key": "f3e88684-052e-4e54-ab51-8bbd6fe83005",
+        "title": {
+          "ru": "Выйдите в стойку на предплечьях",
+          "en": "Come into the forearm stand"
+        },
+        "body": {
+          "ru": "Поставьте предплечья параллельно на ширине плеч и выйдите в Пинча Маюрасану. Найдите устойчивый баланс.",
+          "en": "Place your forearms parallel and shoulder-width apart and come into Pincha Mayurasana. Find a steady balance."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "7065eddc-e32b-469f-9744-f2e0165d76d4",
+        "title": {
+          "ru": "Приподнимите голову",
+          "en": "Lift your head"
+        },
+        "body": {
+          "ru": "Надавите предплечьями в пол, поднимите голову и грудь и смотрите вперёд.",
+          "en": "Press your forearms into the floor, lift your head and chest and look forward."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "a5ed6a1e-f75f-4958-8114-ca7c3186096d",
+        "title": {
+          "ru": "Согните колени",
+          "en": "Bend your knees"
+        },
+        "body": {
+          "ru": "На выдохе согните колени, держа их близко друг к другу, и начните прогибаться в грудном отделе.",
+          "en": "As you exhale, bend your knees, keeping them close together, and begin to arch through your upper back."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "59f57e18-49fd-413c-bb8d-7e05e4cec56c",
+        "title": {
+          "ru": "Опустите стопы к голове",
+          "en": "Lower your feet toward your head"
+        },
+        "body": {
+          "ru": "Подавайте грудь вперёд, а стопы медленно опускайте к голове. В полной форме пятки касаются макушки. Дышите ровно.",
+          "en": "Move your chest forward as your feet slowly lower toward your head. In the full form, your heels touch the crown of your head. Breathe evenly."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "f9f0497e-6edb-4a36-bae5-88df09e196a6",
+        "title": {
+          "ru": "Удерживайте позу",
+          "en": "Hold the pose"
+        },
+        "body": {
+          "ru": "Задержитесь на несколько вдохов, распределяя прогиб по всей спине. Не сжимайте поясницу.",
+          "en": "Stay for a few breaths, spreading the backbend along your whole spine. Don’t crunch your lower back."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "38d6887e-0c1a-479d-ba8f-10308600dcc8",
+        "title": {
+          "ru": "Выйдите из позы",
+          "en": "Come out"
+        },
+        "body": {
+          "ru": "Медленно поднимите стопы обратно в стойку на предплечьях, затем опустите ноги на коврик по очереди. Отдохните в позе ребёнка.",
+          "en": "Slowly lift your feet back up into the forearm stand, then lower your legs to the mat one at a time. Rest in Child’s Pose."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "serratus"
+      },
+      {
+        "key": "upper-back"
+      },
+      {
+        "key": "lower-back"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "hip-flexors"
+      }
+    ],
+    "anatomy": {
+      "ru": "Плечевой пояс и передняя зубчатая мышца держат опору на предплечьях. Мышцы спины формируют прогиб, а мышцы живота контролируют, насколько быстро опускаются стопы. Сгибатели бедра и передняя поверхность тела растягиваются.",
+      "en": "Your shoulder girdle and serratus anterior hold the forearm base. Your back muscles create the arch, while your abdominal muscles control how quickly your feet lower. Your hip flexors and the front of your body stretch."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "bridge-pose",
+        "title": {
+          "ru": "Мост на лопатках",
+          "en": "Bridge Pose"
+        },
+        "body": {
+          "ru": "Мягко раскрывает плечи и переднюю поверхность тела для прогиба.",
+          "en": "Gently opens your shoulders and the front of your body for the backbend."
+        }
+      },
+      {
+        "exerciseSlug": "dolphin-push-ups",
+        "title": {
+          "ru": "Отжимания в дельфине",
+          "en": "Dolphin push-ups"
+        },
+        "body": {
+          "ru": "Укрепляют плечи, чтобы удерживать опору, когда грудь подаётся вперёд.",
+          "en": "Strengthen your shoulders to hold the base as your chest moves forward."
+        }
+      },
+      {
+        "title": {
+          "ru": "Скорпион у стены",
+          "en": "Scorpion at the wall"
+        },
+        "body": {
+          "ru": "Поставьте предплечья дальше от стены, чем обычно, выйдите в стойку, поставьте стопы на стену и понемногу опускайте их вниз, сгибая колени.",
+          "en": "Set your forearms farther from the wall than usual, come up, place your feet on the wall and walk them down a little at a time, bending your knees."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Прогиб только в пояснице",
+          "en": "Bending only in the lower back"
+        },
+        "why": {
+          "ru": "Поясница сжимается, а грудной отдел и плечи почти не участвуют.",
+          "en": "Your lower back gets compressed while your upper back and shoulders barely take part."
+        },
+        "fix": {
+          "ru": "Подавайте грудь вперёд и прогибайтесь в грудном отделе; работайте в меньшей амплитуде.",
+          "en": "Move your chest forward and arch through your upper back; work in a smaller range."
+        }
+      },
+      {
+        "title": {
+          "ru": "Голова опускается",
+          "en": "Dropping the head"
+        },
+        "why": {
+          "ru": "Без подъёма груди и головы у стоп нет противовеса, и вы теряете равновесие.",
+          "en": "Without a lifted chest and head, your feet have no counterbalance and you lose balance."
+        },
+        "fix": {
+          "ru": "Давите предплечьями в пол, поднимайте голову и смотрите вперёд.",
+          "en": "Press your forearms down, lift your head and look forward."
+        }
+      },
+      {
+        "title": {
+          "ru": "Стопы падают вниз",
+          "en": "Letting the feet drop"
+        },
+        "why": {
+          "ru": "Резкое опускание смещает вес рывком и перегружает поясницу.",
+          "en": "A sudden drop shifts your weight abruptly and overloads your lower back."
+        },
+        "fix": {
+          "ru": "Опускайте стопы медленно, на выдохе, и сначала — к стене.",
+          "en": "Lower your feet slowly as you exhale, and at first toward a wall."
+        }
+      }
+    ],
+    "easier": [
+      "pincha-mayurasana"
+    ],
+    "harder": [
+      "handstand-scorpion"
+    ],
+    "related": [
+      "salamba-sirsasana",
+      "adho-mukha-vrksasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Стойка на предплечьях",
+          "en": "Forearm stand"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Голова и грудь поднимаются, колени сгибаются",
+          "en": "Head and chest lift, knees bend"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Стопы опускаются к голове",
+          "en": "Feet lower toward the head"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: глубокий прогиб, пятки у макушки",
+          "en": "Hold: deep backbend, heels near the crown"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Стопы вверх, ноги по очереди на коврик",
+          "en": "Feet rise, legs down one at a time"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Vrschikasana I",
+        "note": "Classical description of the forearm scorpion; the wall stage is a common teaching progression."
+      }
+    ]
+  }
+}

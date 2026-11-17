@@ -1,0 +1,305 @@
+{
+  "slug": "pincha-mayurasana",
+  "category": "forearm-balances",
+  "level": "advanced",
+  "skills": [
+    "shoulder-mobility",
+    "arm-strength",
+    "inversion"
+  ],
+  "sortWeight": 72,
+  "motion": {
+    "view": "side",
+    "contacts": [
+      "forearms"
+    ],
+    "entry": "0-2s Dolphin setup: forearms parallel and shoulder-width with palms flat, hips lifted, head off the mat; 2-4s feet walk toward the elbows until the shoulders stack over them, one straight leg lifts high, the other knee bends.",
+    "hold": "4-6s light controlled hop off the bent leg, the second leg joins the first overhead; 6-8s hold: forearms parallel, shoulders over elbows, body in one vertical line with ribs drawn in and legs together, toes pointed, head lifted off the mat, gaze between the hands (poster frame).",
+    "exit": "8-10s one leg lowers to the mat, then the other, knees down into Child's Pose."
+  },
+  "doc": {
+    "name": {
+      "ru": "Стойка на предплечьях",
+      "en": "Forearm Stand"
+    },
+    "subtitle": {
+      "ru": "Пинча Маюрасана",
+      "en": "Pincha Mayurasana"
+    },
+    "sanskrit": "Pincha Mayurasana",
+    "altNames": [
+      "Пинча Маюрасана",
+      "Pincha Mayurasana",
+      "Piñcha Mayūrāsana",
+      "Павлинье перо",
+      "Feathered Peacock Pose",
+      "Forearm Balance",
+      "Стойка на локтях"
+    ],
+    "summary": {
+      "ru": "Стойка на предплечьях: предплечья параллельны, плечи над локтями, голова приподнята над ковриком, тело вытянуто вверх.",
+      "en": "A forearm balance: the forearms are parallel, the shoulders stack over the elbows, the head lifts off the mat and the body reaches straight up."
+    },
+    "about": {
+      "ru": "Стойка на предплечьях. Предплечья и ладони параллельны и стоят на ширине плеч, плечи находятся над локтями, голова приподнята и не касается коврика, а корпус и ноги выстроены вертикально. Здесь показан классический вариант с параллельными предплечьями и входом через лёгкий мах одной ногой; начинайте у стены. Поза требует подвижных и сильных плеч, контроля корпуса и умения спокойно выходить из стойки, поэтому её осваивают после Дельфина и стойки на голове.",
+      "en": "A forearm balance. The forearms and palms are parallel and shoulder-width apart, the shoulders stack over the elbows, the head lifts and does not touch the mat, and the torso and legs line up vertically. This card shows the classic parallel-forearm form with a light single-leg kick-up entry; start at a wall. It calls for mobile, strong shoulders, core control and the ability to come out of the balance calmly, which is why it is learned after Dolphin Pose and the headstand."
+    },
+    "prerequisites": [
+      {
+        "ru": "Держите Дельфина 60 секунд, сохраняя предплечья параллельными.",
+        "en": "You can hold Dolphin Pose for 60 seconds with your forearms parallel."
+      },
+      {
+        "ru": "Уверенно держите Саламба Ширшасану у стены.",
+        "en": "You can hold Salamba Sirsasana steadily at a wall."
+      },
+      {
+        "ru": "Умеете подниматься махом одной ногой у стены и мягко опускаться обратно.",
+        "en": "You can kick up at a wall with one leg and lower back down softly."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "При проблемах или травмах шеи и плеч, повышенном давлении, глаукоме или других заболеваниях глаз, а также при беременности обсудите перевёрнутые позы со специалистом до начала практики.",
+        "en": "If you have neck or shoulder problems or injuries, high blood pressure, glaucoma or another eye condition, or are pregnant, discuss inversions with a qualified healthcare professional before you practice them."
+      },
+      {
+        "ru": "Некоторые преподаватели советуют не выполнять перевёрнутые позы во время менструации. Ориентируйтесь на самочувствие и рекомендации своего преподавателя.",
+        "en": "Some teachers advise avoiding inversions during menstruation. Go by how you feel and your teacher’s guidance."
+      },
+      {
+        "ru": "Осваивайте позу с квалифицированным преподавателем и у стены. Освободите место вокруг себя.",
+        "en": "Learn the pose with a qualified teacher and at a wall. Clear the space around you."
+      },
+      {
+        "ru": "Не махайте ногами с силой. При боли в плечах, шее или пояснице опуститесь на коврик.",
+        "en": "Do not kick hard. If you feel pain in your shoulders, neck or lower back, come down to the mat."
+      }
+    ],
+    "steps": [
+      {
+        "key": "3f096c83-c3dd-4767-81bd-46e8e146659e",
+        "title": {
+          "ru": "Поставьте предплечья",
+          "en": "Set your forearms"
+        },
+        "body": {
+          "ru": "Встаньте на колени лицом к стене. Поставьте предплечья параллельно на ширине плеч, кончики пальцев — примерно в ладони от стены, ладони прижаты к полу.",
+          "en": "Kneel facing the wall. Place your forearms parallel and shoulder-width apart, fingertips about a hand’s width from the wall, palms pressed into the floor."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "bf2867a2-a1e0-441c-96c4-254b01f67a13",
+        "title": {
+          "ru": "Поднимите таз",
+          "en": "Lift your hips"
+        },
+        "body": {
+          "ru": "Поднимите колени и таз, как в Дельфине. Подойдите стопами ближе к локтям, чтобы плечи оказались над ними. Приподнимите голову и смотрите между ладонями.",
+          "en": "Lift your knees and hips as in Dolphin Pose. Walk your feet toward your elbows so your shoulders come over them. Lift your head and look between your hands."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "1975834f-ab7c-47c8-9b14-34f80203157e",
+        "title": {
+          "ru": "Поднимите одну ногу",
+          "en": "Raise one leg"
+        },
+        "body": {
+          "ru": "Поднимите одну прямую ногу вверх, а другую согните. Надавите предплечьями в пол.",
+          "en": "Lift one straight leg up and bend the other knee. Press your forearms into the floor."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "68cf1b64-20d9-4ff0-a893-66ed221c047d",
+        "title": {
+          "ru": "Выйдите в стойку",
+          "en": "Come up"
+        },
+        "body": {
+          "ru": "Оттолкнитесь согнутой ногой лёгким контролируемым махом и приставьте вторую ногу к первой. У стены пятки мягко касаются её. Соберите рёбра, вытяните ноги вверх и дышите ровно. Голова приподнята, взгляд между ладонями.",
+          "en": "Push off the bent leg with a light, controlled hop and bring the other leg to meet the first. At the wall, let your heels touch it softly. Draw your ribs in, reach your legs up and breathe evenly. Keep your head lifted and your gaze between your hands."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "d147fae5-f868-49a9-baea-bac8cc2cf14f",
+        "title": {
+          "ru": "Вернитесь на коврик",
+          "en": "Come down"
+        },
+        "body": {
+          "ru": "Опустите ноги на коврик по очереди и отдохните в позе ребёнка. В следующий раз начните с другой ноги.",
+          "en": "Lower your legs to the mat one at a time and rest in Child’s Pose. Next time, start with the other leg."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "serratus"
+      },
+      {
+        "key": "upper-back"
+      },
+      {
+        "key": "lats"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "wrists-forearms"
+      }
+    ],
+    "anatomy": {
+      "ru": "Дельтовидные мышцы, передняя зубчатая мышца и мышцы верхней части спины удерживают плечи над локтями. Широчайшие мышцы и предплечья стабилизируют опору. Мышцы живота не дают пояснице прогибаться.",
+      "en": "Your deltoids, serratus anterior and upper-back muscles hold your shoulders over your elbows. Your lats and forearms stabilize the base. Your abdominal muscles keep your lower back from arching."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "dolphin-push-ups",
+        "title": {
+          "ru": "Отжимания в дельфине",
+          "en": "Dolphin push-ups"
+        },
+        "body": {
+          "ru": "Укрепляют плечи и учат выводить их над локтями.",
+          "en": "Strengthen your shoulders and teach you to bring them over your elbows."
+        }
+      },
+      {
+        "exerciseSlug": "forearm-plank",
+        "title": {
+          "ru": "Планка на предплечьях",
+          "en": "Forearm plank"
+        },
+        "body": {
+          "ru": "Укрепляет корпус и плечевой пояс в постановке на предплечьях.",
+          "en": "Strengthens your core and shoulder girdle in the forearm position."
+        }
+      },
+      {
+        "exerciseSlug": "handstand-kick-ups",
+        "title": {
+          "ru": "Махи в стойку у стены",
+          "en": "Kick-ups at the wall"
+        },
+        "body": {
+          "ru": "Отрабатывают мягкий контролируемый мах одной ногой и спокойное приземление.",
+          "en": "Practice a soft, controlled single-leg kick-up and a calm landing."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Кисти сходятся, локти разъезжаются",
+          "en": "Hands drifting in, elbows sliding out"
+        },
+        "why": {
+          "ru": "Основание разрушается, и плечи проваливаются.",
+          "en": "The base collapses and your shoulders sink."
+        },
+        "fix": {
+          "ru": "Поставьте блок между ладонями и наденьте ремень чуть выше локтей.",
+          "en": "Place a block between your hands and loop a strap just above your elbows."
+        }
+      },
+      {
+        "title": {
+          "ru": "Прогиб в пояснице",
+          "en": "Arching the lower back"
+        },
+        "why": {
+          "ru": "Ноги уходят за голову, и нагрузка смещается в поясницу.",
+          "en": "Your legs drift past your head and the load shifts into your lower back."
+        },
+        "fix": {
+          "ru": "Соберите рёбра, направьте копчик к пяткам и напрягите ноги.",
+          "en": "Draw your ribs in, point your tailbone toward your heels and engage your legs."
+        }
+      },
+      {
+        "title": {
+          "ru": "Плечи не над локтями",
+          "en": "Shoulders not stacked over the elbows"
+        },
+        "why": {
+          "ru": "Голова опускается к коврику, и равновесие теряется.",
+          "en": "Your head drops toward the mat and you lose balance."
+        },
+        "fix": {
+          "ru": "Давите предплечьями в пол, держите плечи над локтями, а голову — приподнятой.",
+          "en": "Press your forearms down, keep your shoulders over your elbows and your head lifted."
+        }
+      }
+    ],
+    "easier": [
+      "ardha-pincha-mayurasana",
+      "salamba-sirsasana"
+    ],
+    "harder": [
+      "vrschikasana"
+    ],
+    "related": [
+      "adho-mukha-vrksasana",
+      "l-handstand"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Предплечья параллельны, таз поднят",
+          "en": "Forearms parallel, hips lifted"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Стопы ближе к локтям, одна нога поднимается",
+          "en": "Feet walk in, one leg rises"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Лёгкий мах, ноги соединяются вверху",
+          "en": "Light hop, legs meet overhead"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: плечи над локтями, голова приподнята",
+          "en": "Hold: shoulders over elbows, head lifted"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Ноги по очереди вниз, поза ребёнка",
+          "en": "Legs down one at a time, Child’s Pose"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Pincha Mayurasana",
+        "note": "Classical description of the pose; the wall and the single-leg kick-up are common teaching aids."
+      }
+    ]
+  }
+}

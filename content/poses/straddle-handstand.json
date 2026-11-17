@@ -1,0 +1,298 @@
+{
+  "slug": "straddle-handstand",
+  "category": "handstands",
+  "level": "advanced",
+  "skills": [
+    "arm-strength",
+    "flexibility",
+    "inversion"
+  ],
+  "sortWeight": 67,
+  "motion": {
+    "view": "three-quarter",
+    "contacts": [
+      "hands"
+    ],
+    "entry": "0-2s lunge, palms shoulder-width on the mat, back leg straight; 2-4s soft kick up to a straight handstand, hips over shoulders, legs together.",
+    "hold": "4-6s straight legs open slowly and evenly to the sides into a wide straddle; 6-8s hold: arms straight, shoulders elevated over the wrists, hips over the shoulders, legs straight in the same plane as the torso and level with each other, toes pointed, ribs drawn in, gaze between the hands (poster frame).",
+    "exit": "8-10s legs close together, then one foot steps down to the mat after the other."
+  },
+  "doc": {
+    "name": {
+      "ru": "Стойка на руках ноги врозь",
+      "en": "Straddle Handstand"
+    },
+    "subtitle": {
+      "ru": "Вариант стойки на руках",
+      "en": "Handstand variation"
+    },
+    "sanskrit": "",
+    "altNames": [
+      "Стойка ноги врозь",
+      "Стойка на руках с разведёнными ногами",
+      "Стойка врозь",
+      "Straddle handstand",
+      "Straddle"
+    ],
+    "summary": {
+      "ru": "Стойка на прямых руках, в которой прямые ноги широко разведены в стороны, а бёдра выстроены над плечами.",
+      "en": "A straight-arm handstand with straight legs opened wide to the sides and the hips stacked over the shoulders."
+    },
+    "about": {
+      "ru": "Вариант стойки на руках, в котором ноги разведены в стороны буквой V. Руки прямые, бёдра над плечами, ноги прямые и раскрыты симметрично. Раскрытые ноги немного опускают центр тяжести и учат тонко управлять балансом, а сама форма готовит к выходам в стойку силой. Нужны сила рук и плеч, гибкость задней и внутренней поверхности бёдер и уверенная стойка, поэтому поза относится к продвинутому уровню. Осваивайте её у стены или со страхующим.",
+      "en": "A handstand variation with the legs opened to the sides in a V. Your arms are straight, your hips are over your shoulders, and your straight legs open evenly. Opening the legs lowers your center of mass slightly and teaches you to fine-tune the balance; the shape also prepares you for pressing into a handstand. It asks for arm and shoulder strength, flexible hamstrings and inner thighs, and a steady handstand, which is why it is rated advanced. Learn it at the wall or with a spotter."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно держите стойку на руках у стены 30–60 секунд и умеете выходить из неё колесом.",
+        "en": "You can hold a handstand at the wall for 30–60 seconds and know how to cartwheel out."
+      },
+      {
+        "ru": "В широком наклоне стоя с прямыми ногами свободно кладёте ладони на коврик.",
+        "en": "In a wide-legged standing forward fold with straight legs, you can rest your palms on the mat comfortably."
+      },
+      {
+        "ru": "Держите «лодочку» на спине 30 секунд с прижатой к коврику поясницей.",
+        "en": "You can hold a hollow body hold for 30 seconds with your lower back on the mat."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Начинайте у стены: в стойке спиной к стене разводите ноги, скользя пятками по стене. Страхующий стоит сбоку и поддерживает вас за таз.",
+        "en": "Start at the wall: in a back-to-wall handstand, open your legs by sliding your heels along the wall. A spotter stands to the side and supports your hips."
+      },
+      {
+        "ru": "Разводите ноги медленно и симметрично: резкое раскрытие сбивает баланс и перегружает внутреннюю поверхность бёдер.",
+        "en": "Open your legs slowly and evenly: a sudden opening throws off your balance and overloads your inner thighs."
+      },
+      {
+        "ru": "Разомните запястья. При боли в запястьях, плечах, пояснице или паху прекратите попытку.",
+        "en": "Warm up your wrists. Stop if you feel pain in your wrists, shoulders, lower back or groin."
+      },
+      {
+        "ru": "При повышенном давлении, глаукоме, беременности или недавней травме сначала обсудите перевёрнутые позы со специалистом.",
+        "en": "If you have high blood pressure, glaucoma, are pregnant or have a recent injury, discuss inversions with a qualified healthcare professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "c6dfe17b-ee31-429e-9f32-b2543b0a6e5f",
+        "title": {
+          "ru": "Поставьте ладони",
+          "en": "Set your hands"
+        },
+        "body": {
+          "ru": "Из выпада поставьте ладони на ширине плеч и раскройте пальцы. Задняя нога прямая.",
+          "en": "From a lunge, place your palms shoulder-width apart and spread your fingers. Keep your back leg straight."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "0c8a2d35-c1da-4ed2-94f3-9493c48e36ed",
+        "title": {
+          "ru": "Выйдите в стойку",
+          "en": "Kick up"
+        },
+        "body": {
+          "ru": "Мягким махом выйдите в прямую стойку и соедините ноги над бёдрами.",
+          "en": "Kick up softly into a straight handstand and bring your legs together above your hips."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "a02d1975-7039-4178-a7c8-21fd3f38570f",
+        "title": {
+          "ru": "Раскройте ноги",
+          "en": "Open the legs"
+        },
+        "body": {
+          "ru": "Медленно разведите прямые ноги в стороны на одинаковое расстояние. Колени прямые, носки вытянуты.",
+          "en": "Slowly open your straight legs to the sides, the same distance on each side. Keep your knees straight and your toes pointed."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "2db9100e-c327-4689-adb0-3de843f17068",
+        "title": {
+          "ru": "Держите линию",
+          "en": "Hold the line"
+        },
+        "body": {
+          "ru": "Бёдра остаются над плечами, плечи тянутся к ушам, рёбра втянуты. Смотрите между ладонями, дышите ровно и корректируйте баланс пальцами.",
+          "en": "Keep your hips over your shoulders, your shoulders reaching toward your ears and your ribs drawn in. Look between your hands, breathe steadily and adjust with your fingers."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "5de18cd9-b6f0-4732-855b-408b4b21a133",
+        "title": {
+          "ru": "Спуститесь",
+          "en": "Come down"
+        },
+        "body": {
+          "ru": "Соедините ноги, затем опустите на коврик одну стопу и вторую. При перевесе выйдите в сторону, как в колесе.",
+          "en": "Bring your legs together, then lower one foot to the mat and then the other. If you overbalance, cartwheel out to the side."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "adductors"
+      },
+      {
+        "key": "hamstrings"
+      }
+    ],
+    "anatomy": {
+      "ru": "Кисти и предплечья ведут баланс, а плечевой пояс и трицепсы держат прямые руки. Мышцы живота сохраняют корпус ровным. Приводящие мышцы и задняя поверхность бёдер растягиваются и одновременно контролируют, насколько широко раскрываются ноги.",
+      "en": "Your hands and forearms steer the balance while your shoulder girdle and triceps keep your arms straight. Your abdominal muscles keep your torso even. Your inner thighs and hamstrings lengthen while controlling how wide your legs open."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "handstand-kick-ups",
+        "title": {
+          "ru": "Махи в стойку у стены",
+          "en": "Handstand Kick-Ups at the Wall"
+        },
+        "body": {
+          "ru": "Отработайте мягкий вход, затем разводите ноги, скользя пятками по стене.",
+          "en": "Practice a soft entry, then open your legs by sliding your heels along the wall."
+        }
+      },
+      {
+        "exerciseSlug": "forward-fold",
+        "title": {
+          "ru": "Наклон вперёд стоя",
+          "en": "Standing Forward Fold"
+        },
+        "body": {
+          "ru": "Выполняйте наклон и в широкой стойке, чтобы мягко растянуть заднюю и внутреннюю поверхность бёдер.",
+          "en": "Also practice it with your feet wide apart to gently lengthen your hamstrings and inner thighs."
+        }
+      },
+      {
+        "exerciseSlug": "hollow-body-hold",
+        "title": {
+          "ru": "«Лодочка» на спине",
+          "en": "Hollow Body Hold"
+        },
+        "body": {
+          "ru": "Учит удерживать рёбра и таз в одной линии.",
+          "en": "Teaches you to keep your ribs and pelvis in one line."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Ноги уходят вперёд",
+          "en": "Legs drifting forward"
+        },
+        "why": {
+          "ru": "Ноги смещаются в сторону живота, таз уходит с вертикали, и вас тянет обратно к месту входа.",
+          "en": "Your legs drift toward your belly side, your pelvis leaves the vertical and you start falling back toward where you started."
+        },
+        "fix": {
+          "ru": "Разводите ноги строго в стороны, в одной плоскости с корпусом.",
+          "en": "Open your legs directly to the sides, in the same plane as your torso."
+        }
+      },
+      {
+        "title": {
+          "ru": "Ноги на разной высоте",
+          "en": "Uneven legs"
+        },
+        "why": {
+          "ru": "Одна нога выше другой, и баланс уходит в сторону.",
+          "en": "One leg sits higher than the other and the balance tips sideways."
+        },
+        "fix": {
+          "ru": "Раскрывайте ноги медленно и одновременно; у стены сверяйте высоту пяток.",
+          "en": "Open both legs slowly and at the same time; at the wall, check that your heels are level."
+        }
+      },
+      {
+        "title": {
+          "ru": "Прогиб в пояснице",
+          "en": "Arching the lower back"
+        },
+        "why": {
+          "ru": "При раскрытии ног рёбра выходят вперёд, и линия корпуса ломается.",
+          "en": "As your legs open, your ribs flare and the line of your torso breaks."
+        },
+        "fix": {
+          "ru": "Втяните низ живота и рёбра, тянитесь плечами к ушам.",
+          "en": "Draw your lower belly and ribs in and reach your shoulders toward your ears."
+        }
+      }
+    ],
+    "easier": [
+      "l-handstand",
+      "adho-mukha-vrksasana"
+    ],
+    "harder": [
+      "eka-hasta-vrksasana"
+    ],
+    "related": [
+      "tuck-handstand",
+      "tuck-press-to-handstand"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Выпад, ладони на коврик",
+          "en": "Lunge, hands on the mat"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Мах в прямую стойку",
+          "en": "Kick up to a straight handstand"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Ноги раскрываются в стороны",
+          "en": "Legs open to the sides"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: ноги врозь, бёдра над плечами",
+          "en": "Hold: wide legs, hips over shoulders"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Ноги вместе, шаг на коврик",
+          "en": "Legs together, step down"
+        }
+      }
+    ],
+    "sources": []
+  }
+}

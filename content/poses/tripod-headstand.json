@@ -1,0 +1,320 @@
+{
+  "slug": "tripod-headstand",
+  "category": "shoulder-balances",
+  "level": "intermediate",
+  "skills": [
+    "inversion",
+    "core-control",
+    "shoulder-mobility"
+  ],
+  "sortWeight": 46,
+  "motion": {
+    "view": "side",
+    "contacts": [
+      "head",
+      "hands"
+    ],
+    "entry": "0-2s kneeling, palms placed shoulder-width with fingers forward, crown of the head set on the mat in front of the hands forming a triangle, elbows stacked over the wrists at ~90°; 2-4s knees lift, legs straighten and feet walk in until the hips are above the shoulders.",
+    "hold": "4-6s knees bend and rest on the backs of the upper arms near the elbows, then lift slowly off the arms and rise above the hips, legs straighten; 6-8s hold: body vertical from head to heels, legs together, forearms vertical and parallel, elbows over wrists, weight shared between the crown and the palms, neck long, gaze straight ahead (poster frame).",
+    "exit": "8-10s knees bend and lower to the arms, then to the mat; settle into Child's Pose with the forehead down."
+  },
+  "doc": {
+    "name": {
+      "ru": "Стойка на голове с опорой на ладони",
+      "en": "Tripod Headstand"
+    },
+    "subtitle": {
+      "ru": "Саламба Ширшасана II",
+      "en": "Salamba Sirsasana II"
+    },
+    "sanskrit": "Salamba Sirsasana II",
+    "altNames": [
+      "Саламба Ширшасана II",
+      "Ширшасана II",
+      "Salamba Sirsasana II",
+      "Sirsasana II",
+      "Shirshasana II",
+      "Tripod",
+      "Треугольник",
+      "Стойка на голове на трёх точках",
+      "Sālamba Śīrṣāsana II"
+    ],
+    "summary": {
+      "ru": "Стойка на голове с опорой на ладони: голова и кисти образуют треугольник, предплечья вертикальны, ноги вытянуты вверх.",
+      "en": "A headstand supported by the palms: the head and hands form a triangle, the forearms are vertical and the legs extend upward."
+    },
+    "about": {
+      "ru": "Стойка на голове, в которой макушка и ладони образуют на коврике треугольник. Локти согнуты под прямым углом над запястьями, корпус и ноги выстроены вертикально. В классификации Айенгара это Саламба Ширшасана II. Здесь показан вход через промежуточный этап с коленями на руках: так подъём остаётся медленным и управляемым. Поза относится к перевёрнутым и требует силы рук и плеч, контроля корпуса и бережного отношения к шее, поэтому её осваивают с преподавателем и у стены.",
+      "en": "A headstand in which the crown of the head and the palms form a triangle on the mat. The elbows bend at a right angle over the wrists, and the torso and legs line up vertically. In Iyengar’s system this is Salamba Sirsasana II. This card shows an entry through an intermediate stage with the knees resting on the arms, which keeps the lift slow and controlled. It is an inversion that calls for arm and shoulder strength, core control and care for the neck, which is why it is learned with a teacher and at a wall."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно держите Дельфина 30–60 секунд, не опуская плечи к коврику.",
+        "en": "You can hold Dolphin Pose for 30–60 seconds without your shoulders sinking toward the mat."
+      },
+      {
+        "ru": "Держите Бакасану несколько вдохов: это помогает освоить опору коленями на руки.",
+        "en": "You can hold Bakasana for a few breaths; it helps you learn to rest your knees on your arms."
+      },
+      {
+        "ru": "Спокойно держите исходное положение с макушкой и ладонями на коврике и поднятым тазом, не чувствуя дискомфорта в шее.",
+        "en": "You can hold the setup with your crown and palms on the mat and your hips lifted, without neck discomfort."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "При проблемах или травмах шеи, повышенном давлении, глаукоме или других заболеваниях глаз, а также при беременности обсудите перевёрнутые позы со специалистом до начала практики.",
+        "en": "If you have neck problems or a neck injury, high blood pressure, glaucoma or another eye condition, or are pregnant, discuss inversions with a qualified healthcare professional before you practice them."
+      },
+      {
+        "ru": "Некоторые преподаватели советуют не выполнять перевёрнутые позы во время менструации. Ориентируйтесь на самочувствие и рекомендации своего преподавателя.",
+        "en": "Some teachers advise avoiding inversions during menstruation. Go by how you feel and your teacher’s guidance."
+      },
+      {
+        "ru": "Осваивайте позу с квалифицированным преподавателем и у стены. Положите под голову плотно сложенный коврик или одеяло, а не мягкую подушку.",
+        "en": "Learn the pose with a qualified teacher and at a wall. Place a firmly folded mat or blanket under your head rather than a soft cushion."
+      },
+      {
+        "ru": "Не поворачивайте голову в позе. При боли или давлении в шее, голове или глазах мягко опустите ноги и отдохните в позе ребёнка.",
+        "en": "Do not turn your head in the pose. If you feel pain or pressure in your neck, head or eyes, gently lower your legs and rest in Child’s Pose."
+      }
+    ],
+    "steps": [
+      {
+        "key": "30d10058-57df-4258-830c-a651992945d3",
+        "title": {
+          "ru": "Постройте треугольник",
+          "en": "Build the triangle"
+        },
+        "body": {
+          "ru": "Встаньте на колени. Поставьте ладони на ширине плеч, пальцы вперёд. Поставьте макушку на коврик впереди ладоней так, чтобы голова и кисти образовали треугольник.",
+          "en": "Kneel down. Place your palms shoulder-width apart, fingers pointing forward. Set the crown of your head on the mat in front of your hands so your head and hands form a triangle."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "d46f7a15-2fa5-4cc2-bae0-44753bf852a5",
+        "title": {
+          "ru": "Выстройте руки",
+          "en": "Stack your arms"
+        },
+        "body": {
+          "ru": "Расположите локти над запястьями, предплечья параллельно друг другу. Надавите ладонями на коврик, чтобы руки приняли часть веса.",
+          "en": "Stack your elbows over your wrists, forearms parallel. Press your palms into the mat so your arms take part of your weight."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "477487cc-afbd-4959-9db6-4fc1075e24ed",
+        "title": {
+          "ru": "Поднимите таз",
+          "en": "Lift your hips"
+        },
+        "body": {
+          "ru": "Выпрямите ноги и подойдите стопами ближе к голове, пока таз не окажется над плечами, а спина — почти вертикально.",
+          "en": "Straighten your legs and walk your feet toward your head until your hips are over your shoulders and your back is nearly vertical."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "090ea8aa-5bd2-4f7b-82b2-6a0e4c0fb3e3",
+        "title": {
+          "ru": "Колени на руки",
+          "en": "Knees onto your arms"
+        },
+        "body": {
+          "ru": "Согните колени и по очереди положите их на заднюю поверхность плеч у локтей. Задержитесь здесь на несколько вдохов.",
+          "en": "Bend your knees and rest them one at a time on the backs of your upper arms near the elbows. Stay here for a few breaths."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "00acba34-3412-460d-b960-2c94e8a58885",
+        "title": {
+          "ru": "Вытяните ноги вверх",
+          "en": "Extend your legs"
+        },
+        "body": {
+          "ru": "Медленно поднимите колени с рук и выведите их вверх над тазом, затем выпрямите ноги. Держите локти над запястьями, дышите ровно и смотрите прямо.",
+          "en": "Slowly lift your knees off your arms and bring them up over your hips, then straighten your legs. Keep your elbows over your wrists, breathe evenly and look straight ahead."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "976feead-647f-473f-85a2-c2e115aec52d",
+        "title": {
+          "ru": "Выйдите из позы",
+          "en": "Come down"
+        },
+        "body": {
+          "ru": "Согните колени и медленно опустите их на руки или сразу на коврик. Отдохните в позе ребёнка несколько вдохов, прежде чем поднять голову.",
+          "en": "Bend your knees and slowly lower them to your arms or straight to the mat. Rest in Child’s Pose for a few breaths before you lift your head."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "hip-flexors"
+      },
+      {
+        "key": "neck"
+      }
+    ],
+    "anatomy": {
+      "ru": "Трицепсы, плечевой пояс и кисти держат опору и не дают весу проваливаться в голову. Мышцы живота и сгибатели бедра поднимают ноги медленно, без маха. Мышцы шеи удерживают голову в нейтральном положении.",
+      "en": "Your triceps, shoulder girdle and hands hold the base and keep your weight from sinking into your head. Your abdominal muscles and hip flexors lift your legs slowly, without a swing. Your neck muscles keep your head in a neutral position."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "headstand-prep",
+        "title": {
+          "ru": "Подготовка к стойке на голове",
+          "en": "Headstand preparation"
+        },
+        "body": {
+          "ru": "Отработайте исходное положение и подъём таза, не отрывая стоп от коврика.",
+          "en": "Practice the setup and the hip lift while keeping your feet on the mat."
+        }
+      },
+      {
+        "exerciseSlug": "knee-chaturanga",
+        "title": {
+          "ru": "Опускание в чатурангу с колен",
+          "en": "Knees-down Chaturanga"
+        },
+        "body": {
+          "ru": "Укрепляет трицепсы и учит держать локти над запястьями под прямым углом.",
+          "en": "Strengthens your triceps and teaches you to hold your elbows over your wrists at a right angle."
+        }
+      },
+      {
+        "title": {
+          "ru": "Колени на руках",
+          "en": "Knees on the arms"
+        },
+        "body": {
+          "ru": "Из треугольника положите колени на заднюю поверхность плеч и держите несколько вдохов, не поднимая ноги выше.",
+          "en": "From the triangle, rest your knees on the backs of your upper arms and hold for a few breaths without lifting your legs higher."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Голова и кисти на одной линии",
+          "en": "Head and hands in one line"
+        },
+        "why": {
+          "ru": "Без треугольника опора узкая, и вы легко падаете вперёд или назад.",
+          "en": "Without a triangle the base is narrow and you can easily topple forward or back."
+        },
+        "fix": {
+          "ru": "Поставьте макушку впереди ладоней так, чтобы голова и кисти образовали треугольник.",
+          "en": "Set your crown in front of your hands so your head and hands form a triangle."
+        }
+      },
+      {
+        "title": {
+          "ru": "Локти расходятся в стороны",
+          "en": "Elbows splaying out"
+        },
+        "why": {
+          "ru": "Руки перестают держать вес, и нагрузка смещается на голову и шею.",
+          "en": "Your arms stop carrying weight and the load shifts onto your head and neck."
+        },
+        "fix": {
+          "ru": "Держите локти над запястьями, а предплечья — параллельно.",
+          "en": "Keep your elbows over your wrists and your forearms parallel."
+        }
+      },
+      {
+        "title": {
+          "ru": "Подъём махом",
+          "en": "Kicking up"
+        },
+        "why": {
+          "ru": "Рывок нагружает шею и может перебросить вас через спину.",
+          "en": "The jolt loads your neck and can tip you over onto your back."
+        },
+        "fix": {
+          "ru": "Подходите стопами, пока таз не окажется над плечами, и поднимайтесь через этап с коленями на руках.",
+          "en": "Walk your feet in until your hips are over your shoulders, and lift through the knees-on-arms stage."
+        }
+      }
+    ],
+    "easier": [
+      "ardha-pincha-mayurasana"
+    ],
+    "harder": [
+      "crow-to-tripod-headstand",
+      "tripod-headstand-to-crow"
+    ],
+    "related": [
+      "salamba-sirsasana",
+      "bakasana",
+      "salamba-sarvangasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "На коленях, треугольник из головы и ладоней",
+          "en": "Kneeling, head-and-hands triangle"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Ноги выпрямляются, таз над плечами",
+          "en": "Legs straighten, hips over shoulders"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Колени на руках, затем подъём вверх",
+          "en": "Knees on the arms, then lifting up"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: тело вертикально, локти над запястьями",
+          "en": "Hold: body vertical, elbows over wrists"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Колени вниз, поза ребёнка",
+          "en": "Knees down, Child’s Pose"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Salamba Sirsasana II",
+        "note": "Classical description of the head-and-palms form; the knees-on-arms entry is a common teaching progression."
+      }
+    ]
+  }
+}

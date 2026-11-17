@@ -1,0 +1,317 @@
+{
+  "slug": "salamba-sarvangasana",
+  "category": "shoulder-balances",
+  "level": "intermediate",
+  "skills": [
+    "shoulder-mobility",
+    "core-control",
+    "inversion"
+  ],
+  "sortWeight": 41,
+  "motion": {
+    "view": "side",
+    "contacts": [
+      "shoulders"
+    ],
+    "entry": "0-2s supine, shoulders on a folded-blanket stack a few cm from its edge, head on the mat, arms alongside the body, legs straight; 2-4s knees bend to the chest, pelvis lifts, palms placed on the back, elbows shoulder-width.",
+    "hold": "4-6s hands walk toward the shoulder blades, torso rises to vertical, knees point up and legs straighten; 6-8s hold: shoulders, hips and feet stacked in one vertical line, legs together, toes reaching up, palms on the upper back, upper arms and elbows on the blankets, back of the head on the mat, chest toward the chin, head still, gaze toward the chest (poster frame).",
+    "exit": "8-10s knees bend toward the forehead, hands support the back as the spine rolls down slowly, legs return to the mat."
+  },
+  "doc": {
+    "name": {
+      "ru": "Стойка на плечах",
+      "en": "Supported Shoulder Stand"
+    },
+    "subtitle": {
+      "ru": "Саламба Сарвангасана",
+      "en": "Salamba Sarvangasana"
+    },
+    "sanskrit": "Salamba Sarvangasana",
+    "altNames": [
+      "Саламба Сарвангасана",
+      "Сарвангасана",
+      "Sarvangasana",
+      "Берёзка",
+      "Свеча",
+      "Shoulderstand",
+      "Shoulder Stand",
+      "Salamba Sarvangasana I",
+      "Sālamba Sarvāṅgāsana"
+    ],
+    "summary": {
+      "ru": "Классическая стойка на плечах: корпус и ноги выстроены вертикально, ладони поддерживают спину, опора — на плечи и верхнюю часть рук.",
+      "en": "The classic shoulder stand: the torso and legs line up vertically, the palms support the back, and the weight rests on the shoulders and upper arms."
+    },
+    "about": {
+      "ru": "Классическая стойка на плечах. Корпус и прямые ноги выстроены в одну вертикаль над плечами, ладони поддерживают спину ближе к лопаткам, а на полу лежат затылок, плечи и задняя поверхность рук до локтей. Здесь описан основной вариант с поддержкой спины руками (Саламба Сарвангасана I по классификации Айенгара). Под плечи обычно кладут сложенные одеяла, чтобы уменьшить сгибание шеи. Поза требует подвижных плеч, контроля корпуса и опыта в перевёрнутых положениях, поэтому её осваивают после полустойки на плечах.",
+      "en": "The classic shoulder stand. Your torso and straight legs line up vertically above your shoulders, your palms support your back close to the shoulder blades, and the back of your head, your shoulders and the backs of your upper arms down to the elbows rest on the floor. This card describes the main form with the hands supporting the back (Salamba Sarvangasana I in Iyengar’s system). Folded blankets are usually placed under the shoulders to reduce how much the neck bends. The pose calls for mobile shoulders, core control and experience with inversions, which is why it is learned after the Half Shoulder Stand."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно держите полустойку на плечах (Ардха Сарвангасану) около минуты.",
+        "en": "You can hold the Half Shoulder Stand (Ardha Sarvangasana) steadily for about a minute."
+      },
+      {
+        "ru": "В мосте на лопатках сводите лопатки и опираетесь на плечи, а не на шею.",
+        "en": "In Bridge Pose you can draw your shoulder blades together and bear weight on your shoulders, not your neck."
+      },
+      {
+        "ru": "Лёжа на спине, подтягиваете колени к груди и поднимаете таз без рывка.",
+        "en": "Lying on your back, you can draw your knees to your chest and lift your pelvis without swinging."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "При проблемах или травмах шеи, повышенном давлении, глаукоме или других заболеваниях глаз, а также при беременности обсудите перевёрнутые позы со специалистом до начала практики.",
+        "en": "If you have neck problems or a neck injury, high blood pressure, glaucoma or another eye condition, or are pregnant, discuss inversions with a qualified healthcare professional before you practice them."
+      },
+      {
+        "ru": "Некоторые преподаватели советуют не выполнять перевёрнутые позы во время менструации. Ориентируйтесь на самочувствие и рекомендации своего преподавателя.",
+        "en": "Some teachers advise avoiding inversions during menstruation. Go by how you feel and your teacher’s guidance."
+      },
+      {
+        "ru": "Осваивайте позу с квалифицированным преподавателем. Кладите под плечи 2–3 плотно сложенных одеяла: плечи на одеялах, голова на коврике. Не поворачивайте голову в позе.",
+        "en": "Learn the pose with a qualified teacher. Place two or three firmly folded blankets under your shoulders: shoulders on the blankets, head on the mat. Do not turn your head in the pose."
+      },
+      {
+        "ru": "Начинайте с коротких удержаний. При боли или давлении в шее, голове или глазах плавно выйдите из позы.",
+        "en": "Start with short holds. If you feel pain or pressure in your neck, head or eyes, come out smoothly."
+      }
+    ],
+    "steps": [
+      {
+        "key": "69d072c4-263c-4b23-b6cc-f8aeaf83dc8c",
+        "title": {
+          "ru": "Подготовьте опору",
+          "en": "Set up the support"
+        },
+        "body": {
+          "ru": "Сложите 2–3 одеяла ровной стопкой. Лягте так, чтобы плечи были на одеялах в нескольких сантиметрах от края, а голова — на коврике. Руки вдоль тела, ладони вниз.",
+          "en": "Stack two or three folded blankets evenly. Lie down with your shoulders on the blankets a few centimeters from the edge and your head on the mat. Arms by your sides, palms down."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "b07f9f1d-1d26-48d8-94b1-e9f05f424bba",
+        "title": {
+          "ru": "Поднимите таз",
+          "en": "Lift your pelvis"
+        },
+        "body": {
+          "ru": "На выдохе согните колени и подтяните их к груди. Надавите руками на пол, оторвите таз от коврика и поставьте ладони на спину.",
+          "en": "As you exhale, bend your knees and draw them toward your chest. Press your arms into the floor, lift your pelvis off the mat and place your palms on your back."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "8449ac6f-87a6-4591-8d17-5164edbe5279",
+        "title": {
+          "ru": "Выстройте корпус",
+          "en": "Bring your torso upright"
+        },
+        "body": {
+          "ru": "Переставьте ладони ближе к лопаткам, держа локти на ширине плеч. Выведите корпус в вертикаль и подайте грудь к подбородку, не прижимая подбородок с силой.",
+          "en": "Walk your hands toward your shoulder blades, keeping your elbows shoulder-width apart. Bring your torso upright and move your chest toward your chin without forcing the chin down."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "b2895b00-5f8a-428d-b03b-76841ec2fd8c",
+        "title": {
+          "ru": "Выпрямите ноги",
+          "en": "Straighten your legs"
+        },
+        "body": {
+          "ru": "Направьте колени вверх и выпрямите ноги. Стопы вместе, носки тянутся вверх. Бёдра над плечами, стопы над бёдрами.",
+          "en": "Point your knees up and straighten your legs. Keep your feet together and reach up through your toes. Hips over shoulders, feet over hips."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "883b85d8-3224-47a9-9465-fd5bbac7321e",
+        "title": {
+          "ru": "Удерживайте позу",
+          "en": "Hold the pose"
+        },
+        "body": {
+          "ru": "Держите голову неподвижно и смотрите на грудь. Дышите ровно. Начните с 30 секунд и увеличивайте время постепенно.",
+          "en": "Keep your head still and look toward your chest. Breathe evenly. Start with 30 seconds and build up gradually."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "183a76f5-d11c-45d0-935b-4ab767ad79ff",
+        "title": {
+          "ru": "Выйдите из позы",
+          "en": "Come down"
+        },
+        "body": {
+          "ru": "Согните колени к лбу. Придерживая спину ладонями, медленно опустите позвоночник на коврик. Полежите несколько вдохов, прежде чем сесть.",
+          "en": "Bend your knees toward your forehead. Supporting your back with your hands, slowly roll your spine down to the mat. Rest for a few breaths before you sit up."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "upper-back"
+      },
+      {
+        "key": "lower-back"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "glutes"
+      }
+    ],
+    "anatomy": {
+      "ru": "Мышцы верхней части спины сводят лопатки, а задние пучки дельтовидных мышц и трицепсы прижимают верхнюю часть рук к опоре. Разгибатели спины и ягодичные мышцы помогают выпрямить корпус. Мышцы живота и ног удерживают ноги в вертикали.",
+      "en": "Your upper-back muscles draw your shoulder blades together, while your rear deltoids and triceps press your upper arms into the support. Your back extensors and glutes help straighten your torso. Your abdominal and leg muscles keep your legs vertical."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "bridge-pose",
+        "title": {
+          "ru": "Мост на лопатках",
+          "en": "Bridge Pose"
+        },
+        "body": {
+          "ru": "Отрабатывает сведение лопаток и опору на плечи.",
+          "en": "Practices drawing your shoulder blades together and bearing weight on your shoulders."
+        }
+      },
+      {
+        "title": {
+          "ru": "Стойка на плечах с опорой стоп о стену",
+          "en": "Shoulder stand with feet on the wall"
+        },
+        "body": {
+          "ru": "Лягте так, чтобы плечи были на одеялах, а стопы — на стене. Надавите стопами, поднимите таз, поставьте ладони на спину и по очереди выпрямите ноги вверх.",
+          "en": "Lie with your shoulders on the blankets and your feet on the wall. Press your feet into the wall, lift your pelvis, place your palms on your back and straighten one leg up at a time."
+        }
+      },
+      {
+        "exerciseSlug": "hollow-body-hold",
+        "title": {
+          "ru": "Удержание «лодочки» на спине",
+          "en": "Hollow body hold"
+        },
+        "body": {
+          "ru": "Укрепляет мышцы живота, чтобы поднимать таз без рывка.",
+          "en": "Strengthens your abdominal muscles so you can lift your pelvis without swinging."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Локти расходятся в стороны",
+          "en": "Elbows splaying out"
+        },
+        "why": {
+          "ru": "Грудь опускается, и вес смещается на шею.",
+          "en": "Your chest sinks and the weight shifts toward your neck."
+        },
+        "fix": {
+          "ru": "Сведите локти на ширину плеч; при необходимости наденьте ремень чуть выше локтей.",
+          "en": "Bring your elbows to shoulder width; if needed, loop a strap just above your elbows."
+        }
+      },
+      {
+        "title": {
+          "ru": "Корпус не выведен в вертикаль",
+          "en": "Torso not fully upright"
+        },
+        "why": {
+          "ru": "Таз провисает, ноги уходят наискосок, и нагрузка на шею и запястья растёт.",
+          "en": "Your pelvis sags, your legs angle away and the load on your neck and wrists increases."
+        },
+        "fix": {
+          "ru": "Переставьте ладони ближе к лопаткам, подайте грудь к подбородку и выведите бёдра и стопы на одну вертикаль с плечами.",
+          "en": "Walk your hands closer to your shoulder blades, move your chest toward your chin and bring your hips and feet into one vertical line with your shoulders."
+        }
+      },
+      {
+        "title": {
+          "ru": "Повороты головы",
+          "en": "Turning your head"
+        },
+        "why": {
+          "ru": "Шея согнута и нагружена весом тела, поэтому поворот может её перегрузить.",
+          "en": "Your neck is flexed and loaded with your body weight, so turning it can strain it."
+        },
+        "fix": {
+          "ru": "Держите голову по центру и смотрите на грудь. Чтобы что-то поправить, сначала выйдите из позы.",
+          "en": "Keep your head centered and look toward your chest. To adjust anything, come out of the pose first."
+        }
+      }
+    ],
+    "easier": [
+      "ardha-sarvangasana"
+    ],
+    "harder": [
+      "niralamba-sarvangasana"
+    ],
+    "related": [
+      "salamba-sirsasana",
+      "tripod-headstand"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Лёжа на одеялах, руки вдоль тела",
+          "en": "Lying on the blankets, arms by the sides"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Колени к груди, таз поднимается, ладони на спине",
+          "en": "Knees to chest, pelvis lifts, palms on the back"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Корпус выпрямляется, ноги поднимаются вверх",
+          "en": "Torso straightens, legs rise"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: тело на одной вертикали",
+          "en": "Hold: body in one vertical line"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Колени к лбу, спина опускается на коврик",
+          "en": "Knees to forehead, spine rolls down"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Salamba Sarvangasana I",
+        "note": "Classical description of the pose; folded blankets under the shoulders are a widely used teaching setup."
+      }
+    ]
+  }
+}

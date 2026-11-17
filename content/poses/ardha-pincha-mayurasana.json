@@ -1,0 +1,291 @@
+{
+  "slug": "ardha-pincha-mayurasana",
+  "category": "forearm-balances",
+  "level": "beginner",
+  "skills": [
+    "shoulder-mobility",
+    "hamstring-flexibility",
+    "core-control"
+  ],
+  "sortWeight": 15,
+  "motion": {
+    "view": "side",
+    "contacts": [
+      "forearms",
+      "feet"
+    ],
+    "entry": "0-2s tabletop on the knees, forearms lowered to the mat, elbows under the shoulders, forearms parallel and shoulder-width, palms flat; 2-4s toes tuck, knees lift, hips rise up and back with the knees still bent.",
+    "hold": "4-6s legs lengthen toward straight, heels move toward the floor, chest moves toward the thighs; 6-8s hold: inverted V on forearms and feet, hips the highest point, head hanging free off the mat between the upper arms, shoulders lifted away from the ears, gaze toward the feet (poster frame).",
+    "exit": "8-10s knees lower to the mat, hips move back toward the heels into Child's Pose."
+  },
+  "doc": {
+    "name": {
+      "ru": "Дельфин",
+      "en": "Dolphin Pose"
+    },
+    "subtitle": {
+      "ru": "Ардха Пинча Маюрасана",
+      "en": "Ardha Pincha Mayurasana"
+    },
+    "sanskrit": "Ardha Pincha Mayurasana",
+    "altNames": [
+      "Ардха Пинча Маюрасана",
+      "Ardha Pincha Mayurasana",
+      "Ardha Piñcha Mayūrāsana",
+      "Дельфин",
+      "Dolphin",
+      "Собака мордой вниз на предплечьях",
+      "Forearm Down Dog"
+    ],
+    "summary": {
+      "ru": "Перевёрнутая V-образная поза на предплечьях: предплечья параллельны, таз поднят вверх, голова свободно висит над ковриком.",
+      "en": "An inverted V shape on the forearms: the forearms are parallel, the hips lift high and the head hangs freely above the mat."
+    },
+    "about": {
+      "ru": "Поза, похожая на собаку мордой вниз, но с опорой на предплечья. Предплечья параллельны и стоят на ширине плеч, таз поднят вверх, голова не касается коврика. Здесь показан вариант с параллельными предплечьями и ладонями вниз; в некоторых школах пальцы сцепляют в замок, как в стойке на голове. Поза развивает подвижность плеч и силу плечевого пояса для стойки на предплечьях и стойки на голове. Вес остаётся на предплечьях и стопах, поэтому это доступная поза начального уровня.",
+      "en": "A pose similar to Downward-Facing Dog but on the forearms. The forearms are parallel and shoulder-width apart, the hips lift high and the head does not touch the mat. This card shows the form with parallel forearms and palms down; some schools interlace the fingers as in a headstand. It builds shoulder mobility and shoulder-girdle strength for the forearm stand and the headstand. Your weight stays on your forearms and feet, so it is an accessible beginner-level pose."
+    },
+    "prerequisites": [
+      {
+        "ru": "Держите планку на предплечьях 30 секунд, не опуская таз.",
+        "en": "You can hold a forearm plank for 30 seconds without your hips sagging."
+      },
+      {
+        "ru": "Спокойно стоите в собаке мордой вниз без боли в плечах.",
+        "en": "You can stay in Downward-Facing Dog without shoulder pain."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "При травмах плеч или боли в плечах и шее прекратите попытку и обсудите нагрузку со специалистом.",
+        "en": "If you have a shoulder injury or feel pain in your shoulders or neck, stop and discuss the load with a qualified healthcare professional."
+      },
+      {
+        "ru": "Голова оказывается ниже сердца: при повышенном давлении, глаукоме и других заболеваниях глаз или беременности сначала проконсультируйтесь со специалистом.",
+        "en": "Your head is below your heart: if you have high blood pressure, glaucoma or another eye condition, or are pregnant, check with a qualified healthcare professional first."
+      },
+      {
+        "ru": "Не опускайте голову на коврик и не переносите на неё вес.",
+        "en": "Do not rest your head on the mat or put weight on it."
+      }
+    ],
+    "steps": [
+      {
+        "key": "b1fc20c0-b8c3-4407-9bba-d803f16154e9",
+        "title": {
+          "ru": "Поставьте предплечья",
+          "en": "Set your forearms"
+        },
+        "body": {
+          "ru": "Встаньте на четвереньки. Опустите предплечья на коврик: локти под плечами, предплечья параллельны, ладони прижаты к полу.",
+          "en": "Come onto all fours. Lower your forearms to the mat: elbows under your shoulders, forearms parallel, palms pressed into the floor."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "7adb47fe-380f-45aa-ac14-70d5c769bd10",
+        "title": {
+          "ru": "Поднимите таз",
+          "en": "Lift your hips"
+        },
+        "body": {
+          "ru": "Подогните пальцы ног, оторвите колени от коврика и поднимите таз вверх и назад. Сначала оставьте колени согнутыми.",
+          "en": "Tuck your toes, lift your knees off the mat and raise your hips up and back. Keep your knees bent at first."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "b5df8f54-614b-4bff-bf04-de213d6c8ca3",
+        "title": {
+          "ru": "Вытяните спину",
+          "en": "Lengthen your spine"
+        },
+        "body": {
+          "ru": "Надавите предплечьями на коврик и отведите плечи от ушей. Подайте грудь к бёдрам, сохраняя спину длинной.",
+          "en": "Press your forearms into the mat and draw your shoulders away from your ears. Move your chest toward your thighs while keeping your back long."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "f828186f-b2bd-4672-82a0-408aadfd0d8f",
+        "title": {
+          "ru": "Удерживайте позу",
+          "en": "Hold the pose"
+        },
+        "body": {
+          "ru": "Выпрямите ноги настолько, насколько позволяет спина, пятки тянутся к полу. Голова свободна, взгляд на стопы или между предплечьями. Сделайте 5–8 спокойных вдохов.",
+          "en": "Straighten your legs as far as your back allows, heels reaching toward the floor. Let your head hang freely and look toward your feet or between your forearms. Take 5–8 calm breaths."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "532bc1cd-bf10-4471-9321-60a2beb27aa4",
+        "title": {
+          "ru": "Выйдите из позы",
+          "en": "Come down"
+        },
+        "body": {
+          "ru": "Опустите колени на коврик и отведите таз к пяткам в позу ребёнка.",
+          "en": "Lower your knees to the mat and move your hips back toward your heels into Child’s Pose."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "serratus"
+      },
+      {
+        "key": "upper-back"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "hamstrings"
+      },
+      {
+        "key": "calves-ankles"
+      }
+    ],
+    "anatomy": {
+      "ru": "Дельтовидные мышцы, передняя зубчатая мышца и мышцы верхней части спины стабилизируют плечи. Мышцы живота поддерживают длинную спину. Задняя поверхность бёдер и икры растягиваются.",
+      "en": "Your deltoids, serratus anterior and upper-back muscles stabilize your shoulders. Your abdominal muscles support a long back. The backs of your thighs and your calves stretch."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "forearm-plank",
+        "title": {
+          "ru": "Планка на предплечьях",
+          "en": "Forearm plank"
+        },
+        "body": {
+          "ru": "Укрепляет плечевой пояс и корпус в той же постановке предплечий.",
+          "en": "Strengthens your shoulder girdle and core with the same forearm placement."
+        }
+      },
+      {
+        "exerciseSlug": "dolphin-push-ups",
+        "title": {
+          "ru": "Отжимания в дельфине",
+          "en": "Dolphin push-ups"
+        },
+        "body": {
+          "ru": "Учат держать плечи активными, перемещая их вперёд и назад над предплечьями.",
+          "en": "Teach you to keep your shoulders active as they move forward and back over your forearms."
+        }
+      },
+      {
+        "exerciseSlug": "forward-fold",
+        "title": {
+          "ru": "Наклон вперёд стоя",
+          "en": "Standing forward fold"
+        },
+        "body": {
+          "ru": "Мягко растягивает заднюю поверхность бёдер, чтобы таз поднимался выше.",
+          "en": "Gently stretches the backs of your thighs so your hips can lift higher."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Предплечья сходятся",
+          "en": "Forearms angling in"
+        },
+        "why": {
+          "ru": "Локти разъезжаются, а плечи теряют устойчивость.",
+          "en": "Your elbows slide out and your shoulders lose stability."
+        },
+        "fix": {
+          "ru": "Держите предплечья параллельно; поставьте блок между ладонями или наденьте ремень чуть выше локтей.",
+          "en": "Keep your forearms parallel; place a block between your hands or loop a strap just above your elbows."
+        }
+      },
+      {
+        "title": {
+          "ru": "Круглая спина при прямых ногах",
+          "en": "Rounded back with straight legs"
+        },
+        "why": {
+          "ru": "Таз опускается, и плечи почти не работают.",
+          "en": "Your hips drop and your shoulders barely work."
+        },
+        "fix": {
+          "ru": "Согните колени и поднимите таз выше, затем постепенно выпрямляйте ноги.",
+          "en": "Bend your knees and lift your hips higher, then gradually straighten your legs."
+        }
+      },
+      {
+        "title": {
+          "ru": "Плечи проваливаются к ушам",
+          "en": "Shoulders sinking toward the ears"
+        },
+        "why": {
+          "ru": "Шея сжимается, а голова тянется к коврику.",
+          "en": "Your neck gets compressed and your head drifts toward the mat."
+        },
+        "fix": {
+          "ru": "Надавите предплечьями на пол и отведите плечи от ушей.",
+          "en": "Press your forearms into the floor and draw your shoulders away from your ears."
+        }
+      }
+    ],
+    "easier": [],
+    "harder": [
+      "pincha-mayurasana",
+      "salamba-sirsasana"
+    ],
+    "related": [
+      "tripod-headstand",
+      "l-handstand"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "На четвереньках, предплечья параллельны",
+          "en": "On all fours, forearms parallel"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Колени отрываются, таз поднимается",
+          "en": "Knees lift, hips rise"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Ноги выпрямляются, грудь к бёдрам",
+          "en": "Legs lengthen, chest toward thighs"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: голова свободна, плечи от ушей",
+          "en": "Hold: head free, shoulders away from ears"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Колени на коврик, поза ребёнка",
+          "en": "Knees down, Child’s Pose"
+        }
+      }
+    ],
+    "sources": []
+  }
+}

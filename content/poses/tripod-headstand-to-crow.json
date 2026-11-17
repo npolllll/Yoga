@@ -1,0 +1,299 @@
+{
+  "slug": "tripod-headstand-to-crow",
+  "category": "transitions",
+  "level": "expert",
+  "skills": [
+    "core-control",
+    "inversion",
+    "arm-strength"
+  ],
+  "sortWeight": 92,
+  "motion": {
+    "view": "side",
+    "contacts": [
+      "hands"
+    ],
+    "entry": "0-2s Tripod Headstand: crown on the mat ahead of the hands forming a triangle, forearms vertical, elbows over the wrists, hips over the shoulders, legs straight up; 2-4s knees bend and the legs fold into a tuck, hips stay high; 4-6s knees lower slowly onto the backs of the upper arms just above the elbows, feet together.",
+    "hold": "6-7s palms press, elbows extend partially, weight shifts fully into the hands and the head lifts off the mat; 7-9s hold Bakasana: elbows bent and pointing back, knees on the upper arms, feet together lifted, gaze slightly forward (poster frame).",
+    "exit": "9-10s feet lower softly to the mat into a squat."
+  },
+  "doc": {
+    "name": {
+      "ru": "Из стойки на голове в ворону",
+      "en": "Tripod Headstand to Crow"
+    },
+    "subtitle": {
+      "ru": "Из Саламба Ширшасаны II в бакасану",
+      "en": "Salamba Sirsasana II to Bakasana"
+    },
+    "sanskrit": "",
+    "altNames": [
+      "Стойка на голове — ворона",
+      "Ширшасана II — Бакасана",
+      "Headstand to crow",
+      "Tripod to crow",
+      "Sirsasana II to Bakasana"
+    ],
+    "summary": {
+      "ru": "Переход из стойки на голове с опорой на ладони в бакасану: колени опускаются на руки, а давление ладоней отрывает голову от коврика.",
+      "en": "A transition from Tripod Headstand into Bakasana: your knees lower onto your arms and the press of your palms lifts your head off the mat."
+    },
+    "about": {
+      "ru": "Обратная связка: из Саламба Ширшасаны II в бакасану. Сначала вы под контролем складываете ноги и опускаете колени на заднюю поверхность плеч. Затем с силой давите ладонями в пол, частично выпрямляете руки и поднимаете голову, переводя весь вес на ладони. Движение требует силы толчка руками и точного контроля корпуса без инерции, поэтому оно сложнее перехода в обратную сторону и отнесено к экспертному уровню.",
+      "en": "The reverse link: from Salamba Sirsasana II into Bakasana. First you fold your legs with control and lower your knees onto the backs of your upper arms. Then you press firmly into your palms, partly straighten your arms and lift your head, bringing all your weight into your hands. It takes pushing strength and precise core control without momentum, so it is harder than the transition in the other direction and is rated expert."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно выполняете переход из вороны в стойку на голове и под контролем опускаете ноги обратно.",
+        "en": "You can move from Crow into Tripod Headstand and lower your legs back down with control."
+      },
+      {
+        "ru": "Держите бакасану 30 секунд и чатурангу несколько вдохов.",
+        "en": "You can hold Bakasana for 30 seconds and Chaturanga for a few breaths."
+      },
+      {
+        "ru": "В стойке на голове можете несколько вдохов держать колени на руках в сложенной группировке.",
+        "en": "In Tripod Headstand, you can rest your knees on your arms in a folded tuck for a few breaths."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Положите под голову сложенное одеяло и освободите пространство вокруг.",
+        "en": "Place a folded blanket under your head and clear the space around you."
+      },
+      {
+        "ru": "Не отталкивайтесь головой и не поворачивайте шею: голову поднимают руки, а не мышцы шеи.",
+        "en": "Do not push off with your head or turn your neck: your arms lift your head, not your neck muscles."
+      },
+      {
+        "ru": "Если подъём не получается, просто опустите стопы на коврик и отдохните в позе ребёнка.",
+        "en": "If the press does not come, simply lower your feet to the mat and rest in Child’s Pose."
+      },
+      {
+        "ru": "При травмах шеи, повышенном давлении, глаукоме или беременности обсудите перевёрнутые позы со специалистом.",
+        "en": "If you have a neck injury, high blood pressure, glaucoma or are pregnant, discuss inversions with a qualified healthcare professional."
+      }
+    ],
+    "steps": [
+      {
+        "key": "f765afcc-4371-45dd-ac82-0f1999355a72",
+        "title": {
+          "ru": "Начните в стойке на голове",
+          "en": "Start in Tripod Headstand"
+        },
+        "body": {
+          "ru": "Выйдите в стойку на голове с опорой на ладони: предплечья вертикальны, локти над запястьями, большая часть веса на руках.",
+          "en": "Come into Tripod Headstand: forearms vertical, elbows over your wrists and most of your weight in your hands."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "c987bac0-eeae-4a9d-93b0-44633cd307ae",
+        "title": {
+          "ru": "Сложите ноги",
+          "en": "Fold your legs"
+        },
+        "body": {
+          "ru": "Втяните живот, согните колени и медленно подтяните их к груди, удерживая бёдра высоко.",
+          "en": "Draw your belly in, bend your knees and slowly bring them toward your chest while keeping your hips high."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "1a9890f0-ad46-4113-ae56-94de3f965bb0",
+        "title": {
+          "ru": "Положите колени на руки",
+          "en": "Place the knees on the arms"
+        },
+        "body": {
+          "ru": "Опустите колени на заднюю поверхность плеч чуть выше локтей и сведите стопы вместе.",
+          "en": "Lower your knees onto the backs of your upper arms just above the elbows and bring your feet together."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "de068440-1ff8-4035-819f-c3cec18d0897",
+        "title": {
+          "ru": "Поднимите голову",
+          "en": "Lift your head"
+        },
+        "body": {
+          "ru": "На выдохе сильно надавите ладонями в пол и частично выпрямите руки. Переведите вес на ладони, чтобы голова оторвалась от коврика.",
+          "en": "As you exhale, press your palms firmly into the floor and partly straighten your arms. Shift your weight into your hands so your head lifts off the mat."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "b0f252d8-38f2-44b5-bbfd-d271ca2faf27",
+        "title": {
+          "ru": "Удержите ворону",
+          "en": "Hold Crow"
+        },
+        "body": {
+          "ru": "Локти согнуты и направлены назад, колени на руках, взгляд чуть вперёд. Дышите ровно, затем мягко опустите стопы на коврик.",
+          "en": "Keep your elbows bent and pointing back, your knees on your arms and your gaze slightly forward. Breathe steadily, then gently lower your feet to the mat."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "chest"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "hip-flexors"
+      }
+    ],
+    "anatomy": {
+      "ru": "Трицепсы, грудные и дельтовидные мышцы выполняют толчок, который поднимает голову. Кисти и предплечья удерживают баланс при переносе веса. Мышцы живота и сгибатели бедра держат колени на руках и не дают ногам опуститься.",
+      "en": "Your triceps, chest and deltoids produce the press that lifts your head. Your hands and forearms keep the balance as your weight shifts. Your abdominal muscles and hip flexors hold your knees on your arms and keep your legs from dropping."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "headstand-prep",
+        "title": {
+          "ru": "Подготовка к стойке на голове",
+          "en": "Headstand Preparation"
+        },
+        "body": {
+          "ru": "Укрепляет опору на ладонях и учит держать вес на руках.",
+          "en": "Strengthens the support through your hands and teaches you to keep your weight in your arms."
+        }
+      },
+      {
+        "exerciseSlug": "knee-chaturanga",
+        "title": {
+          "ru": "Опускание в чатурангу с колен",
+          "en": "Knees-Down Chaturanga"
+        },
+        "body": {
+          "ru": "Опускайтесь медленно и выжимайте себя обратно вверх, чтобы развить силу толчка из согнутых локтей.",
+          "en": "Lower slowly and press yourself back up to build pushing strength from bent elbows."
+        }
+      },
+      {
+        "exerciseSlug": "tuck-lift-on-blocks",
+        "title": {
+          "ru": "Подъём в группировке на блоках",
+          "en": "Tuck Lift on Blocks"
+        },
+        "body": {
+          "ru": "Учит держать колени у груди и управлять корпусом без инерции.",
+          "en": "Teaches you to hold your knees to your chest and control your torso without momentum."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Рывок головой",
+          "en": "Jerking the head up"
+        },
+        "why": {
+          "ru": "Шея берёт на себя работу, которую должны выполнять руки.",
+          "en": "Your neck takes over work that your arms should do."
+        },
+        "fix": {
+          "ru": "Держите голову неподвижной, пока ладони не перенесут вес на руки.",
+          "en": "Keep your head still until your palms have moved the weight into your arms."
+        }
+      },
+      {
+        "title": {
+          "ru": "Колени падают на руки",
+          "en": "Dropping the knees onto the arms"
+        },
+        "why": {
+          "ru": "Резкое опускание сбивает баланс и может опрокинуть вас назад.",
+          "en": "A sudden drop throws off your balance and can tip you back over."
+        },
+        "fix": {
+          "ru": "Опускайте колени медленно, работая мышцами живота.",
+          "en": "Lower your knees slowly, using your abdominal muscles."
+        }
+      },
+      {
+        "title": {
+          "ru": "Колени низко на руках",
+          "en": "Knees too low on the arms"
+        },
+        "why": {
+          "ru": "Колени соскальзывают к локтям, и опора для толчка теряется.",
+          "en": "Your knees slide toward your elbows and you lose the support for the press."
+        },
+        "fix": {
+          "ru": "Ставьте колени на заднюю поверхность плеч как можно ближе к подмышкам.",
+          "en": "Place your knees on the backs of your upper arms, as close to your armpits as you can."
+        }
+      }
+    ],
+    "easier": [
+      "crow-to-tripod-headstand",
+      "tripod-headstand",
+      "bakasana"
+    ],
+    "harder": [
+      "tuck-press-to-handstand"
+    ],
+    "related": [
+      "crow-to-tripod-headstand",
+      "crow-to-chaturanga"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Стойка на голове",
+          "en": "Tripod Headstand"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 6,
+        "label": {
+          "ru": "Ноги складываются, колени ложатся на руки",
+          "en": "Legs fold, knees settle on the arms"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 7,
+        "label": {
+          "ru": "Ладони давят, голова отрывается",
+          "en": "Palms press, head lifts"
+        }
+      },
+      {
+        "fromSec": 7,
+        "toSec": 9,
+        "label": {
+          "ru": "Удержание бакасаны",
+          "en": "Hold Bakasana"
+        }
+      },
+      {
+        "fromSec": 9,
+        "toSec": 10,
+        "label": {
+          "ru": "Стопы на коврик",
+          "en": "Feet to the mat"
+        }
+      }
+    ],
+    "sources": []
+  }
+}

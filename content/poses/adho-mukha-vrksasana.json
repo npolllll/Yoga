@@ -1,0 +1,315 @@
+{
+  "slug": "adho-mukha-vrksasana",
+  "category": "handstands",
+  "level": "advanced",
+  "skills": [
+    "arm-strength",
+    "shoulder-mobility",
+    "inversion"
+  ],
+  "sortWeight": 62,
+  "motion": {
+    "view": "side",
+    "contacts": [
+      "hands"
+    ],
+    "entry": "0-2s lunge: hinge forward and place the palms shoulder-width on the mat a step ahead of the front foot, back leg straight and lifting; 2-4s front leg pushes off softly, back leg swings up, hips rise over the shoulders, legs meet overhead.",
+    "hold": "4-7s freestanding hold: arms straight, shoulders elevated toward the ears directly over the wrists, hips over the shoulders, legs together and straight, toes pointed, ribs drawn in, gaze at the mat between the hands; fingers make small balance corrections (poster frame).",
+    "exit": "7-10s one leg lowers to the mat, then the other, landing in a lunge; stand up."
+  },
+  "doc": {
+    "name": {
+      "ru": "Стойка на руках",
+      "en": "Handstand"
+    },
+    "subtitle": {
+      "ru": "Адхо Мукха Врикшасана",
+      "en": "Adho Mukha Vrksasana"
+    },
+    "sanskrit": "Adho Mukha Vrksasana",
+    "altNames": [
+      "Адхо Мукха Врикшасана",
+      "Адхо Мукха Вркшасана",
+      "Дерево лицом вниз",
+      "Стойка на руках",
+      "Handstand",
+      "Downward-Facing Tree",
+      "Adho Mukha Vṛkṣāsana"
+    ],
+    "summary": {
+      "ru": "Баланс на прямых руках вниз головой: запястья, плечи, бёдра и стопы выстроены в одну вертикальную линию.",
+      "en": "An upside-down balance on straight arms with your wrists, shoulders, hips and feet stacked in one vertical line."
+    },
+    "about": {
+      "ru": "Классическая стойка на руках. Тело выстроено вертикально над ладонями, руки прямые, ноги вместе, а баланс удерживается небольшими движениями пальцев и запястий. Здесь показан вариант без опоры на стену; осваивают его постепенно — сначала у стены, затем с преподавателем или страхующим. Поза требует силы рук и плеч, полной подвижности плечевых суставов и уверенности вниз головой, поэтому она относится к продвинутому уровню. До свободной стойки научитесь безопасно выходить из неё: шагом вниз или поворотом в сторону, как в колесе.",
+      "en": "The classic handstand. Your body stacks vertically over your palms, arms straight and legs together, and you keep the balance with small movements of your fingers and wrists. This card shows the freestanding version; it is learned gradually — first at the wall, then with a teacher or a spotter. It asks for arm and shoulder strength, full shoulder mobility and confidence upside down, which is why it is rated advanced. Before you work away from the wall, learn to come down safely: step down or turn out sideways into a cartwheel."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно держите стойку на руках у стены уголком 30–45 секунд.",
+        "en": "You can hold the L-shape handstand at the wall for 30–45 seconds."
+      },
+      {
+        "ru": "Держите стойку на руках у стены (спиной или грудью к стене) 30–60 секунд на прямых руках.",
+        "en": "You can hold a handstand at the wall (back or chest facing the wall) for 30–60 seconds on straight arms."
+      },
+      {
+        "ru": "Умеете выходить из стойки шагом вниз и поворотом в сторону, как в колесе.",
+        "en": "You know how to come down by stepping down and by turning out sideways into a cartwheel."
+      },
+      {
+        "ru": "Поднимаете прямые руки над головой рядом с ушами без прогиба в пояснице.",
+        "en": "You can raise straight arms overhead beside your ears without arching your lower back."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Учитесь у стены и с преподавателем или страхующим; уберите вокруг всё, обо что можно удариться.",
+        "en": "Learn at the wall and with a teacher or spotter; clear the area of anything you could hit."
+      },
+      {
+        "ru": "Если вас переносит через голову, перенесите вес на одну руку, поверните корпус и опустите ноги в сторону, как в колесе, а не на спину.",
+        "en": "If you start to tip over, shift your weight into one hand, turn your body and bring your legs down to the side, as in a cartwheel, rather than onto your back."
+      },
+      {
+        "ru": "Разомните запястья перед практикой. При боли в запястьях, плечах или шее прекратите попытки.",
+        "en": "Warm up your wrists before practice. Stop if you feel pain in your wrists, shoulders or neck."
+      },
+      {
+        "ru": "При повышенном давлении, глаукоме, беременности или недавней травме сначала обсудите перевёрнутые позы со специалистом.",
+        "en": "If you have high blood pressure, glaucoma, are pregnant or have a recent injury, discuss inversions with a qualified healthcare professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "7a12c1f5-d173-4a94-a11b-6c5e78dff489",
+        "title": {
+          "ru": "Поставьте ладони",
+          "en": "Set your hands"
+        },
+        "body": {
+          "ru": "Из выпада наклонитесь и поставьте ладони на ширине плеч. Раскройте пальцы и прижмите к коврику и подушечки пальцев, и основание ладоней.",
+          "en": "From a lunge, fold forward and place your palms shoulder-width apart. Spread your fingers and press both your fingertips and the heels of your hands into the mat."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "bbeba06f-5c28-4672-8de5-8bdeca4dcac4",
+        "title": {
+          "ru": "Выйдите в стойку",
+          "en": "Kick up"
+        },
+        "body": {
+          "ru": "Задняя нога прямая. Мягко оттолкнитесь передней ногой и поднимите заднюю вверх. Держите плечи над запястьями, не бросайте их вперёд.",
+          "en": "Keep your back leg straight. Push off gently with your front leg and swing the back leg up. Keep your shoulders over your wrists rather than throwing them forward."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "b4a8d721-bb85-43b1-9ce0-19f5999e2b52",
+        "title": {
+          "ru": "Соедините ноги",
+          "en": "Join the legs"
+        },
+        "body": {
+          "ru": "Когда бёдра окажутся над плечами, соедините ноги и вытяните их вверх. Носки тянутся к потолку.",
+          "en": "Once your hips are over your shoulders, bring your legs together and reach them up. Point your toes toward the ceiling."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "0b030072-7b05-48a6-a4d6-180c2b73bd71",
+        "title": {
+          "ru": "Выстройте линию",
+          "en": "Stack the line"
+        },
+        "body": {
+          "ru": "Выталкивайте пол, поднимая плечи к ушам. Втяните низ живота и рёбра, чтобы тело стало прямым. Смотрите на коврик между ладонями и дышите ровно.",
+          "en": "Push the floor away, lifting your shoulders toward your ears. Draw your lower belly and ribs in so your body forms a straight line. Look at the mat between your hands and breathe steadily."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "4b44fde8-ea14-493f-97d8-0294a988100e",
+        "title": {
+          "ru": "Держите баланс пальцами",
+          "en": "Balance with your fingers"
+        },
+        "body": {
+          "ru": "Если вас переносит в сторону спины, сильнее прижмите подушечки пальцев. Если тянет обратно, к месту входа, надавите основанием ладоней.",
+          "en": "If you tip toward your back, press your fingertips harder into the mat. If you fall back toward where you started, press through the heels of your hands."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "022c706d-713c-41d3-bdee-17c680b3df18",
+        "title": {
+          "ru": "Спуститесь",
+          "en": "Come down"
+        },
+        "body": {
+          "ru": "Опустите на коврик одну ногу, затем вторую, и встаньте в выпад. Если перевешивает, выйдите в сторону, как в колесе.",
+          "en": "Lower one leg to the mat, then the other, landing in a lunge. If you overbalance, cartwheel out to the side."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "serratus"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "upper-back"
+      },
+      {
+        "key": "core-abs"
+      }
+    ],
+    "anatomy": {
+      "ru": "Кисти и предплечья постоянно корректируют баланс. Дельтовидные мышцы, трицепсы, передние зубчатые и трапециевидные мышцы держат руки прямыми, а плечи поднятыми к ушам. Мышцы живота помогают сохранять корпус и ноги в одной линии.",
+      "en": "Your hands and forearms make constant balance corrections. Your deltoids, triceps, serratus anterior and trapezius keep your arms straight and your shoulders lifted toward your ears. Your abdominal muscles help keep your torso and legs in one line."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "handstand-kick-ups",
+        "title": {
+          "ru": "Махи в стойку у стены",
+          "en": "Handstand Kick-Ups at the Wall"
+        },
+        "body": {
+          "ru": "Отработайте мягкий мах одной ногой и выход шагом вниз, пока вход не станет контролируемым.",
+          "en": "Practice a soft one-leg kick and stepping down until your entry feels controlled."
+        }
+      },
+      {
+        "exerciseSlug": "wall-walk",
+        "title": {
+          "ru": "Подъём по стене",
+          "en": "Wall Walk"
+        },
+        "body": {
+          "ru": "Стойка грудью к стене учит держать прямую линию корпуса.",
+          "en": "A chest-to-wall handstand teaches you to hold a straight body line."
+        }
+      },
+      {
+        "exerciseSlug": "hollow-body-hold",
+        "title": {
+          "ru": "«Лодочка» на спине",
+          "en": "Hollow Body Hold"
+        },
+        "body": {
+          "ru": "Тренирует ту же форму корпуса, что нужна в стойке: рёбра внутрь, таз слегка подкручен.",
+          "en": "Trains the same torso shape you need upside down: ribs in, pelvis slightly tucked."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Прогиб «бананом»",
+          "en": "Banana back"
+        },
+        "why": {
+          "ru": "Рёбра и таз уходят вперёд, линия ломается, и баланс приходится ловить поясницей.",
+          "en": "Your ribs and pelvis push forward, the line breaks and you end up balancing with your lower back."
+        },
+        "fix": {
+          "ru": "Втяните рёбра, слегка подкрутите таз и поднимайте плечи к ушам.",
+          "en": "Draw your ribs in, tuck your pelvis slightly and lift your shoulders toward your ears."
+        }
+      },
+      {
+        "title": {
+          "ru": "Слишком сильный мах",
+          "en": "Kicking too hard"
+        },
+        "why": {
+          "ru": "Ноги пролетают точку баланса, и вас переносит через голову.",
+          "en": "Your legs fly past the balance point and you tip over."
+        },
+        "fix": {
+          "ru": "Делайте мягкий мах, тренируйте у стены остановку над плечами и заранее отработайте выход колесом.",
+          "en": "Use a softer kick, practice stopping over your shoulders at the wall and rehearse the cartwheel exit beforehand."
+        }
+      },
+      {
+        "title": {
+          "ru": "Согнутые руки",
+          "en": "Bent elbows"
+        },
+        "why": {
+          "ru": "Мышцам приходится держать вес без опоры прямых рук, вы быстро устаёте и теряете форму.",
+          "en": "Your muscles carry the load without the support of straight arms, so you tire quickly and lose the shape."
+        },
+        "fix": {
+          "ru": "Полностью выпрямите локти и вернитесь к стене, пока прямые руки не станут привычкой.",
+          "en": "Straighten your elbows fully and return to the wall until straight arms become a habit."
+        }
+      }
+    ],
+    "easier": [
+      "l-handstand"
+    ],
+    "harder": [
+      "handstand-scorpion",
+      "tuck-press-to-handstand",
+      "eka-hasta-vrksasana"
+    ],
+    "related": [
+      "tuck-handstand",
+      "straddle-handstand",
+      "pincha-mayurasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Выпад, ладони на коврик",
+          "en": "Lunge, hands to the mat"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Мах ногой, бёдра над плечами",
+          "en": "Kick up, hips over shoulders"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 7,
+        "label": {
+          "ru": "Удержание: прямая линия от запястий до стоп",
+          "en": "Hold: a straight line from wrists to feet"
+        }
+      },
+      {
+        "fromSec": 7,
+        "toSec": 10,
+        "label": {
+          "ru": "Одна нога за другой опускается на коврик",
+          "en": "Step down one leg at a time"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Adho Mukha Vrksasana",
+        "note": "Classical description of the pose; the freestanding version and the learning progression shown here are common teaching forms."
+      }
+    ]
+  }
+}

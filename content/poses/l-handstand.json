@@ -1,0 +1,287 @@
+{
+  "slug": "l-handstand",
+  "category": "handstands",
+  "level": "intermediate",
+  "skills": [
+    "arm-strength",
+    "shoulder-mobility",
+    "inversion"
+  ],
+  "sortWeight": 32,
+  "motion": {
+    "view": "side",
+    "contacts": [
+      "hands",
+      "feet"
+    ],
+    "entry": "0-2s Downward-Facing Dog with heels touching the wall, palms shoulder-width about one leg-length from the wall; 2-5s one foot steps onto the wall at hip height, then the other, walking up until the legs are horizontal.",
+    "hold": "5-8s hold the L: arms straight, shoulders directly over the wrists and elevated toward the ears, hips stacked over the shoulders, torso vertical, legs straight and parallel to the floor with the soles pressing into the wall, gaze between the hands (poster frame).",
+    "exit": "8-10s feet walk down the wall one at a time, back to Downward-Facing Dog, knees lower to the mat."
+  },
+  "doc": {
+    "name": {
+      "ru": "Стойка на руках у стены уголком",
+      "en": "L-Shape Handstand at the Wall"
+    },
+    "subtitle": {
+      "ru": "Подготовка к стойке на руках",
+      "en": "Handstand preparation"
+    },
+    "sanskrit": "",
+    "altNames": [
+      "Уголок у стены",
+      "Стойка уголком",
+      "Полустойка на руках",
+      "L-стойка",
+      "L-handstand",
+      "L-shape handstand",
+      "Half Handstand",
+      "Wall L"
+    ],
+    "summary": {
+      "ru": "Перевёрнутая поза у стены: ладони на коврике, бёдра над плечами, а прямые ноги параллельны полу и упираются стопами в стену.",
+      "en": "An inversion at the wall: palms on the mat, hips stacked over the shoulders and straight legs parallel to the floor with the soles pressing into the wall."
+    },
+    "about": {
+      "ru": "Подготовительная перевёрнутая поза к стойке на руках. Ладони стоят на коврике на расстоянии длины ног от стены, стопы упираются в стену на уровне бёдер, а корпус вертикален, так что тело образует прямой угол. Стена держит ноги, поэтому можно спокойно учиться ставить плечи над запястьями и выталкивать пол руками. Поза требует силы рук и плеч, подвижности плечевых суставов и привычки к перевёрнутому положению, поэтому она отнесена к среднему уровню. Это удобный этап перед свободной стойкой на руках.",
+      "en": "A preparatory inversion for the handstand. Your palms are on the mat about one leg-length from the wall, your soles press into the wall at hip height and your torso is vertical, so your body forms a right angle. The wall carries your legs, so you can calmly learn to stack your shoulders over your wrists and push the floor away. It asks for arm and shoulder strength, shoulder mobility and comfort upside down, which is why it is rated intermediate. It is a practical step before the freestanding handstand."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно стоите в собаке мордой вниз около минуты и держите планку 30–60 секунд без боли в запястьях.",
+        "en": "You can hold Downward-Facing Dog for about a minute and a plank for 30–60 seconds without wrist pain."
+      },
+      {
+        "ru": "Поднимаете прямые руки над головой так, чтобы они оказались рядом с ушами, без сильного прогиба в пояснице.",
+        "en": "You can raise straight arms overhead, close to your ears, without arching your lower back much."
+      },
+      {
+        "ru": "Вам спокойно находиться вниз головой, например в дельфине или полустойке на плечах.",
+        "en": "You are comfortable with your head below your heart, for example in Dolphin or Half Shoulder Stand."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Работайте босиком на нескользком коврике у свободного участка стены, без мебели и предметов рядом.",
+        "en": "Practice barefoot on a non-slip mat at a clear section of wall, with no furniture or objects nearby."
+      },
+      {
+        "ru": "Заранее отрепетируйте выход: шаг за шагом опустите стопы по стене и встаньте на колени. При головокружении или боли сразу выйдите из позы.",
+        "en": "Rehearse the exit first: walk your feet down the wall and come to your knees. Come down at once if you feel dizzy or have pain."
+      },
+      {
+        "ru": "При повышенном давлении, глаукоме, беременности или травмах шеи, плеч и запястий сначала обсудите перевёрнутые позы со специалистом.",
+        "en": "If you have high blood pressure, glaucoma, are pregnant, or have a neck, shoulder or wrist injury, discuss inversions with a qualified healthcare professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "7c78f486-403b-45c8-bf18-004641f3a3a2",
+        "title": {
+          "ru": "Отмерьте расстояние",
+          "en": "Measure your distance"
+        },
+        "body": {
+          "ru": "Сядьте спиной к стене и вытяните ноги. Запомните, где находятся пятки: там будут ладони.",
+          "en": "Sit with your back against the wall and your legs extended. Note where your heels are: that is where your hands go."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "e37297e9-0ad1-424d-8ce1-26aae9fd76ba",
+        "title": {
+          "ru": "Поставьте ладони",
+          "en": "Set your hands"
+        },
+        "body": {
+          "ru": "Встаньте в собаку мордой вниз пятками к стене. Ладони на ширине плеч, пальцы раскрыты и прижаты к коврику.",
+          "en": "Come into Downward-Facing Dog with your heels against the wall. Place your palms shoulder-width apart, fingers spread and pressing into the mat."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "46e663bf-df63-42d6-8032-f24880c8c799",
+        "title": {
+          "ru": "Поднимитесь по стене",
+          "en": "Walk up the wall"
+        },
+        "body": {
+          "ru": "Поставьте одну стопу на стену на уровне бёдер, затем вторую. Шагайте выше, пока ноги не станут параллельны полу.",
+          "en": "Place one foot on the wall at hip height, then the other. Keep stepping until your legs are parallel to the floor."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "c378dcaa-783d-4af1-9c44-1447d829bb0e",
+        "title": {
+          "ru": "Выстройте линию",
+          "en": "Stack and push"
+        },
+        "body": {
+          "ru": "Переведите плечи точно над запястьями, а бёдра — над плечами. Отталкивайте пол ладонями, поднимая плечи к ушам. Втяните низ живота, смотрите между ладонями и дышите ровно.",
+          "en": "Bring your shoulders directly over your wrists and your hips over your shoulders. Push the floor away so your shoulders lift toward your ears. Draw your lower belly in, look between your hands and breathe steadily."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "952afaba-858f-414e-b4a4-318b8e447e1e",
+        "title": {
+          "ru": "Спуститесь",
+          "en": "Come down"
+        },
+        "body": {
+          "ru": "Шаг за шагом опустите стопы по стене, вернитесь в собаку мордой вниз и опустите колени. Отдохните в позе ребёнка.",
+          "en": "Walk your feet down the wall one at a time, return to Downward-Facing Dog and lower your knees. Rest in Child’s Pose."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "serratus"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "core-abs"
+      }
+    ],
+    "anatomy": {
+      "ru": "Кисти и предплечья распределяют вес по ладоням. Дельтовидные мышцы, трицепсы и передние зубчатые мышцы держат руки прямыми и поднимают плечи к ушам. Мышцы живота помогают удерживать рёбра и таз в одной линии.",
+      "en": "Your hands and forearms spread the load across your palms. Your deltoids, triceps and serratus anterior keep your arms straight and lift your shoulders toward your ears. Your abdominal muscles help keep your ribs and pelvis in line."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "wrist-warmup",
+        "title": {
+          "ru": "Разминка запястий",
+          "en": "Wrist warm-up"
+        },
+        "body": {
+          "ru": "Перед каждым подходом подготовьте кисти к опоре на прямые руки.",
+          "en": "Before every attempt, prepare your wrists for straight-arm weight bearing."
+        }
+      },
+      {
+        "exerciseSlug": "wall-walk",
+        "title": {
+          "ru": "Подъём по стене",
+          "en": "Wall Walk"
+        },
+        "body": {
+          "ru": "Из планки стопами к стене шагайте ногами вверх, а руками ближе к стене. Так вы привыкаете к весу на руках вниз головой.",
+          "en": "From a plank with your feet at the wall, walk your feet up and your hands closer. It gets you used to bearing weight on your hands upside down."
+        }
+      },
+      {
+        "exerciseSlug": "scapular-push-ups",
+        "title": {
+          "ru": "Отжимания лопатками",
+          "en": "Scapular Push-Ups"
+        },
+        "body": {
+          "ru": "Учат активно отталкивать пол и управлять лопатками.",
+          "en": "Teach you to push the floor away actively and control your shoulder blades."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Бёдра не над плечами",
+          "en": "Hips not over the shoulders"
+        },
+        "why": {
+          "ru": "Если ладони стоят слишком далеко от стены, корпус наклоняется, поясница прогибается, а плечи перегружаются.",
+          "en": "If your hands are too far from the wall, your torso tilts, your lower back arches and your shoulders take extra load."
+        },
+        "fix": {
+          "ru": "Перемерьте расстояние и поставьте ладони так, чтобы запястья, плечи и бёдра оказались на одной вертикали.",
+          "en": "Re-measure the distance and place your hands so your wrists, shoulders and hips line up vertically."
+        }
+      },
+      {
+        "title": {
+          "ru": "Проседание в плечах",
+          "en": "Sinking into the shoulders"
+        },
+        "why": {
+          "ru": "Без активного отталкивания вес провисает в суставах, а шея сжимается.",
+          "en": "Without an active push, your weight hangs in the joints and your neck feels compressed."
+        },
+        "fix": {
+          "ru": "Выталкивайте пол ладонями, как будто хотите стать выше, и поднимайте плечи к ушам.",
+          "en": "Push the floor away as if trying to grow taller, lifting your shoulders toward your ears."
+        }
+      },
+      {
+        "title": {
+          "ru": "Прогиб в пояснице",
+          "en": "Arching the lower back"
+        },
+        "why": {
+          "ru": "Рёбра выходят вперёд, линия корпуса ломается, а нагрузка смещается в поясницу.",
+          "en": "Your ribs flare, the line of your torso breaks and the load moves into your lower back."
+        },
+        "fix": {
+          "ru": "Втяните низ живота и направьте рёбра внутрь, как в удержании «лодочки» на спине.",
+          "en": "Draw your lower belly in and knit your ribs together, as in a hollow body hold."
+        }
+      }
+    ],
+    "easier": [
+      "ardha-pincha-mayurasana"
+    ],
+    "harder": [
+      "adho-mukha-vrksasana",
+      "tuck-handstand"
+    ],
+    "related": [
+      "pincha-mayurasana",
+      "tripod-headstand"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Собака мордой вниз пятками к стене",
+          "en": "Downward Dog with heels at the wall"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 5,
+        "label": {
+          "ru": "Стопы поднимаются по стене",
+          "en": "Feet walk up the wall"
+        }
+      },
+      {
+        "fromSec": 5,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: бёдра над плечами, ноги параллельны полу",
+          "en": "Hold: hips over shoulders, legs parallel to the floor"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Стопы спускаются, возврат в собаку",
+          "en": "Feet walk down, back to Downward Dog"
+        }
+      }
+    ],
+    "sources": []
+  }
+}

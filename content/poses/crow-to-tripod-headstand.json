@@ -1,0 +1,312 @@
+{
+  "slug": "crow-to-tripod-headstand",
+  "category": "transitions",
+  "level": "advanced",
+  "skills": [
+    "core-control",
+    "inversion",
+    "arm-strength"
+  ],
+  "sortWeight": 72,
+  "motion": {
+    "view": "side",
+    "contacts": [
+      "hands",
+      "head"
+    ],
+    "entry": "0-2s Bakasana: palms shoulder-width, knees high on the upper arms, feet lifted; 2-4s elbows bend further toward 90°, shoulders move forward, the crown of the head lowers slowly to the mat ahead of the hands so head and palms form a triangle, knees still resting on the arms.",
+    "hold": "4-6s knees lift off the arms and the hips rise over the shoulders in a tuck; 6-8s legs extend straight up into Tripod Headstand: forearms vertical, elbows over the wrists and pointing back, most weight in the hands, hips over the shoulders, legs together, toes pointed (poster frame).",
+    "exit": "8-10s legs fold back into a tuck and the feet lower to the mat; the head lifts last."
+  },
+  "doc": {
+    "name": {
+      "ru": "Из вороны в стойку на голове",
+      "en": "Crow to Tripod Headstand"
+    },
+    "subtitle": {
+      "ru": "Из бакасаны в Саламба Ширшасану II",
+      "en": "Bakasana to Salamba Sirsasana II"
+    },
+    "sanskrit": "",
+    "altNames": [
+      "Ворона — стойка на голове",
+      "Бакасана — Ширшасана II",
+      "Crow to headstand",
+      "Crow to tripod",
+      "Bakasana to Sirsasana II"
+    ],
+    "summary": {
+      "ru": "Переход из бакасаны в стойку на голове с опорой на ладони: макушка опускается перед ладонями, колени отрываются от рук, а ноги поднимаются вверх.",
+      "en": "A transition from Bakasana into Tripod Headstand: the crown of your head lowers in front of your hands, your knees leave your arms and your legs rise up."
+    },
+    "about": {
+      "ru": "Связка из бакасаны в Саламба Ширшасану II. Из вороны вы сильнее сгибаете локти и медленно опускаете макушку на коврик впереди ладоней, так что голова и ладони образуют треугольник. Затем колени отрываются от рук, бёдра поднимаются над плечами, и ноги выпрямляются вверх. Большая часть веса остаётся на ладонях, а не на голове и шее. Переход требует контроля корпуса, силы рук и уверенной стойки на голове, поэтому он отнесён к продвинутому уровню.",
+      "en": "A link from Bakasana into Salamba Sirsasana II. From Crow you bend your elbows further and slowly lower the crown of your head to the mat in front of your hands, so your head and hands form a triangle. Then your knees leave your arms, your hips rise over your shoulders and your legs extend upward. Most of your weight stays in your hands rather than on your head and neck. It requires core control, arm strength and a steady tripod headstand, which is why it is rated advanced."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно держите бакасану 20–30 секунд.",
+        "en": "You can hold Bakasana steadily for 20–30 seconds."
+      },
+      {
+        "ru": "Уверенно выполняете стойку на голове с опорой на ладони и выходите из неё под контролем.",
+        "en": "You can do a Tripod Headstand and come out of it with control."
+      },
+      {
+        "ru": "В подготовке к стойке на голове держите вес в основном на руках, без боли в шее.",
+        "en": "In headstand preparation, you can keep most of your weight in your arms without neck pain."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Положите под голову сложенное одеяло или мягкий коврик и освободите пространство вокруг.",
+        "en": "Place a folded blanket or soft mat under your head and clear the space around you."
+      },
+      {
+        "ru": "Опускайте голову медленно и под контролем, не падайте на макушку. Если голова касается коврика с ударом, вернитесь к подготовительным упражнениям.",
+        "en": "Lower your head slowly and with control; never drop onto the crown. If your head lands with a bump, return to the preparatory exercises."
+      },
+      {
+        "ru": "При боли в шее, головокружении или неприятных ощущениях в голове сразу выйдите из позы.",
+        "en": "Come out at once if you feel neck pain, dizziness or discomfort in your head."
+      },
+      {
+        "ru": "При травмах шеи, повышенном давлении, глаукоме или беременности обсудите перевёрнутые позы со специалистом.",
+        "en": "If you have a neck injury, high blood pressure, glaucoma or are pregnant, discuss inversions with a qualified healthcare professional."
+      }
+    ],
+    "steps": [
+      {
+        "key": "e4cc5a85-ab1f-4e64-996a-d94fd879576e",
+        "title": {
+          "ru": "Войдите в ворону",
+          "en": "Set up Crow"
+        },
+        "body": {
+          "ru": "Выйдите в бакасану: ладони на ширине плеч, колени высоко на руках.",
+          "en": "Come into Bakasana with your palms shoulder-width apart and your knees high on your arms."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "da824480-f114-47c1-bf34-d7dc24cab68b",
+        "title": {
+          "ru": "Опустите голову",
+          "en": "Lower your head"
+        },
+        "body": {
+          "ru": "Сгибайте локти назад до прямого угла и подавайте плечи вперёд. Медленно опустите макушку на коврик впереди ладоней, чтобы голова и ладони образовали треугольник.",
+          "en": "Bend your elbows back toward a right angle and move your shoulders forward. Slowly lower the crown of your head to the mat in front of your hands so your head and hands form a triangle."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "458c621d-cc07-495a-a995-445be3afb8b5",
+        "title": {
+          "ru": "Выстройте опору",
+          "en": "Build the base"
+        },
+        "body": {
+          "ru": "Предплечья вертикальны, локти над запястьями. Прижимайте ладони так, чтобы большая часть веса оставалась на руках.",
+          "en": "Keep your forearms vertical and your elbows over your wrists. Press your palms down so most of your weight stays in your arms."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "f618408e-4b4f-4bfa-9335-f4b82cbf994f",
+        "title": {
+          "ru": "Поднимите бёдра",
+          "en": "Lift the hips"
+        },
+        "body": {
+          "ru": "Втяните живот, снимите колени с рук и поднимите бёдра над плечами, держа колени согнутыми у груди.",
+          "en": "Draw your belly in, release your knees from your arms and lift your hips over your shoulders, keeping your knees bent close to your chest."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "9eae7d32-8269-4940-b6ad-aa58d1c462c6",
+        "title": {
+          "ru": "Выпрямите ноги",
+          "en": "Extend the legs"
+        },
+        "body": {
+          "ru": "Медленно выпрямите ноги вверх и соедините их. Тянитесь стопами к потолку и дышите ровно.",
+          "en": "Slowly straighten your legs up and bring them together. Reach your feet toward the ceiling and breathe steadily."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "9a30f120-967e-46b1-aabd-41b17bd8d14b",
+        "title": {
+          "ru": "Выйдите из позы",
+          "en": "Come down"
+        },
+        "body": {
+          "ru": "Согните колени, опустите стопы на коврик и отдохните несколько вдохов в позе ребёнка, прежде чем подняться.",
+          "en": "Bend your knees, lower your feet to the mat and rest in Child’s Pose for a few breaths before sitting up."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "hip-flexors"
+      },
+      {
+        "key": "neck"
+      }
+    ],
+    "anatomy": {
+      "ru": "Кисти, предплечья, трицепсы и плечи держат большую часть веса и управляют опусканием головы. Мышцы живота и сгибатели бедра поднимают таз и контролируют подъём ног. Мышцы шеи стабилизируют голову, пока руки берут на себя основную нагрузку.",
+      "en": "Your hands, forearms, triceps and shoulders carry most of the weight and control the lowering of your head. Your abdominal muscles and hip flexors lift your pelvis and control the rise of your legs. Your neck muscles stabilize your head while your arms take most of the load."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "headstand-prep",
+        "title": {
+          "ru": "Подготовка к стойке на голове",
+          "en": "Headstand Preparation"
+        },
+        "body": {
+          "ru": "Отработайте треугольник из головы и ладоней и привычку держать вес на руках.",
+          "en": "Practice the head-and-hands triangle and the habit of keeping your weight in your arms."
+        }
+      },
+      {
+        "exerciseSlug": "crow-weight-shift",
+        "title": {
+          "ru": "Перенос веса с носками на полу",
+          "en": "Weight shift with toes down"
+        },
+        "body": {
+          "ru": "Отработайте перенос веса вперёд и сгибание локтей назад под контролем.",
+          "en": "Practice shifting forward and bending your elbows back with control."
+        }
+      },
+      {
+        "exerciseSlug": "tuck-lift-on-blocks",
+        "title": {
+          "ru": "Подъём в группировке на блоках",
+          "en": "Tuck Lift on Blocks"
+        },
+        "body": {
+          "ru": "Укрепляет корпус для подъёма бёдер над плечами.",
+          "en": "Strengthens your core for lifting your hips over your shoulders."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Падение на голову",
+          "en": "Dropping onto the head"
+        },
+        "why": {
+          "ru": "Удар и резкая нагрузка приходятся на шею.",
+          "en": "The impact and sudden load go into your neck."
+        },
+        "fix": {
+          "ru": "Опускайте голову медленно, сгибая локти под контролем; при необходимости сначала поставьте носки на коврик.",
+          "en": "Lower your head slowly by bending your elbows with control; if needed, rest your toes on the mat first."
+        }
+      },
+      {
+        "title": {
+          "ru": "Голова на одной линии с ладонями",
+          "en": "Head in line with the hands"
+        },
+        "why": {
+          "ru": "Треугольник опоры исчезает, предплечья наклоняются, и баланс теряется.",
+          "en": "The triangle of support disappears, your forearms tilt and you lose the balance."
+        },
+        "fix": {
+          "ru": "Опускайте макушку впереди ладоней так, чтобы предплечья оставались вертикальными.",
+          "en": "Place your crown in front of your hands so your forearms stay vertical."
+        }
+      },
+      {
+        "title": {
+          "ru": "Локти расходятся",
+          "en": "Elbows splaying out"
+        },
+        "why": {
+          "ru": "Плечи теряют опору, и вес смещается на голову.",
+          "en": "Your shoulders lose support and the weight shifts onto your head."
+        },
+        "fix": {
+          "ru": "Держите локти над запястьями, на ширине плеч, и направляйте их назад.",
+          "en": "Keep your elbows over your wrists, shoulder-width apart and pointing back."
+        }
+      }
+    ],
+    "easier": [
+      "bakasana",
+      "tripod-headstand"
+    ],
+    "harder": [
+      "tripod-headstand-to-crow"
+    ],
+    "related": [
+      "tripod-headstand",
+      "jump-to-crow",
+      "salamba-sirsasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Удержание бакасаны",
+          "en": "Hold Bakasana"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Локти сгибаются, макушка опускается",
+          "en": "Elbows bend, crown lowers"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Колени отрываются, бёдра над плечами",
+          "en": "Knees lift off, hips over shoulders"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Ноги вверх: стойка на голове",
+          "en": "Legs up: Tripod Headstand"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Ноги складываются, стопы на коврик",
+          "en": "Legs fold, feet to the mat"
+        }
+      }
+    ],
+    "sources": []
+  }
+}

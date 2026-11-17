@@ -1,0 +1,318 @@
+{
+  "slug": "salamba-sirsasana",
+  "category": "forearm-balances",
+  "level": "intermediate",
+  "skills": [
+    "inversion",
+    "core-control",
+    "shoulder-mobility"
+  ],
+  "sortWeight": 44,
+  "motion": {
+    "view": "side",
+    "contacts": [
+      "forearms",
+      "head"
+    ],
+    "entry": "0-2s kneeling, forearms on the mat with elbows shoulder-width, fingers interlaced, crown of the head on the mat with the back of the head cupped by the palms; 2-4s knees lift, legs straighten, feet walk in until the hips are over the shoulders, back nearly vertical.",
+    "hold": "4-6s knees bend into a tuck, feet float off the mat without a hop, then knees rise toward the ceiling and legs straighten; 6-8s hold: body in one vertical line from crown to heels, legs together, forearms pressing down, shoulders lifted away from the mat, neck long, gaze straight ahead (poster frame).",
+    "exit": "8-10s knees bend, feet lower slowly to the mat, settle into Child's Pose with the forehead down."
+  },
+  "doc": {
+    "name": {
+      "ru": "Стойка на голове",
+      "en": "Supported Headstand"
+    },
+    "subtitle": {
+      "ru": "Саламба Ширшасана",
+      "en": "Salamba Sirsasana"
+    },
+    "sanskrit": "Salamba Sirsasana",
+    "altNames": [
+      "Саламба Ширшасана",
+      "Ширшасана",
+      "Sirsasana",
+      "Shirshasana",
+      "Salamba Sirsasana I",
+      "Headstand",
+      "Стойка на голове",
+      "Sālamba Śīrṣāsana"
+    ],
+    "summary": {
+      "ru": "Классическая стойка на голове: предплечья на коврике, пальцы в замке обхватывают затылок, тело выстроено вертикально.",
+      "en": "The classic headstand: the forearms rest on the mat, the interlaced fingers cup the back of the head and the body lines up vertically."
+    },
+    "about": {
+      "ru": "Классическая стойка на голове. Предплечья лежат на коврике, локти на ширине плеч, пальцы сцеплены в замок и обхватывают затылок, а макушка стоит на полу. Корпус и ноги выстроены в одну вертикаль. Здесь описан основной вариант с опорой на предплечья (Саламба Ширшасана I по классификации Айенгара) и вход с согнутыми коленями. Поза относится к перевёрнутым и требует устойчивых плеч, контроля корпуса и бережного отношения к шее, поэтому её осваивают с преподавателем и у стены.",
+      "en": "The classic headstand. The forearms rest on the mat with the elbows shoulder-width apart, the interlaced fingers cup the back of the head, and the crown of the head rests on the floor. The torso and legs line up vertically. This card describes the main forearm-supported form (Salamba Sirsasana I in Iyengar’s system) with a bent-knee entry. It is an inversion that calls for stable shoulders, core control and care for the neck, which is why it is learned with a teacher and at a wall."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно держите Дельфина 30–60 секунд, не опуская плечи.",
+        "en": "You can hold Dolphin Pose for 30–60 seconds without your shoulders sinking."
+      },
+      {
+        "ru": "Держите исходное положение стойки с поднятым тазом и подошедшими к голове стопами без дискомфорта в шее.",
+        "en": "You can hold the headstand setup with your hips lifted and your feet walked in, without neck discomfort."
+      },
+      {
+        "ru": "Удерживаете «лодочку» на спине 20–30 секунд.",
+        "en": "You can hold a hollow body position for 20–30 seconds."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "При проблемах или травмах шеи, повышенном давлении, глаукоме или других заболеваниях глаз, а также при беременности обсудите перевёрнутые позы со специалистом до начала практики.",
+        "en": "If you have neck problems or a neck injury, high blood pressure, glaucoma or another eye condition, or are pregnant, discuss inversions with a qualified healthcare professional before you practice them."
+      },
+      {
+        "ru": "Некоторые преподаватели советуют не выполнять перевёрнутые позы во время менструации. Ориентируйтесь на самочувствие и рекомендации своего преподавателя.",
+        "en": "Some teachers advise avoiding inversions during menstruation. Go by how you feel and your teacher’s guidance."
+      },
+      {
+        "ru": "Осваивайте позу с квалифицированным преподавателем и у стены: сцепленные кисти — в нескольких сантиметрах от неё. Положите под предплечья и голову плотно сложенный коврик или одеяло.",
+        "en": "Learn the pose with a qualified teacher and at a wall, with your interlaced hands a few centimeters from it. Place a firmly folded mat or blanket under your forearms and head."
+      },
+      {
+        "ru": "Не поворачивайте голову в позе. При боли или давлении в шее, голове или глазах опустите ноги и отдохните в позе ребёнка.",
+        "en": "Do not turn your head in the pose. If you feel pain or pressure in your neck, head or eyes, lower your legs and rest in Child’s Pose."
+      }
+    ],
+    "steps": [
+      {
+        "key": "30215613-4d3d-4c28-abb7-c8d2d00b7394",
+        "title": {
+          "ru": "Поставьте предплечья",
+          "en": "Set your forearms"
+        },
+        "body": {
+          "ru": "Встаньте на колени. Возьмитесь ладонями за противоположные локти, чтобы отмерить ширину плеч, и опустите предплечья на коврик.",
+          "en": "Kneel down. Hold your opposite elbows to measure shoulder width, then lower your forearms to the mat."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "ce67ca73-ab64-4ebb-9d19-9253ceab47dd",
+        "title": {
+          "ru": "Сцепите пальцы",
+          "en": "Interlace your fingers"
+        },
+        "body": {
+          "ru": "Не сдвигая локти, сцепите пальцы в замок. Поставьте макушку на коврик так, чтобы затылок касался ладоней.",
+          "en": "Without moving your elbows, interlace your fingers. Set the crown of your head on the mat so the back of your head touches your palms."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "e34db882-ab20-40a3-8715-83ec94651cb5",
+        "title": {
+          "ru": "Поднимите таз",
+          "en": "Lift your hips"
+        },
+        "body": {
+          "ru": "Надавите предплечьями на коврик и поднимите плечи. Выпрямите ноги и подойдите стопами к голове, пока таз не окажется над плечами.",
+          "en": "Press your forearms into the mat and lift your shoulders. Straighten your legs and walk your feet toward your head until your hips are over your shoulders."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "8c4e0f18-bc23-4b26-92bf-c760b0c53be9",
+        "title": {
+          "ru": "Оторвите стопы",
+          "en": "Lift your feet"
+        },
+        "body": {
+          "ru": "Согните колени, подтяните их к груди и оторвите стопы от коврика без толчка. Задержитесь в группировке на несколько вдохов.",
+          "en": "Bend your knees, draw them toward your chest and lift your feet off the mat without a hop. Pause in the tuck for a few breaths."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "e7402ed7-3bc9-457c-b8ce-00fc7f3e2a6b",
+        "title": {
+          "ru": "Выпрямите ноги",
+          "en": "Straighten your legs"
+        },
+        "body": {
+          "ru": "Поднимите колени к потолку и выпрямите ноги. Стопы вместе, тело на одной вертикали. Продолжайте давить предплечьями в пол, смотрите прямо и дышите ровно.",
+          "en": "Raise your knees toward the ceiling and straighten your legs. Feet together, body in one vertical line. Keep pressing your forearms into the floor, look straight ahead and breathe evenly."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "4c5cdb61-8509-498e-92ee-22d90defa290",
+        "title": {
+          "ru": "Выйдите из позы",
+          "en": "Come down"
+        },
+        "body": {
+          "ru": "Согните колени и медленно опустите стопы на коврик. Отдохните в позе ребёнка несколько вдохов, прежде чем поднять голову.",
+          "en": "Bend your knees and slowly lower your feet to the mat. Rest in Child’s Pose for a few breaths before you lift your head."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "upper-back"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "hip-flexors"
+      },
+      {
+        "key": "lower-back"
+      },
+      {
+        "key": "neck"
+      }
+    ],
+    "anatomy": {
+      "ru": "Дельтовидные мышцы и мышцы верхней части спины поднимают плечи от коврика и сохраняют длину шеи. Мышцы живота и сгибатели бедра поднимают ноги без маха, а разгибатели спины держат корпус вертикально. Мышцы шеи удерживают голову в нейтральном положении.",
+      "en": "Your deltoids and upper-back muscles lift your shoulders away from the mat and keep your neck long. Your abdominal muscles and hip flexors lift your legs without a swing, while your back extensors keep your torso vertical. Your neck muscles hold your head in a neutral position."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "headstand-prep",
+        "title": {
+          "ru": "Подготовка к стойке на голове",
+          "en": "Headstand preparation"
+        },
+        "body": {
+          "ru": "Отрабатывает постановку предплечий и головы и подъём таза со стопами на коврике.",
+          "en": "Practices the forearm and head setup and the hip lift with your feet on the mat."
+        }
+      },
+      {
+        "exerciseSlug": "dolphin-push-ups",
+        "title": {
+          "ru": "Отжимания в дельфине",
+          "en": "Dolphin push-ups"
+        },
+        "body": {
+          "ru": "Укрепляют плечи, которые удерживают основание стойки.",
+          "en": "Strengthen the shoulders that hold the base of the headstand."
+        }
+      },
+      {
+        "exerciseSlug": "hollow-body-hold",
+        "title": {
+          "ru": "Удержание «лодочки» на спине",
+          "en": "Hollow body hold"
+        },
+        "body": {
+          "ru": "Учит держать корпус единой линией, когда ноги поднимаются.",
+          "en": "Teaches you to hold your torso as one line as your legs lift."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Локти расходятся",
+          "en": "Elbows widening"
+        },
+        "why": {
+          "ru": "Основание теряет устойчивость, и вес проваливается в голову и шею.",
+          "en": "The base loses stability and the weight sinks into your head and neck."
+        },
+        "fix": {
+          "ru": "Отмерьте ширину плеч, взявшись за локти, и сохраняйте её всё время в позе.",
+          "en": "Measure shoulder width by holding your elbows, and keep that width throughout the pose."
+        }
+      },
+      {
+        "title": {
+          "ru": "Опора на лоб или затылок",
+          "en": "Resting on the forehead or back of the head"
+        },
+        "why": {
+          "ru": "Шея сгибается или прогибается и сжимается под весом тела.",
+          "en": "Your neck bends forward or back and gets compressed under your body weight."
+        },
+        "fix": {
+          "ru": "Ставьте на коврик макушку, чтобы шея продолжала линию позвоночника.",
+          "en": "Place the crown of your head on the mat so your neck continues the line of your spine."
+        }
+      },
+      {
+        "title": {
+          "ru": "Подъём махом",
+          "en": "Kicking up"
+        },
+        "why": {
+          "ru": "Рывок нагружает шею и может перебросить вас через спину.",
+          "en": "The jolt loads your neck and can tip you over onto your back."
+        },
+        "fix": {
+          "ru": "Подходите стопами, пока таз не окажется над плечами, и поднимайте ноги через группировку.",
+          "en": "Walk your feet in until your hips are over your shoulders, and lift your legs through a tuck."
+        }
+      }
+    ],
+    "easier": [
+      "ardha-pincha-mayurasana"
+    ],
+    "harder": [
+      "pincha-mayurasana"
+    ],
+    "related": [
+      "tripod-headstand",
+      "salamba-sarvangasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "На коленях, предплечья и голова на коврике",
+          "en": "Kneeling, forearms and head set"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Таз поднимается, стопы подходят к голове",
+          "en": "Hips lift, feet walk toward the head"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Группировка, затем колени вверх",
+          "en": "Tuck, then knees rise"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: тело вертикально",
+          "en": "Hold: body vertical"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Стопы на коврик, поза ребёнка",
+          "en": "Feet down, Child’s Pose"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Salamba Sirsasana I",
+        "note": "Classical description of the pose; the bent-knee entry is a common teaching progression."
+      }
+    ]
+  }
+}

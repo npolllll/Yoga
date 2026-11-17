@@ -1,0 +1,298 @@
+{
+  "slug": "niralamba-sarvangasana",
+  "category": "shoulder-balances",
+  "level": "expert",
+  "skills": [
+    "inversion",
+    "core-control",
+    "balance-coordination"
+  ],
+  "sortWeight": 96,
+  "motion": {
+    "view": "side",
+    "contacts": [
+      "shoulders"
+    ],
+    "entry": "0-2s already in Salamba Sarvangasana on a folded-blanket stack: torso and legs vertical, palms on the upper back, elbows shoulder-width, back of the head on the mat; 2-4s one hand releases and that arm lays straight on the mat beyond the head, then the other.",
+    "hold": "4-6s both arms lift off the mat and sweep up over the face until they reach alongside the torso, palms toward the thighs; 6-8s hold: body in one vertical line from shoulders to toes, legs together, arms parallel to the torso pointing up, weight on the shoulders and upper back, back of the head resting on the mat, head still, gaze toward the chest (poster frame).",
+    "exit": "8-10s palms return to the back, knees bend toward the forehead, spine rolls down slowly, legs return to the mat."
+  },
+  "doc": {
+    "name": {
+      "ru": "Стойка на плечах без опоры рук",
+      "en": "Unsupported Shoulder Stand"
+    },
+    "subtitle": {
+      "ru": "Нираламба Сарвангасана",
+      "en": "Niralamba Sarvangasana"
+    },
+    "sanskrit": "Niralamba Sarvangasana",
+    "altNames": [
+      "Нираламба Сарвангасана",
+      "Niralamba Sarvangasana",
+      "Nirālamba Sarvāṅgāsana",
+      "Стойка на плечах без рук",
+      "No-Hands Shoulder Stand",
+      "Unsupported Shoulderstand"
+    ],
+    "summary": {
+      "ru": "Стойка на плечах без поддержки ладонями: тело вертикально, руки вытянуты вверх вдоль корпуса, равновесие держится на плечах и верхней части спины.",
+      "en": "A shoulder stand without hand support: the body is vertical, the arms reach up alongside the torso and the balance rests on the shoulders and upper back."
+    },
+    "about": {
+      "ru": "Стойка на плечах, в которой ладони не поддерживают спину. Тело выстроено вертикально, руки вытянуты вверх вдоль корпуса, ладони у бёдер, а опора приходится на плечи, верхнюю часть спины и затылок. Здесь показан именно этот вариант; в другой форме руки лежат на коврике за головой, что даёт больше устойчивости. Без поддержки рук корпус держится только за счёт мышц спины, живота и ног, а нагрузка на шею и плечи выше, чем в Саламба Сарвангасане. Поэтому это поза экспертного уровня: к ней переходят только после долгой устойчивой практики стойки на плечах под руководством преподавателя.",
+      "en": "A shoulder stand in which the palms do not support the back. The body is vertical, the arms reach up alongside the torso with the palms near the thighs, and the support comes from the shoulders, upper back and back of the head. This card shows this form; in another form the arms rest on the mat behind the head, which gives more stability. Without hand support the torso stays up only through the muscles of the back, abdomen and legs, and the load on the neck and shoulders is higher than in Salamba Sarvangasana. That is why it is an expert-level pose that you approach only after long, steady shoulder stand practice under a teacher’s guidance."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно держите Саламба Сарвангасану несколько минут с прямым корпусом и без дискомфорта в шее.",
+        "en": "You can hold Salamba Sarvangasana for several minutes with a straight torso and no neck discomfort."
+      },
+      {
+        "ru": "Умеете плавно выходить из стойки на плечах, опуская спину позвонок за позвонком.",
+        "en": "You can come out of the shoulder stand smoothly, rolling your spine down vertebra by vertebra."
+      },
+      {
+        "ru": "Практикуете стойку на плечах под руководством квалифицированного преподавателя.",
+        "en": "You practice the shoulder stand under the guidance of a qualified teacher."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "При проблемах или травмах шеи, повышенном давлении, глаукоме или других заболеваниях глаз, а также при беременности обсудите перевёрнутые позы со специалистом до начала практики.",
+        "en": "If you have neck problems or a neck injury, high blood pressure, glaucoma or another eye condition, or are pregnant, discuss inversions with a qualified healthcare professional before you practice them."
+      },
+      {
+        "ru": "Некоторые преподаватели советуют не выполнять перевёрнутые позы во время менструации. Ориентируйтесь на самочувствие и рекомендации своего преподавателя.",
+        "en": "Some teachers advise avoiding inversions during menstruation. Go by how you feel and your teacher’s guidance."
+      },
+      {
+        "ru": "Выполняйте позу только на сложенных одеялах и под присмотром преподавателя. Не поворачивайте голову.",
+        "en": "Practice only on folded blankets and under a teacher’s supervision. Do not turn your head."
+      },
+      {
+        "ru": "Если корпус начинает раскачиваться или появляется боль либо давление в шее, голове или глазах, верните ладони на спину и выйдите из позы.",
+        "en": "If your torso starts to sway or you feel pain or pressure in your neck, head or eyes, return your palms to your back and come out of the pose."
+      }
+    ],
+    "steps": [
+      {
+        "key": "e5d9f855-7301-40cd-a5b1-baef2afcd3a7",
+        "title": {
+          "ru": "Войдите в стойку на плечах",
+          "en": "Come into the shoulder stand"
+        },
+        "body": {
+          "ru": "На стопке одеял выполните Саламба Сарвангасану: ладони у лопаток, корпус и ноги вертикально.",
+          "en": "On a stack of blankets, come into Salamba Sarvangasana: palms near your shoulder blades, torso and legs vertical."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "c7771148-e3f2-47b0-8c5b-99e543623b70",
+        "title": {
+          "ru": "Найдите устойчивость",
+          "en": "Find stability"
+        },
+        "body": {
+          "ru": "Выведите бёдра точно над плечами, сведите ноги и напрягите их. Сделайте несколько ровных вдохов, прежде чем убирать руки.",
+          "en": "Bring your hips directly over your shoulders, draw your legs together and engage them. Take a few even breaths before you release your hands."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "95859fdd-08a8-4f91-8813-87eb8f132484",
+        "title": {
+          "ru": "Освободите руки по одной",
+          "en": "Release one hand at a time"
+        },
+        "body": {
+          "ru": "Уберите одну ладонь со спины и положите руку на коврик за головой, затем вторую. Корпус остаётся вертикальным.",
+          "en": "Release one palm from your back and lay that arm on the mat behind your head, then the other. Your torso stays vertical."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "e754be08-0b89-42cc-be52-9bd489de9bd1",
+        "title": {
+          "ru": "Поднимите руки вдоль тела",
+          "en": "Raise your arms alongside your body"
+        },
+        "body": {
+          "ru": "Оторвите руки от коврика и вытяните их вверх вдоль корпуса, ладони у бёдер. Держите голову неподвижно, смотрите на грудь и дышите ровно. Начните с нескольких вдохов.",
+          "en": "Lift your arms off the mat and reach them up alongside your torso, palms near your thighs. Keep your head still, look toward your chest and breathe evenly. Start with a few breaths."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "894faf6a-7ba8-40e6-85ab-b576442edd98",
+        "title": {
+          "ru": "Выйдите из позы",
+          "en": "Come down"
+        },
+        "body": {
+          "ru": "Верните ладони на спину. Согните колени к лбу и медленно опустите позвоночник на коврик. Полежите несколько вдохов.",
+          "en": "Return your palms to your back. Bend your knees toward your forehead and slowly roll your spine down to the mat. Rest for a few breaths."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "upper-back"
+      },
+      {
+        "key": "lower-back"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "glutes"
+      },
+      {
+        "key": "shoulders-deltoids"
+      }
+    ],
+    "anatomy": {
+      "ru": "Без поддержки рук разгибатели спины и мышцы верхней части спины удерживают корпус вертикально. Мышцы живота, ягодиц и ног не дают тазу и ногам отклоняться. Дельтовидные мышцы держат руки поднятыми вдоль тела.",
+      "en": "Without hand support, your back extensors and upper-back muscles keep your torso vertical. Your abdominal, gluteal and leg muscles keep your pelvis and legs from drifting. Your deltoids hold your arms up alongside your body."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "bridge-pose",
+        "title": {
+          "ru": "Мост на лопатках",
+          "en": "Bridge Pose"
+        },
+        "body": {
+          "ru": "Укрепляет мышцы спины и ягодиц, которые держат таз над плечами.",
+          "en": "Strengthens the back and gluteal muscles that keep your pelvis over your shoulders."
+        }
+      },
+      {
+        "exerciseSlug": "hollow-body-hold",
+        "title": {
+          "ru": "Удержание «лодочки» на спине",
+          "en": "Hollow body hold"
+        },
+        "body": {
+          "ru": "Учит держать корпус и ноги единой линией за счёт мышц живота.",
+          "en": "Teaches you to hold your torso and legs as one line using your abdominal muscles."
+        }
+      },
+      {
+        "title": {
+          "ru": "Руки на коврике за головой",
+          "en": "Arms on the mat behind the head"
+        },
+        "body": {
+          "ru": "Из Саламба Сарвангасаны освобождайте руки и кладите их за голову на несколько вдохов, не поднимая вверх.",
+          "en": "From Salamba Sarvangasana, release your hands and lay your arms behind your head for a few breaths without lifting them."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Корпус отклоняется, когда уходят руки",
+          "en": "Torso tilting as the hands release"
+        },
+        "why": {
+          "ru": "Без поддержки таз смещается, и вы резко скатываетесь из позы.",
+          "en": "Without support your pelvis drifts and you roll out of the pose abruptly."
+        },
+        "fix": {
+          "ru": "Перед тем как убрать руки, выведите бёдра над плечами и освобождайте ладони по одной.",
+          "en": "Stack your hips over your shoulders before you release, and free one palm at a time."
+        }
+      },
+      {
+        "title": {
+          "ru": "Вес съезжает на шею",
+          "en": "Weight sliding onto the neck"
+        },
+        "why": {
+          "ru": "Шея перегружается, особенно если голова прижата к полу.",
+          "en": "Your neck gets overloaded, especially if your head presses into the floor."
+        },
+        "fix": {
+          "ru": "Опирайтесь на плечи и верхнюю часть спины на одеялах. Если чувствуете нагрузку на шею, верните ладони на спину.",
+          "en": "Bear weight on your shoulders and upper back on the blankets. If you feel load in your neck, return your palms to your back."
+        }
+      },
+      {
+        "title": {
+          "ru": "Задержка дыхания",
+          "en": "Holding your breath"
+        },
+        "why": {
+          "ru": "Напряжение растёт, и равновесие становится менее устойчивым.",
+          "en": "Tension builds and your balance becomes less steady."
+        },
+        "fix": {
+          "ru": "Дышите ровно и держите позу несколько вдохов, а не до предела.",
+          "en": "Breathe evenly and hold for a few breaths rather than to your limit."
+        }
+      }
+    ],
+    "easier": [
+      "salamba-sarvangasana",
+      "ardha-sarvangasana"
+    ],
+    "harder": [],
+    "related": [
+      "salamba-sirsasana",
+      "pincha-mayurasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Стойка на плечах с поддержкой ладонями",
+          "en": "Shoulder stand with hand support"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Руки по одной ложатся за голову",
+          "en": "Arms release one at a time behind the head"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Руки поднимаются вдоль корпуса",
+          "en": "Arms rise alongside the torso"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание без опоры рук",
+          "en": "Hold without hand support"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Ладони на спину, спина опускается",
+          "en": "Palms to the back, spine rolls down"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Niralamba Sarvangasana",
+        "note": "The book describes unsupported shoulder stand forms; this card shows the form with the arms alongside the body."
+      }
+    ]
+  }
+}

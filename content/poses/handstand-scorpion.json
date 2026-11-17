@@ -1,0 +1,302 @@
+{
+  "slug": "handstand-scorpion",
+  "category": "handstands",
+  "level": "expert",
+  "skills": [
+    "arm-strength",
+    "flexibility",
+    "inversion"
+  ],
+  "sortWeight": 94,
+  "motion": {
+    "view": "side",
+    "contacts": [
+      "hands"
+    ],
+    "entry": "0-2s lunge, palms shoulder-width on the mat; 2-4s soft kick up to a straight handstand, legs together, gaze between the hands.",
+    "hold": "4-6s head lifts to gaze forward past the fingertips, chest opens and the arch begins in the upper back while the knees start to bend; 6-8s hold: arms straight, shoulders open and shifted slightly away from the fingers to counterbalance, whole back arched, knees bent, soles hovering above the crown of the head on the fingertip side, fingertips pressing into the mat (poster frame).",
+    "exit": "8-10s legs straighten back to a vertical handstand, head returns to neutral, one foot steps down after the other."
+  },
+  "doc": {
+    "name": {
+      "ru": "Скорпион в стойке на руках",
+      "en": "Handstand Scorpion"
+    },
+    "subtitle": {
+      "ru": "Врищикасана II",
+      "en": "Vrschikasana II"
+    },
+    "sanskrit": "Vrschikasana II",
+    "altNames": [
+      "Врищикасана II",
+      "Вришчикасана II",
+      "Скорпион на руках",
+      "Scorpion handstand",
+      "Handstand scorpion",
+      "Vrischikasana II",
+      "Vṛścikāsana II"
+    ],
+    "summary": {
+      "ru": "Стойка на руках с глубоким прогибом: голова поднята, колени согнуты, а стопы опускаются к макушке.",
+      "en": "A handstand with a deep backbend: head lifted, knees bent and the soles lowering toward the crown of the head."
+    },
+    "about": {
+      "ru": "Сочетание стойки на руках и глубокого прогиба назад. Руки прямые, грудь раскрыта, верх и низ спины прогнуты, колени согнуты, а стопы опускаются к голове; взгляд направлен вперёд, за кончики пальцев. Прогнутый корпус и ноги уравновешивают друг друга над ладонями, поэтому баланс ощущается совсем иначе, чем в прямой стойке. Нужны уверенная свободная стойка на руках, сильные плечи и подготовленная к прогибам спина, поэтому поза относится к экспертному уровню. Осваивайте её постепенно, у стены и под руководством преподавателя.",
+      "en": "A handstand combined with a deep backbend. Your arms are straight, your chest is open, your upper and lower back arch, your knees bend and your soles lower toward your head, with your gaze forward past your fingertips. The arched torso and the legs counterbalance each other over your palms, so the balance feels very different from a straight handstand. It requires a steady freestanding handstand, strong shoulders and a back prepared for backbends, which is why it is rated expert. Learn it gradually, at the wall and under a teacher’s guidance."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно держите свободную стойку на руках 20–30 секунд и умеете из неё выходить.",
+        "en": "You can hold a freestanding handstand for 20–30 seconds and come out of it with control."
+      },
+      {
+        "ru": "Спокойно выполняете глубокие прогибы, например мостик на руках (Урдхва Дханурасану), без боли в пояснице.",
+        "en": "You are comfortable in deep backbends such as Wheel Pose (Urdhva Dhanurasana) without lower-back pain."
+      },
+      {
+        "ru": "Знакомы с прогибом в перевёрнутом положении: скорпионом на предплечьях или прогибом в стойке у стены.",
+        "en": "You are familiar with backbending upside down, in Forearm Scorpion or in a handstand at the wall."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Прогрейте спину, плечи и запястья перед попыткой; не входите в прогиб без разминки.",
+        "en": "Warm up your back, shoulders and wrists before you try; never go into the backbend without a warm-up."
+      },
+      {
+        "ru": "Учитесь у стены: поставьте ладони дальше от стены, чем для обычной стойки, и опускайте стопы по стене. Работайте с преподавателем или страхующим.",
+        "en": "Learn at the wall: place your hands farther from it than for a regular handstand and lower your feet down the wall. Work with a teacher or spotter."
+      },
+      {
+        "ru": "Выходите из позы, выпрямляя ноги обратно в стойку. При резкой или нарастающей боли в спине, шее или запястьях прекратите.",
+        "en": "Come out by straightening your legs back into a handstand. Stop if you feel sharp or increasing pain in your back, neck or wrists."
+      },
+      {
+        "ru": "При повышенном давлении, глаукоме, беременности или травмах спины и шеи обсудите такую нагрузку со специалистом.",
+        "en": "If you have high blood pressure, glaucoma, are pregnant, or have a back or neck injury, discuss this load with a qualified healthcare professional."
+      }
+    ],
+    "steps": [
+      {
+        "key": "b41867df-c60e-4c2d-8fd6-cdcbf12dbe06",
+        "title": {
+          "ru": "Выйдите в стойку",
+          "en": "Kick up"
+        },
+        "body": {
+          "ru": "Поставьте ладони на ширине плеч, раскройте пальцы и мягким махом выйдите в прямую стойку.",
+          "en": "Place your palms shoulder-width apart, spread your fingers and kick up softly into a straight handstand."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "d9db0ca0-2fc8-44c0-949b-5d0d2e0fd38d",
+        "title": {
+          "ru": "Поднимите голову",
+          "en": "Lift your head"
+        },
+        "body": {
+          "ru": "Найдите баланс, затем поднимите голову и переведите взгляд вперёд, за кончики пальцев. Подушечки пальцев плотно прижаты к коврику.",
+          "en": "Find your balance, then lift your head and look forward past your fingertips. Keep your fingertips pressing into the mat."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "ac737863-0df5-4d01-b3e0-ccbd73bac27b",
+        "title": {
+          "ru": "Раскройте грудь",
+          "en": "Open your chest"
+        },
+        "body": {
+          "ru": "Раскройте грудь и начните прогиб с верхней части спины. Плечи остаются активными, руки прямые.",
+          "en": "Open your chest and begin the backbend from your upper back. Keep your shoulders active and your arms straight."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "1f5b32a4-5854-4f43-b549-c6f839d5727f",
+        "title": {
+          "ru": "Согните колени",
+          "en": "Bend your knees"
+        },
+        "body": {
+          "ru": "Медленно согните колени и опускайте стопы к голове, распределяя прогиб по всей спине. Дышите ровно и держите баланс пальцами.",
+          "en": "Slowly bend your knees and lower your feet toward your head, letting the arch spread along your whole back. Breathe steadily and balance with your fingers."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "26066ac4-34de-4036-bc05-499fb8a3d227",
+        "title": {
+          "ru": "Вернитесь в стойку",
+          "en": "Return to the handstand"
+        },
+        "body": {
+          "ru": "Выпрямите ноги вверх, верните голову в нейтральное положение и спуститесь шагом на коврик. Отдохните в позе ребёнка.",
+          "en": "Straighten your legs back up, return your head to neutral and step down to the mat. Rest in Child’s Pose."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "upper-back"
+      },
+      {
+        "key": "lower-back"
+      },
+      {
+        "key": "glutes"
+      }
+    ],
+    "anatomy": {
+      "ru": "Кисти и предплечья, особенно пальцы, удерживают баланс, когда ноги уходят за голову. Плечи и трицепсы держат прямые руки в раскрытом положении. Мышцы спины и ягодиц формируют прогиб, а передняя поверхность тела растягивается.",
+      "en": "Your hands and forearms, especially your fingers, hold the balance as your legs move over toward your head. Your shoulders and triceps keep your arms straight in an open position. Your back and gluteal muscles shape the arch while the front of your body lengthens."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "bridge-pose",
+        "title": {
+          "ru": "Мостик на лопатках",
+          "en": "Bridge Pose"
+        },
+        "body": {
+          "ru": "Мягко готовит спину и переднюю поверхность бёдер к прогибу.",
+          "en": "Gently prepares your back and the fronts of your hips for backbending."
+        }
+      },
+      {
+        "exerciseSlug": "handstand-kick-ups",
+        "title": {
+          "ru": "Махи в стойку у стены",
+          "en": "Handstand Kick-Ups at the Wall"
+        },
+        "body": {
+          "ru": "Выйдите в стойку спиной к стене и опускайте согнутые ноги по стене, понемногу углубляя прогиб.",
+          "en": "Kick up with your back to the wall and lower your bent legs down the wall, deepening the arch little by little."
+        }
+      },
+      {
+        "exerciseSlug": "wrist-warmup",
+        "title": {
+          "ru": "Разминка запястий",
+          "en": "Wrist warm-up"
+        },
+        "body": {
+          "ru": "Перед каждым подходом подготовьте кисти к нагрузке и активной работе пальцев.",
+          "en": "Before every attempt, prepare your wrists for the load and for active finger work."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Прогиб только в пояснице",
+          "en": "Bending only in the lower back"
+        },
+        "why": {
+          "ru": "Нагрузка сосредотачивается в одном отделе позвоночника, а грудь остаётся закрытой.",
+          "en": "The load concentrates in one part of your spine while your chest stays closed."
+        },
+        "fix": {
+          "ru": "Начинайте прогиб с груди и верхней части спины, а колени сгибайте постепенно.",
+          "en": "Start the arch from your chest and upper back, and bend your knees gradually."
+        }
+      },
+      {
+        "title": {
+          "ru": "Голова опущена",
+          "en": "Keeping the head down"
+        },
+        "why": {
+          "ru": "Грудь не раскрывается, и прогнутому корпусу нечем уравновесить ноги.",
+          "en": "Your chest stays closed and the arched torso cannot counterbalance your legs."
+        },
+        "fix": {
+          "ru": "Поднимите голову и смотрите вперёд, за кончики пальцев.",
+          "en": "Lift your head and look forward past your fingertips."
+        }
+      },
+      {
+        "title": {
+          "ru": "Резкое опускание ног",
+          "en": "Dropping the legs quickly"
+        },
+        "why": {
+          "ru": "Вес уходит за голову быстрее, чем пальцы успевают его остановить, и вас переносит.",
+          "en": "Your weight moves over faster than your fingers can stop it, and you tip over."
+        },
+        "fix": {
+          "ru": "Сгибайте колени медленно, а у стены опускайте стопы по ней.",
+          "en": "Bend your knees slowly, and at the wall, let your feet travel down it."
+        }
+      }
+    ],
+    "easier": [
+      "adho-mukha-vrksasana"
+    ],
+    "harder": [],
+    "related": [
+      "vrschikasana",
+      "pincha-mayurasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Выпад, ладони на коврик",
+          "en": "Lunge, hands on the mat"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Мах в прямую стойку",
+          "en": "Kick up to a straight handstand"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Голова поднимается, грудь раскрывается, колени сгибаются",
+          "en": "Head lifts, chest opens, knees bend"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: прогиб, стопы над головой",
+          "en": "Hold: deep arch, feet above the head"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Ноги выпрямляются, шаг на коврик",
+          "en": "Legs straighten, step down"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Vrschikasana II",
+        "note": "Classical description of the scorpion balance on the hands; the wall-based learning approach is a common teaching form."
+      }
+    ]
+  }
+}

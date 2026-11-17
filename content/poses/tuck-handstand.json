@@ -1,0 +1,290 @@
+{
+  "slug": "tuck-handstand",
+  "category": "handstands",
+  "level": "advanced",
+  "skills": [
+    "arm-strength",
+    "core-control",
+    "inversion"
+  ],
+  "sortWeight": 65,
+  "motion": {
+    "view": "side",
+    "contacts": [
+      "hands"
+    ],
+    "entry": "0-2s crouch on the balls of the feet, palms shoulder-width on the mat in front of the feet, arms straight; 2-5s shoulders lean slightly forward past the wrists (toward the fingers), a small two-foot hop lifts the hips up over the shoulders while the knees stay tucked to the chest.",
+    "hold": "5-8s tuck hold: arms straight, shoulders pushing away from the floor and slightly ahead of the wrists toward the fingers, hips high over the hands, back gently rounded, knees close to the chest on the belly side, heels near the glutes, toes pointed, gaze between the hands (poster frame).",
+    "exit": "8-10s hips lower slowly, feet land softly together back in the crouch."
+  },
+  "doc": {
+    "name": {
+      "ru": "Стойка на руках в группировке",
+      "en": "Tuck Handstand"
+    },
+    "subtitle": {
+      "ru": "Вариант стойки на руках",
+      "en": "Handstand variation"
+    },
+    "sanskrit": "",
+    "altNames": [
+      "Стойка в группировке",
+      "Группировка в стойке на руках",
+      "Стойка на руках с согнутыми ногами",
+      "Tuck handstand",
+      "Tucked handstand"
+    ],
+    "summary": {
+      "ru": "Стойка на прямых руках, в которой колени подтянуты к груди, а бёдра подняты над плечами. Компактная форма требует точного контроля корпуса.",
+      "en": "A straight-arm handstand with the knees drawn to the chest and the hips lifted over the shoulders. The compact shape demands precise core control."
+    },
+    "about": {
+      "ru": "Компактный вариант стойки на руках. Руки прямые, бёдра над плечами, колени подтянуты к груди, пятки близко к ягодицам. Ноги находятся со стороны живота, поэтому плечи слегка подаются вперёд, к пальцам, чтобы уравновесить их вес. Короткий рычаг ног делает форму обманчиво простой: баланс держится в основном работой корпуса и плеч. Поэтому поза относится к продвинутому уровню и осваивается после уверенной стойки у стены.",
+      "en": "A compact handstand variation. Your arms are straight, your hips are over your shoulders, and your knees are drawn to your chest with your heels close to your glutes. Because your legs sit on the belly side, your shoulders lean slightly forward, toward your fingers, to counterbalance them. The short leg lever makes the shape look simple, yet the balance comes mostly from your core and shoulders. That is why it is rated advanced and learned after a steady handstand at the wall."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно держите стойку на руках у стены 30–60 секунд и умеете выходить из неё шагом вниз и колесом.",
+        "en": "You can hold a handstand at the wall for 30–60 seconds and come down by stepping or cartwheeling out."
+      },
+      {
+        "ru": "Подтягиваете колени к груди в упоре на прямых руках, например в подъёме в группировке на блоках.",
+        "en": "You can draw your knees to your chest while supported on straight arms, for example in a tuck lift on blocks."
+      },
+      {
+        "ru": "Держите «лодочку» на спине 30 секунд с прижатой к коврику поясницей.",
+        "en": "You can hold a hollow body hold for 30 seconds with your lower back on the mat."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Начинайте у стены или со страхующим, который стоит сбоку и может поддержать вас за таз.",
+        "en": "Start at the wall or with a spotter standing to the side who can support your hips."
+      },
+      {
+        "ru": "Отработайте выход: из группировки опустите стопы на коврик, а при перевесе выйдите в сторону, как в колесе.",
+        "en": "Rehearse the exit: lower your feet from the tuck to the mat, and if you overbalance, cartwheel out to the side."
+      },
+      {
+        "ru": "Разомните запястья. При боли в запястьях, плечах или пояснице прекратите попытки.",
+        "en": "Warm up your wrists. Stop if you feel pain in your wrists, shoulders or lower back."
+      },
+      {
+        "ru": "При повышенном давлении, глаукоме, беременности или недавней травме сначала обсудите перевёрнутые позы со специалистом.",
+        "en": "If you have high blood pressure, glaucoma, are pregnant or have a recent injury, discuss inversions with a qualified healthcare professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "d5547288-a38b-4ddf-8a28-107f37e8594e",
+        "title": {
+          "ru": "Присядьте и поставьте ладони",
+          "en": "Crouch and set your hands"
+        },
+        "body": {
+          "ru": "Присядьте на носки и поставьте ладони на ширине плеч перед стопами. Раскройте пальцы и выпрямите руки.",
+          "en": "Crouch on your toes and place your palms shoulder-width apart in front of your feet. Spread your fingers and straighten your arms."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "f699e071-35c2-411a-874e-20efa4c8b75e",
+        "title": {
+          "ru": "Подайте плечи вперёд",
+          "en": "Lean forward"
+        },
+        "body": {
+          "ru": "Переведите плечи немного вперёд за запястья и выталкивайте пол. Колени держите у груди.",
+          "en": "Move your shoulders slightly forward past your wrists and push the floor away. Keep your knees close to your chest."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "93dbeca3-091f-41d3-a63b-951b372f4e4b",
+        "title": {
+          "ru": "Поднимите бёдра",
+          "en": "Lift the hips"
+        },
+        "body": {
+          "ru": "Мягко оттолкнитесь обеими стопами и поднимите бёдра над плечами. Колени остаются у груди, пятки — у ягодиц.",
+          "en": "Hop softly off both feet and lift your hips over your shoulders. Keep your knees at your chest and your heels near your glutes."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "97febda6-e704-4117-a9c2-fee9bb51a849",
+        "title": {
+          "ru": "Найдите баланс",
+          "en": "Find the balance"
+        },
+        "body": {
+          "ru": "Руки прямые, плечи тянутся от пола. Округлите спину ровно настолько, чтобы колени оставались близко. Смотрите между ладонями, дышите ровно и корректируйте баланс пальцами.",
+          "en": "Keep your arms straight and your shoulders pushing away from the floor. Round your back just enough to keep your knees close. Look between your hands, breathe steadily and adjust the balance with your fingers."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "035f02b5-028c-4726-b26d-cd6d81a4542c",
+        "title": {
+          "ru": "Опуститесь",
+          "en": "Lower down"
+        },
+        "body": {
+          "ru": "Медленно опустите бёдра и мягко поставьте стопы на коврик в присед. При перевесе выйдите в сторону, как в колесе.",
+          "en": "Slowly lower your hips and land softly on your feet in a crouch. If you overbalance, cartwheel out to the side."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "serratus"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "hip-flexors"
+      }
+    ],
+    "anatomy": {
+      "ru": "Кисти и предплечья ведут баланс. Плечевой пояс, трицепсы и передние зубчатые мышцы держат руки прямыми, а плечи активными. Мышцы живота и сгибатели бедра удерживают колени у груди.",
+      "en": "Your hands and forearms steer the balance. Your shoulder girdle, triceps and serratus anterior keep your arms straight and your shoulders active. Your abdominal muscles and hip flexors hold your knees to your chest."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "tuck-lift-on-blocks",
+        "title": {
+          "ru": "Подъём в группировке на блоках",
+          "en": "Tuck Lift on Blocks"
+        },
+        "body": {
+          "ru": "Учит отрывать стопы и подтягивать колени к груди на прямых руках.",
+          "en": "Teaches you to lift your feet and draw your knees in on straight arms."
+        }
+      },
+      {
+        "exerciseSlug": "handstand-kick-ups",
+        "title": {
+          "ru": "Махи в стойку у стены",
+          "en": "Handstand Kick-Ups at the Wall"
+        },
+        "body": {
+          "ru": "В стойке у стены подтяните к груди одно колено, затем оба, и верните стопы на стену.",
+          "en": "In a wall handstand, draw one knee, then both, toward your chest and return your feet to the wall."
+        }
+      },
+      {
+        "exerciseSlug": "compression-leg-lifts",
+        "title": {
+          "ru": "Подъёмы ног сидя",
+          "en": "Seated Compression Leg Lifts"
+        },
+        "body": {
+          "ru": "Укрепляют сгибатели бедра и мышцы живота для плотной группировки.",
+          "en": "Strengthen your hip flexors and abs for a tight tuck."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Плечи без наклона вперёд",
+          "en": "No forward shoulder lean"
+        },
+        "why": {
+          "ru": "Вес ног тянет вас обратно, и стопы снова опускаются на коврик.",
+          "en": "The weight of your legs pulls you back and your feet drop to the mat."
+        },
+        "fix": {
+          "ru": "Подайте плечи немного вперёд, к пальцам, сохраняя руки прямыми.",
+          "en": "Lean your shoulders slightly forward, toward your fingers, while keeping your arms straight."
+        }
+      },
+      {
+        "title": {
+          "ru": "Бёдра ниже плеч",
+          "en": "Hips below the shoulders"
+        },
+        "why": {
+          "ru": "Форма превращается в баланс на руках в приседе, и удержать её на прямых руках трудно.",
+          "en": "The shape turns into a crouched arm balance that is hard to hold on straight arms."
+        },
+        "fix": {
+          "ru": "Тянитесь бёдрами вверх, подтягивая колени к груди, и отработайте подъём на блоках.",
+          "en": "Reach your hips up while drawing your knees in, and practice the tuck lift on blocks."
+        }
+      },
+      {
+        "title": {
+          "ru": "Согнутые локти",
+          "en": "Bent elbows"
+        },
+        "why": {
+          "ru": "Плечи проседают, и баланс уходит.",
+          "en": "Your shoulders sink and you lose the balance."
+        },
+        "fix": {
+          "ru": "Выпрямите руки до конца и выталкивайте пол.",
+          "en": "Straighten your arms fully and push the floor away."
+        }
+      }
+    ],
+    "easier": [
+      "l-handstand",
+      "adho-mukha-vrksasana"
+    ],
+    "harder": [
+      "tuck-press-to-handstand"
+    ],
+    "related": [
+      "straddle-handstand",
+      "adho-mukha-vrksasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Присед, ладони на коврик",
+          "en": "Crouch, hands on the mat"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 5,
+        "label": {
+          "ru": "Плечи вперёд, бёдра поднимаются",
+          "en": "Shoulders forward, hips rise"
+        }
+      },
+      {
+        "fromSec": 5,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: колени у груди, руки прямые",
+          "en": "Hold: knees to chest, straight arms"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Мягкое приземление в присед",
+          "en": "Soft landing back in the crouch"
+        }
+      }
+    ],
+    "sources": []
+  }
+}

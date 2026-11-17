@@ -127,3 +127,58 @@ export async function deleteGoal(id: string): Promise<Result> {
   const { error } = await supabase.from("goals").delete().eq("id", id).eq("user_id", userId);
   return error ? { ok: false, error: "failed" } : { ok: true };
 }
+
+export interface PracticeEntry {
+  id: string;
+  practicedOn: string;
+  poseId: string | null;
+  durationMin: number | null;
+  note: string | null;
+}
+export interface GoalItem {
+  id: string;
+  title: string;
+  poseId: string | null;
+  targetDate: string | null;
+  achievedAt: string | null;
+}
+
+export async function listPractice(): Promise<{ log: PracticeEntry[]; goals: GoalItem[] } | null> {
+  const { supabase, userId } = await requireUser();
+  if (!userId) return null;
+  const [log, goals] = await Promise.all([
+    supabase.from("practice_log").select("id, practiced_on, pose_id, duration_min, note").order("practiced_on", { ascending: false }).limit(200),
+    supabase.from("goals").select("id, title, pose_id, target_date, achieved_at").order("created_at", { ascending: false }).limit(100),
+  ]);
+  return {
+    log: (log.data ?? []).map((r) => ({ id: r.id, practicedOn: r.practiced_on, poseId: r.pose_id, durationMin: r.duration_min, note: r.note })),
+    goals: (goals.data ?? []).map((g) => ({ id: g.id, title: g.title, poseId: g.pose_id, targetDate: g.target_date, achievedAt: g.achieved_at })),
+  };
+}
+
+const Profile = z.object({ displayName: z.string().trim().max(80), locale: z.enum(["ru", "en"]) });
+
+export async function updateProfile(input: z.infer<typeof Profile>): Promise<Result> {
+  const parsed = Profile.safeParse(input);
+  if (!parsed.success) return { ok: false, error: "invalid" };
+  const { supabase, userId } = await requireUser();
+  if (!userId) return { ok: false, error: "auth" };
+  const { error } = await supabase
+    .from("profiles")
+    .update({ display_name: parsed.data.displayName || null, locale: parsed.data.locale })
+    .eq("id", userId);
+  return error ? { ok: false, error: "failed" } : { ok: true };
+}
+
+/** Deletes the CURRENT user's account. All member rows cascade (favorites, progress, log, goals). */
+export async function deleteAccount(confirmation: string, expected: string): Promise<Result> {
+  if (confirmation.trim() !== expected || !["УДАЛИТЬ", "DELETE"].includes(expected)) return { ok: false, error: "invalid" };
+  const { supabase, userId } = await requireUser();
+  if (!userId) return { ok: false, error: "auth" };
+  const { createAdminClient } = await import("@/lib/supabase/admin");
+  const admin = createAdminClient();
+  const { error } = await admin.auth.admin.deleteUser(userId);
+  if (error) return { ok: false, error: "failed" };
+  await supabase.auth.signOut();
+  return { ok: true };
+}

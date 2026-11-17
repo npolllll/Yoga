@@ -85,6 +85,21 @@ function checkFile(path: string) {
   } else if (file.includes("content/programs/")) {
     const r = ProgramDoc.safeParse(raw.doc);
     if (!r.success) return fail(file, `schema: ${r.error.message}`);
+    if (!LEVELS.has(raw.level as string)) fail(file, "invalid level");
+    const steps = (raw.doc as { steps: Record<string, unknown>[] }).steps;
+    const keys = new Set<string>();
+    steps.forEach((s, i) => {
+      const key = s.key as string;
+      if (!UUID.test(key)) fail(file, `steps[${i}].key is not uuid v4`);
+      if (keys.has(key)) fail(file, `steps[${i}] duplicate key`);
+      keys.add(key);
+      if (s.kind === "pose" && !poseSlugs.has(s.poseSlug as string)) fail(file, `steps[${i}] unknown poseSlug ${s.poseSlug}`);
+      if (s.kind === "exercise" && !exerciseSlugs.has(s.exerciseSlug as string)) fail(file, `steps[${i}] unknown exerciseSlug ${s.exerciseSlug}`);
+      if (s.kind === "lesson" && (s.poseSlug || s.exerciseSlug)) fail(file, `steps[${i}] lesson must not reference pose/exercise`);
+    });
+    const withIds = { ...r.data, steps: r.data.steps.map((s, i) => ({ ...s, poseId: steps[i].poseSlug ? "00000000-0000-4000-8000-000000000000" : undefined, exerciseId: steps[i].exerciseSlug ? "00000000-0000-4000-8000-000000000000" : undefined })) };
+    for (const i of validateProgram(withIds, { level_key: raw.level as string }).filter((x) => x.level === "error"))
+      fail(file, `${i.field}${i.locale ? ` [${i.locale}]` : ""}: ${i.code}`);
   } else if (file.includes("content/pages/")) {
     const r = PageDoc.safeParse(raw.doc);
     if (!r.success) return fail(file, `schema: ${r.error.message}`);

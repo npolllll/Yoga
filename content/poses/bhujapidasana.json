@@ -1,0 +1,299 @@
+{
+  "slug": "bhujapidasana",
+  "category": "shoulder-balances",
+  "level": "intermediate",
+  "skills": [
+    "arm-strength",
+    "hip-openness",
+    "core-control"
+  ],
+  "sortWeight": 38,
+  "motion": {
+    "view": "three-quarter",
+    "contacts": [
+      "hands"
+    ],
+    "entry": "0-2s stand with feet slightly wider than the hips, knees bend, torso folds forward between the thighs; 2-4s one shoulder then the other tucks behind the knees, palms placed on the mat between the feet just behind the heels, shoulder-width, fingers forward; backs of the thighs settle high on the upper arms.",
+    "hold": "4-6s weight shifts back into the palms, elbows bend slightly, feet lift off the mat one at a time; 6-8s hold: ankles crossed in front of the hands, thighs squeezing the upper arms near the shoulders, arms as straight as possible with elbows pointing back, chest lifted, gaze forward (poster frame).",
+    "exit": "8-10s ankles uncross, feet lower softly to the mat in front of the hands, return to a standing forward fold with bent knees."
+  },
+  "doc": {
+    "name": {
+      "ru": "Бхуджапидасана",
+      "en": "Shoulder-Pressing Pose"
+    },
+    "subtitle": {
+      "ru": "Поза давления на плечи",
+      "en": "Bhujapidasana"
+    },
+    "sanskrit": "Bhujapidasana",
+    "altNames": [
+      "Бхуджапидасана",
+      "Bhujapidasana",
+      "Bhujapīḍāsana",
+      "Поза давления на плечи",
+      "Shoulder Pressing Pose",
+      "Shoulder-Pressure Pose"
+    ],
+    "summary": {
+      "ru": "Баланс на ладонях: бёдра обхватывают верхнюю часть рук, лодыжки скрещены перед кистями, стопы приподняты над ковриком.",
+      "en": "An arm balance on both palms: the thighs hug the upper arms, the ankles cross in front of the hands and the feet hover above the mat."
+    },
+    "about": {
+      "ru": "Баланс на ладонях, в котором бёдра лежат на верхней части рук у плеч, а скрещённые лодыжки находятся перед кистями. Здесь показан вариант с руками, выпрямленными настолько, насколько получается, и взглядом вперёд; в некоторых школах дальше опускают подбородок к коврику, но это отдельная, более сложная форма. В отличие от Бакасаны, вес здесь смещается не вперёд, а назад — вы как будто садитесь на руки. Поза требует раскрытых бёдер, силы рук и кистей и умения сжимать корпус, поэтому её осваивают после Бакасаны.",
+      "en": "An arm balance on both palms in which the thighs rest high on the upper arms near the shoulders and the crossed ankles sit in front of the hands. This card shows the form with the arms as straight as you can make them and the gaze forward; some schools go on to lower the chin toward the mat, which is a separate, more demanding form. Unlike Bakasana, the weight shifts back rather than forward, as if you were sitting on your arms. It calls for open hips, hand and arm strength and core compression, which is why it is learned after Bakasana."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно держите Бакасану несколько спокойных вдохов.",
+        "en": "You can hold Bakasana for a few calm breaths."
+      },
+      {
+        "ru": "Спокойно сидите в глубоком приседе и можете завести плечо за колено.",
+        "en": "You can sit comfortably in a deep squat and tuck a shoulder behind your knee."
+      },
+      {
+        "ru": "Держите планку 30 секунд без боли в запястьях.",
+        "en": "You can hold a plank for 30 seconds without wrist pain."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Положите сложенное одеяло или подушку позади себя: при потере равновесия чаще всего садятся назад.",
+        "en": "Place a folded blanket or cushion behind you: when you lose balance, you most often sit back."
+      },
+      {
+        "ru": "При боли в запястьях, локтях, плечах или коленях прекратите попытку.",
+        "en": "Stop if you feel pain in your wrists, elbows, shoulders or knees."
+      },
+      {
+        "ru": "При недавней травме сначала обсудите нагрузку со специалистом.",
+        "en": "If you’ve had a recent injury, discuss the load with a qualified healthcare professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "ef1b6112-1546-48be-893b-009fda349f71",
+        "title": {
+          "ru": "Займите исходное положение",
+          "en": "Set your stance"
+        },
+        "body": {
+          "ru": "Встаньте, расставив стопы чуть шире таза. Согните колени и наклонитесь вперёд, опустив корпус между бёдрами.",
+          "en": "Stand with your feet slightly wider than hip-width. Bend your knees and fold forward, lowering your torso between your thighs."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "b03d854d-f56c-4574-93be-b08d5031274e",
+        "title": {
+          "ru": "Заведите плечи под бёдра",
+          "en": "Tuck your shoulders under your thighs"
+        },
+        "body": {
+          "ru": "По очереди заведите плечи как можно глубже за колени. Поставьте ладони на коврик между стопами, чуть позади пяток, на ширине плеч. Пальцы направлены вперёд.",
+          "en": "One at a time, tuck your shoulders as deep behind your knees as you can. Place your palms on the mat between your feet, slightly behind your heels, shoulder-width apart. Point your fingers forward."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "a095a782-aac5-4ad6-b624-064c63ff6593",
+        "title": {
+          "ru": "Сядьте на руки",
+          "en": "Sit onto your arms"
+        },
+        "body": {
+          "ru": "Опустите заднюю поверхность бёдер на верхнюю часть рук как можно выше. Слегка согните локти и плавно перенесите вес назад, на ладони.",
+          "en": "Lower the backs of your thighs onto your upper arms, as high as you can. Bend your elbows slightly and smoothly shift your weight back into your palms."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "77e05e3f-75b0-4d81-9c93-e6ed4b9d9c0a",
+        "title": {
+          "ru": "Поднимите стопы",
+          "en": "Lift your feet"
+        },
+        "body": {
+          "ru": "Когда стопы станут лёгкими, оторвите их от коврика и скрестите лодыжки перед кистями. Сожмите руки бёдрами, выпрямите руки насколько получается и смотрите вперёд. Дышите спокойно.",
+          "en": "When your feet feel light, lift them off the mat and cross your ankles in front of your hands. Squeeze your arms with your thighs, straighten your arms as far as you can and look forward. Keep breathing steadily."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "dfdeea5c-3707-4257-831b-bf4f68f7863c",
+        "title": {
+          "ru": "Вернитесь на коврик",
+          "en": "Lower back down"
+        },
+        "body": {
+          "ru": "Расцепите лодыжки, мягко опустите стопы на коврик и выйдите в наклон. В следующий раз скрестите лодыжки в другую сторону.",
+          "en": "Uncross your ankles, gently lower your feet to the mat and come into a forward fold. Next time, cross your ankles the other way."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "hip-flexors"
+      },
+      {
+        "key": "adductors"
+      }
+    ],
+    "anatomy": {
+      "ru": "Кисти, предплечья и трицепсы удерживают вес тела. Приводящие мышцы бедра сжимают руки, а мышцы живота и сгибатели бедра поднимают и удерживают ноги.",
+      "en": "Your hands, forearms and triceps hold your body weight. Your inner-thigh muscles squeeze your arms, while your abdominal muscles and hip flexors lift and hold your legs."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "malasana",
+        "title": {
+          "ru": "Глубокий присед с заведением плеча",
+          "en": "Deep squat with a shoulder tuck"
+        },
+        "body": {
+          "ru": "Из Маласаны по очереди заводите плечо за колено, чтобы освоить положение рук.",
+          "en": "From Malasana, tuck one shoulder behind the knee at a time to learn the arm position."
+        }
+      },
+      {
+        "exerciseSlug": "compression-leg-lifts",
+        "title": {
+          "ru": "Подъёмы ног сидя",
+          "en": "Seated compression leg lifts"
+        },
+        "body": {
+          "ru": "Укрепляют сгибатели бедра и мышцы живота, которые поднимают стопы.",
+          "en": "Strengthen the hip flexors and abdominal muscles that lift your feet."
+        }
+      },
+      {
+        "exerciseSlug": "wrist-warmup",
+        "title": {
+          "ru": "Разминка запястий",
+          "en": "Wrist warm-up"
+        },
+        "body": {
+          "ru": "Готовит кисти к нагрузке весом тела.",
+          "en": "Prepares your wrists to bear your body weight."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Бёдра лежат низко на руках",
+          "en": "Thighs resting low on the arms"
+        },
+        "why": {
+          "ru": "Ноги соскальзывают к локтям, и стопы не поднимаются.",
+          "en": "Your legs slide down toward your elbows and your feet cannot lift."
+        },
+        "fix": {
+          "ru": "Заводите плечи глубже за колени, чтобы бёдра легли ближе к плечам.",
+          "en": "Tuck your shoulders deeper behind your knees so your thighs sit closer to your shoulders."
+        }
+      },
+      {
+        "title": {
+          "ru": "Вес уходит вперёд, как в Бакасане",
+          "en": "Leaning forward as in Crow"
+        },
+        "why": {
+          "ru": "Голова тянется к коврику, и вы теряете равновесие вперёд.",
+          "en": "Your head drops toward the mat and you tip forward."
+        },
+        "fix": {
+          "ru": "Переносите вес назад, словно садитесь на руки, и держите грудь приподнятой.",
+          "en": "Shift your weight back, as if sitting on your arms, and keep your chest lifted."
+        }
+      },
+      {
+        "title": {
+          "ru": "Ноги не сжимают руки",
+          "en": "Legs not hugging the arms"
+        },
+        "why": {
+          "ru": "Опора расползается, и стопы опускаются на коврик.",
+          "en": "The support spreads apart and your feet drop to the mat."
+        },
+        "fix": {
+          "ru": "Активно сожмите руки бёдрами и плотно скрестите лодыжки.",
+          "en": "Actively squeeze your arms with your thighs and cross your ankles firmly."
+        }
+      }
+    ],
+    "easier": [
+      "bakasana"
+    ],
+    "harder": [
+      "tittibhasana"
+    ],
+    "related": [
+      "eka-hasta-bhujasana",
+      "astavakrasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Наклон вперёд с согнутыми коленями",
+          "en": "Forward fold with bent knees"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Плечи за коленями, ладони на коврике",
+          "en": "Shoulders behind the knees, palms on the mat"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Вес назад, стопы отрываются",
+          "en": "Weight shifts back, feet lift"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание: лодыжки скрещены, взгляд вперёд",
+          "en": "Hold: ankles crossed, gaze forward"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Стопы на коврик, возврат в наклон",
+          "en": "Feet down, back to the forward fold"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "title": "B.K.S. Iyengar, Light on Yoga (1966) — Bhujapidasana",
+        "note": "Classical description of the pose."
+      }
+    ]
+  }
+}

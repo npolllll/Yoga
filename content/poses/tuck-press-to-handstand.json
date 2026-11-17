@@ -1,0 +1,308 @@
+{
+  "slug": "tuck-press-to-handstand",
+  "category": "transitions",
+  "level": "expert",
+  "skills": [
+    "arm-strength",
+    "core-control",
+    "inversion"
+  ],
+  "sortWeight": 97,
+  "motion": {
+    "view": "side",
+    "contacts": [
+      "hands"
+    ],
+    "entry": "0-2s crouch on the balls of the feet, palms shoulder-width on the mat ahead of the feet, arms straight, knees close to the chest; 2-4s shoulders lean forward past the wrists toward the fingers, shoulder blades push the floor away, feet float off the mat without a jump, knees stay tucked.",
+    "hold": "4-6s hips rise over the shoulders in a tight tuck, arms straight; 6-8s knees lift and the legs unfold upward while the shoulders return over the wrists, finishing in a straight handstand: hips over shoulders, legs together, toes pointed, gaze between the hands (poster frame).",
+    "exit": "8-10s one leg lowers to the mat, then the other."
+  },
+  "doc": {
+    "name": {
+      "ru": "Выход в стойку на руках из группировки силой",
+      "en": "Tuck Press to Handstand"
+    },
+    "subtitle": {
+      "ru": "Силовой выход в стойку без маха",
+      "en": "Pressing into a handstand without a kick"
+    },
+    "sanskrit": "",
+    "altNames": [
+      "Выход силой в стойку",
+      "Силовой выход в группировке",
+      "Tuck press",
+      "Press to handstand",
+      "Tuck press handstand"
+    ],
+    "summary": {
+      "ru": "Силовой выход в стойку на руках: из приседа на прямых руках бёдра поднимаются над плечами в группировке, затем ноги раскрываются вверх.",
+      "en": "A strength entry into a handstand: from a crouch on straight arms, your hips rise over your shoulders in a tuck and then your legs unfold upward."
+    },
+    "about": {
+      "ru": "Выход в стойку на руках без маха и прыжка. Из приседа вы наклоняете плечи вперёд за запястья, отрываете стопы и поднимаете бёдра над плечами, держа колени у груди. Когда бёдра выстроены над плечами, плечи возвращаются над запястьями, а ноги медленно выпрямляются вверх; руки остаются прямыми всё время. Переход требует уверенной свободной стойки и стойки в группировке, сильных плеч и хорошей компрессии корпуса. Поэтому он отнесён к экспертному уровню и обычно осваивается долго и поэтапно.",
+      "en": "An entry into a handstand without a kick or a jump. From a crouch you lean your shoulders forward past your wrists, lift your feet and raise your hips over your shoulders while keeping your knees at your chest. Once your hips are stacked over your shoulders, your shoulders return over your wrists and your legs slowly straighten upward; your arms stay straight throughout. It requires a steady freestanding handstand and tuck handstand, strong shoulders and good core compression. That is why it is rated expert and is usually learned gradually, step by step."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно держите свободную стойку на руках 30 секунд.",
+        "en": "You can hold a freestanding handstand for 30 seconds."
+      },
+      {
+        "ru": "Держите стойку на руках в группировке и умеете из неё выходить.",
+        "en": "You can hold a tuck handstand and come out of it with control."
+      },
+      {
+        "ru": "Уверенно выполняете подъём в группировке на блоках на прямых руках.",
+        "en": "You can do a tuck lift on blocks with straight arms."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Учитесь у стены: поставьте ладони немного дальше от неё, чем для обычной стойки, пальцами к стене — она остановит перевес. Или работайте со страхующим.",
+        "en": "Learn at the wall: place your hands a little farther from it than for a regular handstand, fingers toward the wall, so it stops you from overbalancing. Or work with a spotter."
+      },
+      {
+        "ru": "Не подпрыгивайте: прыжок подменяет силовую работу и легко переносит вас через голову. При перевесе выйдите в сторону, как в колесе.",
+        "en": "Don’t jump: it replaces the strength work and can easily carry you over. If you overbalance, cartwheel out to the side."
+      },
+      {
+        "ru": "Наклон плеч вперёд сильно нагружает запястья: разминайте их и прекращайте при боли в запястьях, локтях или плечах.",
+        "en": "The forward shoulder lean loads your wrists heavily: warm them up and stop if you feel pain in your wrists, elbows or shoulders."
+      },
+      {
+        "ru": "При повышенном давлении, глаукоме, беременности или недавней травме сначала обсудите перевёрнутые позы со специалистом.",
+        "en": "If you have high blood pressure, glaucoma, are pregnant or have a recent injury, discuss inversions with a qualified healthcare professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "1f806da7-5a1d-4e0d-8c79-e5aeb1ef0247",
+        "title": {
+          "ru": "Присядьте и поставьте ладони",
+          "en": "Crouch and set your hands"
+        },
+        "body": {
+          "ru": "Присядьте на носки и поставьте ладони на ширине плеч перед стопами. Выпрямите руки, колени держите у груди.",
+          "en": "Crouch on your toes and place your palms shoulder-width apart in front of your feet. Straighten your arms and keep your knees at your chest."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "290165c8-6666-4ea3-bcca-f573c3532494",
+        "title": {
+          "ru": "Наклоните плечи вперёд",
+          "en": "Lean your shoulders forward"
+        },
+        "body": {
+          "ru": "Подайте плечи вперёд за запястья и выталкивайте пол. Вес плавно переходит на ладони, пальцы активно давят в коврик.",
+          "en": "Lean your shoulders forward past your wrists and push the floor away. Let your weight move smoothly into your hands, fingers pressing into the mat."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "961a85d1-52d1-4f18-8df6-d7947074d70c",
+        "title": {
+          "ru": "Оторвите стопы",
+          "en": "Float your feet"
+        },
+        "body": {
+          "ru": "Сожмите корпус, подтяните пятки к ягодицам и оторвите стопы без прыжка. Колени остаются у груди.",
+          "en": "Compress your torso, draw your heels toward your glutes and lift your feet without jumping. Keep your knees at your chest."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "ebaaf1fc-1197-45b7-96a6-8d81ccd3434d",
+        "title": {
+          "ru": "Поднимите бёдра",
+          "en": "Raise the hips"
+        },
+        "body": {
+          "ru": "Поднимайте бёдра над плечами, сохраняя руки прямыми, а группировку плотной.",
+          "en": "Raise your hips over your shoulders, keeping your arms straight and your tuck tight."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "f8170828-f923-454b-b8c6-ae428acb2c9a",
+        "title": {
+          "ru": "Раскройте ноги вверх",
+          "en": "Unfold into the handstand"
+        },
+        "body": {
+          "ru": "Когда бёдра окажутся над плечами, верните плечи над запястьями и медленно выпрямите ноги вверх. Втяните рёбра, смотрите между ладонями и дышите ровно.",
+          "en": "Once your hips are over your shoulders, bring your shoulders back over your wrists and slowly straighten your legs up. Draw your ribs in, look between your hands and breathe steadily."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "f89a04dd-63de-46ac-a23f-3de473c5526a",
+        "title": {
+          "ru": "Спуститесь",
+          "en": "Come down"
+        },
+        "body": {
+          "ru": "Опустите на коврик одну ногу, затем вторую. При перевесе выйдите в сторону, как в колесе.",
+          "en": "Lower one leg to the mat, then the other. If you overbalance, cartwheel out to the side."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "serratus"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "hip-flexors"
+      }
+    ],
+    "anatomy": {
+      "ru": "Дельтовидные и передние зубчатые мышцы удерживают наклон плеч вперёд и выталкивают пол. Кисти и предплечья принимают повышенную нагрузку в момент наклона. Мышцы живота и сгибатели бедра сжимают группировку и поднимают таз без инерции.",
+      "en": "Your deltoids and serratus anterior hold the forward shoulder lean and push the floor away. Your hands and forearms take extra load during the lean. Your abdominal muscles and hip flexors compress the tuck and lift your pelvis without momentum."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "tuck-lift-on-blocks",
+        "title": {
+          "ru": "Подъём в группировке на блоках",
+          "en": "Tuck Lift on Blocks"
+        },
+        "body": {
+          "ru": "Основное упражнение для отрыва стоп и подъёма таза на прямых руках.",
+          "en": "The key drill for lifting your feet and pelvis on straight arms."
+        }
+      },
+      {
+        "exerciseSlug": "compression-leg-lifts",
+        "title": {
+          "ru": "Подъёмы ног сидя",
+          "en": "Seated Compression Leg Lifts"
+        },
+        "body": {
+          "ru": "Развивают компрессию, чтобы группировка оставалась плотной.",
+          "en": "Build compression so your tuck stays tight."
+        }
+      },
+      {
+        "exerciseSlug": "scapular-push-ups",
+        "title": {
+          "ru": "Отжимания лопатками",
+          "en": "Scapular Push-Ups"
+        },
+        "body": {
+          "ru": "Учат выталкивать пол и держать плечи активными при наклоне вперёд.",
+          "en": "Teach you to push the floor away and keep your shoulders active as you lean forward."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Слишком малый наклон плеч",
+          "en": "Not leaning far enough"
+        },
+        "why": {
+          "ru": "Вес остаётся на стопах, и оторвать их без прыжка не получается.",
+          "en": "Your weight stays in your feet, and you cannot lift them without jumping."
+        },
+        "fix": {
+          "ru": "Наклоняйте плечи вперёд постепенно, пока стопы не станут лёгкими.",
+          "en": "Lean your shoulders forward gradually until your feet feel light."
+        }
+      },
+      {
+        "title": {
+          "ru": "Согнутые руки",
+          "en": "Bending the arms"
+        },
+        "why": {
+          "ru": "Выход превращается в другое движение, а плечи теряют рычаг.",
+          "en": "The press turns into a different movement and your shoulders lose their leverage."
+        },
+        "fix": {
+          "ru": "Держите локти прямыми и работайте над наклоном и компрессией.",
+          "en": "Keep your elbows straight and work on the lean and compression instead."
+        }
+      },
+      {
+        "title": {
+          "ru": "Ранее раскрытие ног",
+          "en": "Opening the legs too early"
+        },
+        "why": {
+          "ru": "Ноги раскрываются до того, как бёдра оказались над плечами, и их вес тянет вас обратно.",
+          "en": "Your legs open before your hips are over your shoulders, and their weight pulls you back down."
+        },
+        "fix": {
+          "ru": "Сохраняйте группировку, пока бёдра не выстроятся над плечами.",
+          "en": "Hold the tuck until your hips are stacked over your shoulders."
+        }
+      }
+    ],
+    "easier": [
+      "tuck-handstand",
+      "adho-mukha-vrksasana"
+    ],
+    "harder": [],
+    "related": [
+      "straddle-handstand",
+      "tripod-headstand-to-crow"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Присед, руки прямые",
+          "en": "Crouch, straight arms"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Плечи вперёд, стопы отрываются",
+          "en": "Shoulders forward, feet float"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Бёдра поднимаются в группировке",
+          "en": "Hips rise in a tuck"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Ноги раскрываются вверх: стойка",
+          "en": "Legs unfold into the handstand"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Шаг на коврик",
+          "en": "Step down"
+        }
+      }
+    ],
+    "sources": []
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "slug": "crow-to-chaturanga",
+  "category": "transitions",
+  "level": "advanced",
+  "skills": [
+    "arm-strength",
+    "core-control",
+    "balance-coordination"
+  ],
+  "sortWeight": 70,
+  "motion": {
+    "view": "side",
+    "contacts": [
+      "hands",
+      "feet"
+    ],
+    "entry": "0-3s Bakasana: palms shoulder-width, elbows bent and pointing back, knees high on the upper arms, feet lifted, gaze slightly forward; 3-5s shoulders lean a little further forward, core engages, knees release from the arms and both legs shoot straight back together.",
+    "hold": "5-8s land softly on the balls of both feet in Chaturanga: elbows bent ~90° over the wrists and hugging the ribs, shoulders at elbow height, body in one straight line from head to heels hovering above the mat, gaze slightly forward (poster frame).",
+    "exit": "8-10s knees lower, then chest and belly lower to the mat."
+  },
+  "doc": {
+    "name": {
+      "ru": "Из вороны в чатурангу",
+      "en": "Crow to Chaturanga"
+    },
+    "subtitle": {
+      "ru": "Из бакасаны в Чатурангу Дандасану",
+      "en": "Bakasana to Chaturanga Dandasana"
+    },
+    "sanskrit": "",
+    "altNames": [
+      "Ворона — чатуранга",
+      "Отпрыгивание из вороны в чатурангу",
+      "Бакасана — Чатуранга",
+      "Crow to Chaturanga",
+      "Bakasana to Chaturanga",
+      "Jump back from crow"
+    ],
+    "summary": {
+      "ru": "Переход из бакасаны в чатурангу: обе ноги одновременно уходят назад, и вы мягко приземляетесь на носки с согнутыми локтями.",
+      "en": "A transition from Bakasana to Chaturanga: both legs travel back together and you land softly on your toes with your elbows bent."
+    },
+    "about": {
+      "ru": "Связка из бакасаны в Чатурангу Дандасану. Из вороны вы чуть сильнее подаёте плечи вперёд, снимаете колени с рук и одновременно отправляете прямые ноги назад, приземляясь на подушечки стоп в низкой планке. Локти всё время остаются согнутыми, а корпус собран, поэтому вес не проваливается в плечи. Переход требует силы рук, контроля корпуса и точного распределения веса, поэтому он отнесён к продвинутому уровню. Его часто используют в динамичных последовательностях вместо выхода из вороны в присед.",
+      "en": "A link from Bakasana into Chaturanga Dandasana. From Crow you move your shoulders a little further forward, release your knees from your arms and send both straight legs back at once, landing on the balls of your feet in a low plank. Your elbows stay bent throughout and your core stays engaged, so your weight does not sink into your shoulders. It requires arm strength, core control and precise weight distribution, which is why it is rated advanced. It is often used in flowing sequences instead of coming down from Crow into a squat."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно держите бакасану 20–30 секунд.",
+        "en": "You can hold Bakasana steadily for 20–30 seconds."
+      },
+      {
+        "ru": "Под контролем опускаетесь из планки в чатурангу и держите её несколько вдохов.",
+        "en": "You can lower from plank into Chaturanga with control and hold it for a few breaths."
+      },
+      {
+        "ru": "Держите «лодочку» на спине 30 секунд.",
+        "en": "You can hold a hollow body hold for 30 seconds."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Начните с облегчённого варианта: из вороны отведите назад сначала одну ногу, затем другую, или приземляйтесь коленями на коврик.",
+        "en": "Start with an easier version: from Crow, extend one leg back and then the other, or land with your knees on the mat."
+      },
+      {
+        "ru": "В чатуранге не опускайте плечи ниже уровня локтей: это перегружает переднюю поверхность плеч.",
+        "en": "In Chaturanga, keep your shoulders from dropping below elbow height, as that overloads the front of your shoulders."
+      },
+      {
+        "ru": "При боли в запястьях, локтях или плечах прекратите. При недавней травме сначала обсудите нагрузку со специалистом.",
+        "en": "Stop if you feel pain in your wrists, elbows or shoulders. If you have a recent injury, discuss the load with a qualified healthcare professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "33cca613-692d-462c-add4-e3b1520de978",
+        "title": {
+          "ru": "Войдите в ворону",
+          "en": "Set up Crow"
+        },
+        "body": {
+          "ru": "Выйдите в бакасану: колени высоко на руках, локти согнуты и направлены назад, взгляд чуть вперёд.",
+          "en": "Come into Bakasana: knees high on your arms, elbows bent and pointing back, gaze slightly forward."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "22228270-7f22-4308-859b-3c9d60cd6de2",
+        "title": {
+          "ru": "Подайте вес вперёд",
+          "en": "Shift forward"
+        },
+        "body": {
+          "ru": "Подайте плечи ещё немного вперёд и плотно прижмите ладони. Втяните живот, чтобы ноги стали лёгкими.",
+          "en": "Move your shoulders a little further forward and press your palms down firmly. Draw your belly in so your legs feel light."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "9e1549d5-d68b-4704-9620-18d50ca61a39",
+        "title": {
+          "ru": "Отправьте ноги назад",
+          "en": "Send the legs back"
+        },
+        "body": {
+          "ru": "На выдохе снимите колени с рук и одновременно выпрямите обе ноги назад. Локти остаются согнутыми.",
+          "en": "As you exhale, release your knees from your arms and extend both legs straight back at the same time. Keep your elbows bent."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "ac64e25f-cf71-4ac5-95b1-6fde0ef896bc",
+        "title": {
+          "ru": "Приземлитесь в чатурангу",
+          "en": "Land in Chaturanga"
+        },
+        "body": {
+          "ru": "Мягко встаньте на подушечки стоп. Локти над запястьями и вдоль рёбер, плечи на уровне локтей, тело — одна прямая линия. Смотрите чуть вперёд.",
+          "en": "Land softly on the balls of your feet. Keep your elbows over your wrists and close to your ribs, your shoulders at elbow height and your body in one straight line. Look slightly forward."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "e4d85b25-85ba-446c-90f4-e47a2523d5ac",
+        "title": {
+          "ru": "Опуститесь на коврик",
+          "en": "Lower down"
+        },
+        "body": {
+          "ru": "Опустите колени, затем грудь и живот на коврик или продолжите последовательность.",
+          "en": "Lower your knees, then your chest and belly to the mat, or continue your sequence."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "chest"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "serratus"
+      },
+      {
+        "key": "core-abs"
+      }
+    ],
+    "anatomy": {
+      "ru": "Кисти и предплечья держат опору, пока вес смещается вперёд. Трицепсы, грудные и дельтовидные мышцы удерживают согнутые локти в чатуранге. Мышцы живота сохраняют корпус прямым, когда ноги уходят назад.",
+      "en": "Your hands and forearms hold the support while your weight moves forward. Your triceps, chest and deltoids keep your elbows bent in Chaturanga. Your abdominal muscles keep your torso straight as your legs travel back."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "knee-chaturanga",
+        "title": {
+          "ru": "Опускание в чатурангу с колен",
+          "en": "Knees-Down Chaturanga"
+        },
+        "body": {
+          "ru": "Учит держать локти вдоль рёбер и не опускать плечи ниже локтей.",
+          "en": "Teaches you to keep your elbows by your ribs and your shoulders above elbow height."
+        }
+      },
+      {
+        "exerciseSlug": "hollow-body-hold",
+        "title": {
+          "ru": "«Лодочка» на спине",
+          "en": "Hollow Body Hold"
+        },
+        "body": {
+          "ru": "Тренирует собранный корпус, который нужен в момент отправки ног назад.",
+          "en": "Builds the engaged torso you need as you send your legs back."
+        }
+      },
+      {
+        "exerciseSlug": "plank",
+        "title": {
+          "ru": "Планка",
+          "en": "Plank"
+        },
+        "body": {
+          "ru": "Укрепляет кисти, плечи и корпус для приземления в низкую планку.",
+          "en": "Builds your hands, shoulders and core for landing in a low plank."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Руки выпрямляются",
+          "en": "Straightening the arms"
+        },
+        "why": {
+          "ru": "Если локти разгибаются во время перехода, вы приземляетесь в высокую планку, и связка с чатурангой теряется.",
+          "en": "If your elbows straighten during the transition, you land in a high plank and lose the link to Chaturanga."
+        },
+        "fix": {
+          "ru": "Сохраняйте одинаковый угол в локтях от вороны до приземления.",
+          "en": "Keep the bend in your elbows constant from Crow to landing."
+        }
+      },
+      {
+        "title": {
+          "ru": "Плечи проваливаются",
+          "en": "Shoulders dropping"
+        },
+        "why": {
+          "ru": "Плечи опускаются ниже локтей, и нагрузка ложится на переднюю поверхность плеч.",
+          "en": "Your shoulders drop below your elbows and the load lands on the front of your shoulders."
+        },
+        "fix": {
+          "ru": "Подавайте грудь вперёд, держа плечи на уровне локтей; при усталости опускайте колени.",
+          "en": "Move your chest forward while keeping your shoulders at elbow height; lower your knees when you tire."
+        }
+      },
+      {
+        "title": {
+          "ru": "Недостаточный перенос веса",
+          "en": "Too little forward lean"
+        },
+        "why": {
+          "ru": "Ноги остаются тяжёлыми и падают на коврик, а не уходят назад.",
+          "en": "Your legs stay heavy and drop to the mat instead of traveling back."
+        },
+        "fix": {
+          "ru": "Сначала чуть сильнее подайте плечи вперёд и смотрите вперёд, затем отправляйте ноги.",
+          "en": "First move your shoulders slightly further forward and look ahead, then send your legs back."
+        }
+      }
+    ],
+    "easier": [
+      "bakasana",
+      "chaturanga-dandasana",
+      "jump-to-crow"
+    ],
+    "harder": [
+      "tripod-headstand-to-crow"
+    ],
+    "related": [
+      "jump-to-crow",
+      "crow-to-tripod-headstand",
+      "chaturanga-dandasana"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 3,
+        "label": {
+          "ru": "Удержание бакасаны",
+          "en": "Hold Bakasana"
+        }
+      },
+      {
+        "fromSec": 3,
+        "toSec": 5,
+        "label": {
+          "ru": "Вес вперёд, ноги уходят назад",
+          "en": "Weight forward, legs shoot back"
+        }
+      },
+      {
+        "fromSec": 5,
+        "toSec": 8,
+        "label": {
+          "ru": "Приземление и удержание чатуранги",
+          "en": "Land and hold Chaturanga"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Колени и грудь на коврик",
+          "en": "Knees and chest to the mat"
+        }
+      }
+    ],
+    "sources": []
+  }
+}

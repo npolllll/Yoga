@@ -1,0 +1,295 @@
+{
+  "slug": "jump-to-crow",
+  "category": "transitions",
+  "level": "intermediate",
+  "skills": [
+    "core-control",
+    "arm-strength",
+    "balance-coordination"
+  ],
+  "sortWeight": 36,
+  "motion": {
+    "view": "side",
+    "contacts": [
+      "hands"
+    ],
+    "entry": "0-2s Downward-Facing Dog, palms shoulder-width; 2-4s rise onto the balls of the feet, bend the knees deeply, shoulders move forward over the wrists, gaze at the mat ahead of the hands.",
+    "hold": "4-6s a light hop lifts the pelvis high, knees land softly high on the backs of the upper arms, elbows bend and point back, feet stay lifted; 6-8s hold Bakasana: elbows bent, knees on the upper arms above the elbows, feet together lifted, heels toward the glutes, gaze slightly forward (poster frame).",
+    "exit": "8-10s feet lower softly to the mat, weight returns to the feet, settle into a squat."
+  },
+  "doc": {
+    "name": {
+      "ru": "Прыжок в ворону",
+      "en": "Jump into Crow"
+    },
+    "subtitle": {
+      "ru": "Из собаки мордой вниз в бакасану",
+      "en": "Downward Dog to Bakasana"
+    },
+    "sanskrit": "",
+    "altNames": [
+      "Прыжок в бакасану",
+      "Вход в ворону прыжком",
+      "Jump to crow",
+      "Jump into Bakasana",
+      "Hop into crow"
+    ],
+    "summary": {
+      "ru": "Переход из собаки мордой вниз в бакасану лёгким прыжком: колени мягко ложатся на верхнюю часть рук, а стопы остаются в воздухе.",
+      "en": "A transition from Downward-Facing Dog into Bakasana with a light hop: your knees land softly on your upper arms and your feet stay lifted."
+    },
+    "about": {
+      "ru": "Связка, которая соединяет собаку мордой вниз и бакасану без промежуточного приседа. Ладони остаются на месте, плечи подаются вперёд, а лёгкий прыжок поднимает таз так, что колени ложатся высоко на заднюю поверхность плеч. Главное здесь — не высота прыжка, а мягкое и точное приземление. Нужны уверенная бакасана, контроль корпуса и чувство момента, поэтому переход отнесён к среднему уровню.",
+      "en": "A link that takes you from Downward-Facing Dog straight into Bakasana without stopping in a squat. Your palms stay where they are, your shoulders move forward, and a light hop lifts your pelvis so your knees land high on the backs of your upper arms. The goal is not a high jump but a soft, accurate landing. It requires a steady Bakasana, core control and good timing, which is why it is rated intermediate."
+    },
+    "prerequisites": [
+      {
+        "ru": "Уверенно держите бакасану 15–20 секунд.",
+        "en": "You can hold Bakasana steadily for 15–20 seconds."
+      },
+      {
+        "ru": "Спокойно стоите в собаке мордой вниз и умеете подниматься на носки, сгибая колени.",
+        "en": "You are comfortable in Downward-Facing Dog and can rise onto your toes with bent knees."
+      },
+      {
+        "ru": "Без боли в запястьях выполняете планку и опускание в чатурангу.",
+        "en": "You can do a plank and lower into Chaturanga without wrist pain."
+      }
+    ],
+    "safety": [
+      {
+        "ru": "Положите перед ладонями подушку или сложенное одеяло на случай, если вас перенесёт вперёд.",
+        "en": "Place a cushion or folded blanket in front of your hands in case you tip forward."
+      },
+      {
+        "ru": "Прыгайте мягко: ладони и плечи должны принимать вес постепенно, без удара.",
+        "en": "Hop softly so your hands and shoulders take the weight gradually rather than with a jolt."
+      },
+      {
+        "ru": "При боли в запястьях, локтях или плечах прекратите. При недавней травме сначала обсудите нагрузку со специалистом.",
+        "en": "Stop if you feel pain in your wrists, elbows or shoulders. If you have a recent injury, discuss the load with a qualified healthcare professional first."
+      }
+    ],
+    "steps": [
+      {
+        "key": "34a58738-aa6b-4ab1-b799-f0c3347a84b4",
+        "title": {
+          "ru": "Начните в собаке",
+          "en": "Start in Downward Dog"
+        },
+        "body": {
+          "ru": "Встаньте в собаку мордой вниз. Ладони на ширине плеч, пальцы раскрыты и прижаты к коврику.",
+          "en": "Come into Downward-Facing Dog. Place your palms shoulder-width apart with your fingers spread and pressing into the mat."
+        },
+        "keyframe": 0
+      },
+      {
+        "key": "2115f670-b022-4178-82f4-bb554232dd60",
+        "title": {
+          "ru": "Поднимитесь на носки",
+          "en": "Rise onto your toes"
+        },
+        "body": {
+          "ru": "Поднимитесь на носки и глубоко согните колени. Переведите плечи вперёд, к запястьям, и смотрите на коврик впереди ладоней.",
+          "en": "Rise onto your toes and bend your knees deeply. Move your shoulders forward over your wrists and look at the mat ahead of your hands."
+        },
+        "keyframe": 1
+      },
+      {
+        "key": "283b3b36-52f3-4ebe-a083-fd05d93634c6",
+        "title": {
+          "ru": "Мягко подпрыгните",
+          "en": "Hop lightly"
+        },
+        "body": {
+          "ru": "На выдохе мягко оттолкнитесь и поднимите таз высоко. Направьте колени к задней поверхности плеч.",
+          "en": "As you exhale, push off gently and lift your pelvis high. Aim your knees at the backs of your upper arms."
+        },
+        "keyframe": 2
+      },
+      {
+        "key": "83819cef-82ac-4ffb-8e80-49459e3bf01d",
+        "title": {
+          "ru": "Приземлитесь в ворону",
+          "en": "Land in Crow"
+        },
+        "body": {
+          "ru": "Поставьте колени высоко на руки и согните локти назад. Стопы держите в воздухе, пятки тянутся к ягодицам, взгляд вперёд. Дышите ровно.",
+          "en": "Place your knees high on your arms and bend your elbows back. Keep your feet in the air, heels drawing toward your glutes, and your gaze forward. Breathe steadily."
+        },
+        "keyframe": 3
+      },
+      {
+        "key": "42b14805-3ed6-4383-ac81-f99acab42e3d",
+        "title": {
+          "ru": "Вернитесь на коврик",
+          "en": "Lower down"
+        },
+        "body": {
+          "ru": "Мягко опустите стопы на коврик и перенесите вес обратно на ноги, в присед.",
+          "en": "Gently lower your feet to the mat and shift your weight back onto them in a squat."
+        },
+        "keyframe": 4
+      }
+    ],
+    "muscles": [
+      {
+        "key": "wrists-forearms"
+      },
+      {
+        "key": "shoulders-deltoids"
+      },
+      {
+        "key": "serratus"
+      },
+      {
+        "key": "triceps"
+      },
+      {
+        "key": "core-abs"
+      },
+      {
+        "key": "hip-flexors"
+      }
+    ],
+    "anatomy": {
+      "ru": "Кисти и предплечья принимают вес при приземлении. Плечи, трицепсы и передние зубчатые мышцы гасят движение и держат опору. Мышцы живота и сгибатели бедра поднимают таз и подтягивают колени высоко к рукам.",
+      "en": "Your hands and forearms take the weight as you land. Your shoulders, triceps and serratus anterior absorb the movement and hold the support. Your abdominal muscles and hip flexors lift your pelvis and draw your knees high onto your arms."
+    },
+    "prep": [
+      {
+        "exerciseSlug": "crow-weight-shift",
+        "title": {
+          "ru": "Перенос веса с носками на полу",
+          "en": "Weight shift with toes down"
+        },
+        "body": {
+          "ru": "Привыкните к весу на ладонях, прежде чем добавлять прыжок.",
+          "en": "Get used to the weight on your hands before adding a hop."
+        }
+      },
+      {
+        "exerciseSlug": "tuck-lift-on-blocks",
+        "title": {
+          "ru": "Подъём в группировке на блоках",
+          "en": "Tuck Lift on Blocks"
+        },
+        "body": {
+          "ru": "Учит поднимать таз и подтягивать колени к груди.",
+          "en": "Teaches you to lift your pelvis and draw your knees to your chest."
+        }
+      },
+      {
+        "exerciseSlug": "compression-leg-lifts",
+        "title": {
+          "ru": "Подъёмы ног сидя",
+          "en": "Seated Compression Leg Lifts"
+        },
+        "body": {
+          "ru": "Укрепляют сгибатели бедра, чтобы колени доставали высоко до рук.",
+          "en": "Strengthen your hip flexors so your knees reach high onto your arms."
+        }
+      }
+    ],
+    "mistakes": [
+      {
+        "title": {
+          "ru": "Прыжок без переноса плеч",
+          "en": "Jumping without moving the shoulders"
+        },
+        "why": {
+          "ru": "Плечи остаются позади запястий, и колени не достают до рук.",
+          "en": "Your shoulders stay behind your wrists and your knees cannot reach your arms."
+        },
+        "fix": {
+          "ru": "Перед прыжком подайте плечи вперёд и смотрите впереди ладоней.",
+          "en": "Move your shoulders forward before you hop and look ahead of your hands."
+        }
+      },
+      {
+        "title": {
+          "ru": "Жёсткое приземление",
+          "en": "Landing heavily"
+        },
+        "why": {
+          "ru": "Удар приходится на запястья и плечи, и контроль теряется.",
+          "en": "The impact goes into your wrists and shoulders and you lose control."
+        },
+        "fix": {
+          "ru": "Прыгайте ниже и тише. Сначала научитесь мягко приземляться стопами между ладоней.",
+          "en": "Hop lower and quieter. First learn to land softly with your feet between your hands."
+        }
+      },
+      {
+        "title": {
+          "ru": "Колени слишком низко",
+          "en": "Knees landing too low"
+        },
+        "why": {
+          "ru": "Колени соскальзывают к локтям, и опора становится неустойчивой.",
+          "en": "Your knees slide toward your elbows and the support becomes unstable."
+        },
+        "fix": {
+          "ru": "Поднимайте таз выше в прыжке и цельтесь коленями в заднюю поверхность плеч.",
+          "en": "Lift your pelvis higher in the hop and aim your knees at the backs of your upper arms."
+        }
+      }
+    ],
+    "easier": [
+      "bakasana",
+      "baby-crow"
+    ],
+    "harder": [
+      "crow-to-chaturanga",
+      "crow-to-tripod-headstand"
+    ],
+    "related": [
+      "bakasana",
+      "crow-to-chaturanga"
+    ],
+    "video": {},
+    "animationPhases": [
+      {
+        "fromSec": 0,
+        "toSec": 2,
+        "label": {
+          "ru": "Собака мордой вниз",
+          "en": "Downward-Facing Dog"
+        }
+      },
+      {
+        "fromSec": 2,
+        "toSec": 4,
+        "label": {
+          "ru": "Носки, колени согнуты, плечи вперёд",
+          "en": "On the toes, knees bent, shoulders forward"
+        }
+      },
+      {
+        "fromSec": 4,
+        "toSec": 6,
+        "label": {
+          "ru": "Лёгкий прыжок, колени на руки",
+          "en": "Light hop, knees onto the arms"
+        }
+      },
+      {
+        "fromSec": 6,
+        "toSec": 8,
+        "label": {
+          "ru": "Удержание бакасаны",
+          "en": "Hold Bakasana"
+        }
+      },
+      {
+        "fromSec": 8,
+        "toSec": 10,
+        "label": {
+          "ru": "Стопы на коврик, присед",
+          "en": "Feet down, squat"
+        }
+      }
+    ],
+    "sources": []
+  }
+}
