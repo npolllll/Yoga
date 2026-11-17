@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { createContext, useContext, useState } from "react";
 import { Icon } from "@/components/ui/Icon";
 import { duplicateItem, moveItem, newKey } from "@/lib/content/step-keys";
 
@@ -46,21 +46,25 @@ export function LocInput({ value, onChange, multiline }: { value: Loc | undefine
   );
 }
 
+/** Localized accessible names for list controls (provided by DocEditor). */
+export const ControlLabels = createContext({ up: "Up", down: "Down", duplicate: "Duplicate", remove: "Delete" });
+
 export function ListControls({ index, length, onMove, onDuplicate, onDelete }: { index: number; length: number; onMove: (to: number) => void; onDuplicate?: () => void; onDelete: () => void }) {
+  const l = useContext(ControlLabels);
   return (
     <div className="flex items-center gap-1">
-      <button type="button" className="rounded p-1.5 hover:bg-surface-2 disabled:opacity-30" disabled={index === 0} onClick={() => onMove(index - 1)} aria-label="up">
+      <button type="button" className="rounded p-1.5 hover:bg-surface-2 disabled:opacity-30" disabled={index === 0} onClick={() => onMove(index - 1)} aria-label={l.up}>
         <Icon name="up" size={16} />
       </button>
-      <button type="button" className="rounded p-1.5 hover:bg-surface-2 disabled:opacity-30" disabled={index === length - 1} onClick={() => onMove(index + 1)} aria-label="down">
+      <button type="button" className="rounded p-1.5 hover:bg-surface-2 disabled:opacity-30" disabled={index === length - 1} onClick={() => onMove(index + 1)} aria-label={l.down}>
         <Icon name="down" size={16} />
       </button>
       {onDuplicate ? (
-        <button type="button" className="rounded p-1.5 hover:bg-surface-2" onClick={onDuplicate} aria-label="duplicate">
+        <button type="button" className="rounded p-1.5 hover:bg-surface-2" onClick={onDuplicate} aria-label={l.duplicate}>
           <Icon name="layers" size={16} />
         </button>
       ) : null}
-      <button type="button" className="rounded p-1.5 text-danger hover:bg-danger-soft" onClick={onDelete} aria-label="delete">
+      <button type="button" className="rounded p-1.5 text-danger hover:bg-danger-soft" onClick={onDelete} aria-label={l.remove}>
         <Icon name="trash" size={16} />
       </button>
     </div>

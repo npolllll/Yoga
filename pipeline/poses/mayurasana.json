@@ -11,20 +11,20 @@
       "pose": "stand",
       "set": {
         "pelvis.pitch": 55,
-        "spine.flex": 15,
+        "spine.flex": 25,
         "neck.flex": -25,
         "hip_L.flex": 55,
         "hip_R.flex": 55,
-        "hip_L.abd": 45,
-        "hip_R.abd": 45,
-        "hip_L.rot": 40,
-        "hip_R.rot": 40,
+        "hip_L.abd": 50,
+        "hip_R.abd": 50,
+        "hip_L.rot": 55,
+        "hip_R.rot": 55,
         "knee_L.flex": 110,
         "knee_R.flex": 110,
-        "ankle_L.flex": 65,
-        "ankle_R.flex": 65,
-        "shoulder_L.flex": 70,
-        "shoulder_R.flex": 70,
+        "ankle_L.flex": 60,
+        "ankle_R.flex": 60,
+        "shoulder_L.flex": 75,
+        "shoulder_R.flex": 75,
         "shoulder_L.abd": -10,
         "shoulder_R.abd": -10,
         "elbow_L.flex": 5,
@@ -34,7 +34,6 @@
       },
       "support": [
         "knees",
-        "toes",
         "hands"
       ],
       "solve": {
@@ -62,6 +61,20 @@
               "fingers_R",
               0.0
             ]
+          },
+          {
+            "height": [
+              "toes_L",
+              0.005
+            ],
+            "w": 0.5
+          },
+          {
+            "height": [
+              "toes_R",
+              0.005
+            ],
+            "w": 0.5
           },
           {
             "over": [
@@ -81,7 +94,7 @@
               "knee_L",
               "knee_R"
             ],
-            "d": 0.5
+            "d": 0.55
           },
           {
             "near": [
@@ -89,70 +102,6 @@
               "toes_R"
             ],
             "d": 0.3
-          },
-          {
-            "near": [
-              "knee_L",
-              "hand_L"
-            ],
-            "d": 0.275,
-            "w": 2
-          },
-          {
-            "apart": [
-              "knee_L",
-              "hand_L"
-            ],
-            "d": 0.245,
-            "w": 2
-          },
-          {
-            "near": [
-              "knee_R",
-              "hand_R"
-            ],
-            "d": 0.275,
-            "w": 2
-          },
-          {
-            "apart": [
-              "knee_R",
-              "hand_R"
-            ],
-            "d": 0.245,
-            "w": 2
-          },
-          {
-            "near": [
-              "toes_L",
-              "hand_L"
-            ],
-            "d": 0.77,
-            "w": 2
-          },
-          {
-            "apart": [
-              "toes_L",
-              "hand_L"
-            ],
-            "d": 0.74,
-            "w": 2
-          },
-          {
-            "near": [
-              "toes_R",
-              "hand_R"
-            ],
-            "d": 0.77,
-            "w": 2
-          },
-          {
-            "apart": [
-              "toes_R",
-              "hand_R"
-            ],
-            "d": 0.74,
-            "w": 2
           }
         ],
         "balance": false,
@@ -163,7 +112,6 @@
       "t": 1.6,
       "support": [
         "knees",
-        "toes",
         "hands"
       ]
     },
@@ -172,18 +120,18 @@
       "pose": "stand",
       "set": {
         "pelvis.pitch": 80,
-        "spine.flex": 5,
+        "spine.flex": 8,
         "neck.flex": -40,
-        "hip_L.flex": 80,
-        "hip_R.flex": 80,
-        "hip_L.abd": 45,
-        "hip_R.abd": 45,
-        "hip_L.rot": 40,
-        "hip_R.rot": 40,
-        "knee_L.flex": 110,
-        "knee_R.flex": 110,
-        "ankle_L.flex": 65,
-        "ankle_R.flex": 65,
+        "hip_L.flex": 55,
+        "hip_R.flex": 55,
+        "hip_L.abd": 50,
+        "hip_R.abd": 50,
+        "hip_L.rot": 55,
+        "hip_R.rot": 55,
+        "knee_L.flex": 100,
+        "knee_R.flex": 100,
+        "ankle_L.flex": 60,
+        "ankle_R.flex": 60,
         "shoulder_L.flex": 30,
         "shoulder_R.flex": 30,
         "shoulder_L.abd": -18,
@@ -195,7 +143,6 @@
       },
       "support": [
         "knees",
-        "toes",
         "hands"
       ],
       "solve": {
@@ -223,6 +170,20 @@
               "fingers_R",
               0.0
             ]
+          },
+          {
+            "height": [
+              "toes_L",
+              0.005
+            ],
+            "w": 0.5
+          },
+          {
+            "height": [
+              "toes_R",
+              0.005
+            ],
+            "w": 0.5
           },
           {
             "near": [
@@ -245,10 +206,11 @@
             ]
           },
           {
-            "above": [
-              "chest",
-              0.3
-            ]
+            "height": [
+              "pelvis",
+              0.36
+            ],
+            "w": 0.5
           },
           {
             "near": [
@@ -256,70 +218,6 @@
               "toes_R"
             ],
             "d": 0.3
-          },
-          {
-            "near": [
-              "knee_L",
-              "hand_L"
-            ],
-            "d": 0.275,
-            "w": 2
-          },
-          {
-            "apart": [
-              "knee_L",
-              "hand_L"
-            ],
-            "d": 0.245,
-            "w": 2
-          },
-          {
-            "near": [
-              "knee_R",
-              "hand_R"
-            ],
-            "d": 0.275,
-            "w": 2
-          },
-          {
-            "apart": [
-              "knee_R",
-              "hand_R"
-            ],
-            "d": 0.245,
-            "w": 2
-          },
-          {
-            "near": [
-              "toes_L",
-              "hand_L"
-            ],
-            "d": 0.77,
-            "w": 2
-          },
-          {
-            "apart": [
-              "toes_L",
-              "hand_L"
-            ],
-            "d": 0.74,
-            "w": 2
-          },
-          {
-            "near": [
-              "toes_R",
-              "hand_R"
-            ],
-            "d": 0.77,
-            "w": 2
-          },
-          {
-            "apart": [
-              "toes_R",
-              "hand_R"
-            ],
-            "d": 0.74,
-            "w": 2
           }
         ],
         "balance": false,
@@ -331,18 +229,18 @@
       "pose": "stand",
       "set": {
         "pelvis.pitch": 80,
-        "spine.flex": 5,
+        "spine.flex": 8,
         "neck.flex": -40,
-        "hip_L.flex": 80,
-        "hip_R.flex": 15,
-        "hip_L.abd": 45,
-        "hip_R.abd": 15,
-        "hip_L.rot": 40,
-        "hip_R.rot": 40,
-        "knee_L.flex": 110,
-        "knee_R.flex": 40,
-        "ankle_L.flex": 65,
-        "ankle_R.flex": 30,
+        "hip_L.flex": 55,
+        "hip_R.flex": 25,
+        "hip_L.abd": 50,
+        "hip_R.abd": 20,
+        "hip_L.rot": 55,
+        "hip_R.rot": 0,
+        "knee_L.flex": 100,
+        "knee_R.flex": 60,
+        "ankle_L.flex": 60,
+        "ankle_R.flex": 40,
         "shoulder_L.flex": 30,
         "shoulder_R.flex": 30,
         "shoulder_L.abd": -18,
@@ -354,7 +252,6 @@
       },
       "support": [
         "knee_L",
-        "toes_L",
         "hands"
       ],
       "solve": {
@@ -364,7 +261,7 @@
           "hip_L.flex",
           "hip_L.abd",
           "knee_L.flex",
-          "hip_R.flex",
+          "ankle_L.flex",
           "shoulder_*.flex",
           "elbow_*.flex",
           "wrist_*.ext"
@@ -383,6 +280,13 @@
             ]
           },
           {
+            "height": [
+              "toes_L",
+              0.005
+            ],
+            "w": 0.5
+          },
+          {
             "near": [
               "elbow_L",
               "elbow_R"
@@ -392,7 +296,7 @@
           {
             "above": [
               "toes_R",
-              0.06
+              0.05
             ]
           },
           {
@@ -406,38 +310,6 @@
               "face",
               0.2
             ]
-          },
-          {
-            "near": [
-              "knee_L",
-              "hand_L"
-            ],
-            "d": 0.275,
-            "w": 2
-          },
-          {
-            "apart": [
-              "knee_L",
-              "hand_L"
-            ],
-            "d": 0.245,
-            "w": 2
-          },
-          {
-            "near": [
-              "toes_L",
-              "hand_L"
-            ],
-            "d": 0.77,
-            "w": 2
-          },
-          {
-            "apart": [
-              "toes_L",
-              "hand_L"
-            ],
-            "d": 0.74,
-            "w": 2
           }
         ],
         "balance": false,
@@ -449,17 +321,17 @@
       "pose": "stand",
       "set": {
         "pelvis.pitch": 80,
-        "spine.flex": 5,
+        "spine.flex": 8,
         "neck.flex": -40,
-        "hip_L.flex": 80,
-        "hip_R.flex": 10,
-        "hip_L.abd": 45,
+        "hip_L.flex": 55,
+        "hip_R.flex": 5,
+        "hip_L.abd": 50,
         "hip_R.abd": 3,
-        "hip_L.rot": 40,
-        "hip_R.rot": 40,
-        "knee_L.flex": 110,
+        "hip_L.rot": 55,
+        "hip_R.rot": 0,
+        "knee_L.flex": 100,
         "knee_R.flex": 0,
-        "ankle_L.flex": 65,
+        "ankle_L.flex": 60,
         "ankle_R.flex": -30,
         "shoulder_L.flex": 30,
         "shoulder_R.flex": 30,
@@ -472,7 +344,6 @@
       },
       "support": [
         "knee_L",
-        "toes_L",
         "toes_R",
         "hands"
       ],
@@ -483,6 +354,7 @@
           "hip_L.flex",
           "hip_L.abd",
           "knee_L.flex",
+          "ankle_L.flex",
           "hip_R.flex",
           "knee_R.flex",
           "ankle_R.flex",
@@ -504,6 +376,13 @@
             ]
           },
           {
+            "height": [
+              "toes_L",
+              0.005
+            ],
+            "w": 0.5
+          },
+          {
             "near": [
               "elbow_L",
               "elbow_R"
@@ -515,54 +394,6 @@
               "face",
               0.2
             ]
-          },
-          {
-            "near": [
-              "knee_L",
-              "hand_L"
-            ],
-            "d": 0.275,
-            "w": 2
-          },
-          {
-            "apart": [
-              "knee_L",
-              "hand_L"
-            ],
-            "d": 0.245,
-            "w": 2
-          },
-          {
-            "near": [
-              "toes_L",
-              "hand_L"
-            ],
-            "d": 0.77,
-            "w": 2
-          },
-          {
-            "apart": [
-              "toes_L",
-              "hand_L"
-            ],
-            "d": 0.74,
-            "w": 2
-          },
-          {
-            "near": [
-              "toes_R",
-              "hand_R"
-            ],
-            "d": 0.855,
-            "w": 2
-          },
-          {
-            "apart": [
-              "toes_R",
-              "hand_R"
-            ],
-            "d": 0.825,
-            "w": 2
           }
         ],
         "balance": false,
@@ -576,13 +407,13 @@
         "pelvis.pitch": 84,
         "spine.flex": 0,
         "neck.flex": -40,
-        "hip_L.flex": 15,
+        "hip_L.flex": 25,
         "hip_R.flex": 0,
-        "hip_L.abd": 15,
+        "hip_L.abd": 20,
         "hip_R.abd": 0,
-        "knee_L.flex": 40,
+        "knee_L.flex": 60,
         "knee_R.flex": 0,
-        "ankle_L.flex": 30,
+        "ankle_L.flex": 40,
         "ankle_R.flex": -30,
         "shoulder_L.flex": 30,
         "shoulder_R.flex": 30,
@@ -630,7 +461,7 @@
           {
             "above": [
               "toes_L",
-              0.06
+              0.05
             ]
           },
           {
@@ -651,22 +482,6 @@
               0.33
             ],
             "w": 0.3
-          },
-          {
-            "near": [
-              "toes_R",
-              "hand_R"
-            ],
-            "d": 0.855,
-            "w": 2
-          },
-          {
-            "apart": [
-              "toes_R",
-              "hand_R"
-            ],
-            "d": 0.825,
-            "w": 2
           }
         ],
         "balance": false,
@@ -742,38 +557,6 @@
               0.33
             ],
             "w": 0.3
-          },
-          {
-            "near": [
-              "toes_L",
-              "hand_L"
-            ],
-            "d": 0.855,
-            "w": 2
-          },
-          {
-            "apart": [
-              "toes_L",
-              "hand_L"
-            ],
-            "d": 0.825,
-            "w": 2
-          },
-          {
-            "near": [
-              "toes_R",
-              "hand_R"
-            ],
-            "d": 0.855,
-            "w": 2
-          },
-          {
-            "apart": [
-              "toes_R",
-              "hand_R"
-            ],
-            "d": 0.825,
-            "w": 2
           }
         ],
         "balance": false,
@@ -942,38 +725,6 @@
               0.33
             ],
             "w": 0.3
-          },
-          {
-            "near": [
-              "toes_L",
-              "hand_L"
-            ],
-            "d": 0.855,
-            "w": 2
-          },
-          {
-            "apart": [
-              "toes_L",
-              "hand_L"
-            ],
-            "d": 0.825,
-            "w": 2
-          },
-          {
-            "near": [
-              "toes_R",
-              "hand_R"
-            ],
-            "d": 0.855,
-            "w": 2
-          },
-          {
-            "apart": [
-              "toes_R",
-              "hand_R"
-            ],
-            "d": 0.825,
-            "w": 2
           }
         ],
         "balance": false,
@@ -1045,38 +796,6 @@
               "wrist_L"
             ],
             "w": 0.3
-          },
-          {
-            "near": [
-              "toes_L",
-              "hand_L"
-            ],
-            "d": 0.855,
-            "w": 2
-          },
-          {
-            "apart": [
-              "toes_L",
-              "hand_L"
-            ],
-            "d": 0.825,
-            "w": 2
-          },
-          {
-            "near": [
-              "toes_R",
-              "hand_R"
-            ],
-            "d": 0.855,
-            "w": 2
-          },
-          {
-            "apart": [
-              "toes_R",
-              "hand_R"
-            ],
-            "d": 0.825,
-            "w": 2
           }
         ],
         "balance": false,

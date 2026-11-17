@@ -68,7 +68,7 @@ test.describe("administration", () => {
     await page.goto(`/ru/admin/edit/${pub!.document_id}`);
     const row = page.locator('[data-testid=\"program-steps-editor\"]:visible').locator(`[data-step-key="${target}"]`);
     await expect(row).toContainText(/✓ [1-9]/); // editors see how many members completed the step
-    await row.getByRole("button", { name: "up", exact: true }).click();
+    await row.getByRole("button", { name: "Выше", exact: true }).click();
     await page.locator('[data-testid=\"save-draft\"]:visible').click();
     await expect(page.locator('[data-testid=\"save-draft\"]:visible')).toBeDisabled();
     await page.locator('[data-testid=\"publish\"]:visible').click();
@@ -90,7 +90,7 @@ test.describe("administration", () => {
 
     // Restore the original order for other tests.
     await page.goto(`/ru/admin/edit/${pub!.document_id}`);
-    await page.locator('[data-testid=\"program-steps-editor\"]:visible').locator(`[data-step-key="${target}"]`).getByRole("button", { name: "down", exact: true }).click();
+    await page.locator('[data-testid=\"program-steps-editor\"]:visible').locator(`[data-step-key="${target}"]`).getByRole("button", { name: "Ниже", exact: true }).click();
     await page.locator('[data-testid=\"save-draft\"]:visible').click();
     await expect(page.locator('[data-testid=\"save-draft\"]:visible')).toBeDisabled();
     await page.locator('[data-testid=\"publish\"]:visible').click();

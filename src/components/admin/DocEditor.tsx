@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useMemo, useState, useTransition } from "react";
 import { useRouter } from "next/navigation";
-import { FieldEditor, ListControls, LocInput, input, type Option } from "./fields";
+import { ControlLabels, FieldEditor, ListControls, LocInput, input, type Option } from "./fields";
 import { exerciseFields, pageFields, poseFields, programFields, type SpecOptions } from "./specs";
 import { Icon } from "@/components/ui/Icon";
 import { useToast } from "@/components/ui/Toast";
@@ -129,6 +129,7 @@ export function DocEditor({ doc, ctx }: { doc: EditorDoc; ctx: EditorContext }) 
   const previewBase = `/${ctx.locale}/admin/preview/${doc.id}`;
 
   return (
+    <ControlLabels value={{ up: L.moveUp, down: L.moveDown, duplicate: L.duplicate, remove: L.delete }}>
     <div className="grid gap-6 xl:grid-cols-[1fr_340px]" data-testid="doc-editor">
       <div className="min-w-0 space-y-6">
         <section className="grid gap-4 rounded-[var(--radius-md)] border border-line bg-surface p-4 sm:grid-cols-2">
@@ -372,6 +373,7 @@ export function DocEditor({ doc, ctx }: { doc: EditorDoc; ctx: EditorContext }) 
         ) : null}
       </aside>
     </div>
+    </ControlLabels>
   );
 }
 
