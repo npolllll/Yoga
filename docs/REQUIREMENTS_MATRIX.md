@@ -9,9 +9,9 @@
 | RU/EN, маршруты `/ru`, `/en`, корень → язык (cookie → Accept-Language) | M,S | `src/proxy.ts`, `lib/i18n` | e2e public «home in RU and EN» | ✅ |
 | Смена языка сохраняет страницу, асану, программу, фильтры | M | `LocaleSwitcher` (полная перезагрузка, query сохраняется) | e2e «filters… survive a language switch», «language switch keeps the pose» | ✅ |
 | Не смешивать языки на экране; `html lang` | M | словари `lib/i18n/dictionaries`, корневой layout | e2e (lang=en после переключения) | ✅ |
-| hreflang, sitemap, локализованные метаданные | M | `alternates` в `generateMetadata`; `app/sitemap.ts` (hreflang), `app/robots.ts` | curl sitemap.xml | 🟢 |
+| hreflang, sitemap, локализованные метаданные | M | `alternates` в `generateMetadata`; `app/sitemap.ts` (hreflang), `app/robots.ts` | e2e «SEO: hreflang…» | ✅ |
 | Header/Footer, мобильное меню, поиск/избранное/профиль | S,J | `components/layout/*` | e2e mobile, axe | ✅ |
-| Нет ссылок «в никуда» | M | все пункты меню ведут на реализованные страницы | e2e content pages | ✅ |
+| Нет ссылок «в никуда» | M | все пункты меню ведут на реализованные страницы | e2e «no dead internal links» (RU/EN, ключевые страницы) | ✅ |
 | 404 и ошибки | M | `[locale]/not-found.tsx`, `[...rest]`, `error.tsx` | e2e «localized 404» | ✅ |
 
 ## Главная
@@ -22,7 +22,7 @@
 | 4 уровня → каталог/программа уровня | S,M | карточки уровней | скриншот | 🟢 |
 | Featured, обучение, How it works, My Practice teaser, Why, FAQ, Final CTA, Footer | S | секции главной | скриншот | 🟢 |
 | Тексты главной редактируются в админке | M | page doc `home` (`blocks`, `featured`) | — | 🟢 |
-| Иллюстрации маскота (hero, уровни, категории) | P,M | `pipeline/brand.py` → `public/media/brand` | — | 🟡 рендер в очереди |
+| Иллюстрации маскота (hero, уровни, категории) | P,M | `pipeline/brand.py` → `public/media/brand` | — | 🟡 рендер в очереди (после поз) |
 | Без вымышленной статистики | M | счётчиков пользователей нет | — | ✅ |
 
 ## Библиотека асан
@@ -70,11 +70,11 @@
 |---|---|---|---|---|
 | Dashboard, редакторы асан/программ/упражнений/страниц | M | `app/[locale]/admin/*`, `DocEditor` | e2e admin | ✅ |
 | Черновики, предпросмотр RU/EN и рядом, публикация, снятие с публикации, дублирование, удаление (owner) | M | `actions/admin.ts` | e2e admin draft→preview→publish→delete | ✅ |
-| Статусы Draft → Editorial → Expert → Approved → Published; утверждает только reviewer | M | `set_review_status` | integration workflow | ✅ |
-| Версии и откат; журнал изменений | M | `document_versions`, `audit_log` | integration | ✅ |
+| Статусы Draft → Editorial → Expert → Approved → Published; утверждает только reviewer | M | `set_review_status` | integration workflow, e2e «review workflow» (UI + отказ сервера) | ✅ |
+| Версии и откат; журнал изменений | M | `document_versions`, `audit_log` | integration, e2e «publication lifecycle» | ✅ |
 | Порядок шагов, предупреждение о влиянии на прогресс | M | `ProgramSteps` (счётчики) | e2e reorder | ✅ |
 | Медиатека: загрузка, alt RU/EN, статус проверки, мастер-файлы не публикуются | M | media page, Storage | e2e media upload | ✅ |
-| Категории, навыки, уровни (подпись Pro), контакты, политика публикации | M | settings page | — | 🟢 |
+| Категории, навыки, уровни (подпись Pro), контакты, политика публикации | M | settings page | e2e «settings: custom label» | ✅ |
 
 ## Контент
 | Требование | Ист. | Реализация | Тест | Статус |
@@ -87,14 +87,14 @@
 | Требование | Ист. | Реализация | Тест | Статус |
 |---|---|---|---|---|
 | Единый персонаж (Blender Python), риг с ограничениями, контроль контактов | M | `pipeline/balance3d` | метрики в манифестах | ✅ |
-| 5 пилотных анимаций | M | `pipeline/poses/*` | `validate_media.py` | 🟡 рендер идёт |
-| 40–50 анимаций 10 с / 30 fps / 300 кадров, постер, 4–6 ключевых кадров | M | queue + postprocess | validate_media | 🟡 конфиги и рендер в работе |
+| 5 пилотных анимаций | M | `pipeline/poses/*` | `validate_media.py` | 🟡 финальный рендер идёт (первые в очереди) |
+| 40–50 анимаций 10 с / 30 fps / 300 кадров, постер, 4–6 ключевых кадров | M | queue + postprocess | покадровая проверка 44/44, validate_media | 🟡 конфиги 44/44 ✓, финальный рендер идёт |
 | Очередь, повтор, продолжение, журналы, превью/финал, манифест, проверки | M | `queue.py`, `render_pose.py`, `validate_media.py` | запуск очереди | ✅ |
 
 ## Производительность, доступность, развёртывание
 | Требование | Ист. | Реализация | Тест | Статус |
 |---|---|---|---|---|
 | Lighthouse ≥ 90 (моб.), LCP ≤ 2,5 с, CLS ≤ 0,1 | M | статические страницы, лёгкие медиа | Lighthouse prod (97/95/97) | ✅ (лаборатория; полевые данные — после запуска) |
-| Клавиатура, контраст, alt, Reduce Motion | M,S | токены, aria, `prefers-reduced-motion` | axe, e2e keyboard | ✅ |
+| Клавиатура, контраст, alt, Reduce Motion | M,S | токены, aria, `prefers-reduced-motion` (`useSyncExternalStore`) | axe, e2e keyboard, e2e reduced motion (после импорта медиа) | ✅ |
 | Деплой Supabase + Vercel, env, бэкап/восстановление, лимиты free tier | M | `docs/DEPLOYMENT.md`, `scripts/backup.sh`, `restore.sh` | restore drill | ✅ (деплой не выполнялся — нужны доступы) |
 | Доступность из РФ, юридические требования | M | зафиксировано в DEPLOYMENT §5 | — | ⛔ требуют решения владельца |
