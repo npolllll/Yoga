@@ -42,7 +42,8 @@
           "spine.twist",
           "shoulder_*.flex",
           "shoulder_*.abd",
-          "neck.flex"
+          "neck.flex",
+          "elbow_L.flex"
         ],
         "goals": [
           {
@@ -70,7 +71,8 @@
             "above": [
               "forearm_L",
               0.05
-            ]
+            ],
+            "w": 2
           },
           {
             "above": [
@@ -99,7 +101,9 @@
           "spine.twist",
           "shoulder_*.flex",
           "shoulder_*.abd",
-          "neck.flex"
+          "neck.flex",
+          "wrist_L.ext",
+          "elbow_L.flex"
         ],
         "goals": [
           {
@@ -126,13 +130,28 @@
             "above": [
               "forearm_L",
               0.05
-            ]
+            ],
+            "w": 2
           },
           {
             "above": [
               "forearm_R",
               0.05
             ]
+          },
+          {
+            "above": [
+              "elbow_L",
+              0.01
+            ],
+            "w": 2
+          },
+          {
+            "above": [
+              "fingers_L",
+              0.01
+            ],
+            "w": 2
           }
         ]
       }
@@ -156,7 +175,9 @@
           "shoulder_*.flex",
           "shoulder_*.abd",
           "hip_*.flex",
-          "neck.flex"
+          "neck.flex",
+          "wrist_L.ext",
+          "elbow_L.flex"
         ],
         "balance": true,
         "goals": [
@@ -196,13 +217,28 @@
             "above": [
               "forearm_L",
               0.05
-            ]
+            ],
+            "w": 2
           },
           {
             "above": [
               "forearm_R",
               0.05
             ]
+          },
+          {
+            "above": [
+              "elbow_L",
+              0.01
+            ],
+            "w": 2
+          },
+          {
+            "above": [
+              "fingers_L",
+              0.01
+            ],
+            "w": 2
           }
         ]
       }
@@ -231,7 +267,8 @@
           "spine.flex",
           "hip_*.flex",
           "shoulder_*.flex",
-          "neck.flex"
+          "neck.flex",
+          "wrist_L.ext"
         ],
         "goals": [
           {
@@ -259,6 +296,13 @@
               "forearm_R",
               0.05
             ]
+          },
+          {
+            "above": [
+              "fingers_L",
+              0.01
+            ],
+            "w": 2
           }
         ]
       }
@@ -268,7 +312,21 @@
       "pose": "squat_tight",
       "support": [
         "toes"
-      ]
+      ],
+      "solve": {
+        "vary": [
+          "wrist_L.ext"
+        ],
+        "goals": [
+          {
+            "above": [
+              "fingers_L",
+              0.01
+            ],
+            "w": 2
+          }
+        ]
+      }
     }
   ],
   "keyframes": [

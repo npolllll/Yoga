@@ -53,14 +53,16 @@
           {
             "above": [
               "fingers_L",
-              0.01
-            ]
+              0.02
+            ],
+            "w": 2
           },
           {
             "above": [
               "fingers_R",
               0.01
-            ]
+            ],
+            "w": 2
           },
           {
             "height": [
@@ -162,14 +164,16 @@
           {
             "above": [
               "fingers_L",
-              0.01
-            ]
+              0.02
+            ],
+            "w": 2
           },
           {
             "above": [
               "fingers_R",
               0.01
-            ]
+            ],
+            "w": 2
           },
           {
             "height": [
@@ -341,7 +345,8 @@
             "above": [
               "fingers_R",
               0.01
-            ]
+            ],
+            "w": 2
           },
           {
             "height": [
@@ -469,7 +474,8 @@
             "above": [
               "fingers_R",
               0.01
-            ]
+            ],
+            "w": 2
           },
           {
             "height": [
@@ -781,6 +787,13 @@
             ],
             "d": 0.8079999999999999,
             "w": 3
+          },
+          {
+            "above": [
+              "toes_L",
+              0.02
+            ],
+            "w": 2
           }
         ],
         "balance": false,
@@ -822,7 +835,8 @@
           "neck.flex",
           "shoulder_*.flex",
           "elbow_*.flex",
-          "wrist_*.ext"
+          "wrist_*.ext",
+          "ankle_L.flex"
         ],
         "goals": [
           {
@@ -855,7 +869,8 @@
             "above": [
               "toes_L",
               0.12
-            ]
+            ],
+            "w": 2
           },
           {
             "above": [
