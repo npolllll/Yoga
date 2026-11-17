@@ -2,17 +2,18 @@
   "slug": "bakasana",
   "quality": "final",
   "generatedFrom": {
-    "characterVersion": "1.0.0",
-    "configVersion": 1,
+    "characterVersion": "1.2.0",
+    "configVersion": 2,
+    "configHash": "1fe3368109f193d2",
     "blender": "5.2.4 LTS",
     "engine": "CYCLES"
   },
   "motion": {
     "clamped": [],
     "maxContactDriftCm": 0.0,
-    "maxSnapCm": 2.15,
-    "minBodyZCm": -5.94,
-    "comMarginCm": 2.4,
+    "maxSnapCm": 0.47,
+    "minBodyZCm": -1.21,
+    "comMarginCm": 6.0,
     "uniqueFrames": 211
   },
   "items": [
@@ -26,8 +27,8 @@
       "frameCount": 300,
       "fps": 30,
       "position": 0,
-      "bytes": 110810,
-      "sha256": "447a2a607d94f59861523abdf96293accf6730084d3f9740c3b569277926ef55",
+      "bytes": 134217,
+      "sha256": "ce4fc9457161dfdd8d5170d2f4c284571624f99a198b8e4a5067565b2dceb397",
       "meta": {
         "type": "video/webm; codecs=\"vp9\""
       }
@@ -42,8 +43,8 @@
       "frameCount": 300,
       "fps": 30,
       "position": 1,
-      "bytes": 151529,
-      "sha256": "65a0b6556ad5c1b73992f92cbe9409c2cfa69ee5f4278938c3b1864d98388021",
+      "bytes": 170707,
+      "sha256": "48e912f53d63cd89f51aad60a0c6bb671eebde0bb1e00fb486b2a74809e56830",
       "meta": {
         "type": "video/mp4; codecs=\"avc1.640028\""
       }
@@ -54,8 +55,8 @@
       "mime": "image/webp",
       "width": 1280,
       "height": 960,
-      "bytes": 11944,
-      "sha256": "5fd7776ff81a48f9617c17e80eed0ea3e7581ed3c62060eeb5afe3b448fde94f",
+      "bytes": 12348,
+      "sha256": "b1bfe62e6d6b49be7b9348b4dada8fb23f67ce9ec3e85c97500be99075d42aaf",
       "alt": {
         "ru": "Бакасана: 3D-персонаж в позе",
         "en": "Crow Pose: 3D character in the pose"
@@ -68,8 +69,8 @@
       "mime": "image/webp",
       "width": 320,
       "height": 240,
-      "bytes": 1952,
-      "sha256": "ec6938c4179ad86c02119748ab4a97bf0bd9704c641489a0bb5e34147b7b6b15",
+      "bytes": 2022,
+      "sha256": "62d908fc01440fbce856a5e54c023869f0f75aad8e5d4c28b308661547119ef6",
       "alt": {
         "ru": "Бакасана: 3D-персонаж в позе",
         "en": "Crow Pose: 3D character in the pose"
@@ -82,8 +83,8 @@
       "mime": "image/webp",
       "width": 480,
       "height": 360,
-      "bytes": 3082,
-      "sha256": "411260d86951a1d53d4b335a6e42b96cfd3cc8a3b27bf8143374ff5ab0614a00",
+      "bytes": 3140,
+      "sha256": "99bff7890b1e8fe356fbd714952dba60ba39f82f2d0a7a499165948d43ed9074",
       "position": 0,
       "meta": {
         "t": 1.6
@@ -95,8 +96,8 @@
       "mime": "image/webp",
       "width": 480,
       "height": 360,
-      "bytes": 2922,
-      "sha256": "d3b4a7cac0cb8b7fb9c0cf230d5d55b423f5a467a905114d5d9a24717fdcac33",
+      "bytes": 3138,
+      "sha256": "286db5f3cb079d1841a0292c700c437315e8dd9557afec60233722e767a94c3d",
       "position": 1,
       "meta": {
         "t": 3.8
@@ -108,8 +109,8 @@
       "mime": "image/webp",
       "width": 480,
       "height": 360,
-      "bytes": 2976,
-      "sha256": "b161045951f77e3ffb64b6bab24d80f2ff3a1a5a5ee23aa67d926c3fa44b5f35",
+      "bytes": 3306,
+      "sha256": "9e98305720039773163e4f75791aac5990b9a5e5dd438ec34646fb957f0b1180",
       "position": 2,
       "meta": {
         "t": 4.7
@@ -121,8 +122,8 @@
       "mime": "image/webp",
       "width": 480,
       "height": 360,
-      "bytes": 2958,
-      "sha256": "d409d2c19ee0c109aa1a358eecd8e12d634fd40abb49f1980b68b77a84c732b3",
+      "bytes": 2996,
+      "sha256": "45fbe002a296f2b49814189ee09190d2a3195e0c7b98cad5c1de0e95d3e8da69",
       "position": 3,
       "meta": {
         "t": 7.0
@@ -134,8 +135,8 @@
       "mime": "image/webp",
       "width": 480,
       "height": 360,
-      "bytes": 3006,
-      "sha256": "5640a556db0e45ac9e592fc4e3eb386f481812efba071953dc0b9d58fe403a11",
+      "bytes": 3038,
+      "sha256": "b86c0af913b33c3499e62dd227063bb4482656d8d2663def8e93e8d9b6306d12",
       "position": 4,
       "meta": {
         "t": 9.6
