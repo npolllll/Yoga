@@ -1,19 +1,19 @@
 # RESUME — следующая операция
 
-1. Окружение: `pnpm env:up` (dockerd + Supabase); dev: `setsid nohup pnpm dev > /tmp/dev.log 2>&1 &`.
-2. Идёт финальный рендер всех 44 асан (персонаж 1.2.0). Проверка: `cat pipeline/out/queue.json`,
-   `tail pipeline/out/logs/render_all.log` (строка `ALL DONE` = цепочка завершена: позы → бренд → валидация).
-   Порядок поз — `pipeline/out/render_order.txt`; очередь перечитывает файл после каждой позы, исправленные
-   конфиги можно дописывать в конец. Если процесс не идёт (`ps aux | grep render_pose`), перезапустить —
-   готовые позы и кадры с тем же хэшем пропускаются:
-   `setsid nohup pipeline/render_all.sh @pipeline/out/render_order.txt > pipeline/out/logs/render_all.log 2>&1 < /dev/null &`
-   Файла нет (он в `pipeline/out`, не в git) — восстановить: `ls pipeline/poses | sed 's/.json//' > pipeline/out/render_order.txt`.
-3. НЕ менять `pipeline/balance3d/*.py` во время рендера: хэш включает код рига/персонажа, любая правка
-   перерендерит все позы. Правка одного `pipeline/poses/<slug>.json` перерендерит только эту позу.
-4. Покадровая проверка конфигов (без рендера): все 44 проходят (самая низкая точка ≥ −2,5 см, снап ≤ 3 см,
-   дрейф опор ≤ 1 см). Инструмент — `pipeline/keysheet.py` (стоп-кадры ключей + метрики).
-5. После `ALL DONE`: `/opt/pyenv/bin/python pipeline/validate_media.py --sheet` (уже в цепочке, лог
-   `pipeline/out/logs/validate.log`), `pnpm db:seed`, `pnpm exec tsx scripts/content-status.ts`, просмотр
-   контактного листа, `pnpm e2e`, Lighthouse, коммит `public/media` (позы + бренд), обновить QA_REPORT/PROGRESS.
-   Изменения в `public/media/poses/bakasana` в рабочем дереве — устаревший рендер персонажа 1.1, будет перезаписан.
-6. Открытые внешние вопросы — `docs/DECISIONS.md` (рецензент, юрисдикция, доступность из РФ, коммерческий статус).
+Состояние: продукт, админка, контент (44 асаны, 22 упражнения, 4 программы, 5 страниц) и все 44 3D-анимации
+готовы и проверены автоматически (unit/integration 34, E2E 31 на dev и production, validate_media 44/44,
+ESLint 0, tsc 0). Деплой не выполнялся. Экспертной проверки нет.
+
+1. Окружение: `pnpm env:up`; dev: `setsid nohup pnpm dev > /tmp/dev.log 2>&1 &`. Медиа в БД: `pnpm db:seed`.
+   Production локально: `rm -rf .next && pnpm build && pnpm start` (перед повторным запуском убить процессы
+   `next-server` — `pkill -f 'next start'` их не находит).
+2. Открытые инженерные задачи (TASKS, Phase 8–9):
+   - LCP в лабораторной симуляции 2,6–3,3 с (цель 2,5 с): сократить начертания/подмножества шрифтов Lora/Manrope.
+   - (опц.) строгий 404 на первом запросе к несуществующему slug — проверка в `src/proxy.ts`.
+   - (опц.) кнопка «Обновить публичный кэш» в админке (редкая гонка фоновой регенерации — DECISIONS).
+3. Изменение 3D: правка `pipeline/balance3d/*.py` перерендерит все позы (хэш). Для одной позы — правка
+   `pipeline/poses/<slug>.json`, проверка `pipeline/keysheet.py` + `pipeline/poster_probe.sh`, затем
+   `pipeline/render_all.sh @pipeline/out/render_order.txt` (или `queue.py --only <slug>`), `validate_media.py --sheet`.
+4. Заблокировано владельцем (`docs/DECISIONS.md`, «Открытые вопросы»): рецензент-преподаватель
+   (`docs/ANIMATION_REVIEW_NOTES.md`), проверенные ссылки видеоуроков RU/EN, доступы Vercel/Supabase для деплоя
+   (`docs/DEPLOYMENT.md`), юрисдикция и доступность из РФ, коммерческий статус (план Vercel).

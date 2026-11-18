@@ -12,7 +12,7 @@
 | hreflang, sitemap, локализованные метаданные | M | `alternates` в `generateMetadata`; `app/sitemap.ts` (hreflang), `app/robots.ts` | e2e «SEO: hreflang…» | ✅ |
 | Header/Footer, мобильное меню, поиск/избранное/профиль | S,J | `components/layout/*` | e2e mobile, axe | ✅ |
 | Нет ссылок «в никуда» | M | все пункты меню ведут на реализованные страницы | e2e «no dead internal links» (RU/EN, ключевые страницы) | ✅ |
-| 404 и ошибки | M | `[locale]/not-found.tsx`, `[...rest]`, `error.tsx` | e2e «localized 404» | ✅ |
+| 404 и ошибки | M | `[locale]/not-found.tsx`, `[...rest]`, `error.tsx` | e2e «localized 404» (dev + prod) | ✅ (несуществующий slug позы на первом запросе: 200 + noindex — DECISIONS) |
 
 ## Главная
 | Требование | Ист. | Реализация | Тест | Статус |
@@ -22,7 +22,7 @@
 | 4 уровня → каталог/программа уровня | S,M | карточки уровней | скриншот | 🟢 |
 | Featured, обучение, How it works, My Practice teaser, Why, FAQ, Final CTA, Footer | S | секции главной | скриншот | 🟢 |
 | Тексты главной редактируются в админке | M | page doc `home` (`blocks`, `featured`) | — | 🟢 |
-| Иллюстрации маскота (hero, уровни, категории) | P,M | `pipeline/brand.py` → `public/media/brand` | — | 🟡 рендер в очереди (после поз) |
+| Иллюстрации маскота (hero, уровни, категории) | P,M | `pipeline/brand.py` → `brand_export.py` → `public/media/brand` | просмотр, Lighthouse | 🟢 |
 | Без вымышленной статистики | M | счётчиков пользователей нет | — | ✅ |
 
 ## Библиотека асан
@@ -87,14 +87,14 @@
 | Требование | Ист. | Реализация | Тест | Статус |
 |---|---|---|---|---|
 | Единый персонаж (Blender Python), риг с ограничениями, контроль контактов | M | `pipeline/balance3d` | метрики в манифестах | ✅ |
-| 5 пилотных анимаций | M | `pipeline/poses/*` | `validate_media.py` | 🟡 финальный рендер идёт (первые в очереди) |
-| 40–50 анимаций 10 с / 30 fps / 300 кадров, постер, 4–6 ключевых кадров | M | queue + postprocess | покадровая проверка 44/44, validate_media | 🟡 конфиги 44/44 ✓, финальный рендер идёт |
+| 5 пилотных анимаций | M | `pipeline/poses/*` | `validate_media.py` | ✅ (анатомия ⛔ — нет рецензента) |
+| 40–50 анимаций 10 с / 30 fps / 300 кадров, постер, 4–6 ключевых кадров | M | queue + postprocess | покадровая проверка, `validate_media.py` 44/44 (вкл. уникальность постеров) | ✅ (анатомия ⛔ — нет рецензента; известные упрощения — `ANIMATION_REVIEW_NOTES.md`) |
 | Очередь, повтор, продолжение, журналы, превью/финал, манифест, проверки | M | `queue.py`, `render_pose.py`, `validate_media.py` | запуск очереди | ✅ |
 
 ## Производительность, доступность, развёртывание
 | Требование | Ист. | Реализация | Тест | Статус |
 |---|---|---|---|---|
-| Lighthouse ≥ 90 (моб.), LCP ≤ 2,5 с, CLS ≤ 0,1 | M | статические страницы, лёгкие медиа | Lighthouse prod (97/95/97) | ✅ (лаборатория; полевые данные — после запуска) |
+| Lighthouse ≥ 90 (моб.), LCP ≤ 2,5 с, CLS ≤ 0,1 | M | статические страницы, медиа по размеру показа, без конкурирующих preload | Lighthouse prod с реальными медиа: 91–99, CLS ≤ 0,04 | 🟡 балл и CLS ✅; LCP в симуляции 2,6–3,3 с — не достигнут (QA_REPORT) |
 | Клавиатура, контраст, alt, Reduce Motion | M,S | токены, aria, `prefers-reduced-motion` (`useSyncExternalStore`) | axe, e2e keyboard, e2e reduced motion (после импорта медиа) | ✅ |
 | Деплой Supabase + Vercel, env, бэкап/восстановление, лимиты free tier | M | `docs/DEPLOYMENT.md`, `scripts/backup.sh`, `restore.sh` | restore drill | ✅ (деплой не выполнялся — нужны доступы) |
 | Доступность из РФ, юридические требования | M | зафиксировано в DEPLOYMENT §5 | — | ⛔ требуют решения владельца |
