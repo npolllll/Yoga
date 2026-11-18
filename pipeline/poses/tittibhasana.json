@@ -2,8 +2,8 @@
   "slug": "tittibhasana",
   "version": 1,
   "view": {
-    "azimuth": 40,
-    "elevation": 10
+    "azimuth": 120,
+    "elevation": 6
   },
   "keys": [
     {
@@ -383,9 +383,9 @@
       "t": 6.0,
       "pose": "stand",
       "set": {
-        "pelvis.pitch": 50,
-        "spine.flex": 85,
-        "neck.flex": -45,
+        "pelvis.pitch": 80,
+        "spine.flex": 30,
+        "neck.flex": -40,
         "hip_L.flex": 145,
         "hip_R.flex": 145,
         "hip_L.abd": -30,
@@ -409,6 +409,7 @@
       "solve": {
         "vary": [
           "pelvis.pitch",
+          "spine.flex",
           "hip_*.flex",
           "shoulder_*.flex",
           "elbow_*.flex",
@@ -429,61 +430,62 @@
             ]
           },
           {
-            "near": [
-              "hip_L",
-              "shoulder_L"
-            ],
-            "d": 0.3
-          },
-          {
-            "near": [
-              "hip_R",
-              "shoulder_R"
-            ],
-            "d": 0.3
-          },
-          {
             "above": [
               "heel_L",
-              0.3
-            ]
+              0.5
+            ],
+            "w": 2
           },
           {
             "above": [
               "heel_R",
-              0.3
+              0.5
+            ],
+            "w": 2
+          },
+          {
+            "above": [
+              "toes_L",
+              0.53
+            ]
+          },
+          {
+            "above": [
+              "toes_R",
+              0.53
             ]
           },
           {
             "above": [
               "face",
-              0.15
-            ]
+              0.3
+            ],
+            "w": 2
           },
           {
             "apart": [
               "ankle_L",
               "ankle_R"
             ],
-            "d": 0.6
+            "d": 0.7
           },
           {
-            "over": [
-              "shoulder_L",
-              "hand_L"
+            "near": [
+              "knee_L",
+              "shoulder_L"
             ],
-            "w": 0.3
+            "d": 0.35
           },
           {
-            "over": [
-              "shoulder_R",
-              "hand_R"
+            "near": [
+              "knee_R",
+              "shoulder_R"
             ],
-            "w": 0.3
+            "d": 0.35
           }
         ],
         "balance": true,
-        "reg": 0.15
+        "reg": 0.1
       }
     },
     {

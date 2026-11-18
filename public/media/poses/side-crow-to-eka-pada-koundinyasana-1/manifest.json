@@ -1,0 +1,146 @@
+{
+  "slug": "side-crow-to-eka-pada-koundinyasana-1",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "bb393bfec6684c14",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.28,
+    "minBodyZCm": -2.15,
+    "comMarginCm": 4.9,
+    "uniqueFrames": 123
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/side-crow-to-eka-pada-koundinyasana-1/side-crow-to-eka-pada-koundinyasana-1.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 108581,
+      "sha256": "466b5e61a80d1c2a9c7445551b6c280f3eca993983c62a32c18b057916b151bd",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/side-crow-to-eka-pada-koundinyasana-1/side-crow-to-eka-pada-koundinyasana-1.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 146377,
+      "sha256": "63f8b09d965724b2197af9e6d65d07f0c5993b1e8ca7345a5510214e62ce3930",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/side-crow-to-eka-pada-koundinyasana-1/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 12810,
+      "sha256": "e6823f50b22f1ee5c64ffc45d96d0c1f2390d218dfb7e137aaf7ce2581160793",
+      "alt": {
+        "ru": "Из боковой вороны в Каундиньясану I: 3D-персонаж в позе",
+        "en": "Side Crow to Koundinya I: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/side-crow-to-eka-pada-koundinyasana-1/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 2074,
+      "sha256": "61e1806a0456a3dfd37b3cd9a925bc927ab0df5b5e44132fdd3c474c8962eeac",
+      "alt": {
+        "ru": "Из боковой вороны в Каундиньясану I: 3D-персонаж в позе",
+        "en": "Side Crow to Koundinya I: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/side-crow-to-eka-pada-koundinyasana-1/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2372,
+      "sha256": "965e0b9eed1db7030ff8e4b625345b4a7946180a30ff5af180bc39257d782299",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/side-crow-to-eka-pada-koundinyasana-1/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2738,
+      "sha256": "53f7ee7849ef11bc8e20fb6e744a6754b4292a5f29937651c518bccc6f01a5ed",
+      "position": 1,
+      "meta": {
+        "t": 3.8
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/side-crow-to-eka-pada-koundinyasana-1/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3082,
+      "sha256": "59b8c10a5858fe8740bc2d11c151afed052425d6b1cbfe32ef5bb16f28174927",
+      "position": 2,
+      "meta": {
+        "t": 5.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/side-crow-to-eka-pada-koundinyasana-1/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3074,
+      "sha256": "ad08e87c4bfc2ec11d4d90f54650ab2a74f2a7d5dc1aff75d602a83347f6ac85",
+      "position": 3,
+      "meta": {
+        "t": 6.5
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/side-crow-to-eka-pada-koundinyasana-1/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2400,
+      "sha256": "5ba492999ee02699d836aaeb1fd7a21a6c159a0d95e5e6179f5a9b753a49c0ad",
+      "position": 4,
+      "meta": {
+        "t": 9.2
+      }
+    }
+  ]
+}

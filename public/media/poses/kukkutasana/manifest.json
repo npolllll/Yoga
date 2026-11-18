@@ -1,0 +1,146 @@
+{
+  "slug": "kukkutasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "acc36a3e34b63d52",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.4,
+    "minBodyZCm": -2.26,
+    "comMarginCm": 1.7,
+    "uniqueFrames": 175
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/kukkutasana/kukkutasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 113932,
+      "sha256": "cff75ae3678496987cf44db29b0f4e4151af30dba53660fa14cd25d24642d715",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/kukkutasana/kukkutasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 138312,
+      "sha256": "58a256436e5e39cb84724760526a579dfdeed85ca9dbfb8a54e51d0716c19898",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/kukkutasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 14038,
+      "sha256": "e29601a759a9add50f76c8c92077ee9034dce22d81f132f3bb2dd6f0a4b4e0a0",
+      "alt": {
+        "ru": "Куккутасана: 3D-персонаж в позе",
+        "en": "Rooster Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/kukkutasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 2260,
+      "sha256": "ecd8f7b7711c59deeeedac9d60c55e4d5a4c43e21961e081eacb6ab959807cfe",
+      "alt": {
+        "ru": "Куккутасана: 3D-персонаж в позе",
+        "en": "Rooster Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/kukkutasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3032,
+      "sha256": "b5c8b013268dd756c884e188e80dba6117829a62b94d9bee3d158bca4e43323d",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/kukkutasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2968,
+      "sha256": "79d093d4431ed27cd23c07d0a36f8a3cf11e87d0483b8c8d08d247be695327e8",
+      "position": 1,
+      "meta": {
+        "t": 3.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/kukkutasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2860,
+      "sha256": "c0d709c30a3d8e4baad0266ad532b293ca58bc926a9c1d4fa523807d330fa147",
+      "position": 2,
+      "meta": {
+        "t": 4.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/kukkutasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3424,
+      "sha256": "3171b4f2d6fef208b2582254d96d690ff7ceedf0a2e3a77fc038044acc183c85",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/kukkutasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2834,
+      "sha256": "fa22f32430d91579d628da7ab24ea71bcfcaef573b17c6c82d1ec4070b5a699a",
+      "position": 4,
+      "meta": {
+        "t": 9.0
+      }
+    }
+  ]
+}
