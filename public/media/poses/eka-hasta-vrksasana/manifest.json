@@ -1,0 +1,146 @@
+{
+  "slug": "eka-hasta-vrksasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 2,
+    "configHash": "5cae64e992096b38",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.06,
+    "minBodyZCm": -1.08,
+    "comMarginCm": 4.6,
+    "uniqueFrames": 156
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/eka-hasta-vrksasana/eka-hasta-vrksasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 60160,
+      "sha256": "5954fb23297f16e3e02058a4da8e1a776755b1a84a6a2fa13b73bf462cf45cb0",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/eka-hasta-vrksasana/eka-hasta-vrksasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 88834,
+      "sha256": "7ce2bb86e5121ed1383f2c9219a75d20bdfca652e7a90f7025dbdb8857fd3244",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/eka-hasta-vrksasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 7964,
+      "sha256": "ce5cdfbd14acfe1121e7ec39e61c8911710413f195f983424650326838c63dc5",
+      "alt": {
+        "ru": "Стойка на одной руке: 3D-персонаж в позе",
+        "en": "One-Arm Handstand: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/eka-hasta-vrksasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1170,
+      "sha256": "40ae89c731b5d54ce4e9a993ad895e515a141a33c377e9e3a67bd9653a11a69f",
+      "alt": {
+        "ru": "Стойка на одной руке: 3D-персонаж в позе",
+        "en": "One-Arm Handstand: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-hasta-vrksasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1730,
+      "sha256": "bb99c554be8ee7cb045e05919135410767716ee7d24922c6a99e9328d2cef1a3",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-hasta-vrksasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1868,
+      "sha256": "13ca8ff0132f9171ffc16979e960f204df5c1d26c9fabb3c7c29d2b2181cb9d0",
+      "position": 1,
+      "meta": {
+        "t": 3.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-hasta-vrksasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1836,
+      "sha256": "15559419fef533da646f8c8cde24597ba22a115aba39a464c9f020703fd1b69c",
+      "position": 2,
+      "meta": {
+        "t": 4.4
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-hasta-vrksasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1836,
+      "sha256": "15559419fef533da646f8c8cde24597ba22a115aba39a464c9f020703fd1b69c",
+      "position": 3,
+      "meta": {
+        "t": 6.5
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-hasta-vrksasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1862,
+      "sha256": "f833ead5d1a71f9776f9faf672b52aa73c82fe46c0b61d300af4d3a709062688",
+      "position": 4,
+      "meta": {
+        "t": 9.4
+      }
+    }
+  ]
+}

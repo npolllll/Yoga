@@ -1,0 +1,146 @@
+{
+  "slug": "ardha-pincha-mayurasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "b9dec353b551c206",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.22,
+    "minBodyZCm": -1.35,
+    "comMarginCm": 18.0,
+    "uniqueFrames": 178
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/ardha-pincha-mayurasana/ardha-pincha-mayurasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 147945,
+      "sha256": "a60ae2cece3472de3ebb6b128fd6f899df1187daed07828a75e6571fc792be9e",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/ardha-pincha-mayurasana/ardha-pincha-mayurasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 193927,
+      "sha256": "3f6b832c579e21c16360789a0f6d0aab62d01227dd44e0984bd8b4f2aadc5616",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/ardha-pincha-mayurasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 16016,
+      "sha256": "70d97c8fce5b99d7600463865946a6865c71826e3aa79b51cae1739371728a47",
+      "alt": {
+        "ru": "Дельфин: 3D-персонаж в позе",
+        "en": "Dolphin Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/ardha-pincha-mayurasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 2662,
+      "sha256": "ce95bdc80da659286819e55e65457d1e0ea28c5c3f58460de7389c817de8b764",
+      "alt": {
+        "ru": "Дельфин: 3D-персонаж в позе",
+        "en": "Dolphin Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/ardha-pincha-mayurasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 4090,
+      "sha256": "586d68bdd7ec968de2c5db7cf854786aebec521fea331d52bc6c2aa66e270f05",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/ardha-pincha-mayurasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 4454,
+      "sha256": "775cf16914e1a5f6f9fab30c42610545cddb6bdbf12ac4895aadbd2f641cfbfb",
+      "position": 1,
+      "meta": {
+        "t": 3.4
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/ardha-pincha-mayurasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 4094,
+      "sha256": "771c81b74c7c503fa655c13c7f1e4478ff6bf39448a9469aa78f9ba856a75073",
+      "position": 2,
+      "meta": {
+        "t": 5.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/ardha-pincha-mayurasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3988,
+      "sha256": "956027de315884ac77a3224569b3e652767e86bbb4d301c6c4ab948a000d0afb",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/ardha-pincha-mayurasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 4246,
+      "sha256": "1a7eda09a45183f197c48bba1b80acfaadf67717d8eea004820c32be94f6d038",
+      "position": 4,
+      "meta": {
+        "t": 9.4
+      }
+    }
+  ]
+}
