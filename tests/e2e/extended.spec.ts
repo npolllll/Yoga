@@ -50,7 +50,7 @@ test.describe("extended scenarios", () => {
 
   test("auth errors: wrong password and a weak password are rejected with clear messages", async ({ page }) => {
     await page.goto("/ru/login");
-    const form = page.getByTestId("login-form");
+    const form = vis(page, "login-form");
     await form.locator('input[name="email"]').fill("member@balance.local");
     await form.locator('input[name="password"]').fill("Wrong-pass-2026");
     await form.locator('button[type="submit"]').click();
@@ -58,7 +58,8 @@ test.describe("extended scenarios", () => {
     await expect(page).toHaveURL(/\/ru\/login/);
 
     await page.goto("/ru/sign-up");
-    const su = page.getByTestId("signup-form");
+    await ready(page, false);
+    const su = vis(page, "signup-form");
     await su.locator('input[name="email"]').fill(unique("weak"));
     await su.locator('input[name="password"]').fill("onlyletters");
     await su.locator('input[name="consent"]').check();
@@ -130,11 +131,15 @@ test.describe("extended scenarios", () => {
     await expect(name.nth(0)).toHaveValue(original);
     await expect(vis(page, "publish-status")).toHaveText("Опубликовано · есть изменения");
 
-    // Unpublish → guests get 404 (cache invalidated).
+    // Unpublish → guests get the localized "not found" page, never indexable. With Cache Components the
+    // prerendered shell can start the response (status 200) before the page calls notFound(); Next.js then
+    // adds <meta name="robots" content="noindex"> (see docs/DECISIONS.md). A real 404 is accepted too.
     await vis(page, "unpublish").click();
     await expect(vis(page, "publish-status")).toHaveText("Не опубликовано");
     res = await g.goto(`/ru/poses/${copy.slug}`);
-    expect(res?.status()).toBe(404);
+    expect([200, 404]).toContain(res?.status());
+    await expect(g.getByRole("heading", { level: 1 })).toHaveText("Страница не найдена");
+    await expect(g.locator('head meta[name="robots"][content*="noindex"]').first()).toBeAttached();
     await guest.close();
 
     await deleteAsOwner(browser, copy.id);
@@ -143,9 +148,17 @@ test.describe("extended scenarios", () => {
   test("settings: a custom label for the expert level appears on public pages", async ({ page, browser }) => {
     await login(page, "owner@balance.local", SEED_PASSWORD, "ru", "/ru/admin");
     await page.goto("/ru/admin/settings");
+    await ready(page); // hydrated: filling controlled inputs before hydration would be reset by React
     const form = vis(page, "settings-form");
     const expert = form.locator("div", { has: page.locator("span.font-mono", { hasText: /^expert \(/ }) }).last().locator("input[lang]");
     const save = form.getByRole("button", { name: "Сохранить настройки" });
+    // Wait for the server action to finish before reading public pages: a page request issued while the
+    // save is still running can start a background regeneration with the old settings (see DECISIONS).
+    const saveAndWait = async () => {
+      const done = page.waitForResponse((r) => r.request().method() === "POST" && r.url().includes("/admin/settings"));
+      await save.click();
+      expect((await done).ok()).toBe(true);
+    };
     const guest = await browser.newContext();
     const g = await guest.newPage();
     // Count of the label on a public page, re-fetched on every poll (the save invalidates the cache tag).
@@ -156,13 +169,13 @@ test.describe("extended scenarios", () => {
     try {
       await expert.nth(0).fill("Про-уровень");
       await expert.nth(1).fill("Pro level");
-      await save.click();
+      await saveAndWait();
       await expect.poll(() => shown("/ru/poses/vrschikasana", "Про-уровень")).toBeGreaterThan(0);
       await expect.poll(() => shown("/en/poses/vrschikasana", "Pro level")).toBeGreaterThan(0);
     } finally {
       await expert.nth(0).fill("");
       await expert.nth(1).fill("");
-      await save.click();
+      await saveAndWait();
     }
     await expect.poll(() => shown("/ru/poses/vrschikasana", "Про-уровень")).toBe(0);
     await expect.poll(() => shown("/ru/poses/vrschikasana", "Эксперт")).toBeGreaterThan(0);
@@ -243,7 +256,17 @@ test.describe("extended scenarios", () => {
   test("step pages: next/previous navigation walks through the whole program", async ({ page }) => {
     const { data } = await anon().from("publications").select("doc").eq("type", "program").eq("slug", "beginner").single();
     const keys = (data!.doc as { steps: { key: string }[] }).steps.map((s) => s.key);
-    await page.goto(`/ru/programs/beginner/steps/${keys[0]}`);
+    // Pages prerendered at build time may serve the previous version once after the first publish (route
+    // cache); request each step page until it reflects the published order before walking through it.
+    for (const k of keys) {
+      await expect.poll(async () => (await page.request.get(`/ru/programs/beginner/steps/${k}`)).ok()).toBe(true);
+    }
+    await expect
+      .poll(async () => {
+        await page.goto(`/ru/programs/beginner/steps/${keys[0]}`);
+        return page.locator('[data-testid="step-prev"]:visible').count();
+      })
+      .toBe(0);
     await expect(page.locator('[data-testid="step-prev"]:visible')).toHaveCount(0);
     for (let i = 1; i < keys.length; i++) {
       await vis(page, "step-next").click();

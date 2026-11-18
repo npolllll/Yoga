@@ -1,6 +1,6 @@
 import { expect, test } from "@playwright/test";
 import { createClient } from "@supabase/supabase-js";
-import { login, SEED_PASSWORD } from "./helpers";
+import { login, ready, SEED_PASSWORD } from "./helpers";
 
 const URL_ = process.env.NEXT_PUBLIC_SUPABASE_URL!;
 const ANON = process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY!;
@@ -60,6 +60,7 @@ test.describe("administration", () => {
     const { data: pub } = await member.from("publications").select("document_id, doc").eq("type", "program").eq("slug", "beginner").single();
     const steps = (pub!.doc as { steps: { key: string }[] }).steps;
     const target = steps[1].key;
+    const restoreOrder = () => restoreOrderFor(page, pub!.document_id, target);
     const { data: userData } = await member.auth.getUser();
     expect((await member.from("step_completions").insert({ user_id: userData.user!.id, program_id: pub!.document_id, step_key: target })).error).toBeNull();
 
@@ -79,23 +80,38 @@ test.describe("administration", () => {
     expect(keys[0]).toBe(target);
     expect(new Set(keys)).toEqual(new Set(steps.map((s) => s.key)));
 
-    // The member still sees 1 completed step, now at position 1.
-    const ctx = await browser.newContext();
-    const p2 = await ctx.newPage();
-    await login(p2, email, password);
-    await p2.goto("/ru/programs/beginner");
-    await expect(p2.locator('[data-testid=\"program-progress\"]:visible')).toHaveAttribute("data-completed", "1");
-    await expect(p2.locator('[data-testid=\"program-steps\"]:visible').locator("li").first()).toHaveAttribute("data-done", "true");
-    await ctx.close();
+    try {
+      // The member still sees 1 completed step, now at position 1. A page prerendered at build time can serve
+      // the previous version once after the first invalidation (route cache), so poll with a reload.
+      const ctx = await browser.newContext();
+      const p2 = await ctx.newPage();
+      await login(p2, email, password);
+      await expect
+        .poll(async () => {
+          await p2.goto("/ru/programs/beginner");
+          await ready(p2);
+          return p2.locator('[data-testid="program-steps"]:visible').locator("li").first().getAttribute("data-done");
+        })
+        .toBe("true");
+      await expect(p2.locator('[data-testid=\"program-progress\"]:visible')).toHaveAttribute("data-completed", "1");
+      await ctx.close();
+    } finally {
+      // Always restore the original order for other tests.
+      await restoreOrder();
+    }
+  });
 
-    // Restore the original order for other tests.
-    await page.goto(`/ru/admin/edit/${pub!.document_id}`);
-    await page.locator('[data-testid=\"program-steps-editor\"]:visible').locator(`[data-step-key="${target}"]`).getByRole("button", { name: "Ниже", exact: true }).click();
-    await page.locator('[data-testid=\"save-draft\"]:visible').click();
-    await expect(page.locator('[data-testid=\"save-draft\"]:visible')).toBeDisabled();
+  async function restoreOrderFor(page: import("@playwright/test").Page, documentId: string, target: string) {
+    await page.goto(`/ru/admin/edit/${documentId}`);
+    const rows = page.locator('[data-testid=\"program-steps-editor\"]:visible').locator("[data-step-key]");
+    if ((await rows.first().getAttribute("data-step-key")) === target) {
+      await page.locator('[data-testid=\"program-steps-editor\"]:visible').locator(`[data-step-key="${target}"]`).getByRole("button", { name: "Ниже", exact: true }).click();
+      await page.locator('[data-testid=\"save-draft\"]:visible').click();
+      await expect(page.locator('[data-testid=\"save-draft\"]:visible')).toBeDisabled();
+    }
     await page.locator('[data-testid=\"publish\"]:visible').click();
     await expect(page.locator('[data-testid=\"publish-status\"]:visible')).toHaveText("Опубликовано");
-  });
+  }
 
   test("media upload into Supabase Storage with alt texts", async ({ page }) => {
     await login(page, "editor@balance.local", SEED_PASSWORD, "ru", "/ru/admin");

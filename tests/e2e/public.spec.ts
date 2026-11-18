@@ -116,8 +116,12 @@ test.describe("public product", () => {
   });
 
   test("accessibility: no serious/critical axe violations on key pages", async ({ page }) => {
+    // Contrast is measured on settled content: with reduced motion the cards' fade-in is disabled (globals.css).
+    await page.emulateMedia({ reducedMotion: "reduce" });
     for (const url of ["/ru", "/ru/poses", "/ru/poses/bakasana", "/en/programs/beginner", "/ru/login"]) {
       await page.goto(url);
+      // Cards fade in (animate-rise from opacity 0): measure contrast on the settled page, not mid-animation.
+      await page.waitForFunction(() => document.getAnimations().every((a) => a.playState !== "running"));
       const results = await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze();
       const bad = results.violations.filter((v) => v.impact === "serious" || v.impact === "critical");
       expect(bad.map((v) => `${url}: ${v.id} (${v.nodes.length})`)).toEqual([]);

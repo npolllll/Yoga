@@ -16,7 +16,8 @@ export const unique = (p: string) => `${p}-${Date.now().toString(36)}${Math.rand
 
 export async function login(page: Page, email: string, password: string, locale = "ru", next?: string) {
   await page.goto(`/${locale}/login${next ? `?next=${encodeURIComponent(next)}` : ""}`);
-  const form = page.getByTestId("login-form");
+  // :visible — a hidden copy of the previous page can stay in the DOM (React Activity) after navigation.
+  const form = page.locator('[data-testid="login-form"]:visible');
   await form.locator('input[name="email"]').fill(email);
   await form.locator('input[name="password"]').fill(password);
   await form.locator('button[type="submit"]').click();
