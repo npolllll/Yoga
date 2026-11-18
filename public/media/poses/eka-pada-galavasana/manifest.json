@@ -1,0 +1,146 @@
+{
+  "slug": "eka-pada-galavasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "f15d095a58103067",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.07,
+    "minBodyZCm": -0.06,
+    "comMarginCm": 1.7,
+    "uniqueFrames": 170
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/eka-pada-galavasana/eka-pada-galavasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 105112,
+      "sha256": "0cd5035071498d1d846116fd317277f315ee72e99cd4edc2810d542c8f51a5c1",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/eka-pada-galavasana/eka-pada-galavasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 135253,
+      "sha256": "c287d8378c38d9e655ed66674831ab7befc5a2a3a33d9f19962c312edb07baa4",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/eka-pada-galavasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 9210,
+      "sha256": "1195ba50e52131a979ffedabef8cdc1a00d6a2a6652f2afd25a15ce9b589c74a",
+      "alt": {
+        "ru": "Летающий голубь: 3D-персонаж в позе",
+        "en": "Flying Pigeon Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/eka-pada-galavasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1464,
+      "sha256": "20239a2f31a774eff97dfb1fe012adf2761de7cbe9a9e002f65bcdfae02b3181",
+      "alt": {
+        "ru": "Летающий голубь: 3D-персонаж в позе",
+        "en": "Flying Pigeon Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-pada-galavasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2184,
+      "sha256": "3310fff9a6dbe9b7cc8d48a3d6e739190f4d6ce56101b65ef16c8264f7b22f0f",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-pada-galavasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2140,
+      "sha256": "948f5d4bdc05a2517ba98da875b985a6a402df7ae992b3cc51ba21384dc2faa7",
+      "position": 1,
+      "meta": {
+        "t": 3.6
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-pada-galavasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2048,
+      "sha256": "c4f3bb50b92b42f8fbad97ae99bf3b6cf7a2b00dc1422bc9c0e4ed4ad083825b",
+      "position": 2,
+      "meta": {
+        "t": 4.9
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-pada-galavasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2246,
+      "sha256": "8f1b1cfbad0b221b8abba7130f3bc10cd0cd26e5e78b9b8c7c44069212fd3802",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-pada-galavasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2170,
+      "sha256": "70b6f3b03382c8ff891da5837c6c1980dc0794a3dacca8396190951d374dbcfa",
+      "position": 4,
+      "meta": {
+        "t": 9.2
+      }
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "slug": "jump-to-crow",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "6cd81a0996449c90",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.56,
+    "minBodyZCm": -1.81,
+    "comMarginCm": 6.0,
+    "uniqueFrames": 163
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/jump-to-crow/jump-to-crow.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 124223,
+      "sha256": "816f38c40f3312d411c3c488a65785ff116e8528d9eedd6817284bcd8a0f73d3",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/jump-to-crow/jump-to-crow.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 153399,
+      "sha256": "1bdc723911a364c775a91052c38553b0597c4e0da47fe5d10a0cbb74291c8300",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/jump-to-crow/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 11498,
+      "sha256": "43006c44e3956d53879700bd2dfbc79098fab50cd18ffbd2448b8c6af17d19d9",
+      "alt": {
+        "ru": "Прыжок в ворону: 3D-персонаж в позе",
+        "en": "Jump into Crow: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/jump-to-crow/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1956,
+      "sha256": "968398df70b283a2261436c033fe4eb9064d0c72afeb78a4d252f74e2117058e",
+      "alt": {
+        "ru": "Прыжок в ворону: 3D-персонаж в позе",
+        "en": "Jump into Crow: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/jump-to-crow/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3128,
+      "sha256": "641b8dd607b6f832b8862188489b35b57822f06f9847a9a1fb068c492ccfb9e5",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/jump-to-crow/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3112,
+      "sha256": "e7305b1d34345e64afd35f2658e578a17c7fc29ed89de50f5395592c32f277a5",
+      "position": 1,
+      "meta": {
+        "t": 3.2
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/jump-to-crow/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2866,
+      "sha256": "8d627b7d92e3a7a2e8969f4c92bd435e2f3050d2b7bda06cad9845041175cdb9",
+      "position": 2,
+      "meta": {
+        "t": 4.3
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/jump-to-crow/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3028,
+      "sha256": "47500c68f7b36e2a878466142a8a161a0815a66ac5afce2284ad8c724e4ed664",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/jump-to-crow/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3306,
+      "sha256": "9fa6c60bfa749a72fdc95473abdcbdaef31bf454239386cc62612b59ded5ff04",
+      "position": 4,
+      "meta": {
+        "t": 9.0
+      }
+    }
+  ]
+}

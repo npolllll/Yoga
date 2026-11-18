@@ -1,0 +1,146 @@
+{
+  "slug": "hamsasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "875990ea800eabca",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.42,
+    "minBodyZCm": -2.22,
+    "comMarginCm": 2.6,
+    "uniqueFrames": 194
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/hamsasana/hamsasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 142163,
+      "sha256": "d3c3e4b6cee758b7ae8246c40930c18894474b43770f39a6223221555cf3020a",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/hamsasana/hamsasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 190812,
+      "sha256": "cabf599c5cce4ce46242b3ccd9ae9adf253d35b0283ff20851fd01a3ce1cdf92",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/hamsasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 12950,
+      "sha256": "f7128d5464c1a213c79fdcc8e3936e5ac677fc1b19615228503274f5d450a448",
+      "alt": {
+        "ru": "Хамсасана: 3D-персонаж в позе",
+        "en": "Swan Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/hamsasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 2186,
+      "sha256": "f033f47b2ab4ad10d0bdd98a92de43c06f2f76d919b801fea259a9e43f553221",
+      "alt": {
+        "ru": "Хамсасана: 3D-персонаж в позе",
+        "en": "Swan Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/hamsasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3140,
+      "sha256": "a1726d8c7651c6851dd61c41a7c9f4dcd328a4ea629adfbeb08fdc50ebc76369",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/hamsasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3370,
+      "sha256": "e629441fa498938727e3399a8b73d21c6ed22c5a43b7a6168bfa45c3edccb0aa",
+      "position": 1,
+      "meta": {
+        "t": 3.3
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/hamsasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3726,
+      "sha256": "bb0ef89876be17167f71793776f375011366876a04692236bec36fadde3de7a7",
+      "position": 2,
+      "meta": {
+        "t": 4.7
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/hamsasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3264,
+      "sha256": "9b857463af58eb6a0c9e254c2d58c41b351ab5f4dd1816a1a6684d234a00d283",
+      "position": 3,
+      "meta": {
+        "t": 7.2
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/hamsasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3502,
+      "sha256": "8b666f69171f635e2406169ac60a22dcf6398d5ac9675fa08ba524be2d747876",
+      "position": 4,
+      "meta": {
+        "t": 9.5
+      }
+    }
+  ]
+}

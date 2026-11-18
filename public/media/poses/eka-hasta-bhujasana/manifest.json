@@ -1,0 +1,146 @@
+{
+  "slug": "eka-hasta-bhujasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "f9160f07d197d9b7",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.1,
+    "minBodyZCm": -0.47,
+    "comMarginCm": 5.8,
+    "uniqueFrames": 121
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/eka-hasta-bhujasana/eka-hasta-bhujasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 108802,
+      "sha256": "7c052f0e0ddbae19d52544f622daf0a43376a7e265aa7d5e57e4befcadd93197",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/eka-hasta-bhujasana/eka-hasta-bhujasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 136351,
+      "sha256": "c2b8f4d1be7cbe18884287e0a6d1af3380e8cd1640010d9b17ab8736d2e7cb1f",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/eka-hasta-bhujasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 11998,
+      "sha256": "07b8a3f6be59f51711fc8f64fe8ca3c31a7c15c7a4d93f1359a3a1eef5d61b1c",
+      "alt": {
+        "ru": "Эка Хаста Бхуджасана: 3D-персонаж в позе",
+        "en": "Elephant Trunk Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/eka-hasta-bhujasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1804,
+      "sha256": "e74f4a65762d85946ec67c6036429b13498ac6b091b4884d5e1fa43005edde24",
+      "alt": {
+        "ru": "Эка Хаста Бхуджасана: 3D-персонаж в позе",
+        "en": "Elephant Trunk Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-hasta-bhujasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2758,
+      "sha256": "fc4d386bbe92bb39cf04f6e6510e89e2826a8125d9ca4487259add7db224599e",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-hasta-bhujasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2600,
+      "sha256": "21defcd1900ddc55f1fe7d49f0355838d1e5a1cb0faf3c067d99a3186efee6a3",
+      "position": 1,
+      "meta": {
+        "t": 3.6
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-hasta-bhujasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2600,
+      "sha256": "21defcd1900ddc55f1fe7d49f0355838d1e5a1cb0faf3c067d99a3186efee6a3",
+      "position": 2,
+      "meta": {
+        "t": 5.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-hasta-bhujasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2856,
+      "sha256": "d394e6b044aa2ac93f7cc131f43c937d65501fd175c133a22531514c033805fb",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-hasta-bhujasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2636,
+      "sha256": "79cd54dbd68941ac48e199c6995a7ac3356108002a9cefaf5102f69b247116c6",
+      "position": 4,
+      "meta": {
+        "t": 9.0
+      }
+    }
+  ]
+}
