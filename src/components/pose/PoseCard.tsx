@@ -45,7 +45,8 @@ export function PoseImage({
       width={card.width ?? 480}
       height={card.height ?? 360}
       loading={priority ? "eager" : "lazy"}
-      fetchPriority={priority ? "high" : "auto"}
+      // No fetchPriority="high": the library is prefetched from every page (header link), and a high-priority
+      // image in a prefetched route is preloaded there too, competing with that page's own LCP image.
       decoding="async"
       className="aspect-[4/3] w-full object-contain"
     />

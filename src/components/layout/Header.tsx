@@ -18,7 +18,9 @@ export function Header({ locale, dict }: { locale: Locale; dict: Dictionary }) {
   return (
     <header className="sticky top-0 z-40 border-b border-line/70 bg-bg/85 backdrop-blur-md">
       <nav aria-label={n.menu} className="mx-auto flex h-[var(--header-h)] max-w-6xl items-center gap-2 px-4 sm:px-6">
-        <Link href={`/${locale}`} className="mr-auto font-serif text-xl tracking-[0.18em] text-ink lg:mr-6" aria-label="BALANCE">
+        {/* No prefetch: the home route's LCP hero (fetchPriority=high) would be preloaded on every page and
+            compete with that page's own LCP image. Home is static, so a click still opens it quickly. */}
+        <Link href={`/${locale}`} prefetch={false} className="mr-auto font-serif text-xl tracking-[0.18em] text-ink lg:mr-6" aria-label="BALANCE">
           BALANCE
         </Link>
         <NavLinks items={items} />

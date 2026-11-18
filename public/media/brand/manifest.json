@@ -1,67 +1,67 @@
 {
   "category-arm-balances": {
     "url": "/media/brand/category-arm-balances.webp",
-    "width": 880,
-    "height": 900
+    "width": 254,
+    "height": 260
   },
   "category-forearm-balances": {
     "url": "/media/brand/category-forearm-balances.webp",
-    "width": 606,
-    "height": 900
+    "width": 175,
+    "height": 260
   },
   "category-handstands": {
     "url": "/media/brand/category-handstands.webp",
-    "width": 539,
-    "height": 900
+    "width": 156,
+    "height": 260
   },
   "category-one-arm-balances": {
     "url": "/media/brand/category-one-arm-balances.webp",
-    "width": 766,
-    "height": 817
+    "width": 244,
+    "height": 260
   },
   "category-shoulder-balances": {
     "url": "/media/brand/category-shoulder-balances.webp",
-    "width": 629,
-    "height": 900
+    "width": 182,
+    "height": 260
   },
   "category-side-balances": {
     "url": "/media/brand/category-side-balances.webp",
-    "width": 900,
-    "height": 734
+    "width": 260,
+    "height": 212
   },
   "category-transitions": {
     "url": "/media/brand/category-transitions.webp",
-    "width": 900,
-    "height": 623
+    "width": 260,
+    "height": 180
   },
   "hero": {
     "url": "/media/brand/hero.webp",
-    "width": 900,
-    "height": 708
+    "width": 820,
+    "height": 645
   },
   "level-advanced": {
     "url": "/media/brand/level-advanced.webp",
-    "width": 637,
-    "height": 893
+    "width": 314,
+    "height": 440
   },
   "level-beginner": {
     "url": "/media/brand/level-beginner.webp",
-    "width": 889,
-    "height": 811
+    "width": 440,
+    "height": 401
   },
   "level-expert": {
     "url": "/media/brand/level-expert.webp",
-    "width": 756,
-    "height": 798
+    "width": 417,
+    "height": 440
   },
   "level-intermediate": {
     "url": "/media/brand/level-intermediate.webp",
-    "width": 704,
-    "height": 800
+    "width": 387,
+    "height": 440
   },
   "training": {
     "url": "/media/brand/training.webp",
-    "width": 900,
-    "height": 844
+    "width": 600,
+    "height": 563
   }
 }
