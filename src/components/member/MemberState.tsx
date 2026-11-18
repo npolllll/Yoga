@@ -1,6 +1,6 @@
 "use client";
 
-import { createContext, useCallback, useContext, useEffect, useMemo, useRef, useState, type ReactNode } from "react";
+import { createContext, Suspense, useCallback, useContext, useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import { usePathname } from "next/navigation";
 import type { MemberStatePayload } from "@/app/api/me/state/route";
 import { setFavorite, setPoseStatus, setStepCompletion } from "@/app/actions/member";
@@ -77,8 +77,8 @@ export function MemberStateProvider({ children, dict }: { children: ReactNode; d
 
   // The provider lives in the locale layout and survives client navigations. Sign-in and sign-out are server
   // actions that redirect (client navigation), so the provider is not remounted: watch the Supabase auth cookie
-  // and refresh when it changes (on navigation, on tab focus — also catches sign-in/out in another tab).
-  const pathname = usePathname();
+  // and refresh when it changes — on navigation (AuthCookieWatcher) and on tab focus (also catches sign-in/out
+  // in another tab).
   const authSig = useRef<string | null>(null);
   useEffect(() => {
     authSig.current = readAuthSignature();
@@ -86,22 +86,21 @@ export function MemberStateProvider({ children, dict }: { children: ReactNode; d
     // eslint-disable-next-line react-hooks/set-state-in-effect
     void refresh();
   }, [refresh]);
+  const checkAuth = useCallback(() => {
+    const sig = readAuthSignature();
+    if (authSig.current !== null && sig !== authSig.current) {
+      authSig.current = sig;
+      void refresh();
+    }
+  }, [refresh]);
   useEffect(() => {
-    const check = () => {
-      const sig = readAuthSignature();
-      if (authSig.current !== null && sig !== authSig.current) {
-        authSig.current = sig;
-        void refresh();
-      }
-    };
-    check();
-    window.addEventListener("focus", check);
-    document.addEventListener("visibilitychange", check);
+    window.addEventListener("focus", checkAuth);
+    document.addEventListener("visibilitychange", checkAuth);
     return () => {
-      window.removeEventListener("focus", check);
-      document.removeEventListener("visibilitychange", check);
+      window.removeEventListener("focus", checkAuth);
+      document.removeEventListener("visibilitychange", checkAuth);
     };
-  }, [pathname, refresh]);
+  }, [checkAuth]);
 
   const fail = useCallback(
     (previous: MemberStatePayload, error?: string) => {
@@ -197,7 +196,25 @@ export function MemberStateProvider({ children, dict }: { children: ReactNode; d
     [status, state, toggleFavorite, changePoseStatus, toggleStep, authPrompt, refresh],
   );
 
-  return <MemberContext value={value}>{children}</MemberContext>;
+  return (
+    <MemberContext value={value}>
+      {children}
+      {/* usePathname() is request data on dynamic routes: outside a Suspense boundary it makes the layout
+          dynamic, the shell streams before a page can call notFound(), and unknown URLs answer 200. */}
+      <Suspense fallback={null}>
+        <AuthCookieWatcher onNavigate={checkAuth} />
+      </Suspense>
+    </MemberContext>
+  );
+}
+
+/** Re-checks the auth cookie after every client navigation (e.g. the redirect after sign-in). */
+function AuthCookieWatcher({ onNavigate }: { onNavigate: () => void }) {
+  const pathname = usePathname();
+  useEffect(() => {
+    onNavigate();
+  }, [pathname, onNavigate]);
+  return null;
 }
 
 export function useMember() {
