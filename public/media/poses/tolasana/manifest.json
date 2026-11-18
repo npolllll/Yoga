@@ -1,0 +1,146 @@
+{
+  "slug": "tolasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "0075eabc5c719c89",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.21,
+    "minBodyZCm": -2.2,
+    "comMarginCm": 5.9,
+    "uniqueFrames": 119
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/tolasana/tolasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 74165,
+      "sha256": "982a9b2aaff8215cc984418b7f2398228be14af5a2422b1f11803d3de5748d6b",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/tolasana/tolasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 93721,
+      "sha256": "4c14d70a542fbb0d1badf848090d52fabbf1b11d781fc7f0575eba345941a7a3",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/tolasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 10922,
+      "sha256": "107a9f71cd56921dd6b78545d6a2ccc6e87dcc73a36c1e1ac371adc4dba2b693",
+      "alt": {
+        "ru": "Толасана: 3D-персонаж в позе",
+        "en": "Scale Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/tolasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1810,
+      "sha256": "a91e3c5baecdce094ec0973e52264e6bb1be7f5eab4d680db9a13a006e98d009",
+      "alt": {
+        "ru": "Толасана: 3D-персонаж в позе",
+        "en": "Scale Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tolasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2608,
+      "sha256": "459d3550c37c8839303ac4241d188edb85d71aff7d11186444c81ef7ebec15af",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tolasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2646,
+      "sha256": "ef444ab9d3780865af2f19cdcb1dabd7bd6728d8e3705b7123c5996e78ac0edf",
+      "position": 1,
+      "meta": {
+        "t": 4.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tolasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2704,
+      "sha256": "6c7fb21c3a175d9868f9f3f0c7d4b4b8f796f7f007438448f5b3c7215acd17cc",
+      "position": 2,
+      "meta": {
+        "t": 5.5
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tolasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2684,
+      "sha256": "9ba0366647b0a5caeae512587e63e3489eddf5fcb407feb5ea69ca09a8f16fb2",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tolasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2622,
+      "sha256": "5a6d6174cd1bc635ae6cab87f9aaa71a07c35081f0b71fdb2654c56af05b469b",
+      "position": 4,
+      "meta": {
+        "t": 9.2
+      }
+    }
+  ]
+}

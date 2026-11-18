@@ -1,0 +1,146 @@
+{
+  "slug": "vasisthasana-tree",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "cf68fe0433c498fc",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.0,
+    "minBodyZCm": -0.82,
+    "comMarginCm": 1.2,
+    "uniqueFrames": 190
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/vasisthasana-tree/vasisthasana-tree.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 88821,
+      "sha256": "acd08fb0ff3331cf0e39d454bb407c52aeed390ed6136a19085f2305e95e1e8f",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/vasisthasana-tree/vasisthasana-tree.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 114215,
+      "sha256": "7ef6bf9b24235958710a46aa3b5dbec50d2e637b767e6da047506ebc5ad5b417",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/vasisthasana-tree/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 11084,
+      "sha256": "72b362a22ec92922333a22b3e21d8657aad92cb26851e27e68042d1784e0a2a7",
+      "alt": {
+        "ru": "Боковая планка с ногой в позе дерева: 3D-персонаж в позе",
+        "en": "Side Plank Tree Variation: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/vasisthasana-tree/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1654,
+      "sha256": "521d0520cb5ec879a5e36a6a847e07834d4d7c65e32bf9cabc1deb13a81f70a4",
+      "alt": {
+        "ru": "Боковая планка с ногой в позе дерева: 3D-персонаж в позе",
+        "en": "Side Plank Tree Variation: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/vasisthasana-tree/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2526,
+      "sha256": "1ddb1de75f23098c55c4efe552f3024d8f9dab9e46460820fb951a3886ffecbd",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/vasisthasana-tree/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2434,
+      "sha256": "c7594e76a058d472c2fd83c81bce32bfbd2b322dfd73aa99b6e2602b99da5885",
+      "position": 1,
+      "meta": {
+        "t": 3.6
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/vasisthasana-tree/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2508,
+      "sha256": "85d903b3f7847716de0d0624fe235c07122e02c584294a1ebf887288e4ebb06b",
+      "position": 2,
+      "meta": {
+        "t": 4.9
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/vasisthasana-tree/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2528,
+      "sha256": "8ce2e862be641b42f67843d6e78bb9afcc8eea2a7b837ebeadbd455686269262",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/vasisthasana-tree/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2500,
+      "sha256": "f2732087fb49a166786aa31b4bebce92931021d74af88975bf0c3479cff2fa49",
+      "position": 4,
+      "meta": {
+        "t": 9.1
+      }
+    }
+  ]
+}

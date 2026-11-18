@@ -274,8 +274,9 @@
       ],
       "solve": {
         "vary": [
-          "wrist_*.ext",
-          "shoulder_*.flex"
+          "wrist_R.ext",
+          "shoulder_*.flex",
+          "elbow_L.flex"
         ],
         "reg": 0.3,
         "goals": [
@@ -575,8 +576,9 @@
       ],
       "solve": {
         "vary": [
-          "wrist_*.ext",
-          "shoulder_*.flex"
+          "wrist_R.ext",
+          "shoulder_*.flex",
+          "elbow_L.flex"
         ],
         "reg": 0.3,
         "goals": [
