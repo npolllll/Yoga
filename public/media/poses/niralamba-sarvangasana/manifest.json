@@ -1,0 +1,146 @@
+{
+  "slug": "niralamba-sarvangasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "e9bac4c415d861d3",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.7,
+    "minBodyZCm": -1.5,
+    "comMarginCm": 0.4,
+    "uniqueFrames": 174
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/niralamba-sarvangasana/niralamba-sarvangasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 101028,
+      "sha256": "26c3db1fe791f371fceef7c123909cb3ed773fa3c8b9403deca4cd7a771b8a0d",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/niralamba-sarvangasana/niralamba-sarvangasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 116928,
+      "sha256": "3a3debe4e2492e1be9c45bce0f72424376513ced3ee87f4c1dc65fbd8186b431",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/niralamba-sarvangasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 8756,
+      "sha256": "42171a3f228155fd0e9d88547d11dc5352c9235104573c6ee3e1e0d51ec2e5ee",
+      "alt": {
+        "ru": "Стойка на плечах без опоры рук: 3D-персонаж в позе",
+        "en": "Unsupported Shoulder Stand: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/niralamba-sarvangasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1386,
+      "sha256": "ca6c7f1b63edf59e9f3ca3b5d11dd3d36583a3b88440911f463da491dd96a8a1",
+      "alt": {
+        "ru": "Стойка на плечах без опоры рук: 3D-персонаж в позе",
+        "en": "Unsupported Shoulder Stand: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/niralamba-sarvangasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2126,
+      "sha256": "d96042cb35c24fd066078c3fd1946ed64b306093aaf087324a538ffa4f60276d",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/niralamba-sarvangasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2232,
+      "sha256": "b482f07ed483077e2de6a1f50981f98e9f9560c65e20a70a240e4205f9b94e00",
+      "position": 1,
+      "meta": {
+        "t": 2.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/niralamba-sarvangasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2146,
+      "sha256": "23f9e1b5ae16ad0a3d214c2a6b46b7a68e0620dce9a0f12dd165c3ffcbd29880",
+      "position": 2,
+      "meta": {
+        "t": 3.4
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/niralamba-sarvangasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2132,
+      "sha256": "7d226fea6d74871e65c88814e0f3a7db0609e8b5e8e9e96f0221887fdc4bf6ad",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/niralamba-sarvangasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2220,
+      "sha256": "9ccc5108d026f535f5d66d4b4f125781e1fa6b5bdb3209bbbc4989c9ed598450",
+      "position": 4,
+      "meta": {
+        "t": 9.2
+      }
+    }
+  ]
+}

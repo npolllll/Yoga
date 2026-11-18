@@ -1,0 +1,146 @@
+{
+  "slug": "handstand-scorpion",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "ff965091643e44ab",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.73,
+    "minBodyZCm": -1.71,
+    "comMarginCm": 5.7,
+    "uniqueFrames": 183
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/handstand-scorpion/handstand-scorpion.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 98885,
+      "sha256": "37123a79277809cb1f6c1cc8bf2d9bc97b31a475a8848af5ff5373ce4d6ad393",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/handstand-scorpion/handstand-scorpion.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 131731,
+      "sha256": "6aa589e882e474e87d8083f3595dd56ec5574cd26159fe3ec294ea884418aed3",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/handstand-scorpion/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 7436,
+      "sha256": "b77eb8e3ad9c1962b0e62e15b563912d592215df7daddddfbfbf704e378715e6",
+      "alt": {
+        "ru": "Скорпион в стойке на руках: 3D-персонаж в позе",
+        "en": "Handstand Scorpion: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/handstand-scorpion/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1162,
+      "sha256": "af631632fe586856a1e8f5c03498822cf3428afe52edb1fc24a417dcf0811101",
+      "alt": {
+        "ru": "Скорпион в стойке на руках: 3D-персонаж в позе",
+        "en": "Handstand Scorpion: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/handstand-scorpion/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1910,
+      "sha256": "20bb331353caf0a829330aa99dbb376f6449b4fcc28e0da6ad128121988b30ea",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/handstand-scorpion/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2070,
+      "sha256": "b3ae2eabaaf8157506a2cff8c94139b5c6145eaf6177d372b1fec6e5872d9236",
+      "position": 1,
+      "meta": {
+        "t": 2.9
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/handstand-scorpion/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1568,
+      "sha256": "737e0fb7ec788e54e043adecbcfd5b63f35dc4fe455035f76f8399edb3dad83d",
+      "position": 2,
+      "meta": {
+        "t": 4.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/handstand-scorpion/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1696,
+      "sha256": "59ae543c111907c71bfa28f3261b96ffbaf12ee8663a7774e2b31f4e65c0e475",
+      "position": 3,
+      "meta": {
+        "t": 5.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/handstand-scorpion/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1756,
+      "sha256": "0af6a51c0ea4b294997f75a9eda7c8301c5f867a81becec82efb08d1f0e1f2d4",
+      "position": 4,
+      "meta": {
+        "t": 7.0
+      }
+    }
+  ]
+}

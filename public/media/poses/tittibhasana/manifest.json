@@ -1,0 +1,146 @@
+{
+  "slug": "tittibhasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "dabb7d04a94951d3",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.08,
+    "minBodyZCm": -1.77,
+    "comMarginCm": 5.7,
+    "uniqueFrames": 158
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/tittibhasana/tittibhasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 189358,
+      "sha256": "4428766c0c635885867a18b2cde788acfda63371f5e5263985c938ee89d6a40a",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/tittibhasana/tittibhasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 238990,
+      "sha256": "8814740c60b8e4d29717a92c105d52dd145547b244eb7b8be2a7212406fd7ad8",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/tittibhasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 12024,
+      "sha256": "54a5db3d2b8325dfbedb71dce6cd30378a7bf24fca6b75899fcd86bd948cdbcd",
+      "alt": {
+        "ru": "Светлячок: 3D-персонаж в позе",
+        "en": "Firefly Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/tittibhasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 2084,
+      "sha256": "5c6bbc5f8c8b951314ce24591729cef333bdd7969077b186c54e624c431fda36",
+      "alt": {
+        "ru": "Светлячок: 3D-персонаж в позе",
+        "en": "Firefly Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tittibhasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3776,
+      "sha256": "6561b20a8e6c69780b22f44db3c07590e23c03da61d487ab759bee440c10990c",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tittibhasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3362,
+      "sha256": "650b5fd7a03ddc81d15af93c407388242de185190ba9872b2593e1c615590db0",
+      "position": 1,
+      "meta": {
+        "t": 3.4
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tittibhasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3316,
+      "sha256": "4e8cdc5394f2d4d39a0296da7a84552c2660fdf0e883e2755e68f5bfa90a158d",
+      "position": 2,
+      "meta": {
+        "t": 4.8
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tittibhasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3014,
+      "sha256": "bcbd6781b42f4cc36bce33ce04212827d0796bd5871ebf8c2327d7054c776506",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tittibhasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3398,
+      "sha256": "7a92094f3ebedb67a46e7776dcafede31b59d56344588701ddf8798d783df47f",
+      "position": 4,
+      "meta": {
+        "t": 9.4
+      }
+    }
+  ]
+}

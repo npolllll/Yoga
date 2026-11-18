@@ -1,0 +1,146 @@
+{
+  "slug": "tuck-handstand",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "b013582ad081ee07",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.47,
+    "minBodyZCm": -1.81,
+    "comMarginCm": 5.3,
+    "uniqueFrames": 160
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/tuck-handstand/tuck-handstand.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 111742,
+      "sha256": "96cff2f5c4aadfe6b35ad71b8cc0c4e68c7be79b4f425ac8ae2432a2d82579b9",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/tuck-handstand/tuck-handstand.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 136272,
+      "sha256": "14291e65f43a2116b3fdefa2664f57b42229b1df65ac154daf2305f2aaabef27",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/tuck-handstand/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 9598,
+      "sha256": "2b10503f3c873b238c1563f2fd8c2365a77a5d5bf0871cf66551a7a29308d69a",
+      "alt": {
+        "ru": "Стойка на руках в группировке: 3D-персонаж в позе",
+        "en": "Tuck Handstand: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/tuck-handstand/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1552,
+      "sha256": "a1478aec4f4c5bbfe5f09e21c7eab1e8492b6a6c404609977bda834ff08f00e8",
+      "alt": {
+        "ru": "Стойка на руках в группировке: 3D-персонаж в позе",
+        "en": "Tuck Handstand: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tuck-handstand/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2762,
+      "sha256": "45aedc08405b7e850e5933f1c7d4e1945aa5bdf473017fb8823585ce9d192fac",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tuck-handstand/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2624,
+      "sha256": "332ff8f722fc96df33192839f2e43bb3e6ee6c0b4589680f6d71cf105fe0203a",
+      "position": 1,
+      "meta": {
+        "t": 2.8
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tuck-handstand/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2554,
+      "sha256": "88e2defd9ae74babd1361c074fbeb841184de3bd4b43fb32b67d193a1a5ab97d",
+      "position": 2,
+      "meta": {
+        "t": 3.8
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tuck-handstand/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2334,
+      "sha256": "a9de9c9ab7f2151ef84b86c0061e6acec7104d45e55e5a7a6791fb0fd9ff6fd4",
+      "position": 3,
+      "meta": {
+        "t": 6.5
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tuck-handstand/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2544,
+      "sha256": "41d6bb0c0b395fd2a3d0228a58462637cb99beb0ed441b82f5946c5812e3720e",
+      "position": 4,
+      "meta": {
+        "t": 9.0
+      }
+    }
+  ]
+}
