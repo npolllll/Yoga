@@ -217,6 +217,23 @@ export async function saveSettings(input: z.input<typeof Settings>): Promise<Ok 
   return { ok: true };
 }
 
+/**
+ * Owner-only escape hatch: expire every public cache tag. Needed only in a rare race where a page
+ * regeneration that started before a publish finishes after it and caches the old version (docs/DECISIONS.md).
+ */
+export async function refreshPublicCache(): Promise<Ok | Fail> {
+  const { supabase, roles } = await staff();
+  if (!roles.includes("owner")) return { ok: false, error: "forbidden" };
+  const { data } = await supabase.from("publications").select("type, slug");
+  for (const tag of [TAGS.catalog, TAGS.media, TAGS.programs, TAGS.exercises, TAGS.taxonomy, TAGS.settings]) updateTag(tag);
+  for (const p of data ?? []) {
+    if (p.type === "pose") updateTag(TAGS.pose(p.slug));
+    else if (p.type === "page") updateTag(TAGS.page(p.slug));
+    else if (p.type === "program") updateTag(TAGS.program(p.slug));
+  }
+  return { ok: true };
+}
+
 const TaxItem = z.object({ key: z.string().regex(/^[a-z0-9-]+$/), name: Loc, description: Loc.optional() });
 
 export async function saveTaxonomyItem(kind: "categories" | "skills" | "levels", item: z.input<typeof TaxItem>): Promise<Ok | Fail> {

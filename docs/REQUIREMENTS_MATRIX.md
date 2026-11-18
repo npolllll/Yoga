@@ -74,7 +74,7 @@
 | Версии и откат; журнал изменений | M | `document_versions`, `audit_log` | integration, e2e «publication lifecycle» | ✅ |
 | Порядок шагов, предупреждение о влиянии на прогресс | M | `ProgramSteps` (счётчики) | e2e reorder | ✅ |
 | Медиатека: загрузка, alt RU/EN, статус проверки, мастер-файлы не публикуются | M | media page, Storage | e2e media upload | ✅ |
-| Категории, навыки, уровни (подпись Pro), контакты, политика публикации | M | settings page | e2e «settings: custom label» | ✅ |
+| Категории, навыки, уровни (подпись Pro), контакты, политика публикации, обновление публичного кэша (владелец) | M | settings page | e2e «settings: custom label» (+ кнопка кэша) | ✅ |
 
 ## Контент
 | Требование | Ист. | Реализация | Тест | Статус |

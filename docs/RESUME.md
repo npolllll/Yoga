@@ -10,7 +10,6 @@ ESLint 0, tsc 0). Деплой не выполнялся. Экспертной �
 2. Открытые инженерные задачи (TASKS, Phase 8–9):
    - LCP в лабораторной симуляции 2,3–3,3 с (цель 2,5 с): статическое подмножество Lora (одно начертание) вместо вариативного; шрифты — `public/fonts/v5` (`scripts/fonts-sync.py`).
    - (опц.) строгий 404 на первом запросе к несуществующему slug — проверка в `src/proxy.ts`.
-   - (опц.) кнопка «Обновить публичный кэш» в админке (редкая гонка фоновой регенерации — DECISIONS).
 3. Изменение 3D: правка `pipeline/balance3d/*.py` перерендерит все позы (хэш). Для одной позы — правка
    `pipeline/poses/<slug>.json`, проверка `pipeline/keysheet.py` + `pipeline/poster_probe.sh`, затем
    `pipeline/render_all.sh @pipeline/out/render_order.txt` (или `queue.py --only <slug>`), `validate_media.py --sheet`.

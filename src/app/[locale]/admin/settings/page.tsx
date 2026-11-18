@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import { isLocale, type Locale } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/dictionaries";
 import { AdminGate } from "@/components/admin/AdminGate";
-import { SettingsForm, TaxonomyEditor } from "@/components/admin/AdminForms";
+import { CacheRefresh, SettingsForm, TaxonomyEditor } from "@/components/admin/AdminForms";
 import { adminClient } from "@/lib/admin/data";
 
 type Loc = { ru: string; en: string };
@@ -37,6 +37,7 @@ export default async function SettingsPage({ params }: PageProps<"/[locale]/admi
                 allowUnreviewedPublish: settings.data?.allow_unreviewed_publish ?? false,
               }}
             />
+            {user.roles.includes("owner") ? <CacheRefresh labels={labels} /> : null}
             <section>
               <h2 className="text-2xl">{dict.admin.taxonomy}</h2>
               <div className="mt-4 grid gap-6 lg:grid-cols-3">

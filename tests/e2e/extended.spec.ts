@@ -180,6 +180,9 @@ test.describe("extended scenarios", () => {
     await expect.poll(() => shown("/ru/poses/vrschikasana", "Про-уровень")).toBe(0);
     await expect.poll(() => shown("/ru/poses/vrschikasana", "Эксперт")).toBeGreaterThan(0);
     await guest.close();
+    // Owner-only escape hatch for stale public pages.
+    await vis(page, "cache-refresh").getByRole("button", { name: "Обновить публичный кэш" }).click();
+    await expect(page.getByText("Публичный кэш обновлён").first()).toBeVisible();
   });
 
   test("roles: owner grants and revokes a role; an editor cannot open user management", async ({ page, browser }) => {

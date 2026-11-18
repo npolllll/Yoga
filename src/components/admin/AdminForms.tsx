@@ -4,7 +4,7 @@ import { useState, useTransition } from "react";
 import { useRouter } from "next/navigation";
 import { useToast } from "@/components/ui/Toast";
 import { LocInput, input, type Loc } from "./fields";
-import { deleteMedia, saveSettings, saveTaxonomyItem, setUserRole, updateMedia, uploadMedia } from "@/app/actions/admin";
+import { deleteMedia, refreshPublicCache, saveSettings, saveTaxonomyItem, setUserRole, updateMedia, uploadMedia } from "@/app/actions/admin";
 
 const btn = "h-10 rounded-full bg-brand px-5 text-sm font-semibold text-white disabled:opacity-50";
 
@@ -257,6 +257,29 @@ export function RoleForm({ labels }: { labels: Record<string, string> }) {
       <button type="button" className="h-10 rounded-full border border-line-strong px-5 text-sm font-semibold" disabled={pending || !email} onClick={() => run(false)}>
         {labels.revoke}
       </button>
+    </div>
+  );
+}
+
+export function CacheRefresh({ labels }: { labels: Record<string, string> }) {
+  const [pending, start] = useTransition();
+  const toast = useToast();
+  return (
+    <div className="flex flex-wrap items-center gap-3 rounded-[var(--radius-md)] border border-line bg-surface p-4" data-testid="cache-refresh">
+      <button
+        type="button"
+        className="h-10 rounded-full border border-line-strong px-5 text-sm font-semibold disabled:opacity-50"
+        disabled={pending}
+        onClick={() =>
+          start(async () => {
+            const r = await refreshPublicCache();
+            toast(r.ok ? labels.cacheRefreshed : `${labels.error}: ${r.ok ? "" : r.error}`, r.ok ? "success" : "error");
+          })
+        }
+      >
+        {labels.refreshCache}
+      </button>
+      <p className="text-sm text-muted">{labels.refreshCacheHint}</p>
     </div>
   );
 }
