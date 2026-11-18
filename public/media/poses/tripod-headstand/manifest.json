@@ -1,0 +1,146 @@
+{
+  "slug": "tripod-headstand",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "5265669bb6d722e3",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.11,
+    "minBodyZCm": -1.78,
+    "comMarginCm": 11.6,
+    "uniqueFrames": 178
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/tripod-headstand/tripod-headstand.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 83657,
+      "sha256": "d00a9de38fb17507199a1c485a9739fb58ca2b3fad47e12ab1f17a3da8a4c60b",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/tripod-headstand/tripod-headstand.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 108801,
+      "sha256": "874e74625dedaaf048849ef0c833a49d72bb72a3e8768ce1742480fbb93fb178",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/tripod-headstand/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 7990,
+      "sha256": "c3d56c2ed9b2e9701a3c7e537bd84537d59cededd212289451f43a671678e382",
+      "alt": {
+        "ru": "Стойка на голове с опорой на ладони: 3D-персонаж в позе",
+        "en": "Tripod Headstand: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/tripod-headstand/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1256,
+      "sha256": "0341d4223d2af6a1e6e6f2215bafe7eda534fdbaafe484c0973551b179e3d1e2",
+      "alt": {
+        "ru": "Стойка на голове с опорой на ладони: 3D-персонаж в позе",
+        "en": "Tripod Headstand: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tripod-headstand/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2012,
+      "sha256": "294be10174fee6f5f4d87cdb4c2510c43cd97693093fc7f622164d033e822e24",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tripod-headstand/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2098,
+      "sha256": "066821eb35890ac6ce1ad70828104eb049141a5858abd7c78dfd45aa57c6c0ce",
+      "position": 1,
+      "meta": {
+        "t": 2.6
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tripod-headstand/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2024,
+      "sha256": "263b0fd106e00dc393653141a191e597656c936177a6e7205bffe7389e5b901e",
+      "position": 2,
+      "meta": {
+        "t": 4.7
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tripod-headstand/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1922,
+      "sha256": "325125636c1a3b8cbe851cb44030ac8fa6eb64d5acd9807381383d5ffcabc1bc",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tripod-headstand/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2004,
+      "sha256": "d31f986495adf7a970e1b7df98e92d0f4baa3ac1aab81dcd67091c3da67eee98",
+      "position": 4,
+      "meta": {
+        "t": 9.3
+      }
+    }
+  ]
+}

@@ -2,8 +2,8 @@
   "slug": "tolasana",
   "version": 1,
   "view": {
-    "azimuth": 35,
-    "elevation": 10
+    "azimuth": 80,
+    "elevation": 3
   },
   "keys": [
     {
@@ -176,17 +176,13 @@
           "pelvis.pitch",
           "shoulder_*.abd",
           "shoulder_*.flex",
-          "wrist_*.ext"
+          "wrist_*.ext",
+          "spine.flex",
+          "neck.flex"
         ],
         "balance": true,
         "reg": 0.2,
         "goals": [
-          {
-            "above": [
-              "sit",
-              0.04
-            ]
-          },
           {
             "above": [
               "fingers_L",
@@ -201,26 +197,45 @@
           },
           {
             "above": [
+              "sit",
+              0.09
+            ],
+            "w": 3
+          },
+          {
+            "above": [
               "toes_L",
-              0.03
+              0.06
             ]
           },
           {
             "above": [
               "toes_R",
-              0.03
+              0.06
             ]
           },
           {
             "above": [
               "ankle_L",
-              0.06
+              0.09
             ]
           },
           {
             "above": [
               "ankle_R",
-              0.06
+              0.09
+            ]
+          },
+          {
+            "above": [
+              "knee_L",
+              0.08
+            ]
+          },
+          {
+            "above": [
+              "knee_R",
+              0.08
             ]
           }
         ]
