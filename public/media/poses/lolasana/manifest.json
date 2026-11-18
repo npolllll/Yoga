@@ -1,0 +1,146 @@
+{
+  "slug": "lolasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "240b5545a4e6f4e0",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.21,
+    "minBodyZCm": -0.4,
+    "comMarginCm": 1.0,
+    "uniqueFrames": 153
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/lolasana/lolasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 123607,
+      "sha256": "c6c888fb6068d4771cf38e2d287609bc5db05c674e4ff6c9e2d5a2646178a7fc",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/lolasana/lolasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 162484,
+      "sha256": "e80f69f3212927b095664a423368d3cc6738218ab51ef4d2c22661e03b77e7b4",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/lolasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 13420,
+      "sha256": "ba58aeb5e1135fd79dd5daf28527eaf2f5f30f3c32b483b7dc7625846a602d01",
+      "alt": {
+        "ru": "Лоласана: 3D-персонаж в позе",
+        "en": "Pendant Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/lolasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 2146,
+      "sha256": "464e697323d3ca11c8a054e88c16ffef1fbf963965bf72adc56e485b226533d1",
+      "alt": {
+        "ru": "Лоласана: 3D-персонаж в позе",
+        "en": "Pendant Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/lolasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3524,
+      "sha256": "4369f66b8586277d8bf75a7ba969b3d159c6d74a931b8b5432896a849a9d13f0",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/lolasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3636,
+      "sha256": "bcbfefc5e3e3ed8edda303d5a6f655491b0dae18da87daaabde62d5bf62af734",
+      "position": 1,
+      "meta": {
+        "t": 3.4
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/lolasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3510,
+      "sha256": "ee2bb315ca9f5cbcff702ab952e3c79039205b83cea9c04c390516f67879a8fd",
+      "position": 2,
+      "meta": {
+        "t": 4.8
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/lolasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3274,
+      "sha256": "97fcdfd09c8bc7155415f93ab4334ba8af13ae64da1987de07c45d72875e1673",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/lolasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3628,
+      "sha256": "0834665f5efe0e14b62bf001bf0aa7969bf16976b8e0f251511e7445f02659cc",
+      "position": 4,
+      "meta": {
+        "t": 9.2
+      }
+    }
+  ]
+}

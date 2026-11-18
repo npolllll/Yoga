@@ -1,0 +1,146 @@
+{
+  "slug": "salamba-sirsasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "5887adc0e30dc6f4",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.35,
+    "minBodyZCm": -2.1,
+    "comMarginCm": 0.0,
+    "uniqueFrames": 204
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/salamba-sirsasana/salamba-sirsasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 76534,
+      "sha256": "169b0cd50248689b840af24f4c8c684a1a73b7501fe2bf0cf1dd17a8644590be",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/salamba-sirsasana/salamba-sirsasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 94229,
+      "sha256": "07737478180f35d7ab392b7d3eb0ea2387ba2cff71ba6ae0d3ddfd1968f7355c",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/salamba-sirsasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 7280,
+      "sha256": "cb59a95fab1e41ba45a1a578035949232e969e0418fd362c0666c815d6db823d",
+      "alt": {
+        "ru": "Стойка на голове: 3D-персонаж в позе",
+        "en": "Supported Headstand: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/salamba-sirsasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1096,
+      "sha256": "163b98cfaeb57b261795e0a044d47ebbc38221183df0739bdd8a8ce32f03e77b",
+      "alt": {
+        "ru": "Стойка на голове: 3D-персонаж в позе",
+        "en": "Supported Headstand: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/salamba-sirsasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1520,
+      "sha256": "d7aaeca0b6ebac102ff19de6abc162a74ef69cb8cbb9887691aa6bda2cfdc841",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/salamba-sirsasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1530,
+      "sha256": "52e27d3014e0e9533ca7d96d49f5b90d336ae764c90ac362ef7e45f063fd9069",
+      "position": 1,
+      "meta": {
+        "t": 3.2
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/salamba-sirsasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1608,
+      "sha256": "a73e8b46f3ed42f47121c865d22b69647a3114598a7f825831088cf857930856",
+      "position": 2,
+      "meta": {
+        "t": 5.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/salamba-sirsasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1702,
+      "sha256": "9b62502e89a108fc58b116173d383da693aec88f7a2d4d4c118689bf0fe6caff",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/salamba-sirsasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1572,
+      "sha256": "7d4cbf55ffd1966b091587e09137fb4e740287796c4250b936c0b1da2f1a71cf",
+      "position": 4,
+      "meta": {
+        "t": 9.3
+      }
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "slug": "l-handstand",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "109508a7f204f60b",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.47,
+    "minBodyZCm": -2.03,
+    "comMarginCm": 5.8,
+    "uniqueFrames": 160
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/l-handstand/l-handstand.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 116460,
+      "sha256": "ac40f1490b879b63ac3c057181b296353219ab879a76e5c3ef37bec21f735b4c",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/l-handstand/l-handstand.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 148773,
+      "sha256": "598de712dbb51a29c2d64edafb26ee6aec4d0b62e27a7e32d82fea65ab66f65d",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/l-handstand/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 9214,
+      "sha256": "3cce5a5f631daf733a758fe2b55e413d1543593fe785855a579408448262d657",
+      "alt": {
+        "ru": "Стойка на руках у стены уголком: 3D-персонаж в позе",
+        "en": "L-Shape Handstand at the Wall: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/l-handstand/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1466,
+      "sha256": "7e3058b3c513037362d66dcca1341dc0741bd1111634cb8ac2f7387a7a773b4f",
+      "alt": {
+        "ru": "Стойка на руках у стены уголком: 3D-персонаж в позе",
+        "en": "L-Shape Handstand at the Wall: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/l-handstand/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2578,
+      "sha256": "ef2553f512981dfaa27d8fd89c8bc201e9f4868ce07b6adda54b408eafe1c3f9",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/l-handstand/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2974,
+      "sha256": "c47c3a78088817f9bf4593da19cd8d22534dae2fc7f2fe6c9f5b1b1afcc09965",
+      "position": 1,
+      "meta": {
+        "t": 2.8
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/l-handstand/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2386,
+      "sha256": "968d5c8b8ec5ad30b3c5110801dd40bcea2a3e566a133ca28f44726d9a89a2ec",
+      "position": 2,
+      "meta": {
+        "t": 3.9
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/l-handstand/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2204,
+      "sha256": "46d743002028d952ad4936272028522a75ed05c009e3d1495bb9f0cdbc3ac257",
+      "position": 3,
+      "meta": {
+        "t": 6.5
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/l-handstand/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3016,
+      "sha256": "88a0c84f25fa5725ecf31a2456f674a18de158f846911b351f54c38bb36c4192",
+      "position": 4,
+      "meta": {
+        "t": 8.8
+      }
+    }
+  ]
+}

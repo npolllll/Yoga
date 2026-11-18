@@ -1,0 +1,146 @@
+{
+  "slug": "salamba-sarvangasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "9f373a93f9978888",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.36,
+    "minBodyZCm": -1.5,
+    "comMarginCm": 10.8,
+    "uniqueFrames": 184
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/salamba-sarvangasana/salamba-sarvangasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 106016,
+      "sha256": "12bbc38f52ff6b3eefe02e1f627bec487713a82d8c8b1f02b12ea095a7ab4957",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/salamba-sarvangasana/salamba-sarvangasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 122771,
+      "sha256": "869338eb667819223607692776c79ded3b3b5c30b8d886695f03048ffd1ea264",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/salamba-sarvangasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 8748,
+      "sha256": "6445522a63a2c7b390bb2560c88fabb1f52b9f3d47c1a4303bd56ddba20c41b8",
+      "alt": {
+        "ru": "Стойка на плечах: 3D-персонаж в позе",
+        "en": "Supported Shoulder Stand: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/salamba-sarvangasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1420,
+      "sha256": "90c0f01f2d1361f7cc6bb5a189bb6596c71d9bc43673218d714f063de29b250a",
+      "alt": {
+        "ru": "Стойка на плечах: 3D-персонаж в позе",
+        "en": "Supported Shoulder Stand: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/salamba-sarvangasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2268,
+      "sha256": "81dbb948bec83d1c97e6479d75a6e92535005ee6b734ac08e8c5604452032dec",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/salamba-sarvangasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2346,
+      "sha256": "f5dc4df43708da4571a03f2ce7b46ff6122770a26500c1a5f142180dfed713b6",
+      "position": 1,
+      "meta": {
+        "t": 2.7
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/salamba-sarvangasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2218,
+      "sha256": "39e079cd1878fef5d977b13fe679cbbaa3ac515dfb73e41eaf4e20fefa61f69d",
+      "position": 2,
+      "meta": {
+        "t": 3.7
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/salamba-sarvangasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2140,
+      "sha256": "ee957e3781f38e20e1e0d23c1a289261e72bfd5629be4f8d5084d1dfc5d76577",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/salamba-sarvangasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2218,
+      "sha256": "39e079cd1878fef5d977b13fe679cbbaa3ac515dfb73e41eaf4e20fefa61f69d",
+      "position": 4,
+      "meta": {
+        "t": 8.8
+      }
+    }
+  ]
+}
