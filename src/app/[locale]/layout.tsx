@@ -35,6 +35,11 @@ export const viewport: Viewport = {
   initialScale: 1,
 };
 
+// Only the body font (Manrope) is preloaded: it paints the first text (FCP). Lora (headings) is left to the
+// CSS so that its ~58 KiB do not compete with the LCP image for bandwidth (measured with Lighthouse).
+const FONT_PRELOAD_EN = ["manrope-latin-wght-normal.woff2"];
+const FONT_PRELOAD_RU = [...FONT_PRELOAD_EN, "manrope-cyrillic-wght-normal.woff2"];
+
 export default async function LocaleLayout({ children, params }: LayoutProps<"/[locale]">) {
   const { locale: raw } = await params;
   if (!isLocale(raw)) notFound();
@@ -44,6 +49,11 @@ export default async function LocaleLayout({ children, params }: LayoutProps<"/[
   return (
     <html lang={locale} className="h-full antialiased">
       <body className="flex min-h-full flex-col">
+        {/* Core font subsets download in parallel with the CSS instead of after it (src/app/fonts.css; spaces and
+            ASCII punctuation always need the Latin files). React hoists these <link>s into <head>. */}
+        {(locale === "ru" ? FONT_PRELOAD_RU : FONT_PRELOAD_EN).map((file) => (
+          <link key={file} rel="preload" href={`/fonts/v5/${file}`} as="font" type="font/woff2" crossOrigin="anonymous" />
+        ))}
         <a href="#main" className="skip-link">
           {dict.nav.skipToContent}
         </a>
