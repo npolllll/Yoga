@@ -4,7 +4,7 @@
   "generatedFrom": {
     "characterVersion": "1.2.0",
     "configVersion": 1,
-    "configHash": "5265669bb6d722e3",
+    "configHash": "790925a1dafe73f5",
     "blender": "5.2.4 LTS",
     "engine": "CYCLES"
   },
@@ -27,8 +27,8 @@
       "frameCount": 300,
       "fps": 30,
       "position": 0,
-      "bytes": 83657,
-      "sha256": "d00a9de38fb17507199a1c485a9739fb58ca2b3fad47e12ab1f17a3da8a4c60b",
+      "bytes": 90976,
+      "sha256": "835c3dac8794c7288fdeeed713439dddf1387eb61442c74a19398952536ae861",
       "meta": {
         "type": "video/webm; codecs=\"vp9\""
       }
@@ -43,8 +43,8 @@
       "frameCount": 300,
       "fps": 30,
       "position": 1,
-      "bytes": 108801,
-      "sha256": "874e74625dedaaf048849ef0c833a49d72bb72a3e8768ce1742480fbb93fb178",
+      "bytes": 122526,
+      "sha256": "6424b47391f34b4d8fdf51db42a98a05d4d7c6e5e0f35d67ff6ad01ad94afc12",
       "meta": {
         "type": "video/mp4; codecs=\"avc1.640028\""
       }
@@ -55,8 +55,8 @@
       "mime": "image/webp",
       "width": 1280,
       "height": 960,
-      "bytes": 7990,
-      "sha256": "c3d56c2ed9b2e9701a3c7e537bd84537d59cededd212289451f43a671678e382",
+      "bytes": 8860,
+      "sha256": "8c731e6064fd3fe220a0588a4e467d20b1e0f32a1f0f1b5d69009b402cd2c25f",
       "alt": {
         "ru": "Стойка на голове с опорой на ладони: 3D-персонаж в позе",
         "en": "Tripod Headstand: 3D character in the pose"
@@ -69,8 +69,8 @@
       "mime": "image/webp",
       "width": 320,
       "height": 240,
-      "bytes": 1256,
-      "sha256": "0341d4223d2af6a1e6e6f2215bafe7eda534fdbaafe484c0973551b179e3d1e2",
+      "bytes": 1448,
+      "sha256": "4e583634a6d7c5b99422e53d50a57afb19f6d9d4ce23159f0b419a4b7cf3c3b2",
       "alt": {
         "ru": "Стойка на голове с опорой на ладони: 3D-персонаж в позе",
         "en": "Tripod Headstand: 3D character in the pose"
@@ -83,8 +83,8 @@
       "mime": "image/webp",
       "width": 480,
       "height": 360,
-      "bytes": 2012,
-      "sha256": "294be10174fee6f5f4d87cdb4c2510c43cd97693093fc7f622164d033e822e24",
+      "bytes": 1782,
+      "sha256": "da8ca60018ec27951f1994177a30197e4a4595eecdbab76dd767eed2d02d9a30",
       "position": 0,
       "meta": {
         "t": 1.0
@@ -96,8 +96,8 @@
       "mime": "image/webp",
       "width": 480,
       "height": 360,
-      "bytes": 2098,
-      "sha256": "066821eb35890ac6ce1ad70828104eb049141a5858abd7c78dfd45aa57c6c0ce",
+      "bytes": 2190,
+      "sha256": "02f9c4ac0dd0ce1a606b110e8553d16bb7cdd197a1a410f9a410c80f0c325bf2",
       "position": 1,
       "meta": {
         "t": 2.6
@@ -109,8 +109,8 @@
       "mime": "image/webp",
       "width": 480,
       "height": 360,
-      "bytes": 2024,
-      "sha256": "263b0fd106e00dc393653141a191e597656c936177a6e7205bffe7389e5b901e",
+      "bytes": 1958,
+      "sha256": "1eb72a275f1071052d84f6e996f7ce1536fc92508f4f7ed3ef4ccb68aa923641",
       "position": 2,
       "meta": {
         "t": 4.7
@@ -122,8 +122,8 @@
       "mime": "image/webp",
       "width": 480,
       "height": 360,
-      "bytes": 1922,
-      "sha256": "325125636c1a3b8cbe851cb44030ac8fa6eb64d5acd9807381383d5ffcabc1bc",
+      "bytes": 2166,
+      "sha256": "c083be1a413dcc3dbd26a37b5f2d5cb6fb80c23d7210a123e85d5664fce5e28d",
       "position": 3,
       "meta": {
         "t": 7.0
@@ -135,8 +135,8 @@
       "mime": "image/webp",
       "width": 480,
       "height": 360,
-      "bytes": 2004,
-      "sha256": "d31f986495adf7a970e1b7df98e92d0f4baa3ac1aab81dcd67091c3da67eee98",
+      "bytes": 1816,
+      "sha256": "6f3edbcd4cc7f1a1ff9278cb3436b76029580a4190889f4b15309e553c01ae88",
       "position": 4,
       "meta": {
         "t": 9.3

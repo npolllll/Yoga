@@ -1,53 +1,53 @@
 # Готовность 3D-анимаций (2026-11-18)
 
 Мастер-персонаж: `pipeline/balance3d/character.py` (версия в манифестах). Конфигурации движения: 44/44.
-Финальные ролики (10 с, 30 fps, 300 кадров, без звука): 44/44; автоматические проверки пройдены: 5.
+Финальные ролики (10 с, 30 fps, 300 кадров, без звука): 44/44; автоматические проверки пройдены: 44.
 Метрики: дрейф опор в удержании (см) / самая низкая точка тела (см) / запас центра масс над опорой (см).
 Экспертная (анатомическая) проверка анимаций **не проводилась**. Известные отклонения для проверки преподавателем — `docs/ANIMATION_REVIEW_NOTES.md`.
 
 | Асана | Конфиг | Персонаж | Метрики | Автопроверка | Эксперт |
 |---|---|---|---|---|---|
-| bakasana | ✓ | 1.2.0 | 0 / -1.21 / 6 | — | нет |
-| baby-crow | ✓ | 1.2.0 | 0 / -1.34 / 2 | — | нет |
-| chaturanga-dandasana | ✓ | 1.2.0 | 0 / -1.54 / 18.5 | — | нет |
-| tolasana | ✓ | 1.2.0 | 0 / -2.2 / 5.9 | — | нет |
-| lolasana | ✓ | 1.2.0 | 0 / -0.4 / 1 | — | нет |
-| eka-hasta-bhujasana | ✓ | 1.2.0 | 0 / -0.47 / 5.8 | — | нет |
-| eka-pada-galavasana | ✓ | 1.2.0 | 0 / -0.06 / 1.7 | — | нет |
-| hamsasana | ✓ | 1.2.0 | 0 / -2.22 / 2.6 | — | нет |
-| tittibhasana | ✓ | 1.2.0 | 0 / -1.77 / 5.7 | — | нет |
-| astavakrasana | ✓ | 1.2.0 | 0 / -1.46 / 5.6 | — | нет |
+| bakasana | ✓ | 1.2.0 | 0 / -1.21 / 6 | ✓ | нет |
+| baby-crow | ✓ | 1.2.0 | 0 / -1.34 / 2 | ✓ | нет |
+| chaturanga-dandasana | ✓ | 1.2.0 | 0 / -1.54 / 18.5 | ✓ | нет |
+| tolasana | ✓ | 1.2.0 | 0 / -2.2 / 5.9 | ✓ | нет |
+| lolasana | ✓ | 1.2.0 | 0 / -0.4 / 1 | ✓ | нет |
+| eka-hasta-bhujasana | ✓ | 1.2.0 | 0 / -0.47 / 5.8 | ✓ | нет |
+| eka-pada-galavasana | ✓ | 1.2.0 | 0 / -0.06 / 1.7 | ✓ | нет |
+| hamsasana | ✓ | 1.2.0 | 0 / -2.22 / 2.6 | ✓ | нет |
+| tittibhasana | ✓ | 1.2.0 | 0 / -1.77 / 5.7 | ✓ | нет |
+| astavakrasana | ✓ | 1.2.0 | 0 / -1.46 / 5.6 | ✓ | нет |
 | mayurasana | ✓ | 1.2.0 | 0 / -2.3 / 5.8 | ✓ | нет |
-| eka-pada-bakasana | ✓ | 1.2.0 | 0 / -2.27 / 4.9 | — | нет |
-| eka-pada-koundinyasana-2 | ✓ | 1.2.0 | 0 / -2.35 / 4.9 | — | нет |
-| kukkutasana | ✓ | 1.2.0 | 0 / -2.26 / 1.7 | — | нет |
-| urdhva-kukkutasana | ✓ | 1.2.0 | 0 / -1.49 / 5 | — | нет |
-| vasisthasana | ✓ | 1.2.0 | 0 / -0.77 / 1.1 | — | нет |
+| eka-pada-bakasana | ✓ | 1.2.0 | 0 / -2.27 / 4.9 | ✓ | нет |
+| eka-pada-koundinyasana-2 | ✓ | 1.2.0 | 0 / -2.35 / 4.9 | ✓ | нет |
+| kukkutasana | ✓ | 1.2.0 | 0 / -2.26 / 1.7 | ✓ | нет |
+| urdhva-kukkutasana | ✓ | 1.2.0 | 0 / -1.49 / 5 | ✓ | нет |
+| vasisthasana | ✓ | 1.2.0 | 0 / -0.77 / 1.1 | ✓ | нет |
 | parsva-bakasana | ✓ | 1.2.0 | 0 / -0.45 / 5.4 | ✓ | нет |
-| eka-pada-koundinyasana-1 | ✓ | 1.2.0 | 0 / -2.01 / 4.9 | — | нет |
-| dwi-pada-koundinyasana | ✓ | 1.2.0 | 0 / -1.79 / 3 | — | нет |
+| eka-pada-koundinyasana-1 | ✓ | 1.2.0 | 0 / -2.01 / 4.9 | ✓ | нет |
+| dwi-pada-koundinyasana | ✓ | 1.2.0 | 0 / -1.79 / 3 | ✓ | нет |
 | maksikanagasana | ✓ | 1.2.0 | 0 / -2.26 / 3.3 | ✓ | нет |
-| ardha-sarvangasana | ✓ | 1.2.0 | 0 / -1.49 / 10.3 | — | нет |
-| salamba-sarvangasana | ✓ | 1.2.0 | 0 / -1.5 / 10.8 | — | нет |
-| bhujapidasana | ✓ | 1.2.0 | 0 / -2 / 5.9 | — | нет |
-| tripod-headstand | ✓ | 1.2.0 | 0 / -1.78 / 11.6 | — | нет |
-| niralamba-sarvangasana | ✓ | 1.2.0 | 0 / -1.5 / 0.4 | — | нет |
-| l-handstand | ✓ | 1.2.0 | 0 / -2.03 / 5.8 | — | нет |
+| ardha-sarvangasana | ✓ | 1.2.0 | 0 / -1.49 / 10.3 | ✓ | нет |
+| salamba-sarvangasana | ✓ | 1.2.0 | 0 / -1.5 / 10.8 | ✓ | нет |
+| bhujapidasana | ✓ | 1.2.0 | 0 / -2 / 5.9 | ✓ | нет |
+| tripod-headstand | ✓ | 1.2.0 | 0 / -1.78 / 11.6 | ✓ | нет |
+| niralamba-sarvangasana | ✓ | 1.2.0 | 0 / -1.5 / 0.4 | ✓ | нет |
+| l-handstand | ✓ | 1.2.0 | 0 / -2.03 / 5.8 | ✓ | нет |
 | adho-mukha-vrksasana | ✓ | 1.2.0 | 0 / -2.35 / 6 | ✓ | нет |
-| tuck-handstand | ✓ | 1.2.0 | 0 / -1.81 / 5.3 | — | нет |
-| straddle-handstand | ✓ | 1.2.0 | 0 / -1.81 / 5.8 | — | нет |
-| handstand-scorpion | ✓ | 1.2.0 | 0 / -1.71 / 5.7 | — | нет |
-| ardha-pincha-mayurasana | ✓ | 1.2.0 | 0 / -1.35 / 18 | — | нет |
-| salamba-sirsasana | ✓ | 1.2.0 | 0 / -2.1 / 0 | — | нет |
-| pincha-mayurasana | ✓ | 1.2.0 | 0 / -2.1 / 4.5 | — | нет |
-| vrschikasana | ✓ | 1.2.0 | 0 / -1.79 / 4.9 | — | нет |
-| vasisthasana-tree | ✓ | 1.2.0 | 0 / -0.82 / 1.2 | — | нет |
-| kasyapasana | ✓ | 1.2.0 | 0 / -0.82 / 3.6 | — | нет |
+| tuck-handstand | ✓ | 1.2.0 | 0 / -1.81 / 5.3 | ✓ | нет |
+| straddle-handstand | ✓ | 1.2.0 | 0 / -1.81 / 5.8 | ✓ | нет |
+| handstand-scorpion | ✓ | 1.2.0 | 0 / -1.71 / 5.7 | ✓ | нет |
+| ardha-pincha-mayurasana | ✓ | 1.2.0 | 0 / -1.35 / 18 | ✓ | нет |
+| salamba-sirsasana | ✓ | 1.2.0 | 0 / -2.1 / 0 | ✓ | нет |
+| pincha-mayurasana | ✓ | 1.2.0 | 0 / -2.1 / 4.5 | ✓ | нет |
+| vrschikasana | ✓ | 1.2.0 | 0 / -1.79 / 4.9 | ✓ | нет |
+| vasisthasana-tree | ✓ | 1.2.0 | 0 / -0.82 / 1.2 | ✓ | нет |
+| kasyapasana | ✓ | 1.2.0 | 0 / -0.82 / 3.6 | ✓ | нет |
 | visvamitrasana | ✓ | 1.2.0 | 0 / -1.67 / 5.5 | ✓ | нет |
-| eka-hasta-vrksasana | ✓ | 1.2.0 | 0 / -1.08 / 4.6 | — | нет |
-| jump-to-crow | ✓ | 1.2.0 | 0 / -1.81 / 6 | — | нет |
-| crow-to-chaturanga | ✓ | 1.2.0 | 0 / -0.74 / 19.3 | — | нет |
-| crow-to-tripod-headstand | ✓ | 1.2.0 | 0 / -1.08 / 3.2 | — | нет |
-| side-crow-to-eka-pada-koundinyasana-1 | ✓ | 1.2.0 | 0 / -2.15 / 4.9 | — | нет |
-| tripod-headstand-to-crow | ✓ | 1.2.0 | 0 / -1.08 / 6 | — | нет |
-| tuck-press-to-handstand | ✓ | 1.2.0 | 0 / -1.85 / 5.8 | — | нет |
+| eka-hasta-vrksasana | ✓ | 1.2.0 | 0 / -1.08 / 4.6 | ✓ | нет |
+| jump-to-crow | ✓ | 1.2.0 | 0 / -1.81 / 6 | ✓ | нет |
+| crow-to-chaturanga | ✓ | 1.2.0 | 0 / -0.74 / 19.3 | ✓ | нет |
+| crow-to-tripod-headstand | ✓ | 1.2.0 | 0 / -1.08 / 3.2 | ✓ | нет |
+| side-crow-to-eka-pada-koundinyasana-1 | ✓ | 1.2.0 | 0 / -2.15 / 4.9 | ✓ | нет |
+| tripod-headstand-to-crow | ✓ | 1.2.0 | 0 / -1.08 / 6 | ✓ | нет |
+| tuck-press-to-handstand | ✓ | 1.2.0 | 0 / -1.85 / 5.8 | ✓ | нет |
