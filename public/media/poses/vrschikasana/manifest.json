@@ -1,0 +1,146 @@
+{
+  "slug": "vrschikasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "f0055bbe552bed72",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.3,
+    "minBodyZCm": -1.79,
+    "comMarginCm": 4.9,
+    "uniqueFrames": 186
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/vrschikasana/vrschikasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 86927,
+      "sha256": "6f321941e46bdf7349194b546401fcf339abfc6ef6a7180705cdebacc1c4545b",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/vrschikasana/vrschikasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 116199,
+      "sha256": "fa449d81b6b66fad4402b345f5868ea115d12057aa4b215b5845e5a86905cf87",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/vrschikasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 8244,
+      "sha256": "1ee9258039f42c677c5235a4688383a6bc4c1452aa656db349f4e7476234ce1f",
+      "alt": {
+        "ru": "Скорпион на предплечьях: 3D-персонаж в позе",
+        "en": "Forearm Scorpion Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/vrschikasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1284,
+      "sha256": "141b5cb6d6c7d3c6f15dc1d92a6e2e829ddc1ebc78481525dffca555d68076e9",
+      "alt": {
+        "ru": "Скорпион на предплечьях: 3D-персонаж в позе",
+        "en": "Forearm Scorpion Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/vrschikasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2048,
+      "sha256": "9252e4a6e227a9d1f802414504996a8c0c15ada755fa384e92a9c417f357715d",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/vrschikasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2042,
+      "sha256": "370b06238b163758b2c16d6e5b4733294b89f23599f9421f30444fde9cbebe28",
+      "position": 1,
+      "meta": {
+        "t": 3.4
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/vrschikasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2046,
+      "sha256": "072b0997fa8341dca3c7615401278ddd0190127fa5a5b3cd2905c200301bfeab",
+      "position": 2,
+      "meta": {
+        "t": 5.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/vrschikasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2006,
+      "sha256": "d33c0827293f28d030cbb0175d6ef96181dd5eefb2767694dfcbb0846cc032ed",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/vrschikasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2468,
+      "sha256": "f4272184678cf5b8bfda8f3c47fe4228404c0767a9ad417370d4366c61ea3a12",
+      "position": 4,
+      "meta": {
+        "t": 9.3
+      }
+    }
+  ]
+}

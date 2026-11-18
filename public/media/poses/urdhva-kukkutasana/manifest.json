@@ -1,0 +1,146 @@
+{
+  "slug": "urdhva-kukkutasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "73ebab27b49a3be3",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 1.45,
+    "minBodyZCm": -1.49,
+    "comMarginCm": 5.0,
+    "uniqueFrames": 164
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/urdhva-kukkutasana/urdhva-kukkutasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 114988,
+      "sha256": "b05b6f669dd4ea497e34a520918743f72847e1be2792c415f6774fd8bf775841",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/urdhva-kukkutasana/urdhva-kukkutasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 159769,
+      "sha256": "2835d65a643e50789b5772c9b33e2db782042a41e5d09327c074de148f20db69",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/urdhva-kukkutasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 13092,
+      "sha256": "7fe539ed404eaec6a281ab7ec277104e5d3b020a0c752ffe68e74c6fe228f80c",
+      "alt": {
+        "ru": "Урдхва Куккутасана: 3D-персонаж в позе",
+        "en": "Upward Rooster Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/urdhva-kukkutasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 2144,
+      "sha256": "55a3444357e17f09b3f7e9838212d438f62465ef98d0171f09e7208171d4c2b0",
+      "alt": {
+        "ru": "Урдхва Куккутасана: 3D-персонаж в позе",
+        "en": "Upward Rooster Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/urdhva-kukkutasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3634,
+      "sha256": "4ff1037ced6a5445a2089b305ac09a9c9353d6abaca93bc91a30c856915c6cb7",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/urdhva-kukkutasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3244,
+      "sha256": "f7bc59251d8a024c724596d916891aed011d7c8b08934536d87e93530175af0c",
+      "position": 1,
+      "meta": {
+        "t": 3.6
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/urdhva-kukkutasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3480,
+      "sha256": "fb937ef2502122a16535132792357e18785c17f83d18b1ec05e870419b5d7fe1",
+      "position": 2,
+      "meta": {
+        "t": 5.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/urdhva-kukkutasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3220,
+      "sha256": "71f75c005f1e6f23cb865ea2f7d988c4dfea912fa2a4d0ec08d10cb750cff08e",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/urdhva-kukkutasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3342,
+      "sha256": "a7f9051366d0d4c07c2dee8f1508b8030cd174696e56df18df4c7aec6a261f90",
+      "position": 4,
+      "meta": {
+        "t": 9.4
+      }
+    }
+  ]
+}

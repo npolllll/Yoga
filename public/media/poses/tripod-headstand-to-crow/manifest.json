@@ -1,0 +1,146 @@
+{
+  "slug": "tripod-headstand-to-crow",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "e947063629b5b505",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.24,
+    "minBodyZCm": -1.08,
+    "comMarginCm": 6.0,
+    "uniqueFrames": 170
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/tripod-headstand-to-crow/tripod-headstand-to-crow.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 75414,
+      "sha256": "3cdd714ddac48a9c72cf7e72705c04632541f11e91d741e1fb9cd2aacb39f546",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/tripod-headstand-to-crow/tripod-headstand-to-crow.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 112210,
+      "sha256": "5f12124f442760460f537998b9034183e99f8e6f7a20f98e70d500eb591545b4",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/tripod-headstand-to-crow/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 7724,
+      "sha256": "5e65a1febb488090fe406102482701e2e4c2cd7bad652c51afd8cf4651b33963",
+      "alt": {
+        "ru": "Из стойки на голове в ворону: 3D-персонаж в позе",
+        "en": "Tripod Headstand to Crow: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/tripod-headstand-to-crow/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1202,
+      "sha256": "5cb69d82003ce4a8b0e0fbaa8fdf9819f04539795ba724159a87764f5d3aa54d",
+      "alt": {
+        "ru": "Из стойки на голове в ворону: 3D-персонаж в позе",
+        "en": "Tripod Headstand to Crow: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tripod-headstand-to-crow/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1870,
+      "sha256": "bebe338ef9d7fc4abfad234386fa62102a639bafc9fc7347d1d911d23e03170e",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tripod-headstand-to-crow/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2032,
+      "sha256": "df981188ddf72acb7fed86c0e9ed73b9990199db2318dc55a03c6eacb9af9410",
+      "position": 1,
+      "meta": {
+        "t": 3.2
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tripod-headstand-to-crow/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1952,
+      "sha256": "e3b1423d9849394aaea75a38d9ffc46d81bf78538707650b168270c38feec64d",
+      "position": 2,
+      "meta": {
+        "t": 5.2
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tripod-headstand-to-crow/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1952,
+      "sha256": "ca46a9ed632e11258378b0da2f4e354da6ae2f5ddc34fbabc08f23d74ae8f7ba",
+      "position": 3,
+      "meta": {
+        "t": 6.5
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tripod-headstand-to-crow/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1984,
+      "sha256": "67f530771fd207d698f8aeb01a1e6b826e43c85b794bb76c179eac680f02fc46",
+      "position": 4,
+      "meta": {
+        "t": 9.8
+      }
+    }
+  ]
+}

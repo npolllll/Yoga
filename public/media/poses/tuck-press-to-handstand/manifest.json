@@ -1,0 +1,146 @@
+{
+  "slug": "tuck-press-to-handstand",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "f35f59d373554f06",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.48,
+    "minBodyZCm": -1.85,
+    "comMarginCm": 5.8,
+    "uniqueFrames": 216
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/tuck-press-to-handstand/tuck-press-to-handstand.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 83918,
+      "sha256": "3be8b7ef7381c5c44b93d5dfbbdec822dc816c5ad60bafa3b02c78fa999f11e0",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/tuck-press-to-handstand/tuck-press-to-handstand.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 108624,
+      "sha256": "0239bed1db6194f79ea142336f6edc11cf9d1e895ca8afbff6e9edcfd37276e3",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/tuck-press-to-handstand/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 7370,
+      "sha256": "5910a921eda1f4ee53796eba79614ad930d5321519a0d64193b23bd7fd9f21d1",
+      "alt": {
+        "ru": "Выход в стойку на руках из группировки силой: 3D-персонаж в позе",
+        "en": "Tuck Press to Handstand: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/tuck-press-to-handstand/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1118,
+      "sha256": "caf2087ec1f9cd77ca77569839a8f8206c234414d0dcf48eeff53772661468a9",
+      "alt": {
+        "ru": "Выход в стойку на руках из группировки силой: 3D-персонаж в позе",
+        "en": "Tuck Press to Handstand: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tuck-press-to-handstand/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1756,
+      "sha256": "29a959ecd24d0cffaa13453998ca8d41569928c68f009987ae14098e0ddf958f",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tuck-press-to-handstand/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1716,
+      "sha256": "f294986d25c91c2056ee7118dcb7a9119e7dc4f7b48a2a2fef6d4a2fbddcc23a",
+      "position": 1,
+      "meta": {
+        "t": 2.6
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tuck-press-to-handstand/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1696,
+      "sha256": "65927131f08bf94cb856d4b959306093b3f3956c3f0489e72cc38e3f11e99b28",
+      "position": 2,
+      "meta": {
+        "t": 3.6
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tuck-press-to-handstand/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1682,
+      "sha256": "e4fcb891ccb3a93f682c7c44c935ea0eb2849a975d8823cc06aa626d61f8aec7",
+      "position": 3,
+      "meta": {
+        "t": 5.2
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/tuck-press-to-handstand/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1708,
+      "sha256": "90b67eafae6ee9ec8d09241e8c6a975ba6bd3baa5b59976d33129c0cddd38ae2",
+      "position": 4,
+      "meta": {
+        "t": 7.6
+      }
+    }
+  ]
+}
