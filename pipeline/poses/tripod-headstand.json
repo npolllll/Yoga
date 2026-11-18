@@ -2,8 +2,8 @@
   "slug": "tripod-headstand",
   "version": 1,
   "view": {
-    "azimuth": 35,
-    "elevation": 10
+    "azimuth": 240,
+    "elevation": 12
   },
   "keys": [
     {
