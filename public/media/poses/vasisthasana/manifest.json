@@ -1,0 +1,146 @@
+{
+  "slug": "vasisthasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "83ea9c904626b580",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.0,
+    "minBodyZCm": -0.77,
+    "comMarginCm": 1.1,
+    "uniqueFrames": 175
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/vasisthasana/vasisthasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 106566,
+      "sha256": "9723c326910a14db8c99117939eb0ca1e7b4cc3c95b03c8fbff8b56ec7921b40",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/vasisthasana/vasisthasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 128739,
+      "sha256": "4c748f7e6af7886180b6e9166e1f30e31b6c8a33ef07fb7e5a395e19f677b6c5",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/vasisthasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 10696,
+      "sha256": "2e6b87e1ef91ed4840dc7cd5dc4d2f63e7bd35daa6bb3ce177a0169a0131f337",
+      "alt": {
+        "ru": "Васиштхасана: 3D-персонаж в позе",
+        "en": "Side Plank Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/vasisthasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1550,
+      "sha256": "2d4ece8693b632b2e2e23a60fe37d6efb446e80673fbb69878ca254014b83f93",
+      "alt": {
+        "ru": "Васиштхасана: 3D-персонаж в позе",
+        "en": "Side Plank Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/vasisthasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2198,
+      "sha256": "a8ae98db7947caf281031935a1b703f3a4a639a8f40838e7f004071274509f85",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/vasisthasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2238,
+      "sha256": "97bab0013df627da315ed0c9839013239a09cadcfbc4ab49a1f110a8e3717982",
+      "position": 1,
+      "meta": {
+        "t": 2.6
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/vasisthasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2464,
+      "sha256": "6934660723a3f129fffdaa321b750bdc08b45267a0bda8c331f0c51e42941764",
+      "position": 2,
+      "meta": {
+        "t": 4.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/vasisthasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2350,
+      "sha256": "6645fbc204c653aaf46ae59035c1088871335a0bc4d7478077caf553f9bbfbf1",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/vasisthasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2422,
+      "sha256": "11c829e250240ff860e5f67c5db4235b98a6f9df4d36381fd0bb3ae1e4f0a3d9",
+      "position": 4,
+      "meta": {
+        "t": 9.0
+      }
+    }
+  ]
+}

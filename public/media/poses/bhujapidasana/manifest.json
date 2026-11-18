@@ -1,0 +1,146 @@
+{
+  "slug": "bhujapidasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "268a8b1d825ee8a5",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.24,
+    "minBodyZCm": -2.0,
+    "comMarginCm": 5.9,
+    "uniqueFrames": 221
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/bhujapidasana/bhujapidasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 101829,
+      "sha256": "5565a2fe48089b5486a1c047a88cc1db915f785bb7967f9c2cf113221bc37d20",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/bhujapidasana/bhujapidasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 120624,
+      "sha256": "168705a9ee643bf521988f900542be42ee1586bbabc387d9ddda578c003682b0",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/bhujapidasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 8046,
+      "sha256": "89bcc4a9b48a4e2e9e7cb04e8a3e7a74831b250d1236e03b1695c8f3a5e9f3e8",
+      "alt": {
+        "ru": "Бхуджапидасана: 3D-персонаж в позе",
+        "en": "Shoulder-Pressing Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/bhujapidasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1230,
+      "sha256": "97841c7e23ff65a2ca19bfb99f08a23680f828e08879a5d45b1acb8c6cd18440",
+      "alt": {
+        "ru": "Бхуджапидасана: 3D-персонаж в позе",
+        "en": "Shoulder-Pressing Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/bhujapidasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1774,
+      "sha256": "c5aac401540eadbcef23c5e366f74f1d58f10b12f0ae58a7b3749d8f89e509c7",
+      "position": 0,
+      "meta": {
+        "t": 1.8
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/bhujapidasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1850,
+      "sha256": "57002ba80f9b3b6d36ea12e586fc7c8e4b013ade28d5833fc5a6566731ec45e4",
+      "position": 1,
+      "meta": {
+        "t": 3.6
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/bhujapidasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1956,
+      "sha256": "fa8c18a49ef265771e6afc9078bbf66f5d175555f8dd56c1b42e0fed7dc50415",
+      "position": 2,
+      "meta": {
+        "t": 4.9
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/bhujapidasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1884,
+      "sha256": "04c3d6675545e99f7df08f4932f82b3db3846e8935adf6aa1c70e6cf50dd2835",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/bhujapidasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1816,
+      "sha256": "ad6ffbfe86394dddd4c733c5136cd60527142f1797fc5d99e3247c40644161bd",
+      "position": 4,
+      "meta": {
+        "t": 9.3
+      }
+    }
+  ]
+}

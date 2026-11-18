@@ -1,0 +1,146 @@
+{
+  "slug": "chaturanga-dandasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "ad6383154074e74f",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.13,
+    "minBodyZCm": -1.54,
+    "comMarginCm": 18.5,
+    "uniqueFrames": 168
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/chaturanga-dandasana/chaturanga-dandasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 97510,
+      "sha256": "8c343452167142f5b964f63be1398128aa20776f3ff561da2372646484a4a45f",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/chaturanga-dandasana/chaturanga-dandasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 143549,
+      "sha256": "e9b101115922e3bf34dd87d0af4b9dcf43088e3e502cd16d7d04d2719c8b6a51",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/chaturanga-dandasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 13364,
+      "sha256": "7788d69ecbad50fcebed2af5584c6fa6a5f7852fafe543a0052ef2c0a5dd3661",
+      "alt": {
+        "ru": "Чатуранга Дандасана: 3D-персонаж в позе",
+        "en": "Four-Limbed Staff Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/chaturanga-dandasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 2438,
+      "sha256": "bd6084ca13860ad51a9d6782cae318fe1b4f5c825c96f8773f0ebae0eedcc2f7",
+      "alt": {
+        "ru": "Чатуранга Дандасана: 3D-персонаж в позе",
+        "en": "Four-Limbed Staff Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/chaturanga-dandasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3696,
+      "sha256": "236c91f71b17fc648947f86133d62beb357e52a8a45e54708bb638e65aa17c80",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/chaturanga-dandasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3428,
+      "sha256": "b4312b2b5415bc37a3ff708a99378ff4e269670d465796e49133c50dd6e0ec61",
+      "position": 1,
+      "meta": {
+        "t": 3.6
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/chaturanga-dandasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3532,
+      "sha256": "8f43c5f4c3274ff23b03873fa8a233bc87abeae77edb12331d4adf925bad3176",
+      "position": 2,
+      "meta": {
+        "t": 4.8
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/chaturanga-dandasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3388,
+      "sha256": "4dbd86e9f689c3abd5f34fb7ff9eb44d783528877402abbb826a4b1e906495d9",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/chaturanga-dandasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3760,
+      "sha256": "c9cd6e19f7bf02a8819bb43c4a9c1f058fd98427703068ee0f24f9bc0d77b00e",
+      "position": 4,
+      "meta": {
+        "t": 9.6
+      }
+    }
+  ]
+}
