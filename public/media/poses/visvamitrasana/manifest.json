@@ -1,0 +1,146 @@
+{
+  "slug": "visvamitrasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "011be9087b4aac02",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.94,
+    "minBodyZCm": -1.67,
+    "comMarginCm": 5.5,
+    "uniqueFrames": 192
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/visvamitrasana/visvamitrasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 143521,
+      "sha256": "7a0e2e57f495a394e165986b0d595d43c002eabcd272a8228f3ee6edb94abc1d",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/visvamitrasana/visvamitrasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 171992,
+      "sha256": "577bf7406b9c4757686faf0aae6c726b324c72c31f55e0f4a31ed2adb32b588e",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/visvamitrasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 9726,
+      "sha256": "1f339b6fe2ed8ed50a1e6b757556ce8b66ff91f236d617fb80690156120c277d",
+      "alt": {
+        "ru": "Вишвамитрасана: 3D-персонаж в позе",
+        "en": "Pose Dedicated to Sage Visvamitra: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/visvamitrasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1550,
+      "sha256": "ee9f83acb3a174782bf37995d7df12a1f7292cf3d2a8dd4282bad27833d3c5c2",
+      "alt": {
+        "ru": "Вишвамитрасана: 3D-персонаж в позе",
+        "en": "Pose Dedicated to Sage Visvamitra: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/visvamitrasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2608,
+      "sha256": "2c71a26dcb05e28d907e2fa168aca417ab0bf5bfa962d16a7169cc6b212aea77",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/visvamitrasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2640,
+      "sha256": "469a6a759bf5159874c237449d30a1a076fb98b3047035abc3eb2fdc39f23bd4",
+      "position": 1,
+      "meta": {
+        "t": 2.4
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/visvamitrasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2554,
+      "sha256": "a02e73889d8f0028775062973b963c53dda64f808b314e1e6ca99d8870913c42",
+      "position": 2,
+      "meta": {
+        "t": 4.8
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/visvamitrasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2326,
+      "sha256": "f888c46865f32da708c74b81093da53fa13d3af5cde1c771b5db70386618de6f",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/visvamitrasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2472,
+      "sha256": "1fe386dd716ef89b74d5402429143f5d99132718321c78368fbbcf8d152fb43e",
+      "position": 4,
+      "meta": {
+        "t": 9.4
+      }
+    }
+  ]
+}

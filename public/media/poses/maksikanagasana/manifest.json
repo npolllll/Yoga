@@ -1,0 +1,146 @@
+{
+  "slug": "maksikanagasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "b0f5dbb180b682d5",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.76,
+    "minBodyZCm": -2.26,
+    "comMarginCm": 3.3,
+    "uniqueFrames": 205
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/maksikanagasana/maksikanagasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 125092,
+      "sha256": "a83c6d62d733377755023196105c295e313de25bcad8ac03da48adb1116f0ad6",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/maksikanagasana/maksikanagasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 154268,
+      "sha256": "f1faa1d7b58f806106e0e860c2c9c9aad653cf8657dfa79674daf75a68d3dea6",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/maksikanagasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 8208,
+      "sha256": "8ce6344d0fa78a430b1baba1ebb3ca3cd8116eb3283d2d95856bdd4545e3b82d",
+      "alt": {
+        "ru": "Стрекоза: 3D-персонаж в позе",
+        "en": "Dragonfly Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/maksikanagasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1300,
+      "sha256": "f86ce177bbbd987c63a01e3a0b19b0bb7e2e70140e759685173573621c230a52",
+      "alt": {
+        "ru": "Стрекоза: 3D-персонаж в позе",
+        "en": "Dragonfly Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/maksikanagasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1878,
+      "sha256": "4d7f0dcf1c45a115c1e09f5b432bc01a7b4280c62db457e91c7da980b47ce5ca",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/maksikanagasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1824,
+      "sha256": "2725d69394734a422fa70353cc611830c8a3a13b5240faa23b8f18f11408eaa5",
+      "position": 1,
+      "meta": {
+        "t": 2.6
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/maksikanagasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1920,
+      "sha256": "d72f94a32a2690e38b4507bc0b2b290dcb60dcb02f602c6e89399a6451bc7479",
+      "position": 2,
+      "meta": {
+        "t": 4.8
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/maksikanagasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1974,
+      "sha256": "680a1364baa624f59df36debc78702ca9921147cbad29852b5dea413efd5b068",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/maksikanagasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1668,
+      "sha256": "205d678af492ad39967ca70b108f8d99af15b8ef1864558e283e38b3b467c639",
+      "position": 4,
+      "meta": {
+        "t": 9.4
+      }
+    }
+  ]
+}

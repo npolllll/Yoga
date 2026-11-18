@@ -1,0 +1,146 @@
+{
+  "slug": "parsva-bakasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 2,
+    "configHash": "c996f5b47a0bc9d0",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.29,
+    "minBodyZCm": -0.45,
+    "comMarginCm": 5.4,
+    "uniqueFrames": 192
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/parsva-bakasana/parsva-bakasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 142720,
+      "sha256": "af12c8bc5e0aea3ff3c5fd2c104e1d14e24c7bdffd0de2393b054f3c87ec8c78",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/parsva-bakasana/parsva-bakasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 174848,
+      "sha256": "a5b96c7c816ccbe690c475003f38ea4ec9b9b660762aa35029c83f4558edf0a8",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/parsva-bakasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 11410,
+      "sha256": "ef4f21c1a551f0ef3a12ac5fa2ab2e46b2ef6a6467761abc86f74deb132d2e23",
+      "alt": {
+        "ru": "Боковая ворона: 3D-персонаж в позе",
+        "en": "Side Crow Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/parsva-bakasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1858,
+      "sha256": "a4f93834ebe163c8bbf923a1b30b9d11c12196ff4be6e620b8b2eb2808ba2637",
+      "alt": {
+        "ru": "Боковая ворона: 3D-персонаж в позе",
+        "en": "Side Crow Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/parsva-bakasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2710,
+      "sha256": "493a05c7c9d879f72c9df9faefbab6d256324da71507c447cd06d6cec2a3aaf2",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/parsva-bakasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2950,
+      "sha256": "e865f90ea33d025bc48cca9b8d18ec9ae339bd86c6cfb139c822a3db6034a247",
+      "position": 1,
+      "meta": {
+        "t": 2.6
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/parsva-bakasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2928,
+      "sha256": "c07cc22d06b9df3708880d8515dfc5baf8212e3e13d794aefbb43dbe0106472c",
+      "position": 2,
+      "meta": {
+        "t": 4.2
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/parsva-bakasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2764,
+      "sha256": "3ea76a4153ef1097a6050aaae3de5268fbcf299ad8a4a8994555f88a9bddb712",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/parsva-bakasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2882,
+      "sha256": "6bd9f684dcaddb82597e7a7ede1e58b5f3a1cb5c4c3aab1dc29c557320ff8d15",
+      "position": 4,
+      "meta": {
+        "t": 9.2
+      }
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "slug": "adho-mukha-vrksasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 2,
+    "configHash": "336fba7dcf4a7ad7",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 1.59,
+    "minBodyZCm": -2.35,
+    "comMarginCm": 6.0,
+    "uniqueFrames": 187
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/adho-mukha-vrksasana/adho-mukha-vrksasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 117539,
+      "sha256": "57805ed9ce187057e77dbc1099a01a632160ead9655d3452deacbb27d50b487a",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/adho-mukha-vrksasana/adho-mukha-vrksasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 144567,
+      "sha256": "5e7e699104fb432b8a3ef3ffa3a532e0a5f4a1dc08761d9382f2d42b61505530",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/adho-mukha-vrksasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 6566,
+      "sha256": "fddc190ea50eab6c58302e95019014f6ef199c985d52a16b04a7fea8ebe8cbe0",
+      "alt": {
+        "ru": "Стойка на руках: 3D-персонаж в позе",
+        "en": "Handstand: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/adho-mukha-vrksasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1008,
+      "sha256": "e53bd0ae40c14e2d864e113d455ab653ec3641c4c644b855e67d297dbd0f656f",
+      "alt": {
+        "ru": "Стойка на руках: 3D-персонаж в позе",
+        "en": "Handstand: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/adho-mukha-vrksasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2064,
+      "sha256": "041cda25f2f4a40b1f2baeec1038a39e687b28f0860ab19ac3afd86bb88c34bf",
+      "position": 0,
+      "meta": {
+        "t": 1.8
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/adho-mukha-vrksasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2026,
+      "sha256": "e7a481a49a7a26c96a902a4e01ed17dda8cdb27737177259f938edf9b81dd1dd",
+      "position": 1,
+      "meta": {
+        "t": 2.8
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/adho-mukha-vrksasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1552,
+      "sha256": "4e7cbfb169af051f50928f43173b9f6e6e1934830e99188b82a30d3ed0ca92c0",
+      "position": 2,
+      "meta": {
+        "t": 4.5
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/adho-mukha-vrksasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 1552,
+      "sha256": "4e7cbfb169af051f50928f43173b9f6e6e1934830e99188b82a30d3ed0ca92c0",
+      "position": 3,
+      "meta": {
+        "t": 6.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/adho-mukha-vrksasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2080,
+      "sha256": "d06a1e740aa97884323457bf670b5fbd021eb7bef12063e5e8614dc8f7752528",
+      "position": 4,
+      "meta": {
+        "t": 8.1
+      }
+    }
+  ]
+}
