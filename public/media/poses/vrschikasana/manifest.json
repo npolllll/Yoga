@@ -4,7 +4,7 @@
   "generatedFrom": {
     "characterVersion": "1.2.0",
     "configVersion": 1,
-    "configHash": "f0055bbe552bed72",
+    "configHash": "2cd4c8132f07ab38",
     "blender": "5.2.4 LTS",
     "engine": "CYCLES"
   },
@@ -27,8 +27,8 @@
       "frameCount": 300,
       "fps": 30,
       "position": 0,
-      "bytes": 86927,
-      "sha256": "6f321941e46bdf7349194b546401fcf339abfc6ef6a7180705cdebacc1c4545b",
+      "bytes": 80340,
+      "sha256": "6ac016e2ea26f09c0e4c3cb1e5695e4b1c00d745f82bf8e839f876bab782fcf7",
       "meta": {
         "type": "video/webm; codecs=\"vp9\""
       }
@@ -43,8 +43,8 @@
       "frameCount": 300,
       "fps": 30,
       "position": 1,
-      "bytes": 116199,
-      "sha256": "fa449d81b6b66fad4402b345f5868ea115d12057aa4b215b5845e5a86905cf87",
+      "bytes": 108727,
+      "sha256": "aaaabb9a4db6554548c76f12878d7fe91b811c29361d708b27c7e86a965c6e03",
       "meta": {
         "type": "video/mp4; codecs=\"avc1.640028\""
       }
@@ -55,8 +55,8 @@
       "mime": "image/webp",
       "width": 1280,
       "height": 960,
-      "bytes": 8244,
-      "sha256": "1ee9258039f42c677c5235a4688383a6bc4c1452aa656db349f4e7476234ce1f",
+      "bytes": 7392,
+      "sha256": "0f4371b8ed540c61dc6bd21ecbeed47b8b5c4e513482d2ccc3383e3be337c2da",
       "alt": {
         "ru": "Скорпион на предплечьях: 3D-персонаж в позе",
         "en": "Forearm Scorpion Pose: 3D character in the pose"
@@ -69,8 +69,8 @@
       "mime": "image/webp",
       "width": 320,
       "height": 240,
-      "bytes": 1284,
-      "sha256": "141b5cb6d6c7d3c6f15dc1d92a6e2e829ddc1ebc78481525dffca555d68076e9",
+      "bytes": 1188,
+      "sha256": "a8a0005d7c6045e69f394feb10afd0cc9c8cf8f35b83c875300e1b11fd7f789b",
       "alt": {
         "ru": "Скорпион на предплечьях: 3D-персонаж в позе",
         "en": "Forearm Scorpion Pose: 3D character in the pose"
@@ -83,8 +83,8 @@
       "mime": "image/webp",
       "width": 480,
       "height": 360,
-      "bytes": 2048,
-      "sha256": "9252e4a6e227a9d1f802414504996a8c0c15ada755fa384e92a9c417f357715d",
+      "bytes": 2080,
+      "sha256": "4c51515221c6cdb48cdb311de69e9898bb7303ec1743c23606028076dc691bfa",
       "position": 0,
       "meta": {
         "t": 1.0
@@ -96,8 +96,8 @@
       "mime": "image/webp",
       "width": 480,
       "height": 360,
-      "bytes": 2042,
-      "sha256": "370b06238b163758b2c16d6e5b4733294b89f23599f9421f30444fde9cbebe28",
+      "bytes": 1856,
+      "sha256": "738bf946588a81013f80ee77699d601a460df70f919f5bd8095c52152422fa9b",
       "position": 1,
       "meta": {
         "t": 3.4
@@ -109,8 +109,8 @@
       "mime": "image/webp",
       "width": 480,
       "height": 360,
-      "bytes": 2046,
-      "sha256": "072b0997fa8341dca3c7615401278ddd0190127fa5a5b3cd2905c200301bfeab",
+      "bytes": 1862,
+      "sha256": "a73cb94305a5695582cde6ef4b45523824739be0c2615afb92f090a3e68341c1",
       "position": 2,
       "meta": {
         "t": 5.0
@@ -122,8 +122,8 @@
       "mime": "image/webp",
       "width": 480,
       "height": 360,
-      "bytes": 2006,
-      "sha256": "d33c0827293f28d030cbb0175d6ef96181dd5eefb2767694dfcbb0846cc032ed",
+      "bytes": 1760,
+      "sha256": "a6535266480ad1c116e4d40936d3b3cbd30f5c6f331fc317bd3c8e6a02cfc3b6",
       "position": 3,
       "meta": {
         "t": 7.0
@@ -135,8 +135,8 @@
       "mime": "image/webp",
       "width": 480,
       "height": 360,
-      "bytes": 2468,
-      "sha256": "f4272184678cf5b8bfda8f3c47fe4228404c0767a9ad417370d4366c61ea3a12",
+      "bytes": 2030,
+      "sha256": "06ff968e151f0023993a0735e41c5b594c316001978726c5ba5ce6ae0bbaeed2",
       "position": 4,
       "meta": {
         "t": 9.3
