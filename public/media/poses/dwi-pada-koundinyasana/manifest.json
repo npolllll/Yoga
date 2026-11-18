@@ -1,0 +1,146 @@
+{
+  "slug": "dwi-pada-koundinyasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "daa4099fbc01ca50",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 1.64,
+    "minBodyZCm": -1.79,
+    "comMarginCm": 3.0,
+    "uniqueFrames": 216
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/dwi-pada-koundinyasana/dwi-pada-koundinyasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 141727,
+      "sha256": "a863adf3f6f26b76e3e035bf00a4c5450e58cbde4307a3caed7ca2d3b42808e7",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/dwi-pada-koundinyasana/dwi-pada-koundinyasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 170593,
+      "sha256": "efb677866bfc6c5dec133d64c860b26821402b4dacec9af9f859b9ae17c2a179",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/dwi-pada-koundinyasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 9526,
+      "sha256": "183469ca02e1fcd49e7fd146e50c0420dec84d781525e0c322de9f6aa9531639",
+      "alt": {
+        "ru": "Дви Пада Каундиньясана: 3D-персонаж в позе",
+        "en": "Two-Legged Koundinya Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/dwi-pada-koundinyasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1476,
+      "sha256": "fb4121824b3a519214e5ac7983111ac4212be3fdcb1069f14c9258a8340147dc",
+      "alt": {
+        "ru": "Дви Пада Каундиньясана: 3D-персонаж в позе",
+        "en": "Two-Legged Koundinya Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/dwi-pada-koundinyasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2270,
+      "sha256": "f3dc776d1b657404972501643a131d5815371c6cbb9bce2d92f14607727f080e",
+      "position": 0,
+      "meta": {
+        "t": 1.7
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/dwi-pada-koundinyasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2256,
+      "sha256": "e65b2129309e718bff2dc1e0325193f533df1c5d6c4f81a03eed637896176b00",
+      "position": 1,
+      "meta": {
+        "t": 3.5
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/dwi-pada-koundinyasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2222,
+      "sha256": "a963360248dabceb68f8e4feff0bec7101a362e90b4983cbf95e412acc45862c",
+      "position": 2,
+      "meta": {
+        "t": 4.7
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/dwi-pada-koundinyasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2290,
+      "sha256": "0b9eb69d18a8489f8d28e8868bdd54bc1a49e582a3e1858a24eecb4d7a5109ef",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/dwi-pada-koundinyasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2408,
+      "sha256": "bd40fd6f20540d7e316b4fdd39544d5c673446575f9937315d44c07a69a5fd11",
+      "position": 4,
+      "meta": {
+        "t": 9.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "slug": "astavakrasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "d5002922b51c7838",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.0,
+    "minBodyZCm": -1.46,
+    "comMarginCm": 5.6,
+    "uniqueFrames": 165
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/astavakrasana/astavakrasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 156795,
+      "sha256": "74583437ac133b842e581ab80cd7016c3e9452b02d9299610094035f4c783778",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/astavakrasana/astavakrasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 174650,
+      "sha256": "a42f8e44ed06078ce58d020fef88f237d31d29440a6db4c32faa69ad76c30dae",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/astavakrasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 13118,
+      "sha256": "ef6509049828ed5d28e6438da40434b94dbc9f56a8c3b688755446d4decb0a46",
+      "alt": {
+        "ru": "Поза восьми углов: 3D-персонаж в позе",
+        "en": "Eight-Angle Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/astavakrasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 2118,
+      "sha256": "da65f134bb627aec1bf4793578c19cd3547588a452e75f43e70290055be5ae4c",
+      "alt": {
+        "ru": "Поза восьми углов: 3D-персонаж в позе",
+        "en": "Eight-Angle Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/astavakrasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2644,
+      "sha256": "a65216b78be6f77b62e4948d7d8f7134f034db807df99de23aed44b30e8dec44",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/astavakrasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2586,
+      "sha256": "85fd9e61b9e461e9b0eec040d3b8792bab745c61ab309b33e368a4f252e22d54",
+      "position": 1,
+      "meta": {
+        "t": 3.2
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/astavakrasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2636,
+      "sha256": "e21d7ab4d51ec379c3c378035a6e12cb7d42ad0f2f38581e12d06618758482c9",
+      "position": 2,
+      "meta": {
+        "t": 4.6
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/astavakrasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3216,
+      "sha256": "5bc3679bfb216485090bc9fe775101fc3894b883b5ce5c5273c92f8d39d8c891",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/astavakrasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2586,
+      "sha256": "85fd9e61b9e461e9b0eec040d3b8792bab745c61ab309b33e368a4f252e22d54",
+      "position": 4,
+      "meta": {
+        "t": 9.0
+      }
+    }
+  ]
+}

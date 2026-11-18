@@ -1,0 +1,146 @@
+{
+  "slug": "crow-to-chaturanga",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "164b96af773298b6",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.08,
+    "minBodyZCm": -0.74,
+    "comMarginCm": 19.3,
+    "uniqueFrames": 128
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/crow-to-chaturanga/crow-to-chaturanga.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 125471,
+      "sha256": "9fa331c94a7aea7558363aea0ef49a47b9910fb6594bccd904df89256dd4cd7d",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/crow-to-chaturanga/crow-to-chaturanga.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 150566,
+      "sha256": "0ba946791e8206c45cd94cf622c9120b9890b9d07638b6cadda8b340aeac947a",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/crow-to-chaturanga/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 13686,
+      "sha256": "e2ea359284b22264d11c8eaa2ccce63ad5e691b28789a90ade5ffb7f267a15c7",
+      "alt": {
+        "ru": "Из вороны в чатурангу: 3D-персонаж в позе",
+        "en": "Crow to Chaturanga: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/crow-to-chaturanga/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 2412,
+      "sha256": "73000b0a58745b976f80268cf4e4e82e7dff3f3f04317f8e42fb51bbc29850e3",
+      "alt": {
+        "ru": "Из вороны в чатурангу: 3D-персонаж в позе",
+        "en": "Crow to Chaturanga: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/crow-to-chaturanga/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3360,
+      "sha256": "173903633783aa62ba2a88bc94531d8797b84d801e62d9cb69b5b9ef1757b6fa",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/crow-to-chaturanga/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3508,
+      "sha256": "762dc6d230b3d6d9901505371b2f0a801babb50666d050c5566f0c0035e5f988",
+      "position": 1,
+      "meta": {
+        "t": 3.6
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/crow-to-chaturanga/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3864,
+      "sha256": "553ef92c8763b6d6c3a9e87d3ec3348cf527a8afa0f93a5badf23c6a8cc9aba0",
+      "position": 2,
+      "meta": {
+        "t": 4.3
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/crow-to-chaturanga/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3496,
+      "sha256": "89e86223072a2b0aff8e0b1f448e82d38bd38a665cb2fd6091680ab3467d0242",
+      "position": 3,
+      "meta": {
+        "t": 6.5
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/crow-to-chaturanga/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3942,
+      "sha256": "b40637424b481b71998d94697a94f9e856c4408fec8a122f55e40a759dda84a5",
+      "position": 4,
+      "meta": {
+        "t": 9.0
+      }
+    }
+  ]
+}
