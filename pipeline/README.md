@@ -89,3 +89,16 @@ EGL_PLATFORM=surfaceless blender -b -t 2 --python pipeline/keysheet.py -- --out 
 ```
 Prints per-key support heights, the lowest non-support point and a report (snap, minZ, COM margin) and writes
 PNG stills per key — look at them and iterate until the shape reads correctly from the chosen view.
+
+Before queueing a final render, also check:
+- **Joint limits:** a value outside `rig.LIMITS` is clamped, and `validate_media.py` rejects clamped
+  animations. The keysheet report prints `clamped`; it must be 0. A solver key that drives a joint to its
+  limit — for example a wrist at exactly 100° — counts too: fix that joint with `set` and vary another one.
+- **Poster duplicates:** `pipeline/poster_probe.sh <slug> 240:12 300:12 …` renders only the poster frame in
+  Cycles at low resolution for each `azimuth:elevation`. It composites the frame like the final poster and
+  prints the nearest existing posters by perceptual hash. The hash matches the final poster's;
+  Workbench stills do **not** predict it. The validator limit is 12 bits; aim for 20 or more against
+  the whole catalogue, not only the pose you are separating from.
+- **Readability, not just metrics:** a pose can pass every check and still read wrong. For example,
+  the hips 3 cm off the floor look like sitting, and a side pose seen from behind hides the legs.
+  Look at the poster at full size.
