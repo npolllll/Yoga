@@ -1,0 +1,146 @@
+{
+  "slug": "eka-pada-koundinyasana-2",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "549257c7c5818ad3",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.62,
+    "minBodyZCm": -2.35,
+    "comMarginCm": 4.9,
+    "uniqueFrames": 205
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/eka-pada-koundinyasana-2/eka-pada-koundinyasana-2.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 152075,
+      "sha256": "507fa77416d588e3b35a3c64ef14a3b27a4b06e07038ad5c9a0552aac52907e6",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/eka-pada-koundinyasana-2/eka-pada-koundinyasana-2.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 201650,
+      "sha256": "63e7defa92e94bbce5c0e133dbd0697018b3208668650672d0d5beb4eaa154be",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/eka-pada-koundinyasana-2/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 13984,
+      "sha256": "9fd4e7bd2614e9898d1cd1ab32f4e4e00c76aea97e698288a8a65cafdc51578b",
+      "alt": {
+        "ru": "Эка Пада Каундиньясана II: 3D-персонаж в позе",
+        "en": "Flying Splits Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/eka-pada-koundinyasana-2/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 2342,
+      "sha256": "07f70c39355991fe484b47bfa4ffa981e9cf53a09e3185cf659c67928af1b8c8",
+      "alt": {
+        "ru": "Эка Пада Каундиньясана II: 3D-персонаж в позе",
+        "en": "Flying Splits Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-pada-koundinyasana-2/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3398,
+      "sha256": "d198051b4542975ba532c352c36e54cc2210538c155857c5784a55e69a31efbc",
+      "position": 0,
+      "meta": {
+        "t": 0.8
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-pada-koundinyasana-2/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3386,
+      "sha256": "f709a30b2049a6a0a91d318bd2a09b304d32c7d0b8ec2942174928db85c06da8",
+      "position": 1,
+      "meta": {
+        "t": 2.2
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-pada-koundinyasana-2/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3558,
+      "sha256": "ec93dec56f3cfee8a3b437ae4b8aed01777baffebd1afce8f13ff142fa026464",
+      "position": 2,
+      "meta": {
+        "t": 3.6
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-pada-koundinyasana-2/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3498,
+      "sha256": "2cbb5156a34ecebc1bc0014fd0f9b5043b6a7a139e3d616de4dd317fd413d50c",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-pada-koundinyasana-2/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3536,
+      "sha256": "fda937b0a86f5ef40b3f82dc85e9da56b9853cf7b6accac7f2ac071208277ca8",
+      "position": 4,
+      "meta": {
+        "t": 9.2
+      }
+    }
+  ]
+}

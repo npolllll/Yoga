@@ -1,0 +1,146 @@
+{
+  "slug": "eka-pada-bakasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "5390aadac069b277",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.47,
+    "minBodyZCm": -2.27,
+    "comMarginCm": 4.9,
+    "uniqueFrames": 228
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/eka-pada-bakasana/eka-pada-bakasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 161162,
+      "sha256": "701af060450104bd486c1629d653654405345384d298b8ac3ad1cc824bb32e56",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/eka-pada-bakasana/eka-pada-bakasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 208138,
+      "sha256": "b5ed0c325ceb27552298f20e087973e6e68bfb48d010d77a9ddb0a0ef8c59959",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/eka-pada-bakasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 13512,
+      "sha256": "6c3f26922081864d13cf0379c7560daddc9db69a280bff30607a30ed7328e827",
+      "alt": {
+        "ru": "Эка Пада Бакасана: 3D-персонаж в позе",
+        "en": "Flying Crow Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/eka-pada-bakasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 2282,
+      "sha256": "d882312595880ad26ae5d0c0e51d2398e65e6fe1ebee527013e3f02bb98990a3",
+      "alt": {
+        "ru": "Эка Пада Бакасана: 3D-персонаж в позе",
+        "en": "Flying Crow Pose: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-pada-bakasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3202,
+      "sha256": "6c33d9875b582bb509b04bee990fb0a9eabeabf2252c6b7483c7bb479ef692ee",
+      "position": 0,
+      "meta": {
+        "t": 1.4
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-pada-bakasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3118,
+      "sha256": "26de93275947a64e07b415e68bc6b369a37abae01bb9e825f34fcb28b72626df",
+      "position": 1,
+      "meta": {
+        "t": 2.6
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-pada-bakasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3184,
+      "sha256": "7a71cef6486062b478f8fab53f02d508bf31fa094d2e9ce3bd9234e8acfdc5ad",
+      "position": 2,
+      "meta": {
+        "t": 4.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-pada-bakasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3388,
+      "sha256": "4fb7fdd1a7fa5f1066a0cd115ced0be3cb59c2ba8fd91992ddb013b98127bc7d",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-pada-bakasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 3168,
+      "sha256": "75d5c55ca3e7aa62e8815b74e3b1cd447f569edab6422c57b4adafe5f3a7cf5f",
+      "position": 4,
+      "meta": {
+        "t": 9.4
+      }
+    }
+  ]
+}

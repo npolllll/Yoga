@@ -1,0 +1,146 @@
+{
+  "slug": "kasyapasana",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "622c5c6b4d1fd929",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 0.0,
+    "minBodyZCm": -0.82,
+    "comMarginCm": 3.6,
+    "uniqueFrames": 192
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/kasyapasana/kasyapasana.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 97115,
+      "sha256": "b9820a51df765ff8e3fdb5513b30ecbbe03815730abdb1754963b9274edcdae7",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/kasyapasana/kasyapasana.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 122734,
+      "sha256": "bdfa46632e56890cebdc0b0b36f621ffc80fdca04b472282f70203b4d195b552",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/kasyapasana/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 9484,
+      "sha256": "8306a381343d325b575c564dd278e3a860a0c809b41c6b51e37e16efac3d2961",
+      "alt": {
+        "ru": "Кашьяпасана: 3D-персонаж в позе",
+        "en": "Pose Dedicated to Sage Kasyapa: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/kasyapasana/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1390,
+      "sha256": "62b577255de359eabb4b687b1987f52dece1269445e522f202d7d8ad6d425cff",
+      "alt": {
+        "ru": "Кашьяпасана: 3D-персонаж в позе",
+        "en": "Pose Dedicated to Sage Kasyapa: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/kasyapasana/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2396,
+      "sha256": "1fe941f3e78d1113620d5ac1ac1e6bc2bee88183fd473569ee1cef5640a902ba",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/kasyapasana/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2272,
+      "sha256": "10b04a91ff7d9c978458e6b6295011d498d386f7110d1c03b07e41a8f9beb021",
+      "position": 1,
+      "meta": {
+        "t": 2.8
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/kasyapasana/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2282,
+      "sha256": "737f6017872e4c97a995675917e806c17a3aee8d80e3abfef9db90293a6bc8da",
+      "position": 2,
+      "meta": {
+        "t": 4.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/kasyapasana/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2166,
+      "sha256": "c0fd301705ddcdbbf4bce8f806a97da6f5ee2bf6c56b1933f69056e7ac69f134",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/kasyapasana/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2466,
+      "sha256": "ff81440e36418ed3772e030f565bc9e866050c0fbc3df04d27d8a14e5bbba212",
+      "position": 4,
+      "meta": {
+        "t": 9.1
+      }
+    }
+  ]
+}

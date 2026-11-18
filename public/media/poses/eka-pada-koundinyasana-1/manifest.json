@@ -1,0 +1,146 @@
+{
+  "slug": "eka-pada-koundinyasana-1",
+  "quality": "final",
+  "generatedFrom": {
+    "characterVersion": "1.2.0",
+    "configVersion": 1,
+    "configHash": "f47881f411d11734",
+    "blender": "5.2.4 LTS",
+    "engine": "CYCLES"
+  },
+  "motion": {
+    "clamped": [],
+    "maxContactDriftCm": 0.0,
+    "maxSnapCm": 1.64,
+    "minBodyZCm": -2.01,
+    "comMarginCm": 4.9,
+    "uniqueFrames": 187
+  },
+  "items": [
+    {
+      "kind": "animation",
+      "url": "/media/poses/eka-pada-koundinyasana-1/eka-pada-koundinyasana-1.webm",
+      "mime": "video/webm",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 0,
+      "bytes": 109326,
+      "sha256": "e5ced74b3f0475c62dd826dba028eea2881a4b252773e3f06b5574c034ed10e6",
+      "meta": {
+        "type": "video/webm; codecs=\"vp9\""
+      }
+    },
+    {
+      "kind": "animation",
+      "url": "/media/poses/eka-pada-koundinyasana-1/eka-pada-koundinyasana-1.mp4",
+      "mime": "video/mp4",
+      "width": 720,
+      "height": 540,
+      "durationMs": 10000,
+      "frameCount": 300,
+      "fps": 30,
+      "position": 1,
+      "bytes": 141644,
+      "sha256": "8bc999bf0d0bb146675740062e5dfe967ba7b04d07f62d6058f9a3fb5df35062",
+      "meta": {
+        "type": "video/mp4; codecs=\"avc1.640028\""
+      }
+    },
+    {
+      "kind": "poster",
+      "url": "/media/poses/eka-pada-koundinyasana-1/poster.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 10766,
+      "sha256": "d690ea7ddcc65f86b49f553452d93ac06e410f41680164774793c5154e5d3e11",
+      "alt": {
+        "ru": "Эка Пада Каундиньясана I: 3D-персонаж в позе",
+        "en": "Pose Dedicated to Sage Koundinya I: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "card",
+      "url": "/media/poses/eka-pada-koundinyasana-1/card.webp",
+      "mime": "image/webp",
+      "width": 320,
+      "height": 240,
+      "bytes": 1786,
+      "sha256": "90d7010ee6b48510bb26a418c66123ae59d95dcbe11d1b564d567a079e37ee7c",
+      "alt": {
+        "ru": "Эка Пада Каундиньясана I: 3D-персонаж в позе",
+        "en": "Pose Dedicated to Sage Koundinya I: 3D character in the pose"
+      },
+      "position": 0
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-pada-koundinyasana-1/keyframe-0.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2310,
+      "sha256": "77b8aab9853061942b7a1e22f34ed4bdd1ebb9fd13d78e9b2ff704f154b05b93",
+      "position": 0,
+      "meta": {
+        "t": 1.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-pada-koundinyasana-1/keyframe-1.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2290,
+      "sha256": "026e86871e740790d9d9e692d99aeed38d8b1808ec0afe50581a18190d135ac2",
+      "position": 1,
+      "meta": {
+        "t": 3.4
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-pada-koundinyasana-1/keyframe-2.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2272,
+      "sha256": "182200b48ed3484a5b5f65943e4e92461a2dd24a6d893a14c30052ed5ade5702",
+      "position": 2,
+      "meta": {
+        "t": 4.7
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-pada-koundinyasana-1/keyframe-3.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2718,
+      "sha256": "fda5b534c9249f73836db276b17a1ebb024bed90bb77e1bc9e8bf76f75588f9a",
+      "position": 3,
+      "meta": {
+        "t": 7.0
+      }
+    },
+    {
+      "kind": "keyframe",
+      "url": "/media/poses/eka-pada-koundinyasana-1/keyframe-4.webp",
+      "mime": "image/webp",
+      "width": 480,
+      "height": 360,
+      "bytes": 2262,
+      "sha256": "850f5d9b0ebc26fa9cdeae3d3bca48d0671bae890f56d6a601f681a892174c7f",
+      "position": 4,
+      "meta": {
+        "t": 9.2
+      }
+    }
+  ]
+}
