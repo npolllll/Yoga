@@ -303,6 +303,20 @@ export async function getProgramView(slug: string) {
   return { program: programs.find((p) => p.slug === slug) ?? null, taxonomy, catalog, exercises };
 }
 
+/** Step page: the program view plus the step's pose, in ONE cached call (deterministic for prerendering). */
+export async function getStepView(slug: string, stepKey: string) {
+  "use cache";
+  cacheLife(DYNAMIC_ROUTE_LIFE);
+  cacheTag(TAGS.programs, TAGS.program(slug), TAGS.catalog, TAGS.exercises, TAGS.taxonomy, TAGS.settings, TAGS.media);
+  const [programs, catalog, exercises] = await Promise.all([getPrograms(), getCatalog(), getExercises()]);
+  const program = programs.find((p) => p.slug === slug) ?? null;
+  const step = program?.doc.steps.find((s) => s.key === stepKey);
+  const catalogPose = step?.kind === "pose" && step.poseId ? catalog.find((p) => p.id === step.poseId) : undefined;
+  if (catalogPose) cacheTag(TAGS.pose(catalogPose.slug));
+  const pose = catalogPose ? await getPose(catalogPose.slug) : null;
+  return { program, catalog, exercises, pose };
+}
+
 export async function getExercises(): Promise<PublishedExercise[]> {
   "use cache";
   cacheLife("hours");
