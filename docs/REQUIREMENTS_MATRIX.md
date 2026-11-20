@@ -9,10 +9,11 @@
 | RU/EN, маршруты `/ru`, `/en`, корень → язык (cookie → Accept-Language) | M,S | `src/proxy.ts`, `lib/i18n` | e2e public «home in RU and EN» | ✅ |
 | Смена языка сохраняет страницу, асану, программу, фильтры | M | `LocaleSwitcher` (полная перезагрузка, query сохраняется) | e2e «filters… survive a language switch», «language switch keeps the pose» | ✅ |
 | Не смешивать языки на экране; `html lang` | M | словари `lib/i18n/dictionaries`, корневой layout | e2e (lang=en после переключения) | ✅ |
+| Резервный язык вместо пустого поля (ТЗ §4) | S | `t()` в `lib/i18n/paths.ts` | unit `i18n-fallback` | ✅ |
 | hreflang, sitemap, локализованные метаданные | M | `alternates` в `generateMetadata`; `app/sitemap.ts` (hreflang), `app/robots.ts` | e2e «SEO: hreflang…» | ✅ |
 | Header/Footer, мобильное меню, поиск/избранное/профиль | S,J | `components/layout/*` | e2e mobile, axe | ✅ |
 | Нет ссылок «в никуда» | M | все пункты меню ведут на реализованные страницы | e2e «no dead internal links» (RU/EN, ключевые страницы) | ✅ |
-| 404 и ошибки | M | `[locale]/not-found.tsx`, `[...rest]`, `error.tsx` | e2e «localized 404» (dev + prod) | ✅ (несуществующий slug позы на первом запросе: 200 + noindex — DECISIONS) |
+| 404 и ошибки | M | `[locale]/not-found.tsx`, `[...rest]`, `error.tsx`, проверка slug в `src/proxy.ts` | e2e «localized 404», «unknown content URLs answer 404 with noindex» (prod) | ✅ |
 
 ## Главная
 | Требование | Ист. | Реализация | Тест | Статус |
@@ -50,6 +51,8 @@
 | Требование | Ист. | Реализация | Тест | Статус |
 |---|---|---|---|---|
 | Программы 4 уровней; шаги Lesson/Exercise/Pose; RU/EN | M | `content/programs`, страницы программ | e2e programs | ✅ |
+| 6 «основных направлений» программ из ТЗ v1 (§8.1: первые балансы, сила, мобильность, контроль, стойка на руках, переходы) | S | мастер-ТЗ v2.0 заменил их на 4 программы по уровням (DECISIONS); направления представлены навыками-фильтрами и категориями; новые программы создаются в админке без кода | e2e admin (создание/публикация) | 🟡 решение зафиксировано, тематические программы — контентная задача |
+| Публикация видна с первого запроса (поза, библиотека, программа, шаг, статическая страница) | M | короткоживущие `getPoseView`/`getProgramView`/`getStepView`, `updateTag` | e2e `freshness.spec.ts` на чистой production-сборке | ✅ |
 | Постоянный UUID `stepKey`; перестановка не сбрасывает прогресс; копия = новый ключ; удалённые шаги не ломают данные | M | `step-keys.ts`, `publish_document`, `restore_version` | unit step-keys, integration «progress survives…», e2e admin reorder | ✅ |
 | «Шаг выполнен» в контексте шага программы; независим от «Асана освоена» | M | step page, `StepCompleteButton` | e2e member «independent» | ✅ |
 | My Practice: Overview, Favorites, In Progress, Learned, Programs, History, Goals | M | `PracticeDashboard` | e2e log/goals | ✅ |
@@ -63,7 +66,12 @@
 | Экспорт данных, удаление аккаунта | M | `/api/me/export`, `deleteAccount` | e2e export/delete | ✅ |
 | RLS на всех таблицах; чужие данные недоступны | M | миграция `core` | integration (14 тестов) | ✅ |
 | Роли Guest/Member/Reviewer/Editor/Owner; проверки на сервере и в RLS | M | `user_roles`, `AdminGate`, server actions | integration, e2e admin no-access | ✅ |
-| service-role ключ не в браузере | M | `lib/supabase/admin.ts` (server-only) | code review | ✅ |
+| service-role ключ не в браузере | M | `lib/supabase/admin.ts` (server-only) | e2e security «service-role key never reaches the browser» | ✅ |
+| Изоляция данных пользователей, запрет записи чужих данных, функции workflow только для персонала, загрузка только редакторами | M | RLS, SECURITY DEFINER, storage policies | integration `security.test.ts` (8) | ✅ |
+| Загрузка файлов: проверка реального типа по содержимому | M | `lib/media-sniff.ts` | unit `media-sniff`, e2e media upload | ✅ |
+| Защитные заголовки, без открытых редиректов | M | `next.config.ts` headers, `safeNext` | e2e security, unit `i18n-fallback` | ✅ |
+| Локальный запуск новым разработчиком (README, чистый клон) | M | `README.md`, `scripts/env-up.sh` | проверка чистого клона: install → env → reset → seed → checks → build → e2e 39/39 | ✅ |
+| Редакторское качество контента RU/EN | M | `content/*`, `docs/CONTENT_REVIEW.md` | `content:validate`, автопоиск дублей | 🟢 (экспертная проверка ⛔) |
 
 ## Админка
 | Требование | Ист. | Реализация | Тест | Статус |
