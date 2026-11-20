@@ -1,11 +1,13 @@
 import { NextResponse, type NextRequest } from "next/server";
 import { createServerClient } from "@supabase/ssr";
 import { LOCALE_COOKIE, isLocale, negotiateLocale } from "@/lib/i18n/config";
+import { contentPathExists, isContentPath } from "@/lib/content-index";
 
 /**
  * 1. Locale detection happens ONLY for paths without a locale prefix (cookie → Accept-Language).
  *    Deep links with /ru or /en are never redirected: the URL is the source of truth.
- * 2. Refreshes the Supabase session cookie once per navigation.
+ * 2. Unknown pose/program/step URLs answer a real 404 before the page starts streaming (src/lib/content-index.ts).
+ * 3. Refreshes the Supabase session cookie once per navigation.
  */
 export async function proxy(request: NextRequest) {
   const { pathname, search } = request.nextUrl;
@@ -18,6 +20,12 @@ export async function proxy(request: NextRequest) {
     url.pathname = `/${locale}${pathname === "/" ? "" : pathname}`;
     url.search = search;
     return NextResponse.redirect(url, 307);
+  }
+
+  const segments = pathname.split("/").filter(Boolean);
+  if (isContentPath(segments) && !(await contentPathExists(segments))) {
+    // Rendered by the localized catch-all page, which calls notFound() before streaming: status 404.
+    return NextResponse.rewrite(new URL(`/${first}/__not-found`, request.url));
   }
 
   let response = NextResponse.next({ request });

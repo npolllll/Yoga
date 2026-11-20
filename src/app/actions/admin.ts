@@ -9,6 +9,7 @@ import { hasErrors, type Issue } from "@/lib/content/validate";
 import { issuesFor } from "@/lib/content/issues";
 import { TAGS } from "@/lib/data/public";
 import type { Json, Database } from "@/lib/supabase/database.types";
+import { invalidateContentIndex } from "@/lib/content-index";
 
 type JsonValue = NonNullable<Json>;
 type MediaUpdate = Database["public"]["Tables"]["media_assets"]["Update"];
@@ -28,6 +29,7 @@ async function staff(requireEdit = true) {
 }
 
 function bust(type: DocType, slug?: string) {
+  if (type === "pose" || type === "program") invalidateContentIndex();
   // Read-your-own-writes for the editor; visitors get fresh data on their next request.
   updateTag(TAGS.catalog);
   updateTag(TAGS.media);

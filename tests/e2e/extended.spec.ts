@@ -131,13 +131,11 @@ test.describe("extended scenarios", () => {
     await expect(name.nth(0)).toHaveValue(original);
     await expect(vis(page, "publish-status")).toHaveText("Опубликовано · есть изменения");
 
-    // Unpublish → guests get the localized "not found" page, never indexable. With Cache Components the
-    // prerendered shell can start the response (status 200) before the page calls notFound(); Next.js then
-    // adds <meta name="robots" content="noindex"> (see docs/DECISIONS.md). A real 404 is accepted too.
+    // Unpublish → guests get a real 404 with the localized "not found" page (Proxy checks the content index).
     await vis(page, "unpublish").click();
     await expect(vis(page, "publish-status")).toHaveText("Не опубликовано");
     res = await g.goto(`/ru/poses/${copy.slug}`);
-    expect([200, 404]).toContain(res?.status());
+    expect(res?.status()).toBe(404);
     await expect(g.getByRole("heading", { level: 1 })).toHaveText("Страница не найдена");
     await expect(g.locator('head meta[name="robots"][content*="noindex"]').first()).toBeAttached();
     await guest.close();
@@ -161,7 +159,7 @@ test.describe("extended scenarios", () => {
     };
     const guest = await browser.newContext();
     const g = await guest.newPage();
-    // Count of the label on a public page, re-fetched on every poll (the save invalidates the cache tag).
+    // Count of the label on a public page (a fresh navigation each time).
     const shown = async (path: string, text: string) => {
       await g.goto(path);
       return g.locator('[data-testid="pose-page"]:visible').getByText(text).count();
@@ -170,15 +168,16 @@ test.describe("extended scenarios", () => {
       await expert.nth(0).fill("Про-уровень");
       await expert.nth(1).fill("Pro level");
       await saveAndWait();
-      await expect.poll(() => shown("/ru/poses/vrschikasana", "Про-уровень")).toBeGreaterThan(0);
-      await expect.poll(() => shown("/en/poses/vrschikasana", "Pro level")).toBeGreaterThan(0);
+      // Visible on the very first public request after saving (no stale response).
+      expect(await shown("/ru/poses/vrschikasana", "Про-уровень")).toBeGreaterThan(0);
+      expect(await shown("/en/poses/vrschikasana", "Pro level")).toBeGreaterThan(0);
     } finally {
       await expert.nth(0).fill("");
       await expert.nth(1).fill("");
       await saveAndWait();
     }
-    await expect.poll(() => shown("/ru/poses/vrschikasana", "Про-уровень")).toBe(0);
-    await expect.poll(() => shown("/ru/poses/vrschikasana", "Эксперт")).toBeGreaterThan(0);
+    expect(await shown("/ru/poses/vrschikasana", "Про-уровень")).toBe(0);
+    expect(await shown("/ru/poses/vrschikasana", "Эксперт")).toBeGreaterThan(0);
     await guest.close();
     // Owner-only escape hatch for stale public pages.
     await vis(page, "cache-refresh").getByRole("button", { name: "Обновить публичный кэш" }).click();
@@ -259,17 +258,7 @@ test.describe("extended scenarios", () => {
   test("step pages: next/previous navigation walks through the whole program", async ({ page }) => {
     const { data } = await anon().from("publications").select("doc").eq("type", "program").eq("slug", "beginner").single();
     const keys = (data!.doc as { steps: { key: string }[] }).steps.map((s) => s.key);
-    // Pages prerendered at build time may serve the previous version once after the first publish (route
-    // cache); request each step page until it reflects the published order before walking through it.
-    for (const k of keys) {
-      await expect.poll(async () => (await page.request.get(`/ru/programs/beginner/steps/${k}`)).ok()).toBe(true);
-    }
-    await expect
-      .poll(async () => {
-        await page.goto(`/ru/programs/beginner/steps/${keys[0]}`);
-        return page.locator('[data-testid="step-prev"]:visible').count();
-      })
-      .toBe(0);
+    await page.goto(`/ru/programs/beginner/steps/${keys[0]}`);
     await expect(page.locator('[data-testid="step-prev"]:visible')).toHaveCount(0);
     for (let i = 1; i < keys.length; i++) {
       await vis(page, "step-next").click();

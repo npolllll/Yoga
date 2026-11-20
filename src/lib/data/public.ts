@@ -275,6 +275,34 @@ export async function getProgram(slug: string): Promise<PublishedProgram | null>
   return programs.find((p) => p.slug === slug) ?? null;
 }
 
+/**
+ * Data for the dynamic content routes (pose, program, step pages), with a lifetime under 5 minutes ON PURPOSE.
+ *
+ * On a dynamic route Next.js 16 (Cache Components) renders an expired page by resuming the route's fallback
+ * shell, and "use cache" results embedded in that shell at build time (its Resume Data Cache) are reused
+ * without checking the global tag manifest (only tags revalidated in the same request are checked). The
+ * first visitor after a publish would get build-time data. Entries that expire in under 5 minutes are never
+ * embedded in a prerender, so these views are always read from the regular cache, which honours updateTag().
+ * Static routes (home, library, about…) re-render fully and keep the long-lived getters. See DECISIONS.md.
+ */
+const DYNAMIC_ROUTE_LIFE = { stale: 30, revalidate: 60, expire: 240 } as const;
+
+export async function getPoseView(slug: string) {
+  "use cache";
+  cacheLife(DYNAMIC_ROUTE_LIFE);
+  cacheTag(TAGS.pose(slug), TAGS.catalog, TAGS.programs, TAGS.exercises, TAGS.taxonomy, TAGS.settings, TAGS.media);
+  const [pose, taxonomy, catalog, exercises, programs] = await Promise.all([getPose(slug), getTaxonomy(), getCatalog(), getExercises(), getPrograms()]);
+  return { pose, taxonomy, catalog, exercises, programs };
+}
+
+export async function getProgramView(slug: string) {
+  "use cache";
+  cacheLife(DYNAMIC_ROUTE_LIFE);
+  cacheTag(TAGS.programs, TAGS.program(slug), TAGS.catalog, TAGS.exercises, TAGS.taxonomy, TAGS.settings, TAGS.media);
+  const [programs, taxonomy, catalog, exercises] = await Promise.all([getPrograms(), getTaxonomy(), getCatalog(), getExercises()]);
+  return { program: programs.find((p) => p.slug === slug) ?? null, taxonomy, catalog, exercises };
+}
+
 export async function getExercises(): Promise<PublishedExercise[]> {
   "use cache";
   cacheLife("hours");

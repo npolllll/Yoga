@@ -81,18 +81,13 @@ test.describe("administration", () => {
     expect(new Set(keys)).toEqual(new Set(steps.map((s) => s.key)));
 
     try {
-      // The member still sees 1 completed step, now at position 1. A page prerendered at build time can serve
-      // the previous version once after the first invalidation (route cache), so poll with a reload.
+      // The member still sees 1 completed step, now at position 1 — on the very first request after publishing.
       const ctx = await browser.newContext();
       const p2 = await ctx.newPage();
       await login(p2, email, password);
-      await expect
-        .poll(async () => {
-          await p2.goto("/ru/programs/beginner");
-          await ready(p2);
-          return p2.locator('[data-testid="program-steps"]:visible').locator("li").first().getAttribute("data-done");
-        })
-        .toBe("true");
+      await p2.goto("/ru/programs/beginner");
+      await ready(p2);
+      await expect(p2.locator('[data-testid="program-steps"]:visible').locator("li").first()).toHaveAttribute("data-done", "true");
       await expect(p2.locator('[data-testid=\"program-progress\"]:visible')).toHaveAttribute("data-completed", "1");
       await ctx.close();
     } finally {

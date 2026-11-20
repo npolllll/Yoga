@@ -3,7 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { isLocale, type Locale } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/dictionaries";
-import { getCatalog, getExercises, getPose, getProgram, getPrograms } from "@/lib/data/public";
+import { getPoseView, getProgramView, getPrograms } from "@/lib/data/public";
 import { t } from "@/lib/i18n/paths";
 import { fmt } from "@/lib/i18n/format";
 import { mediaUrl, providerLabel } from "@/lib/media";
@@ -26,9 +26,10 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: PageProps<"/[locale]/programs/[slug]/steps/[stepKey]">): Promise<Metadata> {
   const { locale, slug, stepKey } = await params;
   if (!isLocale(locale)) return {};
-  const program = await getProgram(slug);
+  const { program } = await getProgramView(slug);
   const step = program?.doc.steps.find((s) => s.key === stepKey);
-  if (!program || !step) return {};
+  // A removed step shows an explanation page: never index it.
+  if (!program || !step) return { robots: { index: false, follow: true } };
   return {
     title: `${t(step.title, locale)} · ${t(program.doc.title, locale)}`,
     alternates: {
@@ -43,7 +44,8 @@ export default async function StepPage({ params }: PageProps<"/[locale]/programs
   if (!isLocale(raw)) notFound();
   const locale: Locale = raw;
   const dict = getDictionary(locale);
-  const program = await getProgram(slug);
+  const view = await getProgramView(slug);
+  const program = view.program;
   if (!program) notFound();
   const index = program.doc.steps.findIndex((s) => s.key === stepKey);
   const base = `/${locale}/programs/${program.slug}`;
@@ -61,9 +63,9 @@ export default async function StepPage({ params }: PageProps<"/[locale]/programs
   const step = program.doc.steps[index];
   const prev = program.doc.steps[index - 1];
   const next = program.doc.steps[index + 1];
-  const [catalog, exercises] = await Promise.all([getCatalog(), getExercises()]);
+  const { catalog, exercises } = view;
   const catalogPose = step.kind === "pose" && step.poseId ? catalog.find((p) => p.id === step.poseId) : undefined;
-  const pose = catalogPose ? await getPose(catalogPose.slug) : null;
+  const pose = catalogPose ? (await getPoseView(catalogPose.slug)).pose : null;
   const exercise = step.kind === "exercise" && step.exerciseId ? exercises.find((e) => e.id === step.exerciseId) : undefined;
   const title = t(step.title, locale) || t(pose?.name ?? exercise?.doc.name, locale);
   const video = step.video?.[locale] ?? (pose ? pose.doc.video[locale] : null) ?? null;

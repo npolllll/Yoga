@@ -3,7 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { isLocale, type Locale } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/dictionaries";
-import { getCatalog, getExercises, getProgram, getPrograms, getTaxonomy } from "@/lib/data/public";
+import { getProgramView, getPrograms } from "@/lib/data/public";
 import { t } from "@/lib/i18n/paths";
 import { fmt } from "@/lib/i18n/format";
 import { Icon } from "@/components/ui/Icon";
@@ -22,7 +22,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: PageProps<"/[locale]/programs/[slug]">): Promise<Metadata> {
   const { locale, slug } = await params;
   if (!isLocale(locale)) return {};
-  const p = await getProgram(slug);
+  const p = (await getProgramView(slug)).program;
   if (!p) return {};
   return {
     title: t(p.doc.title, locale),
@@ -35,7 +35,7 @@ export default async function ProgramPage({ params }: PageProps<"/[locale]/progr
   const { locale: raw, slug } = await params;
   if (!isLocale(raw)) notFound();
   const locale: Locale = raw;
-  const [program, taxonomy, catalog, exercises] = await Promise.all([getProgram(slug), getTaxonomy(), getCatalog(), getExercises()]);
+  const { program, taxonomy, catalog, exercises } = await getProgramView(slug);
   if (!program) notFound();
   const dict = getDictionary(locale);
   const d = program.doc;

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { isLocale, type Locale } from "@/lib/i18n/config";
-import { getCatalog, getExercises, getPose, getPrograms, getTaxonomy } from "@/lib/data/public";
+import { getCatalog, getPoseView } from "@/lib/data/public";
 import { t } from "@/lib/i18n/paths";
 import { mediaUrl } from "@/lib/media";
 import { PoseView } from "@/components/pose/PoseView";
@@ -18,7 +18,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: PageProps<"/[locale]/poses/[slug]">): Promise<Metadata> {
   const { locale, slug } = await params;
   if (!isLocale(locale)) return {};
-  const pose = await getPose(slug);
+  const { pose } = await getPoseView(slug);
   if (!pose) return {};
   const title = pose.doc.seo?.title?.[locale] || `${t(pose.name, locale)}${pose.sanskrit ? ` (${pose.sanskrit})` : ""}`;
   const description = pose.doc.seo?.description?.[locale] || t(pose.summary, locale);
@@ -35,13 +35,7 @@ export default async function PosePage({ params }: PageProps<"/[locale]/poses/[s
   const { locale: raw, slug } = await params;
   if (!isLocale(raw)) notFound();
   const locale: Locale = raw;
-  const [pose, taxonomy, catalog, exercises, programs] = await Promise.all([
-    getPose(slug),
-    getTaxonomy(),
-    getCatalog(),
-    getExercises(),
-    getPrograms(),
-  ]);
+  const { pose, taxonomy, catalog, exercises, programs } = await getPoseView(slug);
   if (!pose) notFound();
   return <PoseView locale={locale} pose={pose} taxonomy={taxonomy} catalog={catalog} exercises={exercises} programs={programs} />;
 }
