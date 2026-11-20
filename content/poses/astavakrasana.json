@@ -131,8 +131,8 @@
           "en": "Hold"
         },
         "body": {
-          "ru": "Держите грудь примерно параллельно полу, взгляд направьте вперёд и вниз. Дышите ровно несколько вдохов.",
-          "en": "Keep your chest roughly parallel to the floor and look forward and down. Breathe evenly for a few breaths."
+          "ru": "Держите грудь примерно параллельно полу, взгляд направьте вперёд и вниз. Сделайте несколько ровных вдохов, продолжая сжимать руку бёдрами.",
+          "en": "Keep your chest roughly parallel to the floor and look forward and down. Take a few even breaths while your thighs keep squeezing your arm."
         },
         "keyframe": 3
       },
@@ -178,7 +178,7 @@
         "exerciseSlug": "compression-leg-lifts",
         "title": {
           "ru": "Подъёмы ног сидя",
-          "en": "Seated leg lifts"
+          "en": "Seated Compression Leg Lifts"
         },
         "body": {
           "ru": "Учат поднимать ноги за счёт мышц живота и сгибателей бедра.",
@@ -188,12 +188,12 @@
       {
         "exerciseSlug": "knee-chaturanga",
         "title": {
-          "ru": "Чатуранга с колен",
-          "en": "Knees-down Chaturanga"
+          "ru": "Опускание в чатурангу с колен",
+          "en": "Knees-Down Chaturanga"
         },
         "body": {
           "ru": "Отрабатывайте положение локтей над запястьями при медленном опускании.",
-          "en": "Practise keeping your elbows over your wrists as you lower slowly."
+          "en": "Practice keeping your elbows over your wrists as you lower slowly."
         }
       },
       {
@@ -219,8 +219,8 @@
           "en": "Your thigh slides toward the elbow and your legs drop to the floor."
         },
         "fix": {
-          "ru": "Заведите плечо глубже под колено, чтобы бедро легло ближе к плечевому суставу.",
-          "en": "Work your shoulder further under the knee so the thigh rests closer to the shoulder joint."
+          "ru": "Выйдите из позы, снова заведите плечо под колено, придерживая голень рукой, и только потом скрещивайте лодыжки.",
+          "en": "Come down, work your shoulder under the knee again while holding your shin with your hand, and only then cross your ankles."
         }
       },
       {
@@ -233,8 +233,8 @@
           "en": "Your shoulders sag and the load on your shoulder and elbow joints increases."
         },
         "fix": {
-          "ru": "Держите локти над запястьями и направляйте их назад.",
-          "en": "Keep your elbows over your wrists and point them back."
+          "ru": "Направьте оба локтя назад, вдоль корпуса, и не давайте левому локтю уходить в сторону.",
+          "en": "Point both elbows back along your body and don’t let your left elbow drift out to the side."
         }
       },
       {

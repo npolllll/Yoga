@@ -42,8 +42,8 @@
       "en": "A compact arm balance with both palms on the mat, the knees supported on the upper arms and the elbows bent."
     },
     "about": {
-      "ru": "Компактный баланс на ладонях. Колени опираются на верхнюю часть рук, локти согнуты, стопы приподняты над ковриком. Здесь показан вариант с согнутыми локтями; в некоторых школах его называют Какасаной. Начните с переноса веса на ладони, оставляя носки на полу. Затем попробуйте приподнять одну стопу. Поза относится к балансам на руках и требует силы кистей и рук, контроля корпуса и умения постепенно переносить вес вперёд, поэтому её обычно осваивают одной из первых.",
-      "en": "A compact arm balance with both palms on the mat, the knees supported on the upper arms, and the elbows bent. This is the bent-arm variation; some schools call it Kakasana. Start by shifting weight into your hands while keeping your toes on the mat. Then try lifting one foot. It belongs to the arm-balance family and builds hand and arm strength, core control and a gradual forward weight shift, which is why it is usually one of the first arm balances people learn."
+      "ru": "Бакасана — один из балансов на руках, с которых обычно начинают. Здесь показан вариант с согнутыми локтями; в некоторых школах его называют Какасаной, а название «Бакасана» оставляют для формы с прямыми руками. Колени лежат высоко на задней поверхности плеч, корпус собран, а вес постепенно переходит вперёд, на ладони, пока стопы не станут лёгкими. Позе нужны сила кистей и рук, контроль корпуса и терпение при переносе веса: начните с варианта с носками на полу и отрывайте стопы по одной.",
+      "en": "Bakasana is one of the arm balances people usually learn first. This card shows the bent-arm version; some schools call it Kakasana and keep the name Bakasana for the straight-arm form. Your knees rest high on the backs of your upper arms, your torso stays compact, and your weight moves gradually forward into your hands until your feet feel light. The pose needs hand and arm strength, core control and patience with the weight shift: start with your toes on the mat and lift one foot at a time."
     },
     "prerequisites": [
       {
@@ -156,8 +156,8 @@
       {
         "exerciseSlug": "crow-weight-shift",
         "title": {
-          "ru": "Перенос веса с носками на полу",
-          "en": "Weight shift with toes down"
+          "ru": "Перенос веса на ладони с носками на полу",
+          "en": "Weight Shift with Toes Down"
         },
         "body": {
           "ru": "Найдите положение, в котором вес постепенно переходит на ладони.",
@@ -167,12 +167,12 @@
       {
         "exerciseSlug": "malasana",
         "title": {
-          "ru": "Подъём одной стопы",
-          "en": "Single-foot lift"
+          "ru": "Глубокий присед",
+          "en": "Garland Pose (Squat)"
         },
         "body": {
-          "ru": "Оставьте носки второй ноги на коврике и попробуйте обе стороны по очереди.",
-          "en": "Keep the other toes on the mat and try each side in turn."
+          "ru": "Учит оставаться компактным в приседе и держать колени близко к корпусу — из этого положения начинается вход в Бакасану.",
+          "en": "Teaches you to stay compact in a squat with your knees close to your torso, the position Bakasana starts from."
         }
       },
       {
@@ -240,9 +240,9 @@
       "parsva-bakasana"
     ],
     "related": [
-      "parsva-bakasana",
       "jump-to-crow",
-      "crow-to-tripod-headstand"
+      "crow-to-tripod-headstand",
+      "bhujapidasana"
     ],
     "video": {},
     "animationPhases": [

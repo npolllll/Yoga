@@ -21,7 +21,7 @@
   "doc": {
     "name": {
       "ru": "Кашьяпасана",
-      "en": "Pose Dedicated to Sage Kasyapa"
+      "en": "Pose Dedicated to the Sage Kasyapa"
     },
     "subtitle": {
       "ru": "Поза мудреца Кашьяпы",
@@ -40,7 +40,7 @@
       "en": "A side balance on one hand: the top leg rests in half lotus while the top arm wraps behind the back to hold that foot’s big toe."
     },
     "about": {
-      "ru": "Классический боковой баланс, описанный в книге Б. К. С. Айенгара Light on Yoga и посвящённый мудрецу Кашьяпе. Вы держите тело на прямой руке и наружном ребре нижней стопы, как в Васиштхасане, верхняя нога лежит в полулотосе у основания нижнего бедра, а верхняя рука заводится за спину и захватывает большой палец стопы. Поза требует свободного полулотоса без боли в колене, подвижности плеча для захвата и устойчивой боковой планки. Из-за сочетания баланса, раскрытия бедра и захвата она относится к продвинутому уровню.",
+      "ru": "Классический боковой баланс, описанный в книге Б. К. С. Айенгара «Прояснение йоги» (Light on Yoga) и посвящённый мудрецу Кашьяпе. Вы держите тело на прямой руке и наружном ребре нижней стопы, как в Васиштхасане, верхняя нога лежит в полулотосе у основания нижнего бедра, а верхняя рука заводится за спину и захватывает большой палец стопы. Поза требует свободного полулотоса без боли в колене, подвижности плеча для захвата и устойчивой боковой планки. Из-за сочетания баланса, раскрытия бедра и захвата она относится к продвинутому уровню.",
       "en": "A classical side balance described in B.K.S. Iyengar’s Light on Yoga and dedicated to the sage Kasyapa. You support your body on a straight arm and the outer edge of the bottom foot, as in Vasisthasana; the top leg rests in half lotus at the root of the bottom thigh, and the top arm wraps behind your back to catch the big toe. It requires a comfortable half lotus without knee pain, shoulder mobility for the bind and a steady side plank. Because it combines balance, hip opening and a bind, it is rated advanced."
     },
     "prerequisites": [
@@ -166,15 +166,15 @@
       }
     ],
     "anatomy": {
-      "ru": "Кисть, плечо и передняя зубчатая мышца опорной руки удерживают вес тела. Косые мышцы живота и ягодичные мышцы держат таз поднятым на одной стопе, а плечо свободной руки раскрывается, чтобы дотянуться до стопы за спиной.",
-      "en": "The hand, shoulder and serratus anterior of the supporting arm carry your weight. Your obliques and glutes hold your hips up on a single foot, and the shoulder of the free arm opens to reach the foot behind your back."
+      "ru": "Как и в Васиштхасане, нагрузку принимает опорная рука — кисть, плечо и передняя зубчатая мышца, но верхняя рука занята захватом за спиной и уже не помогает держать равновесие. Косые мышцы живота и ягодичные мышцы держат таз поднятым на одной стопе, а плечо свободной руки раскрывается, чтобы дотянуться до стопы за спиной.",
+      "en": "As in Vasisthasana, the supporting arm takes the load through the hand, shoulder and serratus anterior, but the top arm is busy with the bind and no longer helps you balance. Your obliques and glutes hold your hips up on a single foot, and the shoulder of the free arm opens to reach the foot behind your back."
     },
     "prep": [
       {
         "exerciseSlug": "pigeon-pose",
         "title": {
-          "ru": "Поза голубя",
-          "en": "Pigeon Pose prep"
+          "ru": "Поза голубя (подготовительная)",
+          "en": "Pigeon Pose Prep"
         },
         "body": {
           "ru": "Мягко готовит тазобедренный сустав к полулотосу.",
@@ -185,7 +185,7 @@
         "exerciseSlug": "side-plank-knee",
         "title": {
           "ru": "Боковая планка с опорой на колено",
-          "en": "Side plank on the knee"
+          "en": "Side Plank on the Knee"
         },
         "body": {
           "ru": "Попробуйте полулотос и захват с опорой на нижнее колено.",
@@ -196,11 +196,11 @@
         "exerciseSlug": "plank-shoulder-taps",
         "title": {
           "ru": "Касания плеч в планке",
-          "en": "Plank shoulder taps"
+          "en": "Plank Shoulder Taps"
         },
         "body": {
-          "ru": "Учат сохранять устойчивость на одной руке.",
-          "en": "Teach you to stay steady on one arm."
+          "ru": "Учат удерживать таз неподвижным, пока одна рука отрывается от пола, — как в момент захвата стопы.",
+          "en": "Teach you to keep your hips still while one hand leaves the floor, just as when you reach for the foot."
         }
       }
     ],
@@ -243,8 +243,8 @@
           "en": "The shoulder loses stability under your full body weight."
         },
         "fix": {
-          "ru": "Активно отталкивайте пол ладонью и отводите плечо от уха.",
-          "en": "Actively push the floor away and draw your shoulder away from your ear."
+          "ru": "Выпрямите опорную руку до конца, надавите основанием указательного пальца в пол и только после этого заводите руку за спину.",
+          "en": "Straighten the supporting arm fully, press the base of your index finger into the floor, and only then reach behind your back."
         }
       }
     ],
@@ -256,9 +256,7 @@
       "visvamitrasana"
     ],
     "related": [
-      "vasisthasana",
-      "vasisthasana-tree",
-      "visvamitrasana"
+      "tolasana"
     ],
     "video": {},
     "animationPhases": [

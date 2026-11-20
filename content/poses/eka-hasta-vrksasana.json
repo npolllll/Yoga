@@ -168,8 +168,8 @@
       {
         "exerciseSlug": "wall-walk",
         "title": {
-          "ru": "Перенос веса у стены",
-          "en": "Weight shifts at the wall"
+          "ru": "Подъём по стене и перенос веса",
+          "en": "Wall walk with weight shifts"
         },
         "body": {
           "ru": "В стойке грудью к стене переносите вес на одну руку, облегчая другую до кончиков пальцев.",
@@ -180,7 +180,7 @@
         "exerciseSlug": "plank-shoulder-taps",
         "title": {
           "ru": "Касания плеч в планке",
-          "en": "Plank shoulder taps"
+          "en": "Plank Shoulder Taps"
         },
         "body": {
           "ru": "Учат удерживать корпус на одной руке без вращения.",
@@ -191,7 +191,7 @@
         "exerciseSlug": "wrist-warmup",
         "title": {
           "ru": "Разминка запястий",
-          "en": "Wrist warm-up"
+          "en": "Wrist Warm-Up"
         },
         "body": {
           "ru": "Подготовьте запястья перед каждой тренировкой.",
@@ -225,7 +225,7 @@
         },
         "fix": {
           "ru": "Держите руку выпрямленной и тянитесь плечом вверх к уху.",
-          "en": "Keep the arm locked and push your shoulder up toward your ear."
+          "en": "Keep the arm fully straight and push your shoulder up toward your ear."
         }
       },
       {
@@ -249,9 +249,8 @@
     ],
     "harder": [],
     "related": [
-      "straddle-handstand",
-      "adho-mukha-vrksasana",
-      "tuck-press-to-handstand"
+      "tuck-press-to-handstand",
+      "handstand-scorpion"
     ],
     "video": {},
     "animationPhases": [

@@ -63,8 +63,8 @@
         "en": "Never force your legs into Lotus. Come out if you feel pain in your knees."
       },
       {
-        "ru": "При боли в запястьях, локтях или плечах прекратите попытку.",
-        "en": "Stop if you feel pain in your wrists, elbows or shoulders."
+        "ru": "Опора на прямые руки нагружает запястья сильнее, чем кажется: при боли в запястьях, локтях или плечах опустите таз и прекратите попытку.",
+        "en": "Straight-arm support loads your wrists more than it seems: if you feel pain in your wrists, elbows or shoulders, lower your hips and stop."
       },
       {
         "ru": "При травме коленей или бёдер, а также во время беременности сначала обсудите нагрузку со специалистом.",
@@ -123,12 +123,12 @@
       {
         "key": "c3df3af0-5f3d-4376-b1c3-dd27a7bff77a",
         "title": {
-          "ru": "Опуститесь и смените ноги",
-          "en": "Lower and switch"
+          "ru": "Опуститесь и смените ногу",
+          "en": "Lower and switch legs"
         },
         "body": {
-          "ru": "Мягко опустите таз на пол. Смените скрещивание ног и повторите на другую сторону.",
-          "en": "Gently lower your hips to the floor. Change the cross of your legs and repeat on the other side."
+          "ru": "Мягко опустите таз на пол. Выйдите из лотоса, сложите его с другой ноги и повторите.",
+          "en": "Gently lower your hips to the floor. Unfold the lotus, fold it again starting with the other leg, and repeat."
         },
         "keyframe": 4
       }
@@ -162,7 +162,7 @@
         "exerciseSlug": "tuck-lift-on-blocks",
         "title": {
           "ru": "Подъём в группировке на блоках",
-          "en": "Tuck lift on blocks"
+          "en": "Tuck Lift on Blocks"
         },
         "body": {
           "ru": "Учит отрывать таз от пола на прямых руках.",
@@ -173,7 +173,7 @@
         "exerciseSlug": "compression-leg-lifts",
         "title": {
           "ru": "Подъёмы ног сидя",
-          "en": "Seated leg lifts"
+          "en": "Seated Compression Leg Lifts"
         },
         "body": {
           "ru": "Развивают силу сгибателей бедра и живота для компактной группировки.",
@@ -183,8 +183,8 @@
       {
         "exerciseSlug": "pigeon-pose",
         "title": {
-          "ru": "Поза голубя",
-          "en": "Pigeon prep"
+          "ru": "Поза голубя (подготовительная)",
+          "en": "Pigeon Pose Prep"
         },
         "body": {
           "ru": "Мягко готовит тазобедренные суставы к лотосу. Двигайтесь без боли в коленях.",

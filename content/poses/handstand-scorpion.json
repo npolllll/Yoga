@@ -23,7 +23,7 @@
       "en": "Handstand Scorpion"
     },
     "subtitle": {
-      "ru": "Врищикасана II",
+      "ru": "Вришчикасана II",
       "en": "Vrschikasana II"
     },
     "sanskrit": "Vrschikasana II",
@@ -189,7 +189,7 @@
         "exerciseSlug": "wrist-warmup",
         "title": {
           "ru": "Разминка запястий",
-          "en": "Wrist warm-up"
+          "en": "Wrist Warm-Up"
         },
         "body": {
           "ru": "Перед каждым подходом подготовьте кисти к нагрузке и активной работе пальцев.",
@@ -200,8 +200,8 @@
     "mistakes": [
       {
         "title": {
-          "ru": "Прогиб только в пояснице",
-          "en": "Bending only in the lower back"
+          "ru": "Прогиб «ломается» в пояснице",
+          "en": "Arch collapsing into the lower back"
         },
         "why": {
           "ru": "Нагрузка сосредотачивается в одном отделе позвоночника, а грудь остаётся закрытой.",

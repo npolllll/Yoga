@@ -184,8 +184,8 @@
       {
         "exerciseSlug": "knee-chaturanga",
         "title": {
-          "ru": "Чатуранга с колен",
-          "en": "Knees-down Chaturanga"
+          "ru": "Опускание в чатурангу с колен",
+          "en": "Knees-Down Chaturanga"
         },
         "body": {
           "ru": "Укрепляет руки в положении «полочки», на которую ложатся ноги.",
@@ -195,8 +195,8 @@
       {
         "exerciseSlug": "crow-weight-shift",
         "title": {
-          "ru": "Перенос веса на ладони",
-          "en": "Weight shift onto the hands"
+          "ru": "Перенос веса в скрученном приседе",
+          "en": "Weight shift in a twisted squat"
         },
         "body": {
           "ru": "Из скрученного приседа подавайте плечи вперёд, оставляя носки на полу.",
@@ -257,9 +257,7 @@
       "side-crow-to-eka-pada-koundinyasana-1"
     ],
     "related": [
-      "bakasana",
-      "astavakrasana",
-      "side-crow-to-eka-pada-koundinyasana-1"
+      "astavakrasana"
     ],
     "video": {},
     "animationPhases": [

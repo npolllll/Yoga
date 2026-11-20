@@ -21,7 +21,7 @@
   "doc": {
     "name": {
       "ru": "Вишвамитрасана",
-      "en": "Pose Dedicated to Sage Visvamitra"
+      "en": "Pose Dedicated to the Sage Visvamitra"
     },
     "subtitle": {
       "ru": "Поза мудреца Вишвамитры",
@@ -39,7 +39,7 @@
       "en": "A balance on one hand and one foot: the front leg rests on the supporting upper arm and lifts up, the free hand holds its foot, and the back leg stays straight."
     },
     "about": {
-      "ru": "Классическая поза, описанная в книге Б. К. С. Айенгара Light on Yoga и посвящённая мудрецу Вишвамитре. Вы опираетесь на одну ладонь и стопу задней ноги, передняя нога лежит задней поверхностью бедра на верхней части опорной руки и выпрямляется вверх, а свободная рука держит её стопу. Поза требует очень гибкой задней поверхности бёдер, раскрытого таза, сильного плеча и умения держать вес на одной руке. Это сочетание делает её одной из сложных поз на одной руке, поэтому она относится к экспертному уровню.",
+      "ru": "Классическая поза, описанная в книге Б. К. С. Айенгара «Прояснение йоги» (Light on Yoga) и посвящённая мудрецу Вишвамитре. Вы опираетесь на одну ладонь и стопу задней ноги, передняя нога лежит задней поверхностью бедра на верхней части опорной руки и выпрямляется вверх, а свободная рука держит её стопу. Поза требует очень гибкой задней поверхности бёдер, раскрытого таза, сильного плеча и умения держать вес на одной руке. Это сочетание делает её одной из сложных поз на одной руке, поэтому она относится к экспертному уровню.",
       "en": "A classical pose described in B.K.S. Iyengar’s Light on Yoga and dedicated to the sage Visvamitra. You balance on one palm and the back foot; the back of the front thigh rests on the supporting upper arm and the leg straightens upward, while your free hand holds its foot. It requires very flexible hamstrings, open hips, a strong shoulder and the ability to carry weight on one arm. That combination makes it one of the demanding one-arm poses, which is why it is rated expert."
     },
     "prerequisites": [
@@ -169,8 +169,8 @@
       }
     ],
     "anatomy": {
-      "ru": "Кисть, плечо и передняя зубчатая мышца опорной руки держат вес тела. Мышцы задней поверхности бедра и приводящие мышцы поднятой ноги удлиняются, а косые мышцы живота помогают раскрыть грудь и удержать корпус в одной плоскости.",
-      "en": "The hand, shoulder and serratus anterior of the supporting arm carry your weight. The hamstrings and adductors of the lifted leg lengthen, while your obliques help open your chest and keep your torso in one plane."
+      "ru": "Опорная рука делит вес тела с задней стопой, а плечо и передняя зубчатая мышца не дают корпусу провалиться к полу. Задняя поверхность бедра и приводящие мышцы поднятой ноги удлиняются, а косые мышцы живота помогают раскрыть грудь и удержать корпус в одной плоскости.",
+      "en": "Your supporting arm shares the load with your back foot, while the shoulder and serratus anterior keep your torso from sinking toward the floor. The hamstrings and adductors of the lifted leg lengthen, while your obliques help open your chest and keep your torso in one plane."
     },
     "prep": [
       {
@@ -199,7 +199,7 @@
         "exerciseSlug": "side-plank-knee",
         "title": {
           "ru": "Боковая планка с опорой на колено",
-          "en": "Side plank on the knee"
+          "en": "Side Plank on the Knee"
         },
         "body": {
           "ru": "Готовит плечо к нагрузке на одну руку сбоку.",
@@ -258,9 +258,7 @@
     ],
     "harder": [],
     "related": [
-      "vasisthasana",
-      "kasyapasana",
-      "eka-hasta-bhujasana"
+      "eka-pada-koundinyasana-2"
     ],
     "video": {},
     "animationPhases": [

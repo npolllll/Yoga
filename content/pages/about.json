@@ -47,7 +47,7 @@
         },
         "body": {
           "ru": "Все позы показывает один и тот же стилизованный 3D-персонаж. Анимации создаются в Blender: для каждой асаны — короткий ролик около 10 секунд со входом в позу, удержанием и выходом, а также постер и ключевые кадры для пошаговой инструкции.\n\nЕдиный персонаж позволяет сравнивать позы между собой и не отвлекаться на внешность, одежду или фон. Анимация — учебная схема: она показывает форму позы, но не учитывает особенности вашего тела. Если на вашем устройстве включено уменьшение движения, анимация запускается только по нажатию и не повторяется.",
-          "en": "Every pose is shown by the same stylised 3D character. The animations are made in Blender: for each pose there is a short clip of about 10 seconds with the entry, the hold and the exit, plus a poster and keyframes for the step-by-step instructions.\n\nA single character makes it easy to compare poses and keeps the focus off appearance, clothing or background. An animation is a teaching diagram: it shows the shape of the pose but does not take your individual body into account. If reduced motion is turned on on your device, an animation starts only when you tap it and does not loop."
+          "en": "Every pose is shown by the same stylized 3D character. The animations are made in Blender: for each pose there is a short clip of about 10 seconds with the entry, the hold and the exit, plus a poster and keyframes for the step-by-step instructions.\n\nA single character makes it easy to compare poses and keeps the focus off appearance, clothing or background. An animation is a teaching diagram: it shows the shape of the pose but does not take your individual body into account. If reduced motion is turned on on your device, an animation starts only when you tap it and does not loop."
         }
       },
       {
@@ -56,8 +56,8 @@
           "en": "How content is reviewed"
         },
         "body": {
-          "ru": "Тексты карточек готовит редакция. Затем каждую карточку проверяет преподаватель, и только после его утверждения материал отмечается как проверенный. Пока проверки не было, на странице показывается предупреждение о том, что материал ещё не проверен преподавателем.\n\nМы не придумываем источники и не ссылаемся на неподтверждённые данные. Контакты для сообщений об ошибках и неточностях будут опубликованы на странице «Контакты».",
-          "en": "Card texts are prepared by the editors. Each card is then reviewed by a teacher, and only after the teacher approves it is the material marked as reviewed. Until that review has happened, the page shows a notice that the material has not yet been reviewed by a teacher.\n\nWe do not make up sources or cite unverified data. Contact details for reporting errors and inaccuracies will be published on the Contact page."
+          "ru": "Тексты карточек готовит редакция. Отметку о проверке карточка получает только после того, как её утвердит преподаватель-рецензент. Пока такого утверждения нет, на странице показывается предупреждение о том, что материал ещё не проверен преподавателем.\n\nМы не придумываем источники и не ссылаемся на неподтверждённые данные. Контакты для сообщений об ошибках и неточностях будут опубликованы на странице «Контакты».",
+          "en": "Card texts are prepared by the editors. A card is marked as reviewed only after a reviewing teacher approves it. Until then, the page shows a notice that the material has not yet been reviewed by a teacher.\n\nWe do not make up sources or cite unverified data. Contact details for reporting errors and inaccuracies will be published on the Contact page."
         }
       },
       {
@@ -66,8 +66,8 @@
           "en": "Video lessons"
         },
         "body": {
-          "ru": "Видеоуроки на страницах поз созданы сторонними авторами и принадлежат им. Ссылку на видео мы добавляем только после проверки: ролик доступен, показывает тот же вариант позы и подходит по языку. Если проверенного урока на вашем языке пока нет, страница прямо об этом сообщает.\n\nПлеер видео загружается только после того, как вы нажмёте на него.",
-          "en": "The video lessons on pose pages are made by third-party authors and belong to them. We add a link to a video only after checking it: the video is available, shows the same variation of the pose and matches the language. If there is no verified lesson in your language yet, the page says so plainly.\n\nThe video player loads only after you click it."
+          "ru": "Если на странице позы есть видеоурок, он создан сторонним автором и принадлежит ему. Ссылку на видео мы добавляем только после проверки: ролик доступен, показывает тот же вариант позы и подходит по языку. Если проверенного урока на вашем языке пока нет, страница прямо об этом сообщает.\n\nПлеер видео загружается только после того, как вы нажмёте на него.",
+          "en": "If a pose page has a video lesson, it was made by a third-party author and belongs to them. We add a link to a video only after checking it: the video is available, shows the same variation of the pose and matches the language. If there is no verified lesson in your language yet, the page says so plainly.\n\nThe video player loads only after you click it."
         }
       }
     ]

@@ -13,7 +13,7 @@
     },
     "description": {
       "ru": "Программа экспертного уровня собирает элементы, которые требуют высокой силы, гибкости и опыта в инверсиях: силовой выход в стойку на руках из группировки, переходы из вороны в стойку на голове и обратно, Стрекозу (Максиканагасану) и Скорпион на предплечьях. Это навыки с высоким риском травмы, поэтому программа начинается с отдельного урока о работе с квалифицированным тренером или преподавателем. Каждый целевой элемент опирается на позу продвинутого уровня, которую стоит освежить перед попытками. Программа помогает выстроить последовательность, но не заменяет личной оценки специалиста.",
-      "en": "An expert program that brings together elements demanding high strength, flexibility and experience upside down: a tuck press to handstand, transitions from Crow into Tripod Headstand and back, Dragonfly (Maksikanagasana) and Forearm Scorpion. These are high-risk skills, so the program opens with a dedicated lesson on working with a qualified coach or teacher. Each target element builds on an advanced pose that is worth refreshing before your attempts. The program helps you organise the sequence but does not replace an in-person assessment by a professional."
+      "en": "An expert program that brings together elements demanding high strength, flexibility and experience upside down: a tuck press to handstand, transitions from Crow into Tripod Headstand and back, Dragonfly (Maksikanagasana) and Forearm Scorpion. These are high-risk skills, so the program opens with a dedicated lesson on working with a qualified coach or teacher. Each target element builds on an advanced pose that is worth refreshing before your attempts. The program helps you organize the sequence but does not replace an in-person assessment by a professional."
     },
     "audience": {
       "ru": "Опытным практикам, которые уверенно выполняют позы продвинутого уровня — свободную стойку на руках, стойку на предплечьях, Каундиньясану I и переход из вороны в стойку на голове.",
@@ -44,11 +44,11 @@
     "goals": [
       {
         "ru": "Выстроить последовательную и бережную работу над силовым выходом в стойку на руках.",
-        "en": "Build careful, step-by-step work towards a tuck press to handstand."
+        "en": "Build careful, step-by-step work toward a tuck press to handstand."
       },
       {
         "ru": "Отработать контроль в переходах между стойкой на голове и вороной в обе стороны.",
-        "en": "Practise control in transitions between Tripod Headstand and Crow in both directions."
+        "en": "Practice control in transitions between Tripod Headstand and Crow in both directions."
       },
       {
         "ru": "Подготовить бёдра и корпус к Стрекозе, а плечи и спину — к Скорпиону на предплечьях.",
@@ -78,7 +78,7 @@
       },
       {
         "ru": "Работайте на мягком покрытии, со свободным пространством вокруг и заранее отработанным выходом из каждой позы.",
-        "en": "Practise on a soft surface with clear space around you and a rehearsed exit from every pose."
+        "en": "Practice on a soft surface with clear space around you and a rehearsed exit from every pose."
       }
     ],
     "steps": [
@@ -91,7 +91,7 @@
         },
         "body": {
           "ru": "Элементы этой программы — навыки с высоким риском. Силовые входы, переходы через стойку на голове, глубокие прогибы в инверсиях и сложные скручивания дают большую нагрузку на запястья, плечи, шею и поясницу, а ошибка в них может закончиться падением.\n\nЛучше всего осваивать их с квалифицированным тренером или преподавателем. Он может:\n\n- оценить, готовы ли вы к конкретному элементу;\n- подстраховать в момент, когда риск падения выше всего;\n- заметить ошибки выстраивания, которые трудно увидеть самостоятельно;\n- подобрать упрощения под ваше тело.\n\nКарточки BALANCE описывают технику и подготовку, но не видят, как двигаетесь именно вы. Используйте программу как карту последовательности, а не как замену личным занятиям.\n\nЕсли вы занимаетесь самостоятельно, ограничьтесь подготовительными шагами и вариантами у стены, не пробуйте свободные элементы без страховки и прекращайте практику при любой боли.",
-          "en": "The elements in this program are high-risk skills. Strength entries, transitions through a headstand, deep backbends upside down and complex twists put a heavy load on your wrists, shoulders, neck and lower back, and a mistake can end in a fall.\n\nThey are best learned with a qualified coach or teacher, who can:\n\n- assess whether you are ready for a specific element;\n- spot you at the moment when the risk of falling is highest;\n- notice alignment issues that are hard to see on your own;\n- choose modifications that suit your body.\n\nBALANCE cards describe technique and preparation, but they cannot see how you move. Use the program as a map of the sequence, not as a replacement for in-person sessions.\n\nIf you practise on your own, stick to the preparatory steps and wall-supported versions, don’t attempt freestanding elements without a spotter, and stop at any pain."
+          "en": "The elements in this program are high-risk skills. Strength entries, transitions through a headstand, deep backbends upside down and complex twists put a heavy load on your wrists, shoulders, neck and lower back, and a mistake can end in a fall.\n\nThey are best learned with a qualified coach or teacher, who can:\n\n- assess whether you are ready for a specific element;\n- spot you at the moment when the risk of falling is highest;\n- notice alignment issues that are hard to see on your own;\n- choose modifications that suit your body.\n\nBALANCE cards describe technique and preparation, but they cannot see how you move. Use the program as a map of the sequence, not as a replacement for in-person sessions.\n\nIf you practice on your own, stick to the preparatory steps and wall-supported versions, don’t attempt freestanding elements without a spotter, and stop at any pain."
         },
         "durationMin": 5
       },
@@ -114,7 +114,7 @@
         "exerciseSlug": "wrist-warmup",
         "title": {
           "ru": "Разминка запястий",
-          "en": "Wrist warm-up"
+          "en": "Wrist Warm-Up"
         },
         "body": {
           "ru": "На этом уровне разминка — обязательная часть каждого занятия. Уделите ей больше времени и добавьте упражнения на плечи и корпус из предыдущих программ.",
@@ -128,7 +128,7 @@
         "exerciseSlug": "tuck-lift-on-blocks",
         "title": {
           "ru": "Подъём в группировке на блоках",
-          "en": "Tuck lift on blocks"
+          "en": "Tuck Lift on Blocks"
         },
         "body": {
           "ru": "Знакомое упражнение с новой целью: поднимать таз выше плеч медленно, без толчка ногами. Это основа силового выхода в стойку.",
@@ -185,7 +185,7 @@
         },
         "body": {
           "ru": "Обратный переход требует сильного давления ладонями в пол, чтобы оторвать голову от коврика. Отрабатывайте его со страховкой и на мягком покрытии и опускайте колени на руки плавно.",
-          "en": "The reverse transition takes a strong press through your palms to lift your head off the mat. Practise it with a spotter on a soft surface, and lower your knees onto your arms smoothly."
+          "en": "The reverse transition takes a strong press through your palms to lift your head off the mat. Practice it with a spotter on a soft surface, and lower your knees onto your arms smoothly."
         }
       },
       {
@@ -194,7 +194,7 @@
         "exerciseSlug": "pigeon-pose",
         "title": {
           "ru": "Поза голубя (подготовительная)",
-          "en": "Pigeon pose prep"
+          "en": "Pigeon Pose Prep"
         },
         "body": {
           "ru": "Мягко раскрывает внешнюю сторону бедра — подвижность, нужная для положения ноги «четвёркой» в Стрекозе. Оставайтесь в комфортной амплитуде и следите за ощущениями в колене.",

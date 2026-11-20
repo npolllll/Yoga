@@ -66,8 +66,8 @@
         "en": "Place a cushion or block in front of your face and don’t kick up with the back leg."
       },
       {
-        "ru": "При боли в запястьях, локтях или плечах прекратите попытку.",
-        "en": "Stop if you feel pain in your wrists, elbows or shoulders."
+        "ru": "Удержание на согнутых руках нагружает локти и плечи, как в Чатуранге: при боли в них или в запястьях опустите стопу на коврик.",
+        "en": "Holding on bent arms loads your elbows and shoulders as Chaturanga does: if they or your wrists hurt, lower your foot to the mat."
       },
       {
         "ru": "При недавней травме колена, бедра или плеча сначала обсудите нагрузку со специалистом.",
@@ -176,8 +176,8 @@
       {
         "exerciseSlug": "pigeon-pose",
         "title": {
-          "ru": "Поза голубя",
-          "en": "Pigeon prep"
+          "ru": "Поза голубя (подготовительная)",
+          "en": "Pigeon Pose Prep"
         },
         "body": {
           "ru": "Раскрывает тазобедренный сустав для положения голени на плечах.",
@@ -187,8 +187,8 @@
       {
         "exerciseSlug": "knee-chaturanga",
         "title": {
-          "ru": "Чатуранга с колен",
-          "en": "Knees-down Chaturanga"
+          "ru": "Опускание в чатурангу с колен",
+          "en": "Knees-Down Chaturanga"
         },
         "body": {
           "ru": "Укрепляет руки для удержания согнутых локтей.",
@@ -242,8 +242,8 @@
           "en": "Kicking the back leg up"
         },
         "why": {
-          "ru": "Рывок перебрасывает вес вперёд быстрее, чем вы успеваете его контролировать.",
-          "en": "A kick throws your weight forward faster than you can control."
+          "ru": "Мах задней ногой резко смещает вес вперёд, и голень может соскользнуть с рук.",
+          "en": "Kicking the back leg up shifts your weight forward abruptly, and your shin can slide off your arms."
         },
         "fix": {
           "ru": "Сначала оторвите стопу с согнутым коленом, затем медленно выпрямите ногу.",
@@ -256,7 +256,8 @@
     ],
     "harder": [
       "eka-pada-bakasana",
-      "eka-pada-koundinyasana-2"
+      "eka-pada-koundinyasana-2",
+      "maksikanagasana"
     ],
     "related": [
       "chaturanga-dandasana",

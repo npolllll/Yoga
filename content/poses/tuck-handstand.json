@@ -44,8 +44,8 @@
     },
     "prerequisites": [
       {
-        "ru": "Уверенно держите стойку на руках у стены 30–60 секунд и умеете выходить из неё шагом вниз и колесом.",
-        "en": "You can hold a handstand at the wall for 30–60 seconds and come down by stepping or cartwheeling out."
+        "ru": "Стоите на руках у стены 30–60 секунд, а из группировки умеете мягко опускать стопы на коврик или выходить колесом.",
+        "en": "You can hold a wall handstand for 30–60 seconds, and from a tuck you can lower your feet softly to the mat or cartwheel out."
       },
       {
         "ru": "Подтягиваете колени к груди в упоре на прямых руках, например в подъёме в группировке на блоках.",
@@ -66,8 +66,8 @@
         "en": "Rehearse the exit: lower your feet from the tuck to the mat, and if you overbalance, cartwheel out to the side."
       },
       {
-        "ru": "Разомните запястья. При боли в запястьях, плечах или пояснице прекратите попытки.",
-        "en": "Warm up your wrists. Stop if you feel pain in your wrists, shoulders or lower back."
+        "ru": "Разомните запястья: наклон плеч вперёд нагружает их сильнее, чем прямая стойка. При боли в запястьях, плечах или пояснице прекратите попытки.",
+        "en": "Warm up your wrists: the forward shoulder lean loads them more than a straight handstand does. Stop if your wrists, shoulders or lower back hurt."
       },
       {
         "ru": "При повышенном давлении, глаукоме, беременности или недавней травме сначала обсудите перевёрнутые позы со специалистом.",
@@ -130,8 +130,8 @@
           "en": "Lower down"
         },
         "body": {
-          "ru": "Медленно опустите бёдра и мягко поставьте стопы на коврик в присед. При перевесе выйдите в сторону, как в колесе.",
-          "en": "Slowly lower your hips and land softly on your feet in a crouch. If you overbalance, cartwheel out to the side."
+          "ru": "Медленно опустите бёдра и мягко поставьте стопы на коврик в присед. Если таз уходит за плечи, переставьте одну ладонь в сторону и выйдите колесом.",
+          "en": "Slowly lower your hips and land softly on your feet in a crouch. If your hips travel past your shoulders, step one hand to the side and cartwheel out."
         },
         "keyframe": 4
       }
@@ -247,8 +247,7 @@
       "tuck-press-to-handstand"
     ],
     "related": [
-      "straddle-handstand",
-      "adho-mukha-vrksasana"
+      "straddle-handstand"
     ],
     "video": {},
     "animationPhases": [

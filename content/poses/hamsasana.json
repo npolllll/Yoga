@@ -94,8 +94,8 @@
           "en": "Elbows into your belly"
         },
         "body": {
-          "ru": "Согните локти и сведите предплечья вместе. Опустите живот на локти около пупка, а грудь — на заднюю сторону плеч.",
-          "en": "Bend your elbows and bring your forearms together. Rest your belly on your elbows near the navel and your chest on the backs of your upper arms."
+          "ru": "Согните локти и прижмите их друг к другу; с пальцами вперёд предплечья слегка наклоняются вперёд. Опустите живот на локти около пупка, а грудь — на заднюю сторону плеч.",
+          "en": "Bend your elbows and press them close together; with your fingers forward, your forearms tilt slightly forward. Rest your belly on your elbows near the navel and your chest on the backs of your upper arms."
         },
         "keyframe": 1
       },
@@ -106,8 +106,8 @@
           "en": "Extend your legs"
         },
         "body": {
-          "ru": "По очереди вытяните ноги назад и соедините их. Тело прямое, вес на ладонях и пальцах ног. Подтяните живот и напрягите ягодицы.",
-          "en": "Stretch your legs back one at a time and bring them together. Keep your body straight with your weight on your palms and toes. Draw in your belly and firm your glutes."
+          "ru": "Отведите стопы назад, пока ноги не выпрямятся, и соедините их, опираясь на носки: тело — прямая линия, вес на ладонях и пальцах ног. Подтяните живот и напрягите ягодицы.",
+          "en": "Step your feet back until your legs are straight and together, resting on your toes: your body forms a straight line, with your weight on your palms and toes. Draw in your belly and firm your glutes."
         },
         "keyframe": 1
       },
@@ -177,7 +177,7 @@
         "exerciseSlug": "wrist-warmup",
         "title": {
           "ru": "Разминка запястий",
-          "en": "Wrist warm-up"
+          "en": "Wrist Warm-Up"
         },
         "body": {
           "ru": "Подготовьте запястья к сильному разгибанию под весом тела.",

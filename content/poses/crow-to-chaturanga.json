@@ -68,8 +68,8 @@
         "en": "In Chaturanga, keep your shoulders from dropping below elbow height, as that overloads the front of your shoulders."
       },
       {
-        "ru": "При боли в запястьях, локтях или плечах прекратите. При недавней травме сначала обсудите нагрузку со специалистом.",
-        "en": "Stop if you feel pain in your wrists, elbows or shoulders. If you have a recent injury, discuss the load with a qualified healthcare professional first."
+        "ru": "Приземление в чатурангу нагружает запястья, локти и плечи: при боли в них прекратите попытки. Если вы недавно травмировали руки или плечи, сначала обсудите нагрузку со специалистом.",
+        "en": "Landing in Chaturanga loads your wrists, elbows and shoulders: stop if any of them hurt. If you have recently injured your arms or shoulders, discuss the load with a qualified healthcare professional first."
       }
     ],
     "steps": [
@@ -155,8 +155,8 @@
       }
     ],
     "anatomy": {
-      "ru": "Кисти и предплечья держат опору, пока вес смещается вперёд. Трицепсы, грудные и дельтовидные мышцы удерживают согнутые локти в чатуранге. Мышцы живота сохраняют корпус прямым, когда ноги уходят назад.",
-      "en": "Your hands and forearms hold the support while your weight moves forward. Your triceps, chest and deltoids keep your elbows bent in Chaturanga. Your abdominal muscles keep your torso straight as your legs travel back."
+      "ru": "Кисти и предплечья держат опору, пока вес смещается вперёд. В момент приземления трицепсы и грудные мышцы гасят движение, а дельтовидные мышцы фиксируют плечи на уровне локтей. Мышцы живота сохраняют корпус прямым, когда ноги уходят назад.",
+      "en": "Your hands and forearms hold the support while your weight moves forward. As you land, your triceps and chest absorb the movement while your deltoids hold your shoulders at elbow height. Your abdominal muscles keep your torso straight as your legs travel back."
     },
     "prep": [
       {
@@ -173,7 +173,7 @@
       {
         "exerciseSlug": "hollow-body-hold",
         "title": {
-          "ru": "«Лодочка» на спине",
+          "ru": "Удержание «лодочки» на спине",
           "en": "Hollow Body Hold"
         },
         "body": {
@@ -246,9 +246,8 @@
       "tripod-headstand-to-crow"
     ],
     "related": [
-      "jump-to-crow",
       "crow-to-tripod-headstand",
-      "chaturanga-dandasana"
+      "eka-pada-bakasana"
     ],
     "video": {},
     "animationPhases": [

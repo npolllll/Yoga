@@ -40,8 +40,8 @@
       "en": "A side plank in which the sole of the top foot presses into the inner thigh of the bottom leg and the knee opens up, as in Tree Pose."
     },
     "about": {
-      "ru": "Вариант Васиштхасаны с ногой в позе дерева. Вы держите тело на одной прямой руке и наружном ребре нижней стопы, а верхнюю ногу сгибаете, ставите стопу на внутреннюю сторону бедра нижней ноги и раскрываете колено к потолку. На полу остаётся только одна стопа, а раскрытое бедро смещает центр тяжести, поэтому баланс сложнее, чем в базовой боковой планке. Поза развивает контроль корпуса, раскрытие бёдер и координацию и относится к среднему уровню.",
-      "en": "A Vasisthasana variation with the leg in Tree Pose. You support your body on one straight arm and the outer edge of the bottom foot, then bend the top leg, place the sole on the inner thigh of the bottom leg and open the knee toward the ceiling. Only one foot stays on the floor and the open hip shifts your center of gravity, so the balance is harder than in the basic side plank. The pose builds core control, hip opening and coordination, and is rated intermediate."
+      "ru": "Вариант Васиштхасаны с ногой в позе дерева. Вы держите тело на одной прямой руке и наружном ребре нижней стопы, а верхнюю ногу сгибаете, ставите стопу на внутреннюю сторону бедра нижней ноги и раскрываете колено к потолку. Верхняя нога больше не лежит на нижней, а раскрытое бедро смещает центр тяжести, поэтому баланс сложнее, чем в базовой боковой планке. Поза развивает контроль корпуса, раскрытие бёдер и координацию и относится к среднему уровню.",
+      "en": "A Vasisthasana variation with the leg in Tree Pose. You support your body on one straight arm and the outer edge of the bottom foot, then bend the top leg, place the sole on the inner thigh of the bottom leg and open the knee toward the ceiling. The top leg no longer rests on the bottom one and the open hip shifts your center of gravity, so the balance is harder than in the basic side plank. The pose builds core control, hip opening and coordination, and is rated intermediate."
     },
     "prerequisites": [
       {
@@ -162,15 +162,15 @@
       }
     ],
     "anatomy": {
-      "ru": "Кисть, плечо и передняя зубчатая мышца опорной руки держат вес тела. Косые мышцы живота и ягодичные мышцы нижней ноги удерживают таз поднятым, а верхняя нога работает на раскрытие бедра и давление стопы в бедро.",
-      "en": "The hand, shoulder and serratus anterior of the supporting arm carry your weight. Your obliques and the glutes of the bottom leg keep your hips lifted, while the top leg works to open the hip and press the foot into the thigh."
+      "ru": "Опорное плечо работает как в Васиштхасане, но верхняя нога больше не лежит на нижней, и таз сильнее тянет вниз. Косые мышцы живота и ягодичные мышцы нижней ноги удерживают таз поднятым, а верхняя нога работает на раскрытие бедра и давление стопы в бедро.",
+      "en": "Your supporting shoulder works as in Vasisthasana, but the top leg no longer rests on the bottom one, so your hips pull down harder. Your obliques and the glutes of the bottom leg keep your hips lifted, while the top leg works to open the hip and press the foot into the thigh."
     },
     "prep": [
       {
         "exerciseSlug": "side-plank-knee",
         "title": {
           "ru": "Боковая планка с опорой на колено",
-          "en": "Side plank on the knee"
+          "en": "Side Plank on the Knee"
         },
         "body": {
           "ru": "Попробуйте ногу в позе дерева в боковой планке с опорой на колено.",
@@ -181,7 +181,7 @@
         "exerciseSlug": "plank-shoulder-taps",
         "title": {
           "ru": "Касания плеч в планке",
-          "en": "Plank shoulder taps"
+          "en": "Plank Shoulder Taps"
         },
         "body": {
           "ru": "Учат сохранять устойчивость на одной руке.",
@@ -191,8 +191,8 @@
       {
         "exerciseSlug": "pigeon-pose",
         "title": {
-          "ru": "Поза голубя",
-          "en": "Pigeon Pose prep"
+          "ru": "Поза голубя (подготовительная)",
+          "en": "Pigeon Pose Prep"
         },
         "body": {
           "ru": "Готовит тазобедренный сустав к раскрытию колена в сторону.",
@@ -221,8 +221,8 @@
           "en": "Hips sinking"
         },
         "why": {
-          "ru": "Без второй стопы на полу нагрузка уходит в плечо и поясницу.",
-          "en": "Without the second foot on the floor, the load shifts into your shoulder and lower back."
+          "ru": "Когда верхняя нога уходит в позу дерева, нижней стороне корпуса приходится держать таз в одиночку, и нагрузка смещается в плечо и поясницу.",
+          "en": "With the top leg in Tree, the underside of your body has to hold your hips up on its own, and the load slides into your shoulder and lower back."
         },
         "fix": {
           "ru": "Сильнее прижмите наружное ребро стопы к полу и поднимите таз.",
@@ -251,10 +251,7 @@
       "kasyapasana",
       "visvamitrasana"
     ],
-    "related": [
-      "vasisthasana",
-      "kasyapasana"
-    ],
+    "related": [],
     "video": {},
     "animationPhases": [
       {

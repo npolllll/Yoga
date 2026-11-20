@@ -47,8 +47,8 @@
     },
     "prerequisites": [
       {
-        "ru": "Вы под контролем опускаетесь в Чатурангу, удерживая локти над запястьями.",
-        "en": "You can lower into Chaturanga under control with your elbows over your wrists."
+        "ru": "Вы медленно опускаетесь из планки в Чатурангу и останавливаетесь, когда плечи на уровне локтей.",
+        "en": "You can lower slowly from plank into Chaturanga and stop with your shoulders level with your elbows."
       },
       {
         "ru": "В выпаде вы заводите плечо под переднее колено без боли в паху и пояснице.",
@@ -61,8 +61,8 @@
     ],
     "safety": [
       {
-        "ru": "Держите локти над запястьями и не опускайте плечи ниже локтей: так нагрузка на плечевые суставы остаётся умеренной.",
-        "en": "Keep your elbows over your wrists and your shoulders no lower than your elbows to keep the load on your shoulder joints moderate."
+        "ru": "Корпус здесь опускается почти до высоты Чатуранги, поэтому не проваливайтесь ниже: плечи на уровне локтей, локти над запястьями.",
+        "en": "Your torso comes down almost to Chaturanga height, so don’t sink lower: shoulders level with your elbows, elbows over your wrists."
       },
       {
         "ru": "Не выпрямляйте переднюю ногу через силу: тянущее ощущение под коленом должно оставаться умеренным.",
@@ -172,8 +172,8 @@
       }
     ],
     "anatomy": {
-      "ru": "Трицепсы, грудные мышцы и плечи удерживают корпус на согнутых руках. Мышцы живота и сгибатели бедра поднимают и выпрямляют переднюю ногу. Ягодичные мышцы удерживают заднюю ногу на уровне таза.",
-      "en": "Your triceps, chest and shoulders hold your torso on bent arms. Your abdominal muscles and hip flexors lift and straighten your front leg. Your glutes hold your back leg at hip height."
+      "ru": "Основную работу выполняют трицепсы и грудные мышцы: они держат корпус низко на согнутых руках, а передние дельтовидные мышцы стабилизируют плечи. Мышцы живота и сгибатели бедра поднимают и выпрямляют переднюю ногу, а ягодичные мышцы удерживают заднюю ногу на уровне таза.",
+      "en": "Your triceps and chest do most of the work, holding your torso low on bent arms while your front deltoids steady the shoulders. Your abdominal muscles and hip flexors lift and straighten the front leg, and your glutes hold the back leg at hip height."
     },
     "prep": [
       {
@@ -190,19 +190,19 @@
       {
         "exerciseSlug": "knee-chaturanga",
         "title": {
-          "ru": "Чатуранга с колен",
-          "en": "Knees-down Chaturanga"
+          "ru": "Опускание в чатурангу с колен",
+          "en": "Knees-Down Chaturanga"
         },
         "body": {
-          "ru": "Отрабатывайте положение локтей над запястьями при медленном опускании.",
-          "en": "Practise keeping your elbows over your wrists as you lower slowly."
+          "ru": "Опускайтесь медленно и задерживайтесь внизу на вдох: так руки привыкают держать корпус на высоте локтей.",
+          "en": "Lower slowly and pause at the bottom for a breath so your arms learn to hold your torso at elbow height."
         }
       },
       {
         "exerciseSlug": "forward-fold",
         "title": {
           "ru": "Наклон вперёд стоя",
-          "en": "Standing forward fold"
+          "en": "Standing Forward Fold"
         },
         "body": {
           "ru": "Готовит заднюю поверхность бёдер к выпрямлению передней ноги.",
@@ -228,7 +228,7 @@
       {
         "title": {
           "ru": "Плечи проваливаются ниже локтей",
-          "en": "Shoulders dropping below the elbows"
+          "en": "Shoulders sinking below elbow height"
         },
         "why": {
           "ru": "Нагрузка на плечевые суставы резко растёт.",

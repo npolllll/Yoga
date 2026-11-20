@@ -82,8 +82,8 @@
           "en": "Crouch and set your hands"
         },
         "body": {
-          "ru": "Присядьте на носки и поставьте ладони на ширине плеч перед стопами. Выпрямите руки, колени держите у груди.",
-          "en": "Crouch on your toes and place your palms shoulder-width apart in front of your feet. Straighten your arms and keep your knees at your chest."
+          "ru": "Присядьте на носки как можно ближе к ладоням: ладони на ширине плеч, руки прямые, колени у груди.",
+          "en": "Crouch on your toes as close to your hands as you can: palms shoulder-width apart, arms straight, knees at your chest."
         },
         "keyframe": 0
       },
@@ -142,8 +142,8 @@
           "en": "Come down"
         },
         "body": {
-          "ru": "Опустите на коврик одну ногу, затем вторую. При перевесе выйдите в сторону, как в колесе.",
-          "en": "Lower one leg to the mat, then the other. If you overbalance, cartwheel out to the side."
+          "ru": "Опустите на коврик одну ногу, затем вторую. Если вы прошли точку баланса, выйдите колесом в сторону — так, как отрабатывали у стены.",
+          "en": "Lower one leg to the mat, then the other. If you have gone past the balance point, cartwheel out to the side, using the exit you rehearsed at the wall."
         },
         "keyframe": 4
       }
@@ -238,7 +238,7 @@
       },
       {
         "title": {
-          "ru": "Ранее раскрытие ног",
+          "ru": "Слишком раннее раскрытие ног",
           "en": "Opening the legs too early"
         },
         "why": {

@@ -40,7 +40,7 @@
     },
     "about": {
       "ru": "Маюрасана — классический продвинутый баланс на руках. Ладони стоят на полу пальцами к стопам, предплечья почти вертикальны и сведены вместе, локти упираются в живот, а прямое тело удерживается над полом, как рычаг. Здесь показана классическая форма с прямыми сомкнутыми ногами. Поза требует сильных и подвижных запястий, сильных рук и плотной работы мышц спины и ягодиц, поэтому её относят к продвинутому уровню. Практикуйте её натощак.",
-      "en": "Mayurasana is a classical advanced arm balance. Your palms are on the floor with your fingers pointing toward your feet, your forearms are almost vertical and close together, your elbows press into your abdomen, and your straight body is held above the floor like a lever. This card shows the classical form with straight legs held together. The pose needs strong, mobile wrists, strong arms and firm work of the back and gluteal muscles, which is why it is rated advanced. Practise it on an empty stomach."
+      "en": "Mayurasana is a classical advanced arm balance. Your palms are on the floor with your fingers pointing toward your feet, your forearms are almost vertical and close together, your elbows press into your abdomen, and your straight body is held above the floor like a lever. This card shows the classical form with straight legs held together. The pose needs strong, mobile wrists, strong arms and firm work of the back and gluteal muscles, which is why it is rated advanced. Practice it on an empty stomach."
     },
     "prerequisites": [
       {
@@ -62,8 +62,8 @@
         "en": "Your wrists work in deep extension: warm them up well and stop if you feel pain."
       },
       {
-        "ru": "Локти давят на живот. Практикуйте натощак. При беременности, грыже или после операций на брюшной полости не выполняйте позу без одобрения специалиста.",
-        "en": "Your elbows press into your abdomen. Practise on an empty stomach. If you are pregnant, have a hernia or have had abdominal surgery, do not do this pose without a qualified professional's approval."
+        "ru": "Локти давят на живот, поэтому практикуйте натощак. При беременности, грыже или после операций на брюшной полости не выполняйте позу, не обсудив её со специалистом.",
+        "en": "Your elbows press into your abdomen, so practice on an empty stomach. If you are pregnant, have a hernia or have had abdominal surgery, do not do this pose before discussing it with a qualified healthcare professional."
       },
       {
         "ru": "Положите сложенное одеяло под лицо: при переносе веса вперёд можно потерять равновесие лицом вниз.",
@@ -187,8 +187,8 @@
       {
         "exerciseSlug": "knee-chaturanga",
         "title": {
-          "ru": "Чатуранга с колен",
-          "en": "Knees-down Chaturanga"
+          "ru": "Опускание в чатурангу с колен",
+          "en": "Knees-Down Chaturanga"
         },
         "body": {
           "ru": "Укрепляет руки и грудь в положении с согнутыми локтями.",

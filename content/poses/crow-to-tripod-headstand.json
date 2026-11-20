@@ -45,8 +45,8 @@
     },
     "prerequisites": [
       {
-        "ru": "Уверенно держите бакасану 20–30 секунд.",
-        "en": "You can hold Bakasana steadily for 20–30 seconds."
+        "ru": "Вы держите бакасану 20–30 секунд и можете в ней ещё сильнее согнуть локти, не теряя опоры коленей.",
+        "en": "You can hold Bakasana for 20–30 seconds and bend your elbows further in it without losing the knee support."
       },
       {
         "ru": "Уверенно выполняете стойку на голове с опорой на ладони и выходите из неё под контролем.",
@@ -188,8 +188,8 @@
       {
         "exerciseSlug": "crow-weight-shift",
         "title": {
-          "ru": "Перенос веса с носками на полу",
-          "en": "Weight shift with toes down"
+          "ru": "Перенос веса на ладони с носками на полу",
+          "en": "Weight Shift with Toes Down"
         },
         "body": {
           "ru": "Отработайте перенос веса вперёд и сгибание локтей назад под контролем.",
@@ -260,9 +260,9 @@
       "tripod-headstand-to-crow"
     ],
     "related": [
-      "tripod-headstand",
       "jump-to-crow",
-      "salamba-sirsasana"
+      "salamba-sirsasana",
+      "urdhva-kukkutasana"
     ],
     "video": {},
     "animationPhases": [

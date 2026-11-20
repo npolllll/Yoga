@@ -40,21 +40,21 @@
       "en": "A twisting bent-arm balance: both legs extend together to the side, resting on one upper arm, with the torso parallel to the floor."
     },
     "about": {
-      "ru": "Баланс на руках со скручиванием, посвящённый мудрецу Каундинье. Руки согнуты, как в Чатуранге, обе ноги вместе вытянуты в сторону, а наружная сторона нижнего бедра лежит на верхней части противоположной руки. По сути это Боковая ворона с выпрямленными ногами, и здесь показан вход именно из неё. Поза требует силы рук, глубокого скручивания, сильных мышц корпуса и умения удерживать вес прямых ног далеко от опоры, поэтому относится к продвинутому уровню.",
-      "en": "A twisting arm balance dedicated to the sage Koundinya. The arms bend as in Chaturanga, both legs extend together to the side, and the outer thigh of the lower leg rests on the opposite upper arm. It is essentially Side Crow with straight legs, and this card shows the entry from Side Crow. It takes arm strength, a deep twist, a strong core and the ability to hold the weight of straight legs far from your base, which is why it is rated advanced."
+      "ru": "Скрученный баланс на руках из группы поз, посвящённых мудрецу Каундинье; в этой форме обе ноги работают вместе. Руки согнуты, как в Чатуранге, обе ноги вместе вытянуты в сторону, а наружная сторона нижнего бедра лежит на верхней части противоположной руки. По сути это Боковая ворона с выпрямленными ногами, и здесь показан вход именно из неё. Поза требует силы рук, глубокого скручивания, сильных мышц корпуса и умения удерживать вес прямых ног далеко от опоры, поэтому относится к продвинутому уровню.",
+      "en": "A twisting arm balance from the family of poses dedicated to the sage Koundinya; in this form both legs work together. The arms bend as in Chaturanga, both legs extend together to the side, and the outer thigh of the lower leg rests on the opposite upper arm. It is essentially Side Crow with straight legs, and this card shows the entry from Side Crow. It takes arm strength, a deep twist, a strong core and the ability to hold the weight of straight legs far from your base, which is why it is rated advanced."
     },
     "prerequisites": [
       {
-        "ru": "Уверенно держите Боковую ворону 5 вдохов и выдохов на каждую сторону.",
-        "en": "You can hold Side Crow for five breaths on each side."
+        "ru": "В Боковой вороне вы подаёте грудь вперёд почти до горизонтали и удерживаете стопы на весу 5 вдохов на каждую сторону.",
+        "en": "In Side Crow, you can move your chest forward until it is almost level and keep your feet lifted for five breaths on each side."
       },
       {
         "ru": "В позе лодки удерживаете прямые ноги на весу 20–30 секунд.",
         "en": "You can hold straight legs off the floor in Boat Pose for 20–30 seconds."
       },
       {
-        "ru": "Опускаетесь в Чатурангу с контролем.",
-        "en": "You can lower into Chaturanga with control."
+        "ru": "Держите Чатурангу несколько вдохов, сохраняя локти согнутыми примерно под прямым углом.",
+        "en": "You can hold Chaturanga for a few breaths with your elbows bent at about a right angle."
       }
     ],
     "safety": [
@@ -63,8 +63,8 @@
         "en": "Place a cushion or folded blanket in front of your face and beside your hands."
       },
       {
-        "ru": "При боли в запястьях, локтях, плечах или спине прекратите попытку.",
-        "en": "Stop if you feel pain in your wrists, elbows, shoulders or back."
+        "ru": "Прямые ноги далеко от опоры заметно нагружают локти и плечи: при боли в них, в запястьях или спине согните колени и вернитесь в Боковую ворону.",
+        "en": "Straight legs held far from your base load your elbows and shoulders noticeably: if they, your wrists or your back hurt, bend your knees and return to Side Crow."
       },
       {
         "ru": "При беременности, травмах спины или после операций на животе сначала обсудите глубокие скручивания со специалистом.",
@@ -165,15 +165,15 @@
           "en": "Revolved Chair Pose"
         },
         "body": {
-          "ru": "Отрабатывает глубокое скручивание с рукой за бедром.",
-          "en": "Trains the deep twist with your arm outside the thigh."
+          "ru": "Учит скручиваться достаточно глубоко, чтобы бедро легло высоко на руку, — тогда прямым ногам есть на что опереться.",
+          "en": "Teaches you to twist deeply enough for your thigh to land high on your arm, which gives your straight legs something to rest on."
         }
       },
       {
         "exerciseSlug": "compression-leg-lifts",
         "title": {
           "ru": "Подъёмы ног сидя",
-          "en": "Seated compression leg lifts"
+          "en": "Seated Compression Leg Lifts"
         },
         "body": {
           "ru": "Укрепляют сгибатели бедра, которые держат прямые ноги на весу.",
@@ -183,8 +183,8 @@
       {
         "exerciseSlug": "knee-chaturanga",
         "title": {
-          "ru": "Чатуранга с колен",
-          "en": "Knees-down Chaturanga"
+          "ru": "Опускание в чатурангу с колен",
+          "en": "Knees-Down Chaturanga"
         },
         "body": {
           "ru": "Укрепляет руки в положении «полочки» с локтями над запястьями.",
@@ -217,8 +217,8 @@
           "en": "Your weight stays back and your legs drop to the floor."
         },
         "fix": {
-          "ru": "Сначала подайте грудь вперёд до горизонтали, затем выпрямляйте ноги.",
-          "en": "First move your chest forward until it is level, then straighten your legs."
+          "ru": "Подавайте грудь вперёд, пока стопы не начнут подниматься сами, и только потом выпрямляйте колени.",
+          "en": "Move your chest forward until your feet start to rise on their own, and only then straighten your knees."
         }
       },
       {

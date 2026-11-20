@@ -42,8 +42,8 @@
       "en": "A gentler shoulder stand: your palms support the pelvis, the torso inclines at about 45° and the straight legs angle over your face."
     },
     "about": {
-      "ru": "Мягкий вариант стойки на плечах. Ладони поддерживают таз, корпус наклонён примерно под 45° к полу, прямые ноги направлены над лицом, а стопы находятся примерно над глазами. Здесь показана именно эта форма с поддержкой таза; в некоторых школах похожую позу называют Випарита Карани. Корпус не выводится в вертикаль, поэтому шея сгибается меньше, чем в полной стойке на плечах. Поза учит переворачиваться, опираться на плечи и руки и удерживать ноги мышцами корпуса, поэтому её часто осваивают раньше полной стойки на плечах.",
-      "en": "A gentler version of the shoulder stand. Your palms support the pelvis, the torso inclines at about 45° to the floor, and the straight legs angle over your face with the feet roughly above your eyes. This card shows this pelvis-supported form; some schools call a similar shape Viparita Karani. Because the torso does not come fully upright, the neck bends less than in the full shoulder stand. The pose teaches you to turn upside down, bear weight on your shoulders and arms and hold your legs with your core, which is why it is often learned before the full shoulder stand."
+      "ru": "Полустойка на плечах — щадящий вариант Сарвангасаны и удобное знакомство с перевёрнутыми позами. Ладони поддерживают таз, корпус наклонён примерно под 45° к полу, прямые ноги направлены над лицом, а стопы находятся примерно над глазами. Здесь показана именно эта форма с поддержкой таза; в некоторых школах похожую позу называют Випарита Карани. Корпус не выводится в вертикаль, поэтому шея сгибается меньше, чем в полной стойке на плечах. Поза учит переворачиваться, опираться на плечи и руки и удерживать ноги мышцами корпуса, поэтому её часто осваивают раньше полной стойки на плечах.",
+      "en": "The Half Shoulder Stand is a gentler version of Sarvangasana and an approachable first inversion. Your palms support the pelvis, the torso inclines at about 45° to the floor, and the straight legs angle over your face with the feet roughly above your eyes. This card shows this pelvis-supported form; some schools call a similar shape Viparita Karani. Because the torso does not come fully upright, the neck bends less than in the full shoulder stand. The pose teaches you to turn upside down, bear weight on your shoulders and arms and hold your legs with your core, which is why it is often learned before the full shoulder stand."
     },
     "prerequisites": [
       {
@@ -73,8 +73,8 @@
         "en": "Learn the pose with a qualified teacher. Place two or three firmly folded blankets under your shoulders, with your head on the mat."
       },
       {
-        "ru": "Не поворачивайте голову в позе. При боли или давлении в шее, голове или глазах плавно выйдите из позы.",
-        "en": "Do not turn your head in the pose. If you feel pain or pressure in your neck, head or eyes, come out smoothly."
+        "ru": "Не поворачивайте голову в позе. Если появляется боль или давление в шее, голове или глазах, согните колени к лбу и опустите спину на коврик.",
+        "en": "Do not turn your head in the pose. If you feel pain or pressure in your neck, head or eyes, bend your knees toward your forehead and roll down to the mat."
       }
     ],
     "steps": [
@@ -85,8 +85,8 @@
           "en": "Set up the support"
         },
         "body": {
-          "ru": "Сложите 2–3 одеяла ровной стопкой. Лягте так, чтобы плечи были на одеялах, а голова — на коврике. Вытяните руки вдоль тела ладонями вниз.",
-          "en": "Stack two or three folded blankets evenly. Lie down with your shoulders on the blankets and your head on the mat. Rest your arms by your sides, palms down."
+          "ru": "Лягте на сложенные одеяла так, чтобы плечи были на стопке, а голова — на коврике. Вытяните руки вдоль тела ладонями вниз.",
+          "en": "Lie down on the folded blankets with your shoulders on the stack and your head on the mat. Rest your arms by your sides, palms down."
         },
         "keyframe": 0
       },
@@ -133,8 +133,8 @@
           "en": "Come down"
         },
         "body": {
-          "ru": "Согните колени к лбу, уберите ладони и медленно опустите спину на коврик позвонок за позвонком. Полежите несколько вдохов, прежде чем сесть.",
-          "en": "Bend your knees toward your forehead, release your hands and slowly roll your spine down to the mat. Rest for a few breaths before you sit up."
+          "ru": "Согните колени к лбу, уберите ладони и медленно опустите спину на коврик позвонок за позвонком. Прежде чем сесть, полежите на спине, пока дыхание не выровняется.",
+          "en": "Bend your knees toward your forehead, release your hands and slowly roll your spine down to the mat. Stay on your back until your breathing settles before you sit up."
         },
         "keyframe": 4
       }
@@ -164,7 +164,7 @@
       {
         "exerciseSlug": "bridge-pose",
         "title": {
-          "ru": "Мост на лопатках",
+          "ru": "Мостик на лопатках",
           "en": "Bridge Pose"
         },
         "body": {
@@ -176,7 +176,7 @@
         "exerciseSlug": "hollow-body-hold",
         "title": {
           "ru": "Удержание «лодочки» на спине",
-          "en": "Hollow body hold"
+          "en": "Hollow Body Hold"
         },
         "body": {
           "ru": "Укрепляет мышцы живота, которые удерживают ноги над корпусом.",
@@ -205,22 +205,22 @@
           "en": "Your arm support weakens and the weight shifts toward your neck."
         },
         "fix": {
-          "ru": "Сведите локти на ширину плеч. При необходимости наденьте ремень чуть выше локтей.",
-          "en": "Bring your elbows to shoulder width. If needed, loop a strap just above your elbows."
+          "ru": "Сведите локти на ширину плеч и поставьте ладони под заднюю поверхность таза, а не по бокам от него.",
+          "en": "Bring your elbows in to shoulder width and place your palms under the back of your pelvis rather than at its sides."
         }
       },
       {
         "title": {
-          "ru": "Повороты головы",
-          "en": "Turning your head"
+          "ru": "Поворот головы, чтобы осмотреться",
+          "en": "Turning your head to look around"
         },
         "why": {
           "ru": "Шея согнута и нагружена, поэтому поворот может её перегрузить.",
           "en": "Your neck is flexed and loaded, so turning it can strain it."
         },
         "fix": {
-          "ru": "Держите голову по центру и смотрите на стопы. Чтобы что-то поправить, сначала выйдите из позы.",
-          "en": "Keep your head centered and look toward your feet. To adjust anything, come out of the pose first."
+          "ru": "Держите голову по центру и смотрите на стопы. Если нужно что-то поправить, выйдите из позы и начните заново.",
+          "en": "Keep your head centered and look toward your feet. If you need to adjust something, come down and set up again."
         }
       },
       {

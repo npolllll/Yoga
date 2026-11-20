@@ -58,8 +58,8 @@
     ],
     "safety": [
       {
-        "ru": "Никогда не втягивайте ноги в лотос силой. При боли в колене сразу выйдите из позы.",
-        "en": "Never force your legs into lotus. Come out of the pose at once if you feel knee pain."
+        "ru": "Входите в позу только из свободного лотоса: продевание рук добавляет давление на колени. При боли в колене сразу выйдите из позы.",
+        "en": "Come into the pose only from a free lotus: threading your arms adds pressure on your knees. Come out at once if you feel knee pain."
       },
       {
         "ru": "Продевайте руки медленно, по одной. При онемении, покалывании или резком давлении в ногах освободите руки.",
@@ -67,7 +67,7 @@
       },
       {
         "ru": "Сядьте на сложенное одеяло. Осваивайте позу под присмотром преподавателя.",
-        "en": "Sit on a folded blanket. Learn the pose under a teacher's supervision."
+        "en": "Sit on a folded blanket. Learn the pose under a teacher’s supervision."
       },
       {
         "ru": "При травмах колен, лодыжек, запястий или локтей не выполняйте позу без согласования со специалистом.",
@@ -173,8 +173,8 @@
       {
         "exerciseSlug": "pigeon-pose",
         "title": {
-          "ru": "Подготовка тазобедренных суставов",
-          "en": "Hip preparation"
+          "ru": "Поза голубя (подготовительная)",
+          "en": "Pigeon Pose Prep"
         },
         "body": {
           "ru": "Постепенно развивайте наружное вращение бедра, которое нужно для лотоса. Не переносите нагрузку на колено.",
@@ -185,7 +185,7 @@
         "exerciseSlug": "tuck-lift-on-blocks",
         "title": {
           "ru": "Подъём в группировке на блоках",
-          "en": "Tuck lift on blocks"
+          "en": "Tuck Lift on Blocks"
         },
         "body": {
           "ru": "Учит поднимать таз от пола за счёт прямых рук и корпуса.",
@@ -196,7 +196,7 @@
         "exerciseSlug": "wrist-warmup",
         "title": {
           "ru": "Разминка запястий",
-          "en": "Wrist warm-up"
+          "en": "Wrist Warm-Up"
         },
         "body": {
           "ru": "Подготовьте кисти к нагрузке на прямых руках.",

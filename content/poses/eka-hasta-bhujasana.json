@@ -62,8 +62,8 @@
         "en": "Don’t pull your leg onto your arm by force; ease off if you feel a pulling pain behind your knee or in your groin."
       },
       {
-        "ru": "При боли в запястьях, локтях или плечах прекратите попытку.",
-        "en": "Stop if you feel pain in your wrists, elbows or shoulders."
+        "ru": "Если запястья, локти или плечи начинают болеть, опустите таз на пол и отложите следующие попытки на другой день.",
+        "en": "If your wrists, elbows or shoulders start to hurt, lower your hips to the floor and leave further attempts for another day."
       },
       {
         "ru": "При травме поясницы или задней поверхности бедра, а также во время беременности сначала обсудите нагрузку со специалистом.",
@@ -161,7 +161,7 @@
         "exerciseSlug": "tuck-lift-on-blocks",
         "title": {
           "ru": "Подъём в группировке на блоках",
-          "en": "Tuck lift on blocks"
+          "en": "Tuck Lift on Blocks"
         },
         "body": {
           "ru": "Отрабатывает отрыв таза от пола на прямых руках.",
@@ -172,7 +172,7 @@
         "exerciseSlug": "compression-leg-lifts",
         "title": {
           "ru": "Подъёмы ног сидя",
-          "en": "Seated leg lifts"
+          "en": "Seated Compression Leg Lifts"
         },
         "body": {
           "ru": "Укрепляют мышцы, которые держат прямую ногу над полом.",
@@ -183,7 +183,7 @@
         "exerciseSlug": "forward-fold",
         "title": {
           "ru": "Наклон вперёд стоя",
-          "en": "Standing forward fold"
+          "en": "Standing Forward Fold"
         },
         "body": {
           "ru": "Мягко готовит заднюю поверхность бёдер к положению ноги на плече.",
@@ -226,8 +226,8 @@
           "en": "Shoulders hunching up"
         },
         "why": {
-          "ru": "Корпус проседает между рук, и подъём не получается.",
-          "en": "Your torso sinks between your arms and the lift doesn’t happen."
+          "ru": "Плечи теряют опору, корпус оседает между руками, и таз остаётся на полу.",
+          "en": "Your shoulders lose their support, your torso settles between your arms and your hips stay on the floor."
         },
         "fix": {
           "ru": "Толкайте пол ладонями и опускайте плечи вниз.",

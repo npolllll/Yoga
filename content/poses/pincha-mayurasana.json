@@ -167,7 +167,7 @@
         "exerciseSlug": "dolphin-push-ups",
         "title": {
           "ru": "Отжимания в дельфине",
-          "en": "Dolphin push-ups"
+          "en": "Dolphin Push-Ups"
         },
         "body": {
           "ru": "Укрепляют плечи и учат выводить их над локтями.",
@@ -178,7 +178,7 @@
         "exerciseSlug": "forearm-plank",
         "title": {
           "ru": "Планка на предплечьях",
-          "en": "Forearm plank"
+          "en": "Forearm Plank"
         },
         "body": {
           "ru": "Укрепляет корпус и плечевой пояс в постановке на предплечьях.",
@@ -189,11 +189,11 @@
         "exerciseSlug": "handstand-kick-ups",
         "title": {
           "ru": "Махи в стойку у стены",
-          "en": "Kick-ups at the wall"
+          "en": "Handstand Kick-Ups at the Wall"
         },
         "body": {
-          "ru": "Отрабатывают мягкий контролируемый мах одной ногой и спокойное приземление.",
-          "en": "Practice a soft, controlled single-leg kick-up and a calm landing."
+          "ru": "Отработайте у стены мягкий контролируемый мах одной ногой и спокойное приземление; тот же принцип входа затем переносится на предплечья.",
+          "en": "Practice a soft, controlled single-leg kick-up and a calm landing at the wall; the same entry then carries over to your forearms."
         }
       }
     ],
@@ -208,8 +208,8 @@
           "en": "The base collapses and your shoulders sink."
         },
         "fix": {
-          "ru": "Поставьте блок между ладонями и наденьте ремень чуть выше локтей.",
-          "en": "Place a block between your hands and loop a strap just above your elbows."
+          "ru": "Перед подъёмом проверьте основание: зажмите блок между ладонями, а ширину локтей закрепите петлёй ремня над ними.",
+          "en": "Check your base before you kick up: hold a block between your hands and set your elbow width with a strap looped above the elbows."
         }
       },
       {

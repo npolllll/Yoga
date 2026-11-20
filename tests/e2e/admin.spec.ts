@@ -109,21 +109,30 @@ test.describe("administration", () => {
   }
 
   test("media upload into Supabase Storage with alt texts", async ({ page }) => {
-    await login(page, "editor@balance.local", SEED_PASSWORD, "ru", "/ru/admin");
-    await page.goto("/ru/admin/media");
-    // 1x1 PNG
-    const png = Buffer.from("iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=", "base64");
-    const form = page.locator('[data-testid=\"media-upload\"]:visible');
-    await form.locator('input[type="file"]').setInputFiles({ name: "e2e.png", mimeType: "image/png", buffer: png });
-    await form.locator('input[name="altRu"]').fill("Тест");
-    await form.locator('input[name="altEn"]').fill("Test");
-    await form.getByRole("button", { name: "Загрузить файл" }).click();
-    await expect(page.locator('[data-testid=\"admin-media\"]:visible').locator("img").first()).toBeVisible();
-    // Clean up: the uploaded object and its row (tests must not accumulate data).
     const admin = createClient(URL_, SECRET, { auth: { persistSession: false } });
-    const { data: rows } = await admin.from("media_assets").select("id, storage_path").like("storage_path", "uploads/%").eq("alt->>ru", "Тест");
-    expect(rows!.length).toBeGreaterThan(0);
-    await admin.storage.from("media").remove(rows!.map((r) => r.storage_path!));
-    await admin.from("media_assets").delete().in("id", rows!.map((r) => r.id));
+    const ours = () => admin.from("media_assets").select("id, storage_path").like("storage_path", "uploads/%").eq("alt->>ru", "Тест");
+    try {
+      await login(page, "editor@balance.local", SEED_PASSWORD, "ru", "/ru/admin");
+      await page.goto("/ru/admin/media");
+      // 1x1 PNG
+      const png = Buffer.from("iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=", "base64");
+      const form = page.locator('[data-testid="media-upload"]:visible');
+      await form.locator('input[type="file"]').setInputFiles({ name: "e2e.png", mimeType: "image/png", buffer: png });
+      await form.locator('input[name="altRu"]').fill("Тест");
+      await form.locator('input[name="altEn"]').fill("Test");
+      const before = (await ours()).data!.length;
+      await form.getByRole("button", { name: "Загрузить файл" }).click();
+      // The server action's own confirmation, then the new row in the database and in the list.
+      await expect(page.getByText("Сохранено").first()).toBeVisible();
+      expect((await ours()).data!.length).toBe(before + 1);
+      await expect(page.locator('[data-testid="admin-media"]:visible input[value="Тест"]').first()).toBeVisible();
+    } finally {
+      // Tests must not accumulate data: remove what this test uploaded (also after a failure).
+      const { data: rows } = await ours();
+      if (rows?.length) {
+        await admin.storage.from("media").remove(rows.map((r) => r.storage_path!));
+        await admin.from("media_assets").delete().in("id", rows.map((r) => r.id));
+      }
+    }
   });
 });

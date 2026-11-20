@@ -78,8 +78,8 @@
           "en": "Start in Downward Dog"
         },
         "body": {
-          "ru": "Встаньте в собаку мордой вниз. Ладони на ширине плеч, пальцы раскрыты и прижаты к коврику.",
-          "en": "Come into Downward-Facing Dog. Place your palms shoulder-width apart with your fingers spread and pressing into the mat."
+          "ru": "Встаньте в собаку мордой вниз и сделайте её чуть короче, переступив стопами ближе к ладоням. Ладони на ширине плеч, пальцы широко раскрыты.",
+          "en": "Come into Downward-Facing Dog and shorten it slightly by stepping your feet a little closer to your hands. Keep your palms shoulder-width apart and your fingers spread wide."
         },
         "keyframe": 0
       },
@@ -160,8 +160,8 @@
       {
         "exerciseSlug": "crow-weight-shift",
         "title": {
-          "ru": "Перенос веса с носками на полу",
-          "en": "Weight shift with toes down"
+          "ru": "Перенос веса на ладони с носками на полу",
+          "en": "Weight Shift with Toes Down"
         },
         "body": {
           "ru": "Привыкните к весу на ладонях, прежде чем добавлять прыжок.",
@@ -244,8 +244,8 @@
       "crow-to-tripod-headstand"
     ],
     "related": [
-      "bakasana",
-      "crow-to-chaturanga"
+      "eka-pada-bakasana",
+      "lolasana"
     ],
     "video": {},
     "animationPhases": [

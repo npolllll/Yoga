@@ -49,8 +49,8 @@
         "en": "You can sit on your heels without knee pain."
       },
       {
-        "ru": "Можете приподнять таз сидя, опираясь прямыми руками на блоки.",
-        "en": "You can lift your hips from sitting with straight arms on blocks."
+        "ru": "В подъёме в группировке на блоках отрываете от пола не только таз, но и стопы.",
+        "en": "In a tuck lift on blocks, you can lift not only your hips but also your feet."
       },
       {
         "ru": "Удерживаете «лодочку» на спине 30 секунд.",
@@ -67,8 +67,8 @@
         "en": "Stop if you feel pain in your wrists, shoulders or knees."
       },
       {
-        "ru": "При недавней травме или беременности сначала обсудите нагрузку со специалистом.",
-        "en": "If you’ve had a recent injury or are pregnant, discuss the load with a qualified healthcare professional first."
+        "ru": "При недавней травме коленей, запястий или плеч, а также при беременности сначала обсудите нагрузку со специалистом.",
+        "en": "If you have a recent knee, wrist or shoulder injury, or are pregnant, discuss the load with a qualified healthcare professional first."
       }
     ],
     "steps": [
@@ -162,7 +162,7 @@
         "exerciseSlug": "tuck-lift-on-blocks",
         "title": {
           "ru": "Подъём в группировке на блоках",
-          "en": "Tuck lift on blocks"
+          "en": "Tuck Lift on Blocks"
         },
         "body": {
           "ru": "Начните с отрыва таза, затем пробуйте подтянуть стопы.",
@@ -172,8 +172,8 @@
       {
         "exerciseSlug": "hollow-body-hold",
         "title": {
-          "ru": "«Лодочка» на спине",
-          "en": "Hollow body hold"
+          "ru": "Удержание «лодочки» на спине",
+          "en": "Hollow Body Hold"
         },
         "body": {
           "ru": "Учит округлять корпус и удерживать живот подтянутым.",
@@ -184,7 +184,7 @@
         "exerciseSlug": "compression-leg-lifts",
         "title": {
           "ru": "Подъёмы ног сидя",
-          "en": "Seated leg lifts"
+          "en": "Seated Compression Leg Lifts"
         },
         "body": {
           "ru": "Развивают силу, нужную, чтобы подтянуть ноги к груди.",

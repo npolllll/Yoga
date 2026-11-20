@@ -79,7 +79,7 @@
         },
         "body": {
           "ru": "Программа состоит из уроков, упражнений и асан. Уроки объясняют, как заниматься, упражнения готовят тело, а асаны — это сами балансы. Проходите шаги по порядку: каждый следующий опирается на предыдущий.\n\nОдно занятие не обязано охватывать всю программу. Удобная схема занятия:\n\n- начните с разминки запястий;\n- выберите 2–3 шага, над которыми работаете сейчас;\n- закончите спокойным упражнением и несколькими ровными вдохами.\n\nОтмечайте шаг выполненным, когда уверенно и без боли делаете его так, как описано. Статус асаны («В процессе», «Освоено») ведётся отдельно и не зависит от отметки шага. Чтобы прогресс сохранялся, нужен аккаунт; без него программу можно просто читать.\n\nВремя в шагах — примерная оценка, а не норматив. Если на один шаг уходит много занятий, это нормально.",
-          "en": "The program is made of lessons, exercises and poses. Lessons explain how to practise, exercises prepare your body, and poses are the balances themselves. Go through the steps in order: each one builds on the one before.\n\nA single session does not need to cover the whole program. A simple session structure:\n\n- start with the wrist warm-up;\n- pick 2–3 steps you are working on right now;\n- finish with a calm exercise and a few steady breaths.\n\nMark a step complete when you can do it as described, with confidence and without pain. The status of a pose (“In progress”, “Learned”) is tracked separately and does not depend on completing the step. To save your progress you need an account; without one you can still read the program.\n\nTimes shown in the steps are rough estimates, not targets. If one step takes many sessions, that is normal."
+          "en": "The program is made of lessons, exercises and poses. Lessons explain how to practice, exercises prepare your body, and poses are the balances themselves. Go through the steps in order: each one builds on the one before.\n\nA single session does not need to cover the whole program. A simple session structure:\n\n- start with the wrist warm-up;\n- pick 2–3 steps you are working on right now;\n- finish with a calm exercise and a few steady breaths.\n\nMark a step complete when you can do it as described, with confidence and without pain. The status of a pose (“In progress”, “Learned”) is tracked separately and does not depend on completing the step. To save your progress you need an account; without one you can still read the program.\n\nTimes shown in the steps are rough estimates, not targets. If one step takes many sessions, that is normal."
         },
         "durationMin": 5
       },
@@ -102,7 +102,7 @@
         "exerciseSlug": "wrist-warmup",
         "title": {
           "ru": "Разминка запястий",
-          "en": "Wrist warm-up"
+          "en": "Wrist Warm-Up"
         },
         "body": {
           "ru": "Начинайте с этого шага каждое занятие программы. Двигайтесь медленно и прислушивайтесь к запястьям: разминка подсказывает, какую нагрузку они готовы принять сегодня.",
@@ -130,11 +130,11 @@
         "exerciseSlug": "knee-chaturanga",
         "title": {
           "ru": "Опускание в чатурангу с колен",
-          "en": "Knees-down Chaturanga"
+          "en": "Knees-Down Chaturanga"
         },
         "body": {
           "ru": "Опора на колени позволяет отработать траекторию локтей до полной чатуранги. Опускайтесь медленно и держите локти вдоль корпуса.",
-          "en": "Keeping your knees down lets you practise the elbow path before the full Chaturanga. Lower slowly and keep your elbows along your sides."
+          "en": "Keeping your knees down lets you practice the elbow path before the full Chaturanga. Lower slowly and keep your elbows along your sides."
         },
         "durationMin": 5
       },
@@ -157,7 +157,7 @@
         "exerciseSlug": "side-plank-knee",
         "title": {
           "ru": "Боковая планка с опорой на колено",
-          "en": "Side plank on the knee"
+          "en": "Side Plank on the Knee"
         },
         "body": {
           "ru": "Готовит опорное плечо и косые мышцы живота к боковой планке. Выполняйте упражнение на обе стороны и следите, чтобы таз не проседал.",
@@ -184,7 +184,7 @@
         "exerciseSlug": "forearm-plank",
         "title": {
           "ru": "Планка на предплечьях",
-          "en": "Forearm plank"
+          "en": "Forearm Plank"
         },
         "body": {
           "ru": "Укрепляет корпус и плечи и даёт запястьям отдохнуть. Это подготовка к Дельфину и Вороне на предплечьях.",
@@ -210,8 +210,8 @@
         "kind": "exercise",
         "exerciseSlug": "crow-weight-shift",
         "title": {
-          "ru": "Перенос веса на ладони",
-          "en": "Weight shift with toes down"
+          "ru": "Перенос веса на ладони с носками на полу",
+          "en": "Weight Shift with Toes Down"
         },
         "body": {
           "ru": "Здесь вы ищете точку, в которой вес переходит на ладони, а носки остаются на полу. Не торопитесь поднимать стопы: этот шаг сам по себе — важная часть обучения.",
@@ -254,7 +254,7 @@
         },
         "body": {
           "ru": "Пройдите по программе ещё раз и честно оцените каждый шаг. Ориентиры того, что база устоялась:\n\n- планка и боковая планка держатся ровно, без провисания таза;\n- в чатуранге плечи не опускаются ниже локтей;\n- в Бакасане вы поднимаете стопы плавно, без прыжка, и спокойно опускаетесь обратно;\n- запястья и плечи после занятия чувствуют себя как обычно.\n\nЕсли какой-то пункт пока не получается, это не повод останавливаться: вернитесь к нужному шагу и повторите его. Переходите к программе среднего уровня, когда эти ориентиры выполняются стабильно, а не в отдельный удачный день.\n\nПродолжайте разминаться перед каждым занятием и оставляйте дни отдыха. Любимые позы можно сохранить в избранное, а занятия — записывать в историю практики, чтобы видеть, как меняется ваша практика.",
-          "en": "Go through the program once more and assess each step honestly. Signs that your foundation is in place:\n\n- plank and Side Plank stay straight, without sagging hips;\n- in Chaturanga your shoulders do not drop below your elbows;\n- in Crow you lift your feet smoothly, without a jump, and lower back down calmly;\n- your wrists and shoulders feel as usual after a session.\n\nIf something is not there yet, that is no reason to stop: go back to the relevant step and repeat it. Move on to the intermediate program when these signs hold up consistently, not just on one good day.\n\nKeep warming up before every session and keep your rest days. You can save favourite poses and log your sessions in Practice History to see how your practice changes over time."
+          "en": "Go through the program once more and assess each step honestly. Signs that your foundation is in place:\n\n- plank and Side Plank stay straight, without sagging hips;\n- in Chaturanga your shoulders do not drop below your elbows;\n- in Crow you lift your feet smoothly, without a jump, and lower back down calmly;\n- your wrists and shoulders feel as usual after a session.\n\nIf something is not there yet, that is no reason to stop: go back to the relevant step and repeat it. Move on to the intermediate program when these signs hold up consistently, not just on one good day.\n\nKeep warming up before every session and keep your rest days. You can save favorite poses and log your sessions in Practice History to see how your practice changes over time."
         },
         "durationMin": 5
       }

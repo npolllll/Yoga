@@ -52,8 +52,8 @@
         "en": "You are comfortable in Pigeon Pose or a reclined figure-four, without knee pain."
       },
       {
-        "ru": "Опускаетесь в Чатурангу с прямыми ногами и с контролем.",
-        "en": "You can lower into Chaturanga with straight legs and control."
+        "ru": "Уверенно выполняете Боковую ворону на обе стороны, и бедро лежит высоко на руке.",
+        "en": "You can do Side Crow on both sides with your thigh resting high on your arm."
       }
     ],
     "safety": [
@@ -78,8 +78,8 @@
           "en": "Stand in a figure-four"
         },
         "body": {
-          "ru": "Стоя на левой ноге, положите правую лодыжку на левое бедро чуть выше колена. Согните правую стопу на себя и согните левое колено, как в позе стула.",
-          "en": "Standing on your left leg, place your right ankle on your left thigh just above the knee. Flex your right foot and bend your left knee as in Chair Pose."
+          "ru": "Встаньте на левую ногу и положите правую лодыжку на левое бедро над коленом, как для Летающего голубя. Согните правую стопу на себя и согните левое колено, как в позе стула.",
+          "en": "Stand on your left leg and rest your right ankle on your left thigh above the knee, as for Flying Pigeon. Flex your right foot and bend your left knee as in Chair Pose."
         },
         "keyframe": 0
       },
@@ -165,15 +165,15 @@
       }
     ],
     "anatomy": {
-      "ru": "Трицепсы и грудные мышцы удерживают согнутые руки под весом тела. Косые мышцы живота держат скручивание, сгибатели бедра и мышцы бедра поднимают и выпрямляют вытянутую ногу, а ягодичные мышцы скрещенной ноги удлиняются в положении «четвёрки».",
-      "en": "Your triceps and chest hold the bent arms under your body weight. Your obliques hold the twist, your hip flexors and thigh muscles lift and straighten the extended leg, and the glutes of the crossed leg lengthen in the figure-four."
+      "ru": "Согнутые руки держат почти весь вес тела: трицепсы и грудные мышцы работают, как в Чатуранге. Косые мышцы живота держат скручивание, сгибатели бедра и мышцы бедра поднимают и выпрямляют вытянутую ногу, а ягодичные мышцы скрещенной ноги удлиняются в положении «четвёрки».",
+      "en": "Your bent arms carry almost all your body weight, with your triceps and chest working as in Chaturanga. Your obliques hold the twist, your hip flexors and thigh muscles lift and straighten the extended leg, and the glutes of the crossed leg lengthen in the figure-four."
     },
     "prep": [
       {
         "exerciseSlug": "pigeon-pose",
         "title": {
-          "ru": "Поза голубя",
-          "en": "Pigeon Pose prep"
+          "ru": "Поза голубя (подготовительная)",
+          "en": "Pigeon Pose Prep"
         },
         "body": {
           "ru": "Готовит тазобедренный сустав к положению «четвёрки».",
@@ -194,12 +194,12 @@
       {
         "exerciseSlug": "knee-chaturanga",
         "title": {
-          "ru": "Чатуранга с колен",
-          "en": "Knees-down Chaturanga"
+          "ru": "Опускание в чатурангу с колен",
+          "en": "Knees-Down Chaturanga"
         },
         "body": {
-          "ru": "Укрепляет руки в положении «полочки», на которой держатся ноги.",
-          "en": "Strengthens the bent-arm shelf that holds your legs."
+          "ru": "Отработайте медленное опускание с локтями, направленными назад: в Стрекозе на эту опору ложатся обе ноги.",
+          "en": "Practice lowering slowly with your elbows pointing back: in Dragonfly, both legs rest on this shelf."
         }
       }
     ],
@@ -242,8 +242,8 @@
           "en": "Your weight stays back and the foot drops to the floor again."
         },
         "fix": {
-          "ru": "Сначала подайте грудь вперёд до горизонтали, затем выпрямляйте ногу.",
-          "en": "First bring your chest forward until it is level, then straighten the leg."
+          "ru": "Не выпрямляйте левую ногу, пока стопа не оторвётся от пола сама: сначала подайте грудь вперёд, затем вытягивайте ногу в сторону.",
+          "en": "Don’t straighten your left leg until the foot leaves the floor on its own: move your chest forward first, then extend the leg to the side."
         }
       }
     ],
@@ -254,9 +254,8 @@
     ],
     "harder": [],
     "related": [
-      "eka-pada-galavasana",
-      "eka-pada-koundinyasana-1",
-      "dwi-pada-koundinyasana"
+      "dwi-pada-koundinyasana",
+      "side-crow-to-eka-pada-koundinyasana-1"
     ],
     "video": {},
     "animationPhases": [

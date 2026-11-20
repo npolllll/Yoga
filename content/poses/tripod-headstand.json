@@ -35,7 +35,7 @@
       "Sirsasana II",
       "Shirshasana II",
       "Tripod",
-      "Треугольник",
+      "Ширшасана с опорой на ладони",
       "Стойка на голове на трёх точках",
       "Sālamba Śīrṣāsana II"
     ],
@@ -44,13 +44,13 @@
       "en": "A headstand supported by the palms: the head and hands form a triangle, the forearms are vertical and the legs extend upward."
     },
     "about": {
-      "ru": "Стойка на голове, в которой макушка и ладони образуют на коврике треугольник. Локти согнуты под прямым углом над запястьями, корпус и ноги выстроены вертикально. В классификации Айенгара это Саламба Ширшасана II. Здесь показан вход через промежуточный этап с коленями на руках: так подъём остаётся медленным и управляемым. Поза относится к перевёрнутым и требует силы рук и плеч, контроля корпуса и бережного отношения к шее, поэтому её осваивают с преподавателем и у стены.",
-      "en": "A headstand in which the crown of the head and the palms form a triangle on the mat. The elbows bend at a right angle over the wrists, and the torso and legs line up vertically. In Iyengar’s system this is Salamba Sirsasana II. This card shows an entry through an intermediate stage with the knees resting on the arms, which keeps the lift slow and controlled. It is an inversion that calls for arm and shoulder strength, core control and care for the neck, which is why it is learned with a teacher and at a wall."
+      "ru": "Стойка на голове, в которой макушка и ладони образуют на коврике треугольник. Локти согнуты под прямым углом над запястьями, корпус и ноги выстроены вертикально. В классификации Айенгара это Саламба Ширшасана II. Здесь показан вход через промежуточный этап с коленями на руках: так подъём остаётся медленным и управляемым. Это перевёрнутая поза: ей нужны сильные руки и плечи, контроль корпуса и бережное отношение к шее, поэтому первые попытки делают у стены и, по возможности, под присмотром преподавателя.",
+      "en": "A headstand in which the crown of the head and the palms form a triangle on the mat. The elbows bend at a right angle over the wrists, and the torso and legs line up vertically. In Iyengar’s system this is Salamba Sirsasana II. This card shows an entry through an intermediate stage with the knees resting on the arms, which keeps the lift slow and controlled. As an inversion, it needs strong arms and shoulders, core control and care for the neck, so make your first attempts at a wall and, if you can, under a teacher’s supervision."
     },
     "prerequisites": [
       {
-        "ru": "Уверенно держите Дельфина 30–60 секунд, не опуская плечи к коврику.",
-        "en": "You can hold Dolphin Pose for 30–60 seconds without your shoulders sinking toward the mat."
+        "ru": "Держите планку 30–60 секунд и опускаетесь в чатурангу с колен, держа локти над запястьями: руки в этой стойке работают так же.",
+        "en": "You can hold a plank for 30–60 seconds and lower into a knees-down Chaturanga with your elbows over your wrists, the same arm position this headstand uses."
       },
       {
         "ru": "Держите Бакасану несколько вдохов: это помогает освоить опору коленями на руки.",
@@ -147,8 +147,8 @@
           "en": "Come down"
         },
         "body": {
-          "ru": "Согните колени и медленно опустите их на руки или сразу на коврик. Отдохните в позе ребёнка несколько вдохов, прежде чем поднять голову.",
-          "en": "Bend your knees and slowly lower them to your arms or straight to the mat. Rest in Child’s Pose for a few breaths before you lift your head."
+          "ru": "Согните колени и медленно опустите их на руки, а затем стопы — на коврик. Побудьте в позе ребёнка, пока ощущения в голове не выровняются, и только потом поднимайтесь.",
+          "en": "Bend your knees and slowly lower them onto your arms, then your feet to the mat. Stay in Child’s Pose until your head feels settled before you come up."
         },
         "keyframe": 4
       }
@@ -174,15 +174,15 @@
       }
     ],
     "anatomy": {
-      "ru": "Трицепсы, плечевой пояс и кисти держат опору и не дают весу проваливаться в голову. Мышцы живота и сгибатели бедра поднимают ноги медленно, без маха. Мышцы шеи удерживают голову в нейтральном положении.",
-      "en": "Your triceps, shoulder girdle and hands hold the base and keep your weight from sinking into your head. Your abdominal muscles and hip flexors lift your legs slowly, without a swing. Your neck muscles keep your head in a neutral position."
+      "ru": "Трицепсы, плечевой пояс и кисти держат опору и не дают весу проваливаться в голову. Мышцы живота и сгибатели бедра поднимают ноги медленно, без маха. Мышцы шеи лишь удерживают голову ровно и не должны принимать основной вес.",
+      "en": "Your triceps, shoulder girdle and hands hold the base and keep your weight from sinking into your head. Your abdominal muscles and hip flexors lift your legs slowly, without a swing. Your neck muscles only keep your head aligned; they are not meant to carry the main load."
     },
     "prep": [
       {
         "exerciseSlug": "headstand-prep",
         "title": {
           "ru": "Подготовка к стойке на голове",
-          "en": "Headstand preparation"
+          "en": "Headstand Preparation"
         },
         "body": {
           "ru": "Отработайте исходное положение и подъём таза, не отрывая стоп от коврика.",
@@ -193,7 +193,7 @@
         "exerciseSlug": "knee-chaturanga",
         "title": {
           "ru": "Опускание в чатурангу с колен",
-          "en": "Knees-down Chaturanga"
+          "en": "Knees-Down Chaturanga"
         },
         "body": {
           "ru": "Укрепляет трицепсы и учит держать локти над запястьями под прямым углом.",
@@ -246,8 +246,8 @@
           "en": "Kicking up"
         },
         "why": {
-          "ru": "Рывок нагружает шею и может перебросить вас через спину.",
-          "en": "The jolt loads your neck and can tip you over onto your back."
+          "ru": "Мах забрасывает таз за плечи, резко нагружает шею и может перебросить вас через спину.",
+          "en": "A kick throws your hips past your shoulders, jolts your neck and can tip you over onto your back."
         },
         "fix": {
           "ru": "Подходите стопами, пока таз не окажется над плечами, и поднимайтесь через этап с коленями на руках.",

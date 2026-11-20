@@ -41,7 +41,7 @@
     },
     "about": {
       "ru": "Эка Пада Бакасана — продвинутый вариант Бакасаны. Одно колено лежит высоко на верхней части руки, вторая нога вытянута назад примерно на уровне таза, локти согнуты. Здесь показана форма с вытянутой назад ногой и входом из Бакасаны; название «летящая ворона» иногда используют и для Эка Пада Галавасаны. Вытянутая нога смещает центр тяжести назад, а на руки опирается только одно колено, поэтому позе нужны уверенная Бакасана, сильные руки и контроль корпуса.",
-      "en": "Eka Pada Bakasana is an advanced variation of Bakasana. One knee rests high on your upper arm, the other leg extends back at about hip height, and your elbows are bent. This card shows the leg-back form entered from Bakasana; the name Flying Crow is sometimes also used for Eka Pada Galavasana. The extended leg moves your centre of gravity back and leaves only one knee on the arms, so the pose needs a confident Bakasana, strong arms and core control."
+      "en": "Eka Pada Bakasana is an advanced variation of Bakasana. One knee rests high on your upper arm, the other leg extends back at about hip height, and your elbows are bent. This card shows the leg-back form entered from Bakasana; the name Flying Crow is sometimes also used for Eka Pada Galavasana. The extended leg moves your center of gravity back and leaves only one knee on the arms, so the pose needs a confident Bakasana, strong arms and core control."
     },
     "prerequisites": [
       {
@@ -63,12 +63,12 @@
         "en": "Place a cushion or folded blanket in front of your hands: your weight moves further forward than in Bakasana."
       },
       {
-        "ru": "Вытягивайте ногу медленно, без маха. При боли в запястьях, локтях или плечах прекратите попытку.",
-        "en": "Extend the leg slowly, without a kick. Stop if you feel pain in your wrists, elbows or shoulders."
+        "ru": "Вытягивайте ногу медленно, без маха. При боли в запястьях, локтях или плечах верните колено на руку и опустите стопы.",
+        "en": "Extend the leg slowly, without a kick. If you feel pain in your wrists, elbows or shoulders, bring the knee back onto your arm and lower your feet."
       },
       {
-        "ru": "При недавней травме сначала обсудите нагрузку со специалистом.",
-        "en": "If you have had a recent injury, discuss the load with a qualified professional first."
+        "ru": "При недавней травме запястий, плеч или поясницы сначала обсудите нагрузку со специалистом.",
+        "en": "If you have a recent wrist, shoulder or lower-back injury, discuss the load with a qualified healthcare professional first."
       }
     ],
     "steps": [
@@ -79,8 +79,8 @@
           "en": "Set your hands"
         },
         "body": {
-          "ru": "Сядьте в присед и поставьте ладони на ширине плеч. Раскройте пальцы и прижмите ладони к коврику.",
-          "en": "Squat and place your palms shoulder-width apart. Spread your fingers and press your palms into the mat."
+          "ru": "Из приседа поставьте ладони на ширине плеч и широко раскройте пальцы. Прижмите к коврику основания указательных пальцев: в этой позе вес уходит вперёд сильнее, чем в Бакасане.",
+          "en": "From a squat, place your palms shoulder-width apart and spread your fingers wide. Press the base of your index fingers into the mat: in this pose your weight travels further forward than in Bakasana."
         },
         "keyframe": 0
       },
@@ -173,8 +173,8 @@
       {
         "exerciseSlug": "crow-weight-shift",
         "title": {
-          "ru": "Перенос веса с носками на полу",
-          "en": "Weight shift with toes down"
+          "ru": "Перенос веса на ладони с носками на полу",
+          "en": "Weight Shift with Toes Down"
         },
         "body": {
           "ru": "Найдите положение, в котором стопы становятся лёгкими.",
@@ -196,7 +196,7 @@
         "exerciseSlug": "hollow-body-hold",
         "title": {
           "ru": "Удержание «лодочки» на спине",
-          "en": "Hollow body hold"
+          "en": "Hollow Body Hold"
         },
         "body": {
           "ru": "Учит сохранять корпус собранным, пока ноги работают по отдельности.",
@@ -211,8 +211,8 @@
           "en": "Kicking the leg back"
         },
         "why": {
-          "ru": "Резкое движение сбивает баланс и бросает вес вперёд.",
-          "en": "A sharp movement breaks the balance and throws your weight forward."
+          "ru": "Мах ногой бросает вес вперёд, и опорное колено соскальзывает с руки.",
+          "en": "A kick throws your weight forward and the supporting knee slides off your arm."
         },
         "fix": {
           "ru": "Сначала снимите колено с руки, затем выпрямляйте ногу медленно.",

@@ -52,8 +52,8 @@
         "en": "In a wide-legged standing forward fold with straight legs, you can rest your palms on the mat comfortably."
       },
       {
-        "ru": "Держите «лодочку» на спине 30 секунд с прижатой к коврику поясницей.",
-        "en": "You can hold a hollow body hold for 30 seconds with your lower back on the mat."
+        "ru": "Удерживаете «лодочку» на спине 30 секунд: это та же собранная форма корпуса, которая нужна, когда ноги раскрываются.",
+        "en": "You can hold a hollow body hold for 30 seconds — the same engaged torso you need as your legs open."
       }
     ],
     "safety": [
@@ -118,8 +118,8 @@
           "en": "Hold the line"
         },
         "body": {
-          "ru": "Бёдра остаются над плечами, плечи тянутся к ушам, рёбра втянуты. Смотрите между ладонями, дышите ровно и корректируйте баланс пальцами.",
-          "en": "Keep your hips over your shoulders, your shoulders reaching toward your ears and your ribs drawn in. Look between your hands, breathe steadily and adjust with your fingers."
+          "ru": "Бёдра остаются над плечами, плечи тянутся к ушам, рёбра втянуты. Взгляд — между ладонями; небольшие колебания гасите пальцами, а не движением ног.",
+          "en": "Keep your hips over your shoulders, your shoulders reaching toward your ears and your ribs drawn in. Look between your hands and absorb small wobbles with your fingers rather than by moving your legs."
         },
         "keyframe": 3
       },
@@ -130,8 +130,8 @@
           "en": "Come down"
         },
         "body": {
-          "ru": "Соедините ноги, затем опустите на коврик одну стопу и вторую. При перевесе выйдите в сторону, как в колесе.",
-          "en": "Bring your legs together, then lower one foot to the mat and then the other. If you overbalance, cartwheel out to the side."
+          "ru": "Соедините ноги и опустите на коврик сначала одну стопу, затем вторую. Если начинает переносить через голову, ноги можно не сводить: из широкой стойки удобно сразу выйти колесом в сторону.",
+          "en": "Bring your legs together, then lower one foot to the mat and then the other. If you start to tip over, there is no need to join your legs first: from a straddle you can cartwheel straight out to the side."
         },
         "keyframe": 4
       }
@@ -186,7 +186,7 @@
       {
         "exerciseSlug": "hollow-body-hold",
         "title": {
-          "ru": "«Лодочка» на спине",
+          "ru": "Удержание «лодочки» на спине",
           "en": "Hollow Body Hold"
         },
         "body": {

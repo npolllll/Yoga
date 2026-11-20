@@ -87,8 +87,8 @@
           "en": "Third-party videos"
         },
         "body": {
-          "ru": "Видеоуроки размещены на сторонних сервисах, например на YouTube. Плеер такого сервиса не загружается, пока вы не нажмёте на видео, поэтому до нажатия сервис не получает данных о вашем посещении.\n\nПосле нажатия видео загружается с серверов стороннего сервиса, и с этого момента действуют его собственные правила конфиденциальности.",
-          "en": "Video lessons are hosted on third-party services such as YouTube. The service’s player does not load until you click the video, so until then the service receives no data about your visit.\n\nOnce you click, the video loads from the third-party service’s servers, and from that point its own privacy policy applies."
+          "ru": "Видеоуроки, если они есть на странице позы, размещены на сторонних сервисах, например на YouTube. Плеер такого сервиса не загружается, пока вы не нажмёте на видео, поэтому до нажатия сервис не получает данных о вашем посещении.\n\nПосле нажатия видео загружается с серверов стороннего сервиса, и с этого момента действуют его собственные правила конфиденциальности.",
+          "en": "Video lessons, where a pose page has one, are hosted on third-party services such as YouTube. The service’s player does not load until you click the video, so until then the service receives no data about your visit.\n\nOnce you click, the video loads from the third-party service’s servers, and from that point its own privacy policy applies."
         }
       },
       {

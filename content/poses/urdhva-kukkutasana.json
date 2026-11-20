@@ -71,7 +71,7 @@
       },
       {
         "ru": "Освободите место вокруг, положите одеяло под голову и практикуйте под присмотром преподавателя или со страховкой.",
-        "en": "Clear the space around you, place a blanket under your head and practise under a teacher's supervision or with a spotter."
+        "en": "Clear the space around you, place a blanket under your head and practice under a teacher’s supervision or with a spotter."
       },
       {
         "ru": "При травмах шеи, колен или запястий, повышенном давлении, глаукоме или беременности обсудите перевёрнутые позы со специалистом.",
@@ -173,15 +173,15 @@
       }
     ],
     "anatomy": {
-      "ru": "Кисти, плечи и трицепсы удерживают вес тела на прямых руках. Передняя зубчатая мышца и мышцы живота округляют спину и поднимают таз. Мышцы шеи стабилизируют голову в фазе стойки на голове, а для лотоса нужны свободные тазобедренные суставы.",
-      "en": "Your hands, shoulders and triceps carry your body weight on straight arms. Your serratus anterior and abdominal muscles round your back and lift your pelvis. Your neck muscles stabilise your head in the headstand phase, and the lotus needs open hips."
+      "ru": "Плечи и трицепсы удерживают тело на прямых руках, а кисти гасят колебания, когда голова отрывается от пола. Передняя зубчатая мышца и мышцы живота округляют спину и поднимают таз. Мышцы шеи стабилизируют голову в фазе стойки на голове, а для лотоса нужны свободные тазобедренные суставы.",
+      "en": "Your shoulders and triceps hold you up on straight arms, while your hands absorb the wobble as your head leaves the floor. Your serratus anterior and abdominal muscles round your back and lift your pelvis. Your neck muscles stabilize your head in the headstand phase, and the lotus needs open hips."
     },
     "prep": [
       {
         "exerciseSlug": "headstand-prep",
         "title": {
           "ru": "Подготовка к стойке на голове",
-          "en": "Headstand preparation"
+          "en": "Headstand Preparation"
         },
         "body": {
           "ru": "Укрепляйте опору на ладони и руки, чтобы не перегружать шею.",
@@ -191,8 +191,8 @@
       {
         "exerciseSlug": "pigeon-pose",
         "title": {
-          "ru": "Подготовка тазобедренных суставов",
-          "en": "Hip preparation"
+          "ru": "Поза голубя (подготовительная)",
+          "en": "Pigeon Pose Prep"
         },
         "body": {
           "ru": "Развивайте наружное вращение бедра, чтобы лотос складывался без помощи рук и без давления на колени.",
@@ -203,7 +203,7 @@
         "exerciseSlug": "tuck-lift-on-blocks",
         "title": {
           "ru": "Подъём в группировке на блоках",
-          "en": "Tuck lift on blocks"
+          "en": "Tuck Lift on Blocks"
         },
         "body": {
           "ru": "Развивает силу прямых рук и сжатие корпуса для компактного баланса.",

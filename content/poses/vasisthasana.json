@@ -172,7 +172,7 @@
         "exerciseSlug": "side-plank-knee",
         "title": {
           "ru": "Боковая планка с опорой на колено",
-          "en": "Side plank on the knee"
+          "en": "Side Plank on the Knee"
         },
         "body": {
           "ru": "Освойте положение плеча и таза с меньшей нагрузкой.",
@@ -194,7 +194,7 @@
         "exerciseSlug": "wrist-warmup",
         "title": {
           "ru": "Разминка запястий",
-          "en": "Wrist warm-up"
+          "en": "Wrist Warm-Up"
         },
         "body": {
           "ru": "Подготовьте запястье опорной руки к нагрузке.",
@@ -254,7 +254,7 @@
     ],
     "related": [
       "chaturanga-dandasana",
-      "vasisthasana-tree"
+      "parsva-bakasana"
     ],
     "video": {},
     "animationPhases": [

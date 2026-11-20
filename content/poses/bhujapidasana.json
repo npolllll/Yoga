@@ -53,8 +53,8 @@
         "en": "You can sit comfortably in a deep squat and tuck a shoulder behind your knee."
       },
       {
-        "ru": "Держите планку 30 секунд без боли в запястьях.",
-        "en": "You can hold a plank for 30 seconds without wrist pain."
+        "ru": "В Маласане вы ставите ладони на пол между стопами и переносите на них часть веса без боли в запястьях.",
+        "en": "In Malasana, you can place your palms on the floor between your feet and shift some of your weight onto them without wrist pain."
       }
     ],
     "safety": [
@@ -67,8 +67,8 @@
         "en": "Stop if you feel pain in your wrists, elbows, shoulders or knees."
       },
       {
-        "ru": "При недавней травме сначала обсудите нагрузку со специалистом.",
-        "en": "If you’ve had a recent injury, discuss the load with a qualified healthcare professional first."
+        "ru": "При недавней травме запястий, плеч, коленей или тазобедренных суставов сначала обсудите нагрузку со специалистом.",
+        "en": "If you have a recent wrist, shoulder, knee or hip injury, discuss the load with a qualified healthcare professional first."
       }
     ],
     "steps": [
@@ -79,8 +79,8 @@
           "en": "Set your stance"
         },
         "body": {
-          "ru": "Встаньте, расставив стопы чуть шире таза. Согните колени и наклонитесь вперёд, опустив корпус между бёдрами.",
-          "en": "Stand with your feet slightly wider than hip-width. Bend your knees and fold forward, lowering your torso between your thighs."
+          "ru": "Встаньте, расставив стопы чуть шире таза. Глубоко согните колени и сложитесь вперёд так, чтобы плечи оказались ниже коленей.",
+          "en": "Stand with your feet slightly wider than hip-width. Bend your knees deeply and fold forward until your shoulders are below your knees."
         },
         "keyframe": 0
       },
@@ -173,7 +173,7 @@
         "exerciseSlug": "compression-leg-lifts",
         "title": {
           "ru": "Подъёмы ног сидя",
-          "en": "Seated compression leg lifts"
+          "en": "Seated Compression Leg Lifts"
         },
         "body": {
           "ru": "Укрепляют сгибатели бедра и мышцы живота, которые поднимают стопы.",
@@ -184,7 +184,7 @@
         "exerciseSlug": "wrist-warmup",
         "title": {
           "ru": "Разминка запястий",
-          "en": "Wrist warm-up"
+          "en": "Wrist Warm-Up"
         },
         "body": {
           "ru": "Готовит кисти к нагрузке весом тела.",
