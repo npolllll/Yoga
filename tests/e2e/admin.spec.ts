@@ -119,5 +119,11 @@ test.describe("administration", () => {
     await form.locator('input[name="altEn"]').fill("Test");
     await form.getByRole("button", { name: "Загрузить файл" }).click();
     await expect(page.locator('[data-testid=\"admin-media\"]:visible').locator("img").first()).toBeVisible();
+    // Clean up: the uploaded object and its row (tests must not accumulate data).
+    const admin = createClient(URL_, SECRET, { auth: { persistSession: false } });
+    const { data: rows } = await admin.from("media_assets").select("id, storage_path").like("storage_path", "uploads/%").eq("alt->>ru", "Тест");
+    expect(rows!.length).toBeGreaterThan(0);
+    await admin.storage.from("media").remove(rows!.map((r) => r.storage_path!));
+    await admin.from("media_assets").delete().in("id", rows!.map((r) => r.id));
   });
 });

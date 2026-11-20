@@ -1,6 +1,6 @@
 "use server";
 
-import { revalidateTag, updateTag } from "next/cache";
+import { updateTag } from "next/cache";
 import { z } from "zod";
 import { createSessionClient } from "@/lib/supabase/server";
 import { DOC_SCHEMAS, type DocType, SlugSchema } from "@/lib/content/schema";
@@ -10,6 +10,7 @@ import { issuesFor } from "@/lib/content/issues";
 import { TAGS } from "@/lib/data/public";
 import type { Json, Database } from "@/lib/supabase/database.types";
 import { invalidateContentIndex } from "@/lib/content-index";
+import { EXTENSION, sniffMediaType } from "@/lib/media-sniff";
 
 type JsonValue = NonNullable<Json>;
 type MediaUpdate = Database["public"]["Tables"]["media_assets"]["Update"];
@@ -274,7 +275,7 @@ export async function setUserRole(email: string, role: "reviewer" | "editor" | "
 // ----------------------------------------------------------------------------------------------
 // Media library
 // ----------------------------------------------------------------------------------------------
-const ALLOWED = ["image/png", "image/jpeg", "image/webp", "image/avif", "video/mp4", "video/webm"];
+const ALLOWED: string[] = ["image/png", "image/jpeg", "image/webp", "image/avif", "video/mp4", "video/webm"];
 
 export async function uploadMedia(form: FormData): Promise<Ok<{ id: string; url: string }> | Fail> {
   const { supabase, userId, allowed } = await staff();
@@ -283,13 +284,14 @@ export async function uploadMedia(form: FormData): Promise<Ok<{ id: string; url:
   const documentId = (form.get("documentId") as string) || null;
   const kind = String(form.get("kind") || "image");
   if (!(file instanceof File) || file.size === 0) return { ok: false, error: "no_file" };
-  if (!ALLOWED.includes(file.type)) return { ok: false, error: "type" };
   if (file.size > 50 * 1024 * 1024) return { ok: false, error: "too_large" };
   if (!["animation", "poster", "keyframe", "card", "image", "illustration"].includes(kind)) return { ok: false, error: "invalid" };
-  const ext = file.name.split(".").pop()?.toLowerCase().replace(/[^a-z0-9]/g, "") || "bin";
-  const path = `uploads/${new Date().toISOString().slice(0, 7)}/${crypto.randomUUID()}.${ext}`;
   const bytes = new Uint8Array(await file.arrayBuffer());
-  const up = await supabase.storage.from("media").upload(path, bytes, { contentType: file.type, upsert: false });
+  // Trust the file's bytes, not the declared MIME type or the file name.
+  const type = sniffMediaType(bytes);
+  if (!type || !ALLOWED.includes(type)) return { ok: false, error: "type" };
+  const path = `uploads/${new Date().toISOString().slice(0, 7)}/${crypto.randomUUID()}.${EXTENSION[type]}`;
+  const up = await supabase.storage.from("media").upload(path, bytes, { contentType: type, upsert: false });
   if (up.error) return { ok: false, error: up.error.message };
   const { data: pub } = supabase.storage.from("media").getPublicUrl(path);
   const digest = Buffer.from(await crypto.subtle.digest("SHA-256", bytes)).toString("hex");
@@ -300,7 +302,7 @@ export async function uploadMedia(form: FormData): Promise<Ok<{ id: string; url:
       kind,
       url: pub.publicUrl,
       storage_path: path,
-      mime: file.type,
+      mime: type,
       bytes: file.size,
       sha256: digest,
       alt: { ru: String(form.get("altRu") || ""), en: String(form.get("altEn") || "") },
@@ -312,7 +314,7 @@ export async function uploadMedia(form: FormData): Promise<Ok<{ id: string; url:
     .select("id")
     .single();
   if (error) return { ok: false, error: error.message };
-  revalidateTag(TAGS.media, "max");
+  updateTag(TAGS.media);
   return { ok: true, id: data.id, url: pub.publicUrl };
 }
 
